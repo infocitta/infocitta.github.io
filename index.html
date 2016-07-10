@@ -2,59 +2,108 @@
 <html ng-app="myApp">
 
 <head>
-  <link data-require="bootstrap-css@3.1.1" data-semver="3.1.1" rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
-  <script data-require="angular.js@1.3.0" data-semver="1.3.0" src="https://code.angularjs.org/1.3.0/angular.js"></script>
-  <script data-require="jquery@*" data-semver="2.0.3" src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
-  <script data-require="bootstrap@3.1.1" data-semver="3.1.1" src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:url" content="http://www.infocitta.info" />
+<meta property="og:type" content="website" /><meta property="og:title" content="InfoCittà" />
+<meta property="og:description" content="Tutte le informazioni della tua cittÃ  sempre a portata di mano" />
+<meta property="og:image" content="http://www.ipersoft.it/infocitta/logo.png" />
+<meta name="keywords" content="infocitta,informazioni" />
+<meta name="description" content="Le informazioni della tua città  in un unico posto" />
+<link rel="shortcut icon" href="logo_notext.png" type="image/png" />
+<link rel="icon" href="logo_notext.png" type="image/png" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link data-require="bootstrap-css@3.1.1" data-semver="3.1.1" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+  <script type="text/javascript" src="//cdn.jsdelivr.net/cookie-bar/1/cookiebar-latest.min.js?tracking=1&thirdparty=1&top=1"></script>		
+  <script data-require="angular.js@1.3.0" data-semver="1.3.0" src="//code.angularjs.org/1.3.0/angular.js"></script>
+  <script data-require="jquery@*" data-semver="2.0.3" src="//code.jquery.com/jquery-2.0.3.min.js"></script>
+  <script data-require="bootstrap@3.1.1" data-semver="3.1.1" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="style.css" />
   <script src="script.js"></script>
   <script src="dirPagination.js"></script>
+<title>InfoCittà</title>  
 </head>
 
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8">
-        <div ng-controller="MyController" class="my-controller">
-          <h1>Tasty Paginated Menu</h1>
+    <div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.5&appId=591996370950973";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="container">
 
-          <small>this is in "MyController"</small>
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
 
+                        <a class="navbar-brand" href="#">InfoCittà</a>
+                    </div>
 
-          <div class="row">
-            <div class="col-xs-4">
-              <h3>Meals Page: {{ currentPage }}</h3>
-            </div>
-            <div class="col-xs-4">
-              <label for="search">Search:</label>
-              <input ng-model="q" id="search" class="form-control" placeholder="Filter text">
-            </div>
-            <div class="col-xs-4">
-              <label for="search">items per page:</label>
-              <input type="number" min="1" max="100" class="form-control" ng-model="pageSize">
-            </div>
-          </div>
-          <br>
-          <div class="panel panel-default">
-            <div class="panel-body">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Home</a></li>
 
-              <ul>
-                <li dir-paginate="meal in meals | filter:q | itemsPerPage: pageSize" current-page="currentPage">{{ meal }}</li>
-                
-              </ul>
+                        
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                       
+                    </ul>
+
+                </div>
+            </nav>
+            <div class="page-header" style="margin-top: 5px;margin-bottom: 5px;">
+                <img class="img-responsive" src="logo_small.png" style="float: left;height:80px;width:80px;vertical-align: text-top;"/>
+           <h1>InfoCittà</h1>
+                <p>Le informazioni della tua città  in un unico posto</p>
+                  <div class="fb-like" data-href="http://infocitta.info" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
             </div>
-          </div>
         </div>
 
+
+<div class="container">
+
+
+        <div ng-controller="MyController" class="my-controller">
+          <div class="row">
+            <div class="col-xs-4">
+              <label for="search">Ricerca:</label>
+              <input ng-model="q" id="search" class="form-control" placeholder="Testo ricerca">
+            </div>
+
+          </div>
+          <br>
+
+<div class="list-group">
+
+<a dir-paginate="item in items | orderBy:'Value' | filter:q | itemsPerPage: pageSize" current-page="currentPage"  href="{{ item.Alias }}\" class="list-group-item"><span><strong>{{ item.Value }}</strong></span></a>
+
+</div>
+		  
+
+  
+
+
         <div ng-controller="OtherController" class="other-controller">
-          <small>this is in "OtherController"</small>
           <div class="text-center">
           <dir-pagination-controls boundary-links="true" on-page-change="pageChangeHandler(newPageNumber)" template-url="dirPagination.tpl.html"></dir-pagination-controls>
           </div>
         </div>
       </div>
-    </div>
-  </div>
+   
+ 
+</div>  
+<div class="container">  
+        <div class="panel panel-danger">
+      <div class="panel-heading">Clausola di responsabilità</div>
+      <div class="panel-body">Qualora dovessero essere segnalati degli errori, si provvederà a correggerli.
+Non sempre le informazioni inserite sono necessariamente esaurienti, complete, precise o aggiornate.
+Non si assume alcuna responsabilità per quanto riguarda le informazioni contenute nel sito.
+Non si assume alcuna responsabilità per gli eventuali problemi derivanti dall'utilizzazione dei dati inseriti del presente sito.
+Inoltrate le vostre richieste sulla <a href="https://www.facebook.com/infocitta">Pagina Facebook InfoCittà</a></div>
+</div>
+</div>  
+  
 </body>
 
 </html>
