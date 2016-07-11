@@ -8,7 +8,7 @@ function MyController($scope, $http) {
   $scope.pageSize = 20;
   $scope.items = [];
 
- $http.get("https://raw.githubusercontent.com/infocitta/dataset/master/livello1.json")
+ $http.get("https://raw.githubusercontent.com/infocitta/dataset/master/level1.json")
     .then(function(response) {
         $scope.items = response.data;
     });
