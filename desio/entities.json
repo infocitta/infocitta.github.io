@@ -1,0 +1,235 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "97f44b30-c706-4534-9329-24248bfcd692",
+    "Name": "PICCOLE CANAGLIE",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA MARTIRI DI FOSSOLI 23 DESIO",
+        "Latitude": "45,615800",
+        "Longitude": "9,212350"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "30aa6c94-582f-413b-b3c0-36814804ca97",
+    "Name": "Asilo Nido Comunale - Via Adamello",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Sede",
+        "Value": "Via Adamello - 20832 Desio (MB)",
+        "Note": "",
+        "Latitude": "45,609991",
+        "Longitude": "9,207419"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "1d9a1913-3421-4e6a-9c0c-37da353fc380",
+    "Name": "IL NIDO DELLA CICOGNA",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BRENNERO ANGOLO VIA TARRA DESIO",
+        "Note": "",
+        "Latitude": "45,625251",
+        "Longitude": "9,207382"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bd611481-6689-4707-a471-40092a2a9afc",
+    "Name": "ASILO NIDO COMUNALE VIA DIAZ",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DIAZ 7 DESIO",
+        "Note": "",
+        "Latitude": "45,619109",
+        "Longitude": "9,204760"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f09554bd-723f-429d-93ab-49baae348c92",
+    "Name": "PICCOLI SEGRETI",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CADORE 10 DESIO",
+        "Note": "",
+        "Latitude": "45,608893",
+        "Longitude": "9,202987"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
+    "Name": "IL PAESE DELLE MERAVIGLIE",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "CORSO ITALIA 149 DESIO",
+        "Note": "",
+        "Latitude": "45,622835",
+        "Longitude": "9,208356"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a",
+    "Name": "ASILO NIDO COMUNALE VIA ADAMELLO",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ADAMELLO DESIO",
+        "Note": "",
+        "Latitude": "45,609328",
+        "Longitude": "9,203835"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "31cf85d2-bfe2-4248-b20e-cdbffd687730",
+    "Name": "SCUOLA MATERNA PARITARIA S. TERESA",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAN PIETRO 16 DESIO",
+        "Note": "",
+        "Latitude": "45,618542",
+        "Longitude": "9,210565"
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32",
+    "Name": "LA VISPA TERESA",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CANONICA VILLA 26/28 DESIO",
+        "Note": "",
+        "Latitude": "45,614128",
+        "Longitude": "9,207836"
+      }
+    ]
+  }
+]
