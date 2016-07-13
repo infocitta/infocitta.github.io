@@ -32,7 +32,7 @@
 </head>
 
 <body>
-	<ng-map center="[40.74, -74.18]"></ng-map>
+
     <div id="fb-root"></div>
 <script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
@@ -75,7 +75,7 @@
 
         <div ng-controller="MyController" class="my-controller">
         	
- 
+ <ng-map center="[40.74, -74.18]">
  <marker ng-repeat="item in items | orderBy:'Name'" 
       position="{{item.Adresses[0].Latitude}},{{item.Adresses[0].Longitude}}" title="{{item.Name}}">
     </marker>  	
