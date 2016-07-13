@@ -67,30 +67,7 @@
 
 
         <div ng-controller="MyController" class="my-controller">
-          <div class="row">
-            <div class="col-xs-4">
-              <label for="search">Ricerca:</label>
-              <input ng-model="q" id="search" class="form-control" placeholder="Testo ricerca">
-            </div>
-
-          </div>
-          <br>
-
-<div class="list-group">
-
-<a dir-paginate="item in items | orderBy:'Name' | filter:q | itemsPerPage: pageSize" current-page="currentPage"  href="{{ item.ID }}\" class="list-group-item"><span><strong>{{ item.Name }}</strong></span></a>
-
-</div>
-		  
-
-  
-
-
-        <div ng-controller="OtherController" class="other-controller">
-          <div class="text-center">
-          <dir-pagination-controls boundary-links="true" on-page-change="pageChangeHandler(newPageNumber)" template-url="../../dirPagination.tpl.html"></dir-pagination-controls>
-          </div>
-        </div>
+	{{ entity.Name }}
       </div>
    
  
