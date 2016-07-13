@@ -1,6 +1,6 @@
 // Code goes here
 
-var myApp = angular.module('ngMap', ['angularUtils.directives.dirPagination']);
+var myApp = angular.module('MyApp', ['angularUtils.directives.dirPagination','ngMap']);
 
 function MyController($scope, $http) {
 
