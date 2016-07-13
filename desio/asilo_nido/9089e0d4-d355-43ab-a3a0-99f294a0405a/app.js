@@ -6,11 +6,11 @@ function MyController($scope, $http) {
 
   $scope.currentPage = 1;
   $scope.pageSize = 20;
-  $scope.items = [];
+ 
 
  $http.get("entity.json")
     .then(function(response) {
-        $scope.items = response.data;
+        $scope.entity = response.data;
     });
 	
 	
