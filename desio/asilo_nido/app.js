@@ -6,7 +6,7 @@ function MyController($scope, $http) {
 
 
   $scope.currentPage = 1;
-  $scope.pageSize = 20;
+  $scope.pageSize = 5;
   $scope.items = [];
 
  $http.get("entities.json")
