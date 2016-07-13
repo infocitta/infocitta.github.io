@@ -2,7 +2,7 @@
 
 var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination']);
 
-function MyController($scope, $http,NgMap) {
+function MyController($scope, $http) {
 
 
   $scope.currentPage = 1;
