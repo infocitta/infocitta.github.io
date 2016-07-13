@@ -75,7 +75,7 @@
 
         <div ng-controller="MyController" class="my-controller">
         	
- <ng-map style="height: 450px;" center="45.619764, 9.201842" zoom-to-include-markers="auto">
+ <ng-map style="height: 450px;" center="45.619764, 9.201842" zoom-to-include-markers="auto" scrollwheel="false">
  <marker ng-repeat="item in items | orderBy:'Name'" 
       position="{{item.Adresses[0].Latitude}},{{item.Adresses[0].Longitude}}" title="{{item.Name}}">
     </marker>  	
