@@ -76,7 +76,7 @@
         	
   <ng-map default-style="true" zoom="13" center="37.576347, 13.215090">
  <marker ng-repeat="item in items | orderBy:'Name'" 
-      position="{{item.Latitude}},{{item.Longitude}}" title="{{item.Name}}">
+      position="{{item.Adresses[0].Latitude}},{{item.Adresses[0].Longitude}}" title="{{item.Name}}">
     </marker>  	
   </ng-map>
         	
