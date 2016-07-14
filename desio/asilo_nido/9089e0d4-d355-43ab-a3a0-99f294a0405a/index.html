@@ -86,7 +86,7 @@
         <div class="panel-body">
 <a ng-show="a.Type==0" class="btn btn-info pull-right" role="button" href="tel:{{a.Value}}"><i class="fa fa-phone" aria-hidden="true"></i> Chiama</a>
 <a ng-show="a.Type==1" class="btn btn-info pull-right" role="button" href="mailto:{{a.Value}}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</a>
-<a ng-show="a.Type==2" class="btn btn-info pull-right" role="button" href="mailto:{{a.Value}}"><i class="fa fa-envelope-o" aria-hidden="true"></i> Apri link</a>
+<a ng-show="a.Type==2" class="btn btn-info pull-right" role="button" href="{{a.Value}}"><i class="fa fa-external-link" aria-hidden="true"></i> Apri link</a>
 <div ng-hide="a.Type==2">{{a.Value}}<p><small>{{a.Note}}</small></p></div>
 <div ng-show="a.Type==2">{{a.Note}}</div>
 </div>
