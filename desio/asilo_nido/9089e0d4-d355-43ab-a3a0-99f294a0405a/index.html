@@ -72,12 +72,20 @@
 {{a.Value}}<small>{{a.Note}}</small></div>
     </div>
 
-        <div >
-	<p ng-repeat="a in entity.Adresses">{{a.Title}}</p>
-      </div>
-   
- 
+    
 </div>  
+
+<div class="container">
+    <div class="panel panel-default" ng-repeat="a in entity.Contacts">
+        <div class="panel-heading">
+            <h1 class="panel-title">{{a.Title}}</h1>
+        </div>
+        <div class="panel-body">
+{{a.Value}}<small>{{a.Note}}</small></div>
+    </div>
+
+</div>
+
 <div class="container">  
         <div class="panel panel-danger">
       <div class="panel-heading">Clausola di responsabilità</div>
