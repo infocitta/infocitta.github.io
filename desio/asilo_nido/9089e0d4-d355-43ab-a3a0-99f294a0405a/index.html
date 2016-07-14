@@ -79,7 +79,7 @@
 </div>  
 
 <div class="container">
-    <div class="panel panel-default" ng-repeat="a in entity.Contacts">
+    <div class="panel panel-default" ng-repeat="a in entity.Contacts | orderBy:'Type'">
         <div class="panel-heading">
             <h1 class="panel-title">{{a.Title}}</h1>
         </div>
