@@ -87,7 +87,7 @@
         </div>
         <div class="modal-body">
         	
- <ng-map style="height: 450px;" zoom-to-include-markers="auto" scrollwheel="true" draggable="false">
+ <ng-map style="height: 450px;" zoom-to-include-markers="auto">
  <marker ng-repeat="item in items | orderBy:'Name'" 
       position="{{item.Adresses[0].Latitude}},{{item.Adresses[0].Longitude}}" title="{{item.Name}}">
     </marker>  	
