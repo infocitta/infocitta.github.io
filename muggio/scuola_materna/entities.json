@@ -1,0 +1,43 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "c2574571-ba8f-4a7d-97df-09de7a371c57",
+    "Name": "Parrocchia San Giusepe S.M. Palo VI",
+    "Alias": "parrocchia_san_giusepe_sm_palo_vi",
+    "Level1": [
+      {
+        "Value": "Muggio'",
+        "Alias": "muggio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA SAN GIUSEPPE 5 MUGGIO",
+        "Note": "",
+        "Latitude": "45.577469",
+        "Longitude": "9.228537"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039737673",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "parrocchiataccona@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "419e4eef-5846-4c80-80e8-a2dd10c907fc",
+    "Name": "Infanzia - Donizzetti",
+    "Alias": "infanzia_-_donizzetti",
+    "Level1": [
+      {
+        "Value": "Varedo",
+        "Alias": "varedo"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DONIZZETTI VAREDO",
+        "Note": "",
+        "Latitude": "45.598400",
+        "Longitude": "9.153167"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic87100d@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "61c79ff1-ed6d-44d9-ae59-51cff946b7a8",
+    "Name": "Infanzia - Andersen",
+    "Alias": "infanzia_-_andersen",
+    "Level1": [
+      {
+        "Value": "Varedo",
+        "Alias": "varedo"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE BRIANZA 77 VAREDO",
+        "Note": "",
+        "Latitude": "45.600426",
+        "Longitude": "9.173980"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "miic87000n@istruzione.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

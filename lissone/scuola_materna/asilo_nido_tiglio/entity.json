@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "0bf5f5e4-ce35-4fb1-9f3f-4c55a317b18c",
+  "Name": "Asilo nido Tiglio",
+  "Alias": "asilo_nido_tiglio",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DEL TIGLIO 10 Lissone",
+      "Note": "",
+      "Latitude": "45.626501",
+      "Longitude": "9.239384"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039462385",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "asilonido@comune.lissone.mi.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

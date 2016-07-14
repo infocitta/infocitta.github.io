@@ -1,0 +1,200 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "68cc18cd-b050-4193-bf09-57ba4512cdb8",
+    "Name": "ATM",
+    "Alias": "atm",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Trasporti",
+        "Alias": "trasporto"
+      }
+    ],
+    "Adresses": [],
+    "Contacts": [
+      {
+        "Title": "ATM 166 Feriale e Festivo",
+        "Value": "http://www.provincia.mb.it/export/sites/default/doc/Trasporti/ORARIO_MILANO-DESIO.pdf",
+        "Note": "Desio(opedale)  Milano (Parco Nord)",
+        "Type": 2
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "7ab91894-a76f-48ae-878f-da438c02cab7",
+    "Name": "ASF Autolinee",
+    "Alias": "asf_autolinee",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Trasporti",
+        "Alias": "trasporto"
+      }
+    ],
+    "Adresses": [],
+    "Contacts": [
+      {
+        "Title": "ASF Autolinee C 80 Feriale Invernale e Festivo",
+        "Value": "http://www.asfautolinee.it/Portals/5/Documents/Orari/C80.pdf?ver=2015-10-19-062905-217",
+        "Note": "Cantù  Vighizzolo  Monza",
+        "Type": 2
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "e82d0e09-0e55-4a7e-8f90-dd46cc94012b",
+    "Name": "Autoguidovie",
+    "Alias": "autoguidovie",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Trasporti",
+        "Alias": "trasporto"
+      }
+    ],
+    "Adresses": [],
+    "Contacts": [
+      {
+        "Title": "Z231 Invernale Scolastico Sab",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z231_SAB%20INV.pdf",
+        "Note": "Carate B.-Giussano (Robbiano)-Seregno-Desio\r\n",
+        "Type": 2
+      },
+      {
+        "Title": "Z231 Invernale Scolastico Lun Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z231_FER%20INV.pdf",
+        "Note": "Carate B.-Giussano (Robbiano)-Seregno-Desio",
+        "Type": 2
+      },
+      {
+        "Title": "Z209 Invernale Scolastico Sabato",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z209_SAB%20INV.pdf",
+        "Note": "Cesano M. (FNM)-Bovisio M.-Desio-Nova M.-Muggiò",
+        "Type": 2
+      },
+      {
+        "Title": "Z209 Invernale Scolastico Lun-Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z209_FER%20INV.pdf",
+        "Note": "Cesano M. (FNM)-Bovisio M.-Desio-Nova M.-Muggiò\r\n",
+        "Type": 2
+      },
+      {
+        "Title": "Z232+Z242 Invernale Scolastico Lun-Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z232_z242_FER%20INV.pdf",
+        "Note": "Desio-Seregno-Carate B.-Renate/Besana B.(FS)",
+        "Type": 2
+      },
+      {
+        "Title": "Z232+Z242 Invernale non Scolastico/Estivo Lun-Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Non_scolastico_estivo/z232_z242_FER%20EST.pdf",
+        "Note": "Desio-Seregno-Carate B.-Renate/Besana B.(FS)",
+        "Type": 2
+      },
+      {
+        "Title": "Z250 Invernale non Scolastido/Estivo Sabato",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Non_scolastico_estivo/z250_SAB_EST.pdf",
+        "Note": "Desio (FS)-Cesano M. (FNM)-Limbiate",
+        "Type": 2
+      },
+      {
+        "Title": "Z251 Scolastico Invernale Sabato",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z251_SAB_INV.pdf",
+        "Note": "Desio(FS)-Bovisio-Varedo-Senago-Limbiate-Cesano(FNM)",
+        "Type": 2
+      },
+      {
+        "Title": "Z251 Scolastico Invernale Lun-Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z251_FER_INV.pdf",
+        "Note": "Desio(FS)-Bovisio-Varedo-Senago-Limbiate-Cesano(FNM)\r\n",
+        "Type": 2
+      },
+      {
+        "Title": "Z250 Invernale Scolastico Sabato",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z250_SAB_INV.pdf",
+        "Note": "Desio (FS)-Cesano M. (FNM)-Limbiate",
+        "Type": 2
+      },
+      {
+        "Title": "Z231 Invernale non Scolastico/Estivo Sab",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Non_scolastico_estivo/z231_SAB_EST.pdf",
+        "Note": "Carate B.-Giussano (Robbiano)-Seregno-Desio",
+        "Type": 2
+      },
+      {
+        "Title": "Z250 Invernale Scolastico Lun-Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z250_FER_INV.pdf",
+        "Note": "Desio (FS)-Cesano M. (FNM)-Limbiate\r\n",
+        "Type": 2
+      },
+      {
+        "Title": "Z231 Invernale non Solastico/Estivo Lun Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Non_scolastico_estivo/z231_FER_EST.pdf",
+        "Note": "Carate B.-Giussano (Robbiano)-Seregno-Desio",
+        "Type": 2
+      },
+      {
+        "Title": "Z232+Z242 Invernale non Scolastico/Estivo Sabato",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Non_scolastico_estivo/z232_z242_SAB%20EST.pdf",
+        "Note": "Desio-Seregno-Carate B.-Renate/Besana B.(FS)",
+        "Type": 2
+      },
+      {
+        "Title": "Z232+Z242 Invernale Scolastico Sabato",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z232_z242_SAB%20INV.pdf",
+        "Note": "Desio-Seregno-Carate B.-Renate/Besana B.(FS)",
+        "Type": 2
+      },
+      {
+        "Title": "Z250 Invernale non Scolastico/Estivo Lun-Ven",
+        "Value": "http://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Non_scolastico_estivo/z250_FER_EST.pdf",
+        "Note": "Desio (FS)-Cesano M. (FNM)-Limbiate",
+        "Type": 2
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f480fef7-6a93-4518-a9dd-0eaa4d40f46e",
+    "Name": "Trenord",
+    "Alias": "trenord",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Trasporti",
+        "Alias": "trasporto"
+      }
+    ],
+    "Adresses": [],
+    "Contacts": [
+      {
+        "Title": "Treni in partenza stazione di Desio",
+        "Value": "https://prm.rfi.it/qo_prm/QO_Pdf.aspx?Tipo=P&lin=it&id=1140",
+        "Note": "Milano- Chiasso     Saronno- Albairate",
+        "Type": 2
+      }
+    ]
+  }
+]

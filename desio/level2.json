@@ -1,62 +1,54 @@
-[
- {
-   "Value": "~ Comune",
-   "Alias": "comune"
- },
- {
-   "Value": "Asilo nido",
-   "Alias": "asilo_nido"
- },
- {
-   "Value": "Gestione Rifiuti",
-   "Alias": "rifiuti"
- },
- {
-   "Value": "Libri in Transito",
-   "Alias": "libri"
- },
- {
-   "Value": "Locali NoSlot",
-   "Alias": "no_slot"
- },
- {
-   "Value": "Medico di famiglia",
-   "Alias": "medico"
- },
- {
-   "Value": "Mercati",
-   "Alias": "mercato"
- },
- {
-   "Value": "Pediatra",
-   "Alias": "pediatra"
- },
- {
-   "Value": "Prodotti per vegani",
-   "Alias": "vegani"
- },
- {
-   "Value": "Sanitaria",
-   "Alias": "sanitaria"
- },
- {
-   "Value": "Scuola materna",
-   "Alias": "scuola_materna"
- },
- {
-   "Value": "Servizi Telegram",
-   "Alias": "telegram"
- },
- {
-   "Value": "Trasporti",
-   "Alias": "trasporto"
- },
- {
-   "Value": "Uffici pubblici",
-   "Alias": "ufficio_pubblico"
- },
- {
-   "Value": "Veterinario",
-   "Alias": "veterinario"
- }
+﻿[
+  {
+    "Value": "Locali NoSlot",
+    "Alias": "no_slot"
+  },
+  {
+    "Value": "Libri in Transito",
+    "Alias": "libri"
+  },
+  {
+    "Value": "Asilo nido",
+    "Alias": "asilo_nido"
+  },
+  {
+    "Value": "Prodotti per vegani",
+    "Alias": "vegani"
+  },
+  {
+    "Value": "Scuola materna",
+    "Alias": "scuola_materna"
+  },
+  {
+    "Value": "Sanitaria",
+    "Alias": "sanitaria"
+  },
+  {
+    "Value": "Servizi Telegram",
+    "Alias": "telegram"
+  },
+  {
+    "Value": "Gestione Rifiuti",
+    "Alias": "rifiuti"
+  },
+  {
+    "Value": "Uffici pubblici",
+    "Alias": "ufficio_pubblico"
+  },
+  {
+    "Value": "Trasporti",
+    "Alias": "trasporto"
+  },
+  {
+    "Value": "Veterinario",
+    "Alias": "veterinario"
+  },
+  {
+    "Value": "Mercati",
+    "Alias": "mercato"
+  },
+  {
+    "Value": "~ Comune",
+    "Alias": "comune"
+  }
 ]

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "66ec960e-6e85-48c3-870b-848fbd91876f",
+  "Name": "COLLEGIO DELLA GUASTALLA",
+  "Alias": "collegio_della_guastalla",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIALE LOMBARDIA  180 MONZA",
+      "Note": "",
+      "Latitude": "45.572814",
+      "Longitude": "9.246495"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 740470",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@guastalla.org",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

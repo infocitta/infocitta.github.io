@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "d8db9102-52ef-4a7c-b078-c4d55a9d7c17",
+  "Name": "Torrefazione Brasilia",
+  "Alias": "torrefazione_brasilia",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via Giacomo Matteotti 8 Desio MB",
+      "Note": "",
+      "Latitude": "45.617462",
+      "Longitude": "9.206810"
+    }
+  ],
+  "Contacts": []
+}

@@ -1,0 +1,177 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "6222d71a-0ef6-4b54-a425-abc41c6d2267",
+    "Name": "Infanzia - A. Grandi",
+    "Alias": "infanzia_-_a_grandi",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GRANDI 5 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.591657",
+        "Longitude": "9.194388"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "80a8ce53-9f2b-4c32-b14b-a6e8526a51a0",
+    "Name": "Infanzia - Milite Ignoto",
+    "Alias": "infanzia_-_milite_ignoto",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ROMA 5 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.590317",
+        "Longitude": "9.199932"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "036240439",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "8ee8ec64-e13c-4417-b634-a39b6d507f7e",
+    "Name": "Infanzia - B.Munari",
+    "Alias": "infanzia_-_bmunari",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA OBERDAN 4 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.584453",
+        "Longitude": "9.193606"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9c77b90e-afd5-4467-aa59-341e0749743d",
+    "Name": "Infanzia - Arcobaleno",
+    "Alias": "infanzia_-_arcobaleno",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA FIUME 26 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.593709",
+        "Longitude": "9.203332"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "036240439",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c57e3c00-e4c2-44d6-901c-9e524e8b6889",
+    "Name": "Infanzia - G. Rodari",
+    "Alias": "infanzia_-_g_rodari",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VENEZIA NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.597101",
+        "Longitude": "9.197003"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "036240439",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

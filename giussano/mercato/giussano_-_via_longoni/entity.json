@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "be959d93-c4fe-409a-932a-f5350e531193",
+  "Name": "GIUSSANO - VIA LONGONI",
+  "Alias": "giussano_-_via_longoni",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA LONGONI GIUSSANO",
+      "Note": "",
+      "Latitude": "45.695469",
+      "Longitude": "9.220758"
+    }
+  ],
+  "Contacts": []
+}

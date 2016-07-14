@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "b3036a96-ccc1-4918-82f0-d405f4167191",
+  "Name": "Scuola Materna Autorizzata 'Felice Solaro'",
+  "Alias": "scuola_materna_autorizzata_felice_solaro",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA TITO SPERI 6 LIMBIATE",
+      "Note": "",
+      "Latitude": "45.591329",
+      "Longitude": "9.143370"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "sc.materna.f.solaro@tiscali.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0299056976",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

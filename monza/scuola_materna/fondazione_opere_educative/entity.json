@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "f442a570-b7fe-4ad5-94d8-c2d68032de13",
+  "Name": "Fondazione Opere Educative",
+  "Alias": "fondazione_opere_educative",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIALE LOMBARDIA 180 MONZA",
+      "Note": "",
+      "Latitude": "45.572814",
+      "Longitude": "9.246495"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039740470",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@guastalla.org",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

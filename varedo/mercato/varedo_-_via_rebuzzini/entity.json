@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "af35a445-e717-4099-9c7e-b47f245f1ee8",
+  "Name": "VAREDO - VIA REBUZZINI",
+  "Alias": "varedo_-_via_rebuzzini",
+  "Level1": [
+    {
+      "Value": "Varedo",
+      "Alias": "varedo"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA REBUZZINI VAREDO",
+      "Note": "",
+      "Latitude": "45.596838",
+      "Longitude": "9.162500"
+    }
+  ],
+  "Contacts": []
+}

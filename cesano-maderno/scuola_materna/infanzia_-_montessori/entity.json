@@ -1,0 +1,35 @@
+﻿{
+  "Version": 1,
+  "ID": "a97ed849-32f1-4eed-a8de-01b377161d13",
+  "Name": "Infanzia - Montessori",
+  "Alias": "infanzia_-_montessori",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA RICCIONE CESANO MADERNO",
+      "Note": "",
+      "Latitude": "45.634269",
+      "Longitude": "9.124408"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

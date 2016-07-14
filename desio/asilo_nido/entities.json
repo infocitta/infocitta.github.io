@@ -1,59 +1,9 @@
 ﻿[
   {
     "Version": 1,
-    "ID": "97f44b30-c706-4534-9329-24248bfcd692",
-    "Name": "PICCOLE CANAGLIE",
-    "Level1": [
-      {
-        "Value": "Desio",
-        "Alias": "desio"
-      }
-    ],
-    "Level2": [
-      {
-        "Value": "Asilo nido",
-        "Alias": "asilo_nido"
-      }
-    ],
-    "Adresses": [
-      {
-        "Title": "Indirizzo",
-        "Value": "PIAZZA MARTIRI DI FOSSOLI 23 DESIO",
-        "Latitude": "45.615800",
-        "Longitude": "9.212350"
-      }
-    ]
-  },
-  {
-    "Version": 1,
-    "ID": "30aa6c94-582f-413b-b3c0-36814804ca97",
-    "Name": "Asilo Nido Comunale - Via Adamello",
-    "Level1": [
-      {
-        "Value": "Desio",
-        "Alias": "desio"
-      }
-    ],
-    "Level2": [
-      {
-        "Value": "Asilo nido",
-        "Alias": "asilo_nido"
-      }
-    ],
-    "Adresses": [
-      {
-        "Title": "Sede",
-        "Value": "Via Adamello - 20832 Desio (MB)",
-        "Note": "",
-        "Latitude": "45.609991",
-        "Longitude": "9.207419"
-      }
-    ]
-  },
-  {
-    "Version": 1,
     "ID": "1d9a1913-3421-4e6a-9c0c-37da353fc380",
     "Name": "IL NIDO DELLA CICOGNA",
+    "Alias": "il_nido_della_cicogna",
     "Level1": [
       {
         "Value": "Desio",
@@ -74,109 +24,19 @@
         "Latitude": "45.625251",
         "Longitude": "9.207382"
       }
-    ]
-  },
-  {
-    "Version": 1,
-    "ID": "bd611481-6689-4707-a471-40092a2a9afc",
-    "Name": "ASILO NIDO COMUNALE VIA DIAZ",
-    "Level1": [
-      {
-        "Value": "Desio",
-        "Alias": "desio"
-      }
     ],
-    "Level2": [
+    "Contacts": [
       {
-        "Value": "Asilo nido",
-        "Alias": "asilo_nido"
-      }
-    ],
-    "Adresses": [
-      {
-        "Title": "Indirizzo",
-        "Value": "VIA DIAZ 7 DESIO",
+        "Title": "Telefono",
+        "Value": "345 3481540",
         "Note": "",
-        "Latitude": "45.619109",
-        "Longitude": "9.204760"
-      }
-    ]
-  },
-  {
-    "Version": 1,
-    "ID": "f09554bd-723f-429d-93ab-49baae348c92",
-    "Name": "PICCOLI SEGRETI",
-    "Level1": [
+        "Type": 0
+      },
       {
-        "Value": "Desio",
-        "Alias": "desio"
-      }
-    ],
-    "Level2": [
-      {
-        "Value": "Asilo nido",
-        "Alias": "asilo_nido"
-      }
-    ],
-    "Adresses": [
-      {
-        "Title": "Indirizzo",
-        "Value": "VIA CADORE 10 DESIO",
+        "Title": "Email",
+        "Value": "alarcher@libero.it",
         "Note": "",
-        "Latitude": "45.608893",
-        "Longitude": "9.202987"
-      }
-    ]
-  },
-  {
-    "Version": 1,
-    "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
-    "Name": "IL PAESE DELLE MERAVIGLIE",
-    "Level1": [
-      {
-        "Value": "Desio",
-        "Alias": "desio"
-      }
-    ],
-    "Level2": [
-      {
-        "Value": "Asilo nido",
-        "Alias": "asilo_nido"
-      }
-    ],
-    "Adresses": [
-      {
-        "Title": "Indirizzo",
-        "Value": "CORSO ITALIA 149 DESIO",
-        "Note": "",
-        "Latitude": "45.622835",
-        "Longitude": "9.208356"
-      }
-    ]
-  },
-  {
-    "Version": 1,
-    "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a",
-    "Name": "ASILO NIDO COMUNALE VIA ADAMELLO",
-    "Level1": [
-      {
-        "Value": "Desio",
-        "Alias": "desio"
-      }
-    ],
-    "Level2": [
-      {
-        "Value": "Asilo nido",
-        "Alias": "asilo_nido"
-      }
-    ],
-    "Adresses": [
-      {
-        "Title": "Indirizzo",
-        "Value": "VIA ADAMELLO DESIO",
-        "Note": "",
-        "Latitude": "45.609328",
-        "Longitude": "9.203835"
+        "Type": 1
       }
     ]
   },
@@ -184,6 +44,7 @@
     "Version": 1,
     "ID": "31cf85d2-bfe2-4248-b20e-cdbffd687730",
     "Name": "SCUOLA MATERNA PARITARIA S. TERESA",
+    "Alias": "scuola_materna_paritaria_s_teresa",
     "Level1": [
       {
         "Value": "Desio",
@@ -204,12 +65,150 @@
         "Latitude": "45.618542",
         "Longitude": "9.210565"
       }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "santateresa@email.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 621617",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
+    "Name": "IL PAESE DELLE MERAVIGLIE",
+    "Alias": "il_paese_delle_meraviglie",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "CORSO ITALIA 149 DESIO",
+        "Note": "",
+        "Latitude": "45.622835",
+        "Longitude": "9.208356"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 304168",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@asilopaesedellemeraviglie.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a",
+    "Name": "ASILO NIDO COMUNALE VIA ADAMELLO",
+    "Alias": "asilo_nido_comunale_via_adamello",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ADAMELLO DESIO",
+        "Note": "",
+        "Latitude": "45.609328",
+        "Longitude": "9.203835"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 392305",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "scuoleinfanziadesio@comune.desio.mb.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "97f44b30-c706-4534-9329-24248bfcd692",
+    "Name": "PICCOLE CANAGLIE",
+    "Alias": "piccole_canaglie",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA MARTIRI DI FOSSOLI 23 DESIO",
+        "Note": "",
+        "Latitude": "45.615800",
+        "Longitude": "9.212350"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 308271",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "soniarocco1976@libero.it",
+        "Note": "",
+        "Type": 1
+      }
     ]
   },
   {
     "Version": 1,
     "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32",
     "Name": "LA VISPA TERESA",
+    "Alias": "la_vispa_teresa",
     "Level1": [
       {
         "Value": "Desio",
@@ -229,6 +228,102 @@
         "Note": "",
         "Latitude": "45.614128",
         "Longitude": "9.207836"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "stefania.14@libero.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 300609",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bd611481-6689-4707-a471-40092a2a9afc",
+    "Name": "ASILO NIDO COMUNALE VIA DIAZ",
+    "Alias": "asilo_nido_comunale_via_diaz",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DIAZ 7 DESIO",
+        "Note": "",
+        "Latitude": "45.619109",
+        "Longitude": "9.204760"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "maria.diperna@pedagogia.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 627103",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f09554bd-723f-429d-93ab-49baae348c92",
+    "Name": "PICCOLI SEGRETI",
+    "Alias": "piccoli_segreti",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CADORE 10 DESIO",
+        "Note": "",
+        "Latitude": "45.608893",
+        "Longitude": "9.202987"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asilonido.piccolisegreti@gmail.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 1790798",
+        "Note": "",
+        "Type": 0
       }
     ]
   }

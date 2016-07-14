@@ -1,0 +1,170 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "2f43dfa6-3e3c-4ef8-b441-53b0d065e345",
+    "Name": "MONZA - PIAZZA CAMBIAGHI",
+    "Alias": "monza_-_piazza_cambiaghi",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA CAMBIAGHI MONZA",
+        "Note": "",
+        "Latitude": "45.581751",
+        "Longitude": "9.277488"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "67751986-8793-4136-960e-94b266ec1100",
+    "Name": "MONZA - VIA S.ANDREA",
+    "Alias": "monza_-_via_sandrea",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA S.ANDREA MONZA",
+        "Note": "",
+        "Latitude": "45.599544",
+        "Longitude": "9.265443"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "72ddebb7-d0d0-485f-89de-91ba0166eb41",
+    "Name": "MONZA - PIAZZA TRENTO",
+    "Alias": "monza_-_piazza_trento",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA TRENTO MONZA",
+        "Note": "",
+        "Latitude": "45.010777",
+        "Longitude": "7.819958"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "89079dae-0dfd-4231-b219-04a526c285b5",
+    "Name": "MONZA - VIA PO",
+    "Alias": "monza_-_via_po",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PO MONZA",
+        "Note": "",
+        "Latitude": "45.575474",
+        "Longitude": "9.243211"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "946b3e8f-3d74-4b1b-bdf0-f2e71ef0dd2f",
+    "Name": "MONZA - VIA PAISIELLO",
+    "Alias": "monza_-_via_paisiello",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PAISIELLO MONZA",
+        "Note": "",
+        "Latitude": "45.561314",
+        "Longitude": "9.261115"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "bca7aba7-6cb4-4ed7-8872-1d472523aaad",
+    "Name": "MONZA - VIA NIEVO",
+    "Alias": "monza_-_via_nievo",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA NIEVO MONZA",
+        "Note": "",
+        "Latitude": "45.576990",
+        "Longitude": "9.304638"
+      }
+    ],
+    "Contacts": []
+  }
+]

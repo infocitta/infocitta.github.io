@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "527c5971-cdbb-48e5-a423-e13f370906bf",
+  "Name": "Abbigliamento Kids",
+  "Alias": "abbigliamento_kids",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Libri in Transito",
+      "Alias": "libri"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Corso Italia, 22, 20832 Desio MB",
+      "Note": "",
+      "Latitude": "45.618251",
+      "Longitude": "9.207583"
+    }
+  ],
+  "Contacts": []
+}

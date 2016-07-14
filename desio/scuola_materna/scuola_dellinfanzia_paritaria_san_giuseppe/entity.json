@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "94f4a78a-5827-4a05-8af4-9ed219c1f3a9",
+  "Name": "Scuola Dell'infanzia Paritaria San Giuseppe",
+  "Alias": "scuola_dellinfanzia_paritaria_san_giuseppe",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA CONCILIAZIONE 9 DESIO",
+      "Note": "",
+      "Latitude": "45.617471",
+      "Longitude": "9.208725"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "materna.sangiuseppe@tiscali.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0362622041",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

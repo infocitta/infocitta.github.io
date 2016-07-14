@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "cb93b3fe-ca6c-486e-b270-f5dced8979e2",
+  "Name": "CESANO MADERNO - CAPOLUOGO",
+  "Alias": "cesano_maderno_-_capoluogo",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "CAPOLUOGO CESANO MADERNO",
+      "Note": "",
+      "Latitude": "",
+      "Longitude": ""
+    }
+  ],
+  "Contacts": []
+}

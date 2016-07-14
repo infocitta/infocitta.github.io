@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "16232bab-a2b1-43e6-b28d-e98603e34cbb",
+  "Name": "L'ARCOBALENO",
+  "Alias": "larcobaleno",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA NEGRELLI LUIGI  21 MONZA",
+      "Note": "",
+      "Latitude": "45.591861",
+      "Longitude": "9.299387"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "federica.arosio@live.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039 833532",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

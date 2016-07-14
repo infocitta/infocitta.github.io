@@ -1,0 +1,48 @@
+﻿{
+  "Version": 1,
+  "ID": "6f948e1a-11a3-42db-8fef-411d76dcca1c",
+  "Name": "Dott. Mili Sanzio Sandro Luca",
+  "Alias": "dott_mili_sanzio_sandro_luca",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Ambulatorio 2",
+      "Value": "Via Alessandro Manzoni, 38, 20851 Lissone MB",
+      "Note": "",
+      "Latitude": "45.611718",
+      "Longitude": "9.244958"
+    },
+    {
+      "Title": "Ambulatorio 1",
+      "Value": "Via S. Domenico Savio, 33, 20851 Lissone MB",
+      "Note": "",
+      "Latitude": "45.635663",
+      "Longitude": "9.232391"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "339  4810498",
+      "Note": "DALLE ORE 8.00 ALLE ORE 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039  305719",
+      "Note": "DALLE ORE 8.00 ALLE ORE 10.00",
+      "Type": 0
+    }
+  ]
+}

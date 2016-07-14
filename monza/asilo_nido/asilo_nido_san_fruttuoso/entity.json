@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "6d215b91-1aeb-461f-a0b9-15648351a143",
+  "Name": "ASILO NIDO SAN FRUTTUOSO",
+  "Alias": "asilo_nido_san_fruttuoso",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA TAZZOLI ENRICO  4 MONZA",
+      "Note": "",
+      "Latitude": "45.571438",
+      "Longitude": "9.241870"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039  741761",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "nidosanfruttuoso@comune.monza.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

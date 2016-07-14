@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "3ec53c87-f120-47b5-88ce-97e9bc66aba0",
+  "Name": "Scuola Materna Umberto I",
+  "Alias": "scuola_materna_umberto_i",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SCIESA 20 DESIO",
+      "Note": "",
+      "Latitude": "45.610889",
+      "Longitude": "9.207173"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362626793",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "INFANZIAUMBERTOPRIMO@GMAIL.COM",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

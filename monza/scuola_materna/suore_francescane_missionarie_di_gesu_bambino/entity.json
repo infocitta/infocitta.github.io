@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "fe6a78ca-c86a-44b3-80c4-08f8f7733061",
+  "Name": "Suore Francescane Missionarie Di Gesu' Bambino",
+  "Alias": "suore_francescane_missionarie_di_gesu_bambino",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA ANTONIO CEDERNA 17 MONZA",
+      "Note": "",
+      "Latitude": "45.576595",
+      "Longitude": "9.297153"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0392020939",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "isfmgb.monza@tin.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

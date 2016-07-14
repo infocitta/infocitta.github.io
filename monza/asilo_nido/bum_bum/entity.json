@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "8622477e-4c28-4beb-8fc2-b9368973773b",
+  "Name": "BUM BUM",
+  "Alias": "bum_bum",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA WAGNER RICHARD  14 MONZA",
+      "Note": "",
+      "Latitude": "45.597047",
+      "Longitude": "9.255791"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2328603",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "sabrinavene@gmail.com",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

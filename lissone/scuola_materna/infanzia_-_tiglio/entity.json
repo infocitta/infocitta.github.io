@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "b016e650-b3fa-4859-bb26-191510a9f24f",
+  "Name": "Infanzia - Tiglio",
+  "Alias": "infanzia_-_tiglio",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DEL PIOPPO LISSONE",
+      "Note": "",
+      "Latitude": "45.626741",
+      "Longitude": "9.240379"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039481125",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic89200e@istruzione.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿{
+  "Version": 1,
+  "ID": "f801d825-77bd-40d9-bb02-6befcf852dd2",
+  "Name": "Infanzia - Cagnola",
+  "Alias": "infanzia_-_cagnola",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MARIANI LISSONE",
+      "Note": "",
+      "Latitude": "45.614329",
+      "Longitude": "9.237913"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

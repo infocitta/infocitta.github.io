@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "06229738-7451-4317-9bcd-31da0c0f9938",
+  "Name": "I CUCCIOLI DI ROBY",
+  "Alias": "i_cuccioli_di_roby",
+  "Level1": [
+    {
+      "Value": "Seregno",
+      "Alias": "seregno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA STELVIO 2 SEREGNO",
+      "Note": "",
+      "Latitude": "45.658522",
+      "Longitude": "9.207024"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "333 2834938",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "federica.conte@live.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

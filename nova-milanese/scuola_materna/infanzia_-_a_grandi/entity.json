@@ -1,0 +1,35 @@
+﻿{
+  "Version": 1,
+  "ID": "6222d71a-0ef6-4b54-a425-abc41c6d2267",
+  "Name": "Infanzia - A. Grandi",
+  "Alias": "infanzia_-_a_grandi",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA GRANDI 5 NOVA MILANESE",
+      "Note": "",
+      "Latitude": "45.591657",
+      "Longitude": "9.194388"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

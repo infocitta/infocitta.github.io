@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263",
+  "Name": "Piattaforma Ecologica",
+  "Alias": "piattaforma_ecologica",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Gestione Rifiuti",
+      "Alias": "rifiuti"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Piattaforma",
+      "Value": "Via Luigi Einaudi, 3, 20832 Desio MB",
+      "Note": "",
+      "Latitude": "45.604419",
+      "Longitude": "9.213966"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Prenotare ritiro rifiuti ingombranti",
+      "Value": "800445964",
+      "Note": "Da lunedì a venerdì\r\ndalle 14.00 alle 16.30",
+      "Type": 0
+    },
+    {
+      "Title": "Piattaforma Ecologica",
+      "Value": " 0362 308877",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

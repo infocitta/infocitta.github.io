@@ -1,0 +1,330 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "127f0e5b-3b37-40bc-9365-71a7fd619fd5",
+    "Name": "ASILO DEI PULCINI",
+    "Alias": "asilo_dei_pulcini",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MAGELLANO  40 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.540770",
+        "Longitude": "9.309267"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asilodeipulcini.brugherio@gmail.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "329 9145482",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "2564be8d-73d6-4038-99e9-ef453182f791",
+    "Name": "ASILO NIDO COMUNALE-BRUNO MUNARI",
+    "Alias": "asilo_nido_comunale-bruno_munari",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA NAZARIO SAURO 135 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.552290",
+        "Longitude": "9.287099"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "istruzione@comune.brugherio.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 879608",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "56b19371-dc9c-45fa-ac64-4e97ea901e9b",
+    "Name": "ASILO NIDO COMUNALE-HANS CHRISTIAN ANDERSEN",
+    "Alias": "asilo_nido_comunale-hans_christian_andersen",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA F. KENNEDY BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.548850",
+        "Longitude": "9.298275"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "istruzione@comune.brugherio.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 879608",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "8630279a-3628-47c5-ab47-ef240f6f10c1",
+    "Name": "IL PICCOLO MONDO DEGLI ANATROCCOLI",
+    "Alias": "il_piccolo_mondo_degli_anatroccoli",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA STOPPANI A.  10 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.548454",
+        "Longitude": "9.302854"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "francesca.pineider@yahoo.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "340 7890970",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "97264874-060d-443b-8a99-b105a125c5f1",
+    "Name": "L' ISOLA CHE NON C'E'",
+    "Alias": "l_isola_che_non_ce",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE LOMBARDIA 266 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.556228",
+        "Longitude": "9.299854"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "isoladitrilly@yahoo.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "340 8821111",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b2d82d93-b7f8-40eb-8663-7bd65ede8cab",
+    "Name": "ASILO NIDO SCARABOCCHIO",
+    "Alias": "asilo_nido_scarabocchio",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VOLTURNO 80 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.542575",
+        "Longitude": "9.297996"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 5962257",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asilonidoscarabocchio@virgilio.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b9ba2ea1-9895-4c39-b64f-fce7e425a387",
+    "Name": "LA MAGNOLIA",
+    "Alias": "la_magnolia",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SCIVIERO  5 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.554050",
+        "Longitude": "9.302004"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "lamagnoliamicronido@legalmail.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "348 4757598",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "fb3bd37a-f565-4396-8d59-474d45f63b30",
+    "Name": "RAGGI DI SOLE S.R.L.",
+    "Alias": "raggi_di_sole_srl",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAN LUIGI 5 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.568059",
+        "Longitude": "9.306646"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "nidoraggidisole@hotmail.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2242602",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,289 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "31a0c21d-019c-4ca8-ba22-b2ab77968d77",
+    "Name": "MB - Guardia Medica",
+    "Alias": "mb_-_guardia_medica",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Sanitaria",
+        "Alias": "sanitaria"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Limbiate",
+        "Value": "Via Monte Grappa, 20812 Limbiate MB",
+        "Note": "",
+        "Latitude": "45.612030",
+        "Longitude": "9.124101"
+      },
+      {
+        "Title": "Monza",
+        "Value": "Via Antonio Pacinotti, 2 20900 Monza MB",
+        "Note": "",
+        "Latitude": "45.576578",
+        "Longitude": "9.267968"
+      },
+      {
+        "Title": "Bellusco",
+        "Value": "Via Roma, 9 20882 Bellusco MB",
+        "Note": "",
+        "Latitude": "45.619074",
+        "Longitude": "9.419754"
+      },
+      {
+        "Title": "Seveso",
+        "Value": "Via Monte Grappa, 18 20822 Seveso MB",
+        "Note": "",
+        "Latitude": "45.641332",
+        "Longitude": "9.142747"
+      },
+      {
+        "Title": "Concorezzo",
+        "Value": "Via de Giorgi, 9, 20863 Concorezzo MB",
+        "Note": "",
+        "Latitude": "45.588369",
+        "Longitude": "9.335507"
+      },
+      {
+        "Title": "Cesano Maderno",
+        "Value": "Via Padre Egidio Boga, 8, 20811 Cesano Maderno MB",
+        "Note": "",
+        "Latitude": "45.624293",
+        "Longitude": "9.140165"
+      },
+      {
+        "Title": "Brugherio",
+        "Value": "Via Guglielmo Oberdan, 83 20861 Brugherio MB",
+        "Note": "",
+        "Latitude": "45.549765",
+        "Longitude": "9.307424"
+      },
+      {
+        "Title": "Nova Milanese",
+        "Value": "Via Croce Rossa Italiana, 2 20834 Nova Milanese MB",
+        "Note": "",
+        "Latitude": "45.587000",
+        "Longitude": "9.203680"
+      },
+      {
+        "Title": "Besana",
+        "Value": "Via Alessandro Manzoni, 21, 20842 Besana In Brianza MB",
+        "Note": "",
+        "Latitude": "45.701925",
+        "Longitude": "9.282429"
+      },
+      {
+        "Title": "Seregno",
+        "Value": "Via Giuseppe Verdi, 2 20831 Seregno MB",
+        "Note": "",
+        "Latitude": "45.653868",
+        "Longitude": "9.204975"
+      },
+      {
+        "Title": "Lissone",
+        "Value": "Via Alberto da Giussano, 56, 20853 Biassono MB",
+        "Note": "",
+        "Latitude": "45.633158",
+        "Longitude": "9.267232"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "f6650da8-41ad-4bc7-bd4d-8b55f05d9f71",
+    "Name": "Postazione con defibrillatore DAE - Desio",
+    "Alias": "postazione_con_defibrillatore_dae_-_desio",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Sanitaria",
+        "Alias": "sanitaria"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "NUOVO CIMITERO COMUNALE",
+        "Value": " PIAZZALE DIVINA MISERICORDIA ",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.604717",
+        "Longitude": "9.209982"
+      },
+      {
+        "Title": "CIMITERO COMUNALE MONUMENTALE ",
+        "Value": " VIALE  RIMEMBRANZE  1",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.621810",
+        "Longitude": "9.203690"
+      },
+      {
+        "Title": "SCUOLE ELEMENTARI ",
+        "Value": " VIA  DIAZ 7",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.618944",
+        "Longitude": "9.203303"
+      },
+      {
+        "Title": "SCUOLE ELEMENTARI",
+        "Value": " VIA  AGNESI  10",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.612646",
+        "Longitude": "9.199092"
+      },
+      {
+        "Title": "SCUOLE ELEMENTARI ",
+        "Value": " VIA DOLOMITI  50",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.621031",
+        "Longitude": "9.186354"
+      },
+      {
+        "Title": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO ",
+        "Value": " VIA  SANTA CATERINA 9",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.626235",
+        "Longitude": "9.203488"
+      },
+      {
+        "Title": "SCUOLE ELEMENTARI S.PERTINI ",
+        "Value": " VIA MILANO  345",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.627484",
+        "Longitude": "9.205470"
+      },
+      {
+        "Title": "SOCIETA' BOCCIOFILA AURORA ",
+        "Value": " VIA GARIBALDI  257",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.612075",
+        "Longitude": "9.205036"
+      },
+      {
+        "Title": "PARROCCHIA S. GIORGIO ",
+        "Value": " VIA S. APOLLINARE  4",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.620644",
+        "Longitude": "9.231016"
+      },
+      {
+        "Title": "SCUOLA MEDIA \"L.PIROTTA\"",
+        "Value": " VIA STADIO 13",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.614080",
+        "Longitude": "9.199060"
+      },
+      {
+        "Title": "SCUOLE ELEMENTARI ",
+        "Value": " VIA  TOLSTOJ 1",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.627866",
+        "Longitude": "9.203195"
+      },
+      {
+        "Title": "PARROCCHIA / ORATORIO S.PIO X",
+        "Value": " VIA GARIBALDI  288",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.607928",
+        "Longitude": "9.203218"
+      },
+      {
+        "Title": "INTERNO PALADESIO ",
+        "Value": " LARGO  ATLETI AZZURRI D'ITALIA  ",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.613304",
+        "Longitude": "9.193077"
+      },
+      {
+        "Title": "INTERNO BOCCIOFILA PARCO DI DESIO",
+        "Value": " VIALE  CAVALIERI DI VITTORIO VENETO  ",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.616830",
+        "Longitude": "9.216500"
+      },
+      {
+        "Title": "CENTRO RICREATIVO \" IL GIRASOLE\"",
+        "Value": " VIA  S.PIETRO 14",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.618636",
+        "Longitude": "9.210455"
+      },
+      {
+        "Title": "SCUOLE ELEMENTARI ",
+        "Value": " VIA  JACOPO DAL VERME  ",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.614076",
+        "Longitude": "9.210180"
+      },
+      {
+        "Title": "ORATORIO B.V.I. ",
+        "Value": " VIA GRANDI  31",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.615004",
+        "Longitude": "9.208094"
+      },
+      {
+        "Title": "SOCIETAâ€™ DI SCHERMA ",
+        "Value": " VIA SANTA CATERINA 13",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.626687",
+        "Longitude": "9.205079"
+      },
+      {
+        "Title": "PIAZZA CONCILIAZIONE",
+        "Value": " PIAZZA CONCILIAZIONE ",
+        "Note": "Posizione verificata",
+        "Latitude": "45.617391",
+        "Longitude": "9.207367"
+      },
+      {
+        "Title": "CENTRO SPORTIVO COMUNALE ",
+        "Value": " VIA AGNESI    ",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.611574",
+        "Longitude": "9.193684"
+      },
+      {
+        "Title": "INTERNO PARCO COMUNALE ",
+        "Value": " PIAZZALE PARCO  ",
+        "Note": "Posizione Verificata",
+        "Latitude": "45.614392",
+        "Longitude": "9.216209"
+      },
+      {
+        "Title": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA ",
+        "Value": " VIA DI VITTORIO  18",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.618451",
+        "Longitude": "9.193961"
+      },
+      {
+        "Title": "ATRIO URP PALAZZO COMUNALE ",
+        "Value": " PIAZZA GIOVANNI PAOLO II ",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.620388",
+        "Longitude": "9.208536"
+      },
+      {
+        "Title": "SCUOLA MEDIA \"G.RODARI\"",
+        "Value": " PIAZZA NENNI 1",
+        "Note": "Posizione approssimata",
+        "Latitude": "45.611910",
+        "Longitude": "9.207170"
+      }
+    ],
+    "Contacts": []
+  }
+]

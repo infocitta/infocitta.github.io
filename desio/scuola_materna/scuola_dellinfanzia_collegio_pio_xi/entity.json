@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "e5d5e51f-63cc-4fa1-9908-3bb56d76cf21",
+  "Name": "Scuola Dell'infanzia Collegio Pio Xi",
+  "Alias": "scuola_dellinfanzia_collegio_pio_xi",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DUE PALME 2 DESIO",
+      "Note": "",
+      "Latitude": "45.630488",
+      "Longitude": "9.211760"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362235501",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "amministrazione@collegioballerini.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

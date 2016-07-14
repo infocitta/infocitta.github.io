@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "71409751-62fd-4df8-a4c0-1ed1e267c559",
+    "Name": "Ambulatorio Veterinario Gaia",
+    "Alias": "ambulatorio_veterinario_gaia",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Veterinario",
+        "Alias": "veterinario"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via per Binzago, 50, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.623661",
+        "Longitude": "9.186548"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 620646",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c481ac42-2cd4-4c73-886e-9743a3767abd",
+    "Name": "Studio Veterinario Associato DR. BRENNA CALCATERRA ELLI",
+    "Alias": "studio_veterinario_associato_dr_brenna_calcaterra_elli",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Veterinario",
+        "Alias": "veterinario"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Giuseppe Garibaldi, 255, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.609900",
+        "Longitude": "9.204130"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 307171",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

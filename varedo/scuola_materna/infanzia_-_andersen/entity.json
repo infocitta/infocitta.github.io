@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "61c79ff1-ed6d-44d9-ae59-51cff946b7a8",
+  "Name": "Infanzia - Andersen",
+  "Alias": "infanzia_-_andersen",
+  "Level1": [
+    {
+      "Value": "Varedo",
+      "Alias": "varedo"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIALE BRIANZA 77 VAREDO",
+      "Note": "",
+      "Latitude": "45.600426",
+      "Longitude": "9.173980"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic87000n@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

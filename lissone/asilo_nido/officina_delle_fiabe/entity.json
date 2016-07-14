@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "55102fd6-1932-4389-a16c-b86cc6254eb3",
+  "Name": "OFFICINA DELLE FIABE",
+  "Alias": "officina_delle_fiabe",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MADONNA 5 LISSONE",
+      "Note": "",
+      "Latitude": "45.610498",
+      "Longitude": "9.240475"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "sarahsoroldoni@yahoo.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039 2450676",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

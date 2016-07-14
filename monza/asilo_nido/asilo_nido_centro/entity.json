@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "f0a8da83-d24f-41ce-84f3-76d1d5239e98",
+  "Name": "ASILO NIDO CENTRO",
+  "Alias": "asilo_nido_centro",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA MATTEOTTI GIACOMO  1 MONZA",
+      "Note": "",
+      "Latitude": "45.585860",
+      "Longitude": "9.277279"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 367372",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "nidocentro@comune.monza.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

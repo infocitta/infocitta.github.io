@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "5ad6910f-689f-4306-a0bd-118c1e395f28",
+  "Name": "Caffettiamo",
+  "Alias": "caffettiamo",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via Portichetto 16 Desio",
+      "Note": "",
+      "Latitude": "45.617392",
+      "Longitude": "9.209811"
+    }
+  ],
+  "Contacts": []
+}

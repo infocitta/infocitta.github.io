@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "1be6174f-eb4f-4cc7-87df-24cb348644d1",
+  "Name": "Infanzia - via Montessori",
+  "Alias": "infanzia_-_via_montessori",
+  "Level1": [
+    {
+      "Value": "Bovisio Masciago",
+      "Alias": "bovisio-masciago"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTESSORI BOVISIO MASCIAGO",
+      "Note": "",
+      "Latitude": "45.637686",
+      "Longitude": "9.207932"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic86800n@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "7f311c02-a9db-4709-a6d0-6d69c95b7b5a",
+  "Name": "LE CILIEGINE",
+  "Alias": "le_ciliegine",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA PERGOLESI G.  33 MONZA",
+      "Note": "",
+      "Latitude": "45.600185",
+      "Longitude": "9.258430"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2339104",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "leciliegine@hsgerardo.org",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

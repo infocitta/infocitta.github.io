@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "b1abd501-5b03-4196-be06-4efab430340c",
+  "Name": "Associazione Scuola Dell'infanzia S. Maria",
+  "Alias": "associazione_scuola_dellinfanzia_s_maria",
+  "Level1": [
+    {
+      "Value": "Carate Brianza",
+      "Alias": "carate-brianza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SANT'AMBROGIO 32 CARATE BRIANZA",
+      "Note": "",
+      "Latitude": "45.675427",
+      "Longitude": "9.235422"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "scuolasmaria@tin.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "03621792284",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

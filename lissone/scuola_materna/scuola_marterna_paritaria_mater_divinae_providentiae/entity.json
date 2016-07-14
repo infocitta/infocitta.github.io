@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "d291c233-0c75-4814-88f5-1de787dc1aec",
+  "Name": "Scuola Marterna Paritaria Mater Divinae Providentiae",
+  "Alias": "scuola_marterna_paritaria_mater_divinae_providentiae",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DE AMICIS 17 LISSONE",
+      "Note": "",
+      "Latitude": "45.633872",
+      "Longitude": "9.232447"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "materdivinaeprov@tiscali.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039482329",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

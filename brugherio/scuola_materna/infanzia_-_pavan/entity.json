@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "c29f2fb5-880a-4a4f-93cc-247a9bb86bc8",
+  "Name": "Infanzia - Pavan",
+  "Alias": "infanzia_-_pavan",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIALE BRIANZA 46 BRUGHERIO",
+      "Note": "",
+      "Latitude": "45.556487",
+      "Longitude": "9.307944"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic8am00n@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "95a7d9b7-1627-4fc5-839a-6021b345a446",
+  "Name": "Scuola Dell'infanzia Sant'eurosia",
+  "Alias": "scuola_dellinfanzia_santeurosia",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SAN LUIGI 1 CESANO MADERNO",
+      "Note": "",
+      "Latitude": "45.624168",
+      "Longitude": "9.167338"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "materna.eurosia@tiscali.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0362501315",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

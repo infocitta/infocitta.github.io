@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "bb8db115-5b13-43a1-87aa-32ee9d139d40",
+  "Name": "ASILO NIDO BEE HAPPY",
+  "Alias": "asilo_nido_bee_happy",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE BIANCO 131 LIMBIATE",
+      "Note": "",
+      "Latitude": "45.617732",
+      "Longitude": "9.118412"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "info@asilonido-beehappy.com",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "334 7503933",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "de8b6a5d-47ed-4825-af0e-7b205145058a",
+  "Name": "Sottozero",
+  "Alias": "sottozero",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via Milano 361, Desio",
+      "Note": "",
+      "Latitude": "45.629443",
+      "Longitude": "9.205460"
+    }
+  ],
+  "Contacts": []
+}

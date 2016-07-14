@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "71d16b07-2029-489a-bac8-cb42c21cd19d",
+  "Name": "Scuola Dell'infanzia S. Luca",
+  "Alias": "scuola_dellinfanzia_s_luca",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA FRANCESCO GUERRAZZI 33 MONZA",
+      "Note": "",
+      "Latitude": "45.571314",
+      "Longitude": "9.262466"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "scuolamaterna.sanluca@virgilio.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0392004288",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

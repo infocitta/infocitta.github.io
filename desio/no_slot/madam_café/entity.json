@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "da25915b-b363-4548-9f24-c8cd6c2e6f64",
+  "Name": "Madam Café",
+  "Alias": "madam_café",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via per Cesano Maderno 148 20832 Desio MB",
+      "Note": "",
+      "Latitude": "45.625206",
+      "Longitude": "9.188229"
+    }
+  ],
+  "Contacts": []
+}

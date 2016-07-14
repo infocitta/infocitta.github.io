@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "4a92c25e-69da-4fd8-8b9d-39d25b715f41",
+  "Name": "COLLEGIO VILLORESI SAN GIUSEPPE",
+  "Alias": "collegio_villoresi_san_giuseppe",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTI E TOGNETTI 10 MONZA",
+      "Note": "",
+      "Latitude": "45.589607",
+      "Longitude": "9.265714"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039839041",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "segreteria@collegiovilloresi.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

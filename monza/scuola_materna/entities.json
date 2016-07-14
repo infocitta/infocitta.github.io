@@ -1,0 +1,1138 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "03300c05-1f49-4096-ab70-99178cf2c4b5",
+    "Name": "Collegio Bianconi",
+    "Alias": "collegio_bianconi",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA Q.SELLA 6 A MONZA",
+        "Note": "",
+        "Latitude": "45.586736",
+        "Longitude": "9.268218"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "segreteria@collegio-bianconi.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039363381",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "2534e989-85e6-4569-8d0d-6d4f87b418e5",
+    "Name": "Infanzia - Cazzaniga",
+    "Alias": "infanzia_-_cazzaniga",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DEBUSSY MONZA",
+        "Note": "",
+        "Latitude": "45.594481",
+        "Longitude": "9.255751"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039386471",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic8aa00t@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "2cd597d9-cf81-4713-9ada-0343e938d634",
+    "Name": "Congregazione Delle Missionarie Dell'immacolata",
+    "Alias": "congregazione_delle_missionarie_dellimmacolata",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MANTEGNA 27 MONZA",
+        "Note": "",
+        "Latitude": "45.585049",
+        "Longitude": "9.305669"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "mdimieco@pcn.net",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0248000671",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "330c0001-8020-4f7c-a2a4-b818a63b1366",
+    "Name": "Istituto Sc. Compr. Paritario 'Preziosissimo Sangue' - Scuola Dell'infanzia G.Bruni",
+    "Alias": "istituto_sc_compr_paritario_preziosissimo_sangue_-_scuola_dellinfanzia_gbruni",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA LECCO 6 MONZA",
+        "Note": "",
+        "Latitude": "45.585459",
+        "Longitude": "9.281562"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039387422-31",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "legalesps@preziosine.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "38bf7fdf-d715-42b8-b40e-a16afa7339d5",
+    "Name": "Infanzia - Papini",
+    "Alias": "infanzia_-_papini",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MODIGLIANI 63 MONZA",
+        "Note": "",
+        "Latitude": "45.584520",
+        "Longitude": "9.302051"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "4f5d61f6-63bf-4cf5-b7cd-51a46a080e19",
+    "Name": "Scuola Dell'infanzia Angelo Custode",
+    "Alias": "scuola_dellinfanzia_angelo_custode",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA SANTA MARGHERITA 2 MONZA",
+        "Note": "",
+        "Latitude": "45.583936",
+        "Longitude": "9.280083"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "03483975698",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "sc.inf_angelocustode@mepas.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "71d16b07-2029-489a-bac8-cb42c21cd19d",
+    "Name": "Scuola Dell'infanzia S. Luca",
+    "Alias": "scuola_dellinfanzia_s_luca",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA FRANCESCO GUERRAZZI 33 MONZA",
+        "Note": "",
+        "Latitude": "45.571314",
+        "Longitude": "9.262466"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "scuolamaterna.sanluca@virgilio.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0392004288",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "838b014f-4a00-46a4-bdc4-d30e14b999e4",
+    "Name": "Infanzia - J.MirÃƒÂ²",
+    "Alias": "infanzia_-_jmirãƒâ²",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE BIANCO MONZA",
+        "Note": "",
+        "Latitude": "45.581845",
+        "Longitude": "9.259581"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "miic8ae005@istruzione.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "867dff4b-3d2d-4713-afd6-5cb97a2414ee",
+    "Name": "Scuola Paritaria Margherita Tonoli",
+    "Alias": "scuola_paritaria_margherita_tonoli",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE BARRO 6 MONZA",
+        "Note": "",
+        "Latitude": "45.590542",
+        "Longitude": "9.243978"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "minime08@minimeoblate.191.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "02314148",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "95da9ba7-3498-445b-b205-890142421d35",
+    "Name": "Ente Morale Scuola Dell'infanzia 'Umberto I'",
+    "Alias": "ente_morale_scuola_dellinfanzia_umberto_i",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VICOLO SCULE 2 MONZA",
+        "Note": "",
+        "Latitude": "45.585147",
+        "Longitude": "9.277108"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "03389527264",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "dott.russo@studiopontiratti.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9a213618-8286-4951-b8eb-cf5b128cea89",
+    "Name": "Infanzia - Giotto",
+    "Alias": "infanzia_-_giotto",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA XX SETTEMBRE 27 MONZA",
+        "Note": "",
+        "Latitude": "45.576493",
+        "Longitude": "9.268945"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "miic8ae005@istruzione.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b988ff59-9368-47b3-b5be-0c592fc81047",
+    "Name": "Scuola Materna Cuore Immacolato Di Maria",
+    "Alias": "scuola_materna_cuore_immacolato_di_maria",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PARMENIDE 3 MONZA",
+        "Note": "",
+        "Latitude": "45.591537",
+        "Longitude": "9.302649"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0392020063",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "materna.cristore@libero.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bbf2b764-33d0-4be2-aa3d-f7cdc57978f7",
+    "Name": "Infanzia - Il Cartoccino",
+    "Alias": "infanzia_-_il_cartoccino",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA POLIZIANO MONZA",
+        "Note": "",
+        "Latitude": "45.578971",
+        "Longitude": "9.303394"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c272d573-8bdc-4d43-99c6-dbad7ff2f727",
+    "Name": "Scuola Materna Sacra Famiglia",
+    "Alias": "scuola_materna_sacra_famiglia",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MARELLI 10 MONZA",
+        "Note": "",
+        "Latitude": "45.568951",
+        "Longitude": "9.241928"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "scuola@sacrafamiglia2003.191.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039742831",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c3dadcca-359b-47b2-8372-d779eda7d9d7",
+    "Name": "Scuola Dell'infanzia Parrocchia S. Carlo",
+    "Alias": "scuola_dellinfanzia_parrocchia_s_carlo",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA XX SETTEMBRE 14/16 MONZA",
+        "Note": "",
+        "Latitude": "45.577412",
+        "Longitude": "9.269414"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "parrocchia_monza@libero.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039384430",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c74dfef4-c8b8-45d3-9b0b-d8adbac4a97f",
+    "Name": "Infanzia - via Sauro",
+    "Alias": "infanzia_-_via_sauro",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA S. ALESSANDRO MONZA",
+        "Note": "",
+        "Latitude": "45.556567",
+        "Longitude": "9.261149"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "miic8ah00l@istruzione.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c8135642-833c-4297-9efb-8efe7cb264d5",
+    "Name": "Scuola Infanzia Bachelet",
+    "Alias": "scuola_infanzia_bachelet",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DELLA BIRONA MONZA",
+        "Note": "",
+        "Latitude": "45.593866",
+        "Longitude": "9.260367"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039386471",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic8aa00t@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "cb239a08-3fd1-41cb-b283-252ce2781baa",
+    "Name": "Scuola Dell'infanzia Maddalena Di Canossa",
+    "Alias": "scuola_dellinfanzia_maddalena_di_canossa",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE PETRARCA 4 MONZA",
+        "Note": "",
+        "Latitude": "45.588514",
+        "Longitude": "9.275867"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "canmonza@fdcc.org",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039322688",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "d2f61600-5809-49ae-9129-b598578b4e65",
+    "Name": "Infanzia - Sauro",
+    "Alias": "infanzia_-_sauro",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAURO MONZA",
+        "Note": "",
+        "Latitude": "45.559395",
+        "Longitude": "9.262999"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "miic8ah00l@istruzione.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "d5ee68e6-6262-4544-a919-05ea616537c5",
+    "Name": "Parrocchia Regina Pacis Gestione Scuola Infanzia Paritaria",
+    "Alias": "parrocchia_regina_pacis_gestione_scuola_infanzia_paritaria",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BUONARROTI 47 MONZA",
+        "Note": "",
+        "Latitude": "45.576798",
+        "Longitude": "9.282867"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039836358",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "infanzia.reginapacis@tiscali.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "df086ee8-a151-4426-9d70-791190ac8498",
+    "Name": "Scuola Dell'infanzia S. Anna",
+    "Alias": "scuola_dellinfanzia_s_anna",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BUONARROTI 106 MONZA",
+        "Note": "",
+        "Latitude": "45.570191",
+        "Longitude": "9.284148"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "infanzia.s.anna.monza@ssgiacomoedonato.191.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039835322",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "df720823-b409-4b7d-99e6-01fedd474f4c",
+    "Name": "Scuola Dell'infanzia Parrocchiale San Rocco",
+    "Alias": "scuola_dellinfanzia_parrocchiale_san_rocco",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE SANTO 2 MONZA",
+        "Note": "",
+        "Latitude": "45.562891",
+        "Longitude": "9.265208"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "scuolabimbi.srmonza@alice.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0392180078",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "df836bdd-f428-4991-bab0-33fbe8ad5c3f",
+    "Name": "Parrocchia San Biagio",
+    "Alias": "parrocchia_san_biagio",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA LUCIANO MANARA 10 MONZA",
+        "Note": "",
+        "Latitude": "45.588570",
+        "Longitude": "9.264622"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "03356880501",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "amministrazione@sanbiagiomonza.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "e6956fd9-aff6-4cda-88a1-ef38b1426136",
+    "Name": "SCUOLA Dell'infanzia San Luigi",
+    "Alias": "scuola_dellinfanzia_san_luigi",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA G. DALLE BANDE NERE 9 MONZA",
+        "Note": "",
+        "Latitude": "45.569242",
+        "Longitude": "9.312328"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039831162",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "inf.sanluigi@tiscali.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ecf827eb-520a-4690-8c49-6e2a24a7ee70",
+    "Name": "Scuola Dell'infanzia Paritaria S.Giuseppe",
+    "Alias": "scuola_dellinfanzia_paritaria_sgiuseppe",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DUCA D'AOSTA 8 MONZA",
+        "Note": "",
+        "Latitude": "45.579736",
+        "Longitude": "9.252233"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "infanziasg@libero.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039740119",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f442a570-b7fe-4ad5-94d8-c2d68032de13",
+    "Name": "Fondazione Opere Educative",
+    "Alias": "fondazione_opere_educative",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE LOMBARDIA 180 MONZA",
+        "Note": "",
+        "Latitude": "45.572814",
+        "Longitude": "9.246495"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039740470",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@guastalla.org",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f5f1c7c3-96cb-42b9-972a-785853e8eeba",
+    "Name": "Scuola Dell'infanzia Paritaria 'Padre Di Francia'",
+    "Alias": "scuola_dellinfanzia_paritaria_padre_di_francia",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA TACCONA 16 MONZA",
+        "Note": "",
+        "Latitude": "45.579101",
+        "Longitude": "9.245632"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039742465",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "segreteria.scuola@padredifrancia.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "fe6a78ca-c86a-44b3-80c4-08f8f7733061",
+    "Name": "Suore Francescane Missionarie Di Gesu' Bambino",
+    "Alias": "suore_francescane_missionarie_di_gesu_bambino",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ANTONIO CEDERNA 17 MONZA",
+        "Note": "",
+        "Latitude": "45.576595",
+        "Longitude": "9.297153"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0392020939",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "isfmgb.monza@tin.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

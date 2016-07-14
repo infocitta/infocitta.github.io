@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "cb239a08-3fd1-41cb-b283-252ce2781baa",
+  "Name": "Scuola Dell'infanzia Maddalena Di Canossa",
+  "Alias": "scuola_dellinfanzia_maddalena_di_canossa",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIALE PETRARCA 4 MONZA",
+      "Note": "",
+      "Latitude": "45.588514",
+      "Longitude": "9.275867"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "canmonza@fdcc.org",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039322688",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "bca7aba7-6cb4-4ed7-8872-1d472523aaad",
+  "Name": "MONZA - VIA NIEVO",
+  "Alias": "monza_-_via_nievo",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA NIEVO MONZA",
+      "Note": "",
+      "Latitude": "45.576990",
+      "Longitude": "9.304638"
+    }
+  ],
+  "Contacts": []
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "dd5082f9-1d68-45fa-b898-9e845c3321dd",
+  "Name": "SPAZIO BIMBO",
+  "Alias": "spazio_bimbo",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BUCCARI  9 MONZA",
+      "Note": "",
+      "Latitude": "45.580872",
+      "Longitude": "9.281133"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "info@spaziobimbo.org",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039 835391",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

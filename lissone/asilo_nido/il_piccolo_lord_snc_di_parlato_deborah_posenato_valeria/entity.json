@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "43fdefe4-bc24-4757-8a82-f79756cd7e86",
+  "Name": "IL PICCOLO LORD SNC DI PARLATO DEBORAH POSENATO VALERIA",
+  "Alias": "il_piccolo_lord_snc_di_parlato_deborah_posenato_valeria",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DANTE ALIGHIERI 45 LISSONE",
+      "Note": "",
+      "Latitude": "45.611919",
+      "Longitude": "9.233996"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "340 2621981",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@asilonidoil piccololord.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

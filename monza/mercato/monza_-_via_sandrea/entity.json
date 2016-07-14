@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "67751986-8793-4136-960e-94b266ec1100",
+  "Name": "MONZA - VIA S.ANDREA",
+  "Alias": "monza_-_via_sandrea",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA S.ANDREA MONZA",
+      "Note": "",
+      "Latitude": "45.599544",
+      "Longitude": "9.265443"
+    }
+  ],
+  "Contacts": []
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "31a50d65-2a81-4a0c-a74a-18f055411874",
+  "Name": "SEREGNO - PIAZZA LINATE",
+  "Alias": "seregno_-_piazza_linate",
+  "Level1": [
+    {
+      "Value": "Seregno",
+      "Alias": "seregno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA LINATE SEREGNO",
+      "Note": "",
+      "Latitude": "45.650456",
+      "Longitude": "9.205160"
+    }
+  ],
+  "Contacts": []
+}

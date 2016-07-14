@@ -1,0 +1,84 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "153804cb-b67b-497b-8ed3-e45e7b0a88ea",
+    "Name": "IL NIDO DI WENDY",
+    "Alias": "il_nido_di_wendy",
+    "Level1": [
+      {
+        "Value": "Varedo",
+        "Alias": "varedo"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SOLARI  34 VAREDO",
+        "Note": "",
+        "Latitude": "45.596444",
+        "Longitude": "9.157665"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 554732",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "wendy.com@tiscali.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "4de8fa24-2993-450e-9111-76dbfe760d3a",
+    "Name": "ASILO NIDO COMUNALE ARCOBALENO",
+    "Alias": "asilo_nido_comunale_arcobaleno",
+    "Level1": [
+      {
+        "Value": "Varedo",
+        "Alias": "varedo"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VERDI  4 VAREDO",
+        "Note": "",
+        "Latitude": "45.598625",
+        "Longitude": "9.154290"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "nido.arcobaleno@comune.varedo.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 582838",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1472 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "108e7926-3a11-411b-986d-cb3416d474d7",
+    "Name": "BEEâ€¦HAPPY!",
+    "Alias": "beeâ€¦happy!",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA EDISON T.A.  17 MONZA",
+        "Note": "",
+        "Latitude": "45.573423",
+        "Longitude": "9.264518"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asilo@email.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "333 8225998",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "156bfdc5-fd28-415a-a4d6-f40c50c0d56a",
+    "Name": "IL PIANETA DEI BAMBINI",
+    "Alias": "il_pianeta_dei_bambini",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DE MARCHI EMILIO  18 MONZA",
+        "Note": "",
+        "Latitude": "45.592698",
+        "Longitude": "9.294578"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 2310905",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "monza@ilpianetadeibambini.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "16232bab-a2b1-43e6-b28d-e98603e34cbb",
+    "Name": "L'ARCOBALENO",
+    "Alias": "larcobaleno",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA NEGRELLI LUIGI  21 MONZA",
+        "Note": "",
+        "Latitude": "45.591861",
+        "Longitude": "9.299387"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "federica.arosio@live.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 833532",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "1785d2d1-7187-4113-b479-5a19b3eda890",
+    "Name": "NIDO SAN BIAGIO",
+    "Alias": "nido_san_biagio",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MANARA LUCIANO  10 MONZA",
+        "Note": "",
+        "Latitude": "45.588570",
+        "Longitude": "9.264622"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "amministrazione@sanbiagiomonza.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 323837",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "185913d7-1b90-4845-b9ee-780dec583d0d",
+    "Name": "ASILO NIDO CAZZANIGA",
+    "Alias": "asilo_nido_cazzaniga",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DEBUSSY CLAUDE  10 MONZA",
+        "Note": "",
+        "Latitude": "45.593984",
+        "Longitude": "9.255329"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "nidocazzaniga@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039  387888",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "22b1c765-297d-437c-a946-3ccb4ddfbe1f",
+    "Name": "LE MARGHERITINE",
+    "Alias": "le_margheritine",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE BARRO  6 MONZA",
+        "Note": "",
+        "Latitude": "45.590542",
+        "Longitude": "9.243978"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 790822",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@scuolatonoli.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "35df0392-dd75-4493-bb77-c4bb46eeb097",
+    "Name": "MARY POPPINS-VIA EDISON",
+    "Alias": "mary_poppins-via_edison",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA EDISON T.A.  17 MONZA",
+        "Note": "",
+        "Latitude": "45.573423",
+        "Longitude": "9.264518"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "marypoppins@alcoronlus.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2103340",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "36cef1cb-c40f-4c0b-b7d8-f9e053667b4b",
+    "Name": "ASILO NIDO SAN DONATO",
+    "Alias": "asilo_nido_san_donato",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GUARDINI ROMANO  9 MONZA",
+        "Note": "",
+        "Latitude": "45.572787",
+        "Longitude": "9.312813"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@nidosandonato.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "335 6408461",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "37a50972-adc8-4522-9812-50f4e38ec707",
+    "Name": "BIMBURRA'",
+    "Alias": "bimburra",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MARSALA  64 MONZA",
+        "Note": "",
+        "Latitude": "45.574376",
+        "Longitude": "9.257233"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "fiorenza.colloridi@yahoo.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "349 319059",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "384fd4f0-03e2-417a-b2f6-c236d4ea923c",
+    "Name": "IL BOSCO DELLE MERAVIGLIE MONZA",
+    "Alias": "il_bosco_delle_meraviglie_monza",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA TACCONA  16 MONZA",
+        "Note": "",
+        "Latitude": "45.579101",
+        "Longitude": "9.245632"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "348 6095569",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "3c6bf16d-6d6a-476a-9837-b6621fe2c8d3",
+    "Name": "CLUB DEGLI ALVEARI",
+    "Alias": "club_degli_alveari",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA RANDACCIO G.  11 MONZA",
+        "Note": "",
+        "Latitude": "45.587297",
+        "Longitude": "9.283929"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039  2328692",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "annapaola.osella@tiscali.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "448ce5b3-2fdf-45ca-b9e2-96ba188c9250",
+    "Name": "PICCOLE STELLE",
+    "Alias": "piccole_stelle",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DORIA ANDREA  1 MONZA",
+        "Note": "",
+        "Latitude": "45.580747",
+        "Longitude": "9.252617"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 735213  349 3805202",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asspiccolestelle@alice.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "4a92c25e-69da-4fd8-8b9d-39d25b715f41",
+    "Name": "COLLEGIO VILLORESI SAN GIUSEPPE",
+    "Alias": "collegio_villoresi_san_giuseppe",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTI E TOGNETTI 10 MONZA",
+        "Note": "",
+        "Latitude": "45.589607",
+        "Longitude": "9.265714"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039839041",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "segreteria@collegiovilloresi.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "579f7f47-4800-4859-b1d9-a1b62252d9a4",
+    "Name": "EFFEPI DI EFFEPI SRL",
+    "Alias": "effepi_di_effepi_srl",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CEDERNA ANTONIO  38 MONZA",
+        "Note": "",
+        "Latitude": "45.579321",
+        "Longitude": "9.297264"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asiloeffepi@gmail.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039  835627",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "66ec960e-6e85-48c3-870b-848fbd91876f",
+    "Name": "COLLEGIO DELLA GUASTALLA",
+    "Alias": "collegio_della_guastalla",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE LOMBARDIA  180 MONZA",
+        "Note": "",
+        "Latitude": "45.572814",
+        "Longitude": "9.246495"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 740470",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@guastalla.org",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "6724b648-dbe5-4042-9e0a-04e989cda674",
+    "Name": "I CUCCIOLI",
+    "Alias": "i_cuccioli",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DELLA TACCONA 16 MONZA",
+        "Note": "",
+        "Latitude": "45.579101",
+        "Longitude": "9.245632"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "segreteria.difrancia@virgilio.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 742465",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "68924258-bf0c-4ddc-b691-549fcefff46e",
+    "Name": "ASILO NIDO LIBERTA'",
+    "Alias": "asilo_nido_liberta",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BERTACCHI/MODIGLIANI MONZA",
+        "Note": "",
+        "Latitude": "45.590623",
+        "Longitude": "9.304026"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 2841818",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nidoliberta@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "6d215b91-1aeb-461f-a0b9-15648351a143",
+    "Name": "ASILO NIDO SAN FRUTTUOSO",
+    "Alias": "asilo_nido_san_fruttuoso",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA TAZZOLI ENRICO  4 MONZA",
+        "Note": "",
+        "Latitude": "45.571438",
+        "Longitude": "9.241870"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039  741761",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nidosanfruttuoso@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "7f311c02-a9db-4709-a6d0-6d69c95b7b5a",
+    "Name": "LE CILIEGINE",
+    "Alias": "le_ciliegine",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PERGOLESI G.  33 MONZA",
+        "Note": "",
+        "Latitude": "45.600185",
+        "Longitude": "9.258430"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 2339104",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "leciliegine@hsgerardo.org",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "85474f17-e279-4fc3-9f9f-1b44d5171243",
+    "Name": "L'ARCA DI CICCIO PASTICCIO",
+    "Alias": "larca_di_ciccio_pasticcio",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA FERRUCCI FRANCESCO  31 MONZA",
+        "Note": "",
+        "Latitude": "45.572399",
+        "Longitude": "9.308712"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "339 6054864",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "arca.cicciopasticcio@libero.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "8622477e-4c28-4beb-8fc2-b9368973773b",
+    "Name": "BUM BUM",
+    "Alias": "bum_bum",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA WAGNER RICHARD  14 MONZA",
+        "Note": "",
+        "Latitude": "45.597047",
+        "Longitude": "9.255791"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 2328603",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "sabrinavene@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "86eb8c83-1cea-49b3-97f5-946097ea0008",
+    "Name": "COLORE PASTELLO",
+    "Alias": "colore_pastello",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTANARI CARLO  3/C MONZA",
+        "Note": "",
+        "Latitude": "45.572050",
+        "Longitude": "9.239949"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "colorepastello@virgilio.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2721228",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "97cf488b-c367-4327-9f27-3ea85930edd9",
+    "Name": "IL GIARDINO SEGRETO",
+    "Alias": "il_giardino_segreto",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CARLO ALBERTO  48 MONZA",
+        "Note": "",
+        "Latitude": "45.587487",
+        "Longitude": "9.275968"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 328870",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "silvia_ferrari@hotmail.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9ceb0649-2c35-4045-8184-afd5f447c1ca",
+    "Name": "ASILO NIDO MARAMEO",
+    "Alias": "asilo_nido_marameo",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ENRICO DA MONZA  7 MONZA",
+        "Note": "",
+        "Latitude": "45.584052",
+        "Longitude": "9.283269"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 368099",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@asilomarameo.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "aab3b0f1-4c91-4724-a9d1-f01f12c04cf4",
+    "Name": "L'ALBERO DELLE NOCCIOLE",
+    "Alias": "lalbero_delle_nocciole",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE LEGNONE  23 MONZA",
+        "Note": "",
+        "Latitude": "45.589643",
+        "Longitude": "9.241916"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@alberodellenocciole.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "348 2603468",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b2a4d6cc-7bd4-49f6-988d-5a8ca5539f5d",
+    "Name": "LILO NIDO",
+    "Alias": "lilo_nido",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BORGAZZI GEROLAMO  143 MONZA",
+        "Note": "",
+        "Latitude": "45.561970",
+        "Longitude": "9.257462"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 2910263",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@lilonido.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b97ad016-be43-4828-9406-effd33771b32",
+    "Name": "BIDIBIBODIBIBU'",
+    "Alias": "bidibibodibibu",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BIANCAMANO U.  14 MONZA",
+        "Note": "",
+        "Latitude": "45.581651",
+        "Longitude": "9.252414"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 2001229",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@bidibibodibibÃ¹.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ba761eee-76d9-4a02-b890-50176307fba7",
+    "Name": "DRILLY E COCCO AMICI DI SAN ROCCO",
+    "Alias": "drilly_e_cocco_amici_di_san_rocco",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MERCADANTE S.  38 MONZA",
+        "Note": "",
+        "Latitude": "45.555479",
+        "Longitude": "9.256847"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039  2002992",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@drillyecocco.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c9584272-dc9c-4f25-8daa-02a98558d9f5",
+    "Name": "BIMBIINSIEME",
+    "Alias": "bimbiinsieme",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MAGENTA  4 MONZA",
+        "Note": "",
+        "Latitude": "45.580222",
+        "Longitude": "9.270755"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "bimbinsieme@novomillenio.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 321533",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ce1f180b-33a8-440d-b3d0-a8ffdf98970e",
+    "Name": "ASILO NIDO CEDERNA",
+    "Alias": "asilo_nido_cederna",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA POLIZIANO ANGELO  2 MONZA",
+        "Note": "",
+        "Latitude": "45.580225",
+        "Longitude": "9.303754"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039  830312",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nidocederna@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "dada585c-5f7a-42df-946f-155749282eb8",
+    "Name": "ASILO NIDO SAN ROCCO",
+    "Alias": "asilo_nido_san_rocco",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA NAZARIO SAURO MONZA",
+        "Note": "",
+        "Latitude": "45.559395",
+        "Longitude": "9.262999"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "nidosanrocco@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2003013",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "dd5082f9-1d68-45fa-b898-9e845c3321dd",
+    "Name": "SPAZIO BIMBO",
+    "Alias": "spazio_bimbo",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BUCCARI  9 MONZA",
+        "Note": "",
+        "Latitude": "45.580872",
+        "Longitude": "9.281133"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@spaziobimbo.org",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 835391",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "e7cea3be-472b-40e2-ba56-b4aa5b3248cc",
+    "Name": "IL MESTIERE DI CRESCERE",
+    "Alias": "il_mestiere_di_crescere",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA EVA SEGRE' 23 MONZA",
+        "Note": "",
+        "Latitude": "45.575290",
+        "Longitude": "9.253432"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 742510",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@ilmestieredicrescere.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "eb7df4b2-785d-4ef6-954a-8f03c1973f47",
+    "Name": "PAPPA COCCOLE E BALOCCHI",
+    "Alias": "pappa_coccole_e_balocchi",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ENRICO TOTI 36/A MONZA",
+        "Note": "",
+        "Latitude": "45.590009",
+        "Longitude": "9.285392"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "empiriaasilinido@libero.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2315139",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f0a8da83-d24f-41ce-84f3-76d1d5239e98",
+    "Name": "ASILO NIDO CENTRO",
+    "Alias": "asilo_nido_centro",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA MATTEOTTI GIACOMO  1 MONZA",
+        "Note": "",
+        "Latitude": "45.585860",
+        "Longitude": "9.277279"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 367372",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nidocentro@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f61757ca-179c-4e00-86e1-2fbf47b3ee62",
+    "Name": "ASILO NIDO TRIANTE",
+    "Alias": "asilo_nido_triante",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE BIANCO  13 MONZA",
+        "Note": "",
+        "Latitude": "45.581576",
+        "Longitude": "9.258552"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039  730178",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nidotriante@comune.monza.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "4f0f5bb7-e274-4ea4-a2cd-8bd8d519388f",
+  "Name": "Asilo Inf. Umberto I E Margherita",
+  "Alias": "asilo_inf_umberto_i_e_margherita",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DE GASPERI 41 BRUGHERIO",
+      "Note": "",
+      "Latitude": "45.551451",
+      "Longitude": "9.297224"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039870438",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "asiloumbertoprimo@gmail.com",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

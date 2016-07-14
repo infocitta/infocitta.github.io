@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "320ae5c1-82ec-45d1-982e-328cdf56605b",
+  "Name": "PRINCIPI E PRINCIPESSE",
+  "Alias": "principi_e_principesse",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA GARIBALDI G.  151/A GIUSSANO",
+      "Note": "",
+      "Latitude": "45.705076",
+      "Longitude": "9.200114"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "377 4521691",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@principieprincipesse.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

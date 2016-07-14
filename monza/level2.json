@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Value": "Scuola materna",
+    "Alias": "scuola_materna"
+  },
+  {
+    "Value": "Asilo nido",
+    "Alias": "asilo_nido"
+  },
+  {
+    "Value": "Mercati",
+    "Alias": "mercato"
+  },
+  {
+    "Value": "Pediatra",
+    "Alias": "pediatra"
+  }
+]

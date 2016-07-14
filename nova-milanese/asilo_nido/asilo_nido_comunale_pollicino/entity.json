@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "84e5e175-8f35-444c-9c70-476eb4f09b4d",
+  "Name": "ASILO NIDO COMUNALE POLLICINO",
+  "Alias": "asilo_nido_comunale_pollicino",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA TOGLIATTI P.  3 NOVA MILANESE",
+      "Note": "",
+      "Latitude": "45.585487",
+      "Longitude": "9.196788"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362 374510/511",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "nido.pollicino@novamilanese.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

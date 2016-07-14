@@ -1,0 +1,289 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "29423e65-3b67-4769-9384-44f2ff97c2e4",
+    "Name": "IL NIDO DI SIMONA",
+    "Alias": "il_nido_di_simona",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PIAVE 16 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.702249",
+        "Longitude": "9.205513"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 1900875",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@ilnidodisimona.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "320ae5c1-82ec-45d1-982e-328cdf56605b",
+    "Name": "PRINCIPI E PRINCIPESSE",
+    "Alias": "principi_e_principesse",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GARIBALDI G.  151/A GIUSSANO",
+        "Note": "",
+        "Latitude": "45.705076",
+        "Longitude": "9.200114"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "377 4521691",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@principieprincipesse.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "7217a8d6-221a-4a05-bfed-144193d835d1",
+    "Name": "ASILO NIDO 123â€¦STELLA",
+    "Alias": "asilo_nido_123â€¦stella",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DANTE ALIGHIERI 11 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.696302",
+        "Longitude": "9.220777"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "331 7555046",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "123stellasnc@legalmail.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "7c6e77f4-60a1-4b83-af71-4d00b1caa269",
+    "Name": "ASILO NIDO COMUNALE-L'ALBERO GRANDE",
+    "Alias": "asilo_nido_comunale-lalbero_grande",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MILANO 90 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.688514",
+        "Longitude": "9.204739"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 851929",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "servizisociali@comune.giussano.mb.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "8d40b25e-d840-45eb-ab42-10b33ad4dcdb",
+    "Name": "L'ISOLA CHE NON C'E'",
+    "Alias": "lisola_che_non_ce",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA SAN CARLO 14 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.698206",
+        "Longitude": "9.209531"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "silvia.rampon@libero.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "333 3510856",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b52263d1-ea1f-46dd-a742-35c186e07eb8",
+    "Name": "GHIRIGO'",
+    "Alias": "ghirigo",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA FERMI E.  5 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.695870",
+        "Longitude": "9.210060"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "francescacampolungo@hotmail.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 354115   339 4115316",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f8e4373e-e753-4be5-98f4-69586f9c998c",
+    "Name": "IL GIROTONDO",
+    "Alias": "il_girotondo",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA FILIPPO NERI 23 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.684223",
+        "Longitude": "9.203344"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362  310565",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "ilgirasole-onlus@tiscali.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

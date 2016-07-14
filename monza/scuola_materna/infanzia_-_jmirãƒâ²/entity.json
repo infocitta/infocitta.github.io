@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "838b014f-4a00-46a4-bdc4-d30e14b999e4",
+  "Name": "Infanzia - J.MirÃƒÂ²",
+  "Alias": "infanzia_-_jmirãƒâ²",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTE BIANCO MONZA",
+      "Note": "",
+      "Latitude": "45.581845",
+      "Longitude": "9.259581"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic8ae005@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

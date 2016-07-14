@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "8630279a-3628-47c5-ab47-ef240f6f10c1",
+  "Name": "IL PICCOLO MONDO DEGLI ANATROCCOLI",
+  "Alias": "il_piccolo_mondo_degli_anatroccoli",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA STOPPANI A.  10 BRUGHERIO",
+      "Note": "",
+      "Latitude": "45.548454",
+      "Longitude": "9.302854"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "francesca.pineider@yahoo.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "340 7890970",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

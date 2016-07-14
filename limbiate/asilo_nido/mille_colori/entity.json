@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "115583c1-80f7-4d79-92ea-aee08ea0e0c1",
+  "Name": "MILLE COLORI",
+  "Alias": "mille_colori",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MISSORI  13 LIMBIATE",
+      "Note": "",
+      "Latitude": "45.591907",
+      "Longitude": "9.140548"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "servizi.sociali@comune.limbiate.mb.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "02 99056912",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

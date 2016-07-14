@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "d5ee68e6-6262-4544-a919-05ea616537c5",
+  "Name": "Parrocchia Regina Pacis Gestione Scuola Infanzia Paritaria",
+  "Alias": "parrocchia_regina_pacis_gestione_scuola_infanzia_paritaria",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BUONARROTI 47 MONZA",
+      "Note": "",
+      "Latitude": "45.576798",
+      "Longitude": "9.282867"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039836358",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "infanzia.reginapacis@tiscali.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

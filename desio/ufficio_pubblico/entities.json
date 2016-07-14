@@ -1,0 +1,78 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "516a0914-4e8c-4338-b7cd-0de5309b052c",
+    "Name": "Agenzia delle Entrate Desio",
+    "Alias": "agenzia_delle_entrate_desio",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Uffici pubblici",
+        "Alias": "ufficio_pubblico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Carlo Porta, 29, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.611720",
+        "Longitude": "9.219372"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 989 6111",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "5749b4d6-3e1c-4e67-a965-0ac88cd7346c",
+    "Name": "BrianzAcque",
+    "Alias": "brianzacque",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Uffici pubblici",
+        "Alias": "ufficio_pubblico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Sportello Desio",
+        "Value": "Piazza Don Giussani, 4 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.620560",
+        "Longitude": "9.209659"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Pronto intervento",
+        "Value": "800 104 191",
+        "Note": "Attivo tutti i giorni 24 ore su 24",
+        "Type": 0
+      },
+      {
+        "Title": "Sportello Desio",
+        "Value": "0362 225318",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "95da9ba7-3498-445b-b205-890142421d35",
+  "Name": "Ente Morale Scuola Dell'infanzia 'Umberto I'",
+  "Alias": "ente_morale_scuola_dellinfanzia_umberto_i",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VICOLO SCULE 2 MONZA",
+      "Note": "",
+      "Latitude": "45.585147",
+      "Longitude": "9.277108"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "03389527264",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "dott.russo@studiopontiratti.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

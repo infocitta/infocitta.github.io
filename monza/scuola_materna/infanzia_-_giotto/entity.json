@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "9a213618-8286-4951-b8eb-cf5b128cea89",
+  "Name": "Infanzia - Giotto",
+  "Alias": "infanzia_-_giotto",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA XX SETTEMBRE 27 MONZA",
+      "Note": "",
+      "Latitude": "45.576493",
+      "Longitude": "9.268945"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic8ae005@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

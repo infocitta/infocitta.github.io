@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "a5cc27b3-d6a5-4232-9f7d-e19f01d3982a",
+  "Name": "Scuola Materna Immacolata",
+  "Alias": "scuola_materna_immacolata",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SAN GIOVANNI BOSCO 5 GIUSSANO",
+      "Note": "",
+      "Latitude": "45.683922",
+      "Longitude": "9.203632"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362860632",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "maternaimmacolata@alice.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

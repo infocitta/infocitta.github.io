@@ -1,0 +1,35 @@
+﻿{
+  "Version": 1,
+  "ID": "c57e3c00-e4c2-44d6-901c-9e524e8b6889",
+  "Name": "Infanzia - G. Rodari",
+  "Alias": "infanzia_-_g_rodari",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA VENEZIA NOVA MILANESE",
+      "Note": "",
+      "Latitude": "45.597101",
+      "Longitude": "9.197003"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "036240439",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

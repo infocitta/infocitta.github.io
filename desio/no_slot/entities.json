@@ -1,0 +1,442 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "00e7fbb0-4a43-4d7a-abec-a0fdf4f216ce",
+    "Name": "Elisir Cafè",
+    "Alias": "elisir_cafè",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Giuseppe Garibaldi 157 Desio",
+        "Note": "",
+        "Latitude": "45.612994",
+        "Longitude": "9.205452"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "331cf1ed-d15b-45b3-9635-b8b37b4e6a85",
+    "Name": "New Life Cafe'",
+    "Alias": "new_life_cafe",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via De Gasperi 13 Desio",
+        "Note": "",
+        "Latitude": "45.628048",
+        "Longitude": "9.201606"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "5ad6910f-689f-4306-a0bd-118c1e395f28",
+    "Name": "Caffettiamo",
+    "Alias": "caffettiamo",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Portichetto 16 Desio",
+        "Note": "",
+        "Latitude": "45.617392",
+        "Longitude": "9.209811"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "628d19bd-4d99-4bae-b6a1-e766af4c67d6",
+    "Name": "Officina del Caffè",
+    "Alias": "officina_del_caffè",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Garibaldi 99 Desio",
+        "Note": "",
+        "Latitude": "45.614697",
+        "Longitude": "9.205971"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "719c7192-29eb-4114-b1dc-dcee67329e55",
+    "Name": "Elite Cafè",
+    "Alias": "elite_cafè",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Olmetto 10 20832 Desio",
+        "Note": "",
+        "Latitude": "45.615690",
+        "Longitude": "9.207005"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39",
+    "Name": "Bar Centrale",
+    "Alias": "bar_centrale",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      },
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Piazza Conciliazione - Desio",
+        "Note": "",
+        "Latitude": "45.617370",
+        "Longitude": "9.207582"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0",
+    "Name": "CAFFÈ VERGNANO 1882",
+    "Alias": "caffè_vergnano_1882",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      },
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia 49 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.618263",
+        "Longitude": "9.207437"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1",
+    "Name": "Desìo",
+    "Alias": "desìo",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Lombardia, 6, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.619940",
+        "Longitude": "9.210502"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "b29fc521-861c-42f0-b233-fed458450991",
+    "Name": "MOMA CAFE DESIO",
+    "Alias": "moma_cafe_desio",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MATTEOTTI 80  Desio",
+        "Note": "",
+        "Latitude": "45.616373",
+        "Longitude": "9.200704"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "b409d66d-d3ce-4545-a509-cd6975d36946",
+    "Name": "La piazzetta",
+    "Alias": "la_piazzetta",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso italia 79 Desio",
+        "Note": "",
+        "Latitude": "45.620860",
+        "Longitude": "9.208482"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "b5611071-a6f6-4742-8eab-ad593620a0b1",
+    "Name": "Pan&cafe",
+    "Alias": "pan&cafe",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia 13 Desio",
+        "Note": "",
+        "Latitude": "45.617567",
+        "Longitude": "9.207226"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "d8db9102-52ef-4a7c-b078-c4d55a9d7c17",
+    "Name": "Torrefazione Brasilia",
+    "Alias": "torrefazione_brasilia",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Giacomo Matteotti 8 Desio MB",
+        "Note": "",
+        "Latitude": "45.617462",
+        "Longitude": "9.206810"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "da25915b-b363-4548-9f24-c8cd6c2e6f64",
+    "Name": "Madam Café",
+    "Alias": "madam_café",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via per Cesano Maderno 148 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.625206",
+        "Longitude": "9.188229"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "de8b6a5d-47ed-4825-af0e-7b205145058a",
+    "Name": "Sottozero",
+    "Alias": "sottozero",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Milano 361, Desio",
+        "Note": "",
+        "Latitude": "45.629443",
+        "Longitude": "9.205460"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "ebe4de96-2712-4116-bfc2-eb2e6df2bf40",
+    "Name": "Tabaccheria Di Simona Di Lin Leiying",
+    "Alias": "tabaccheria_di_simona_di_lin_leiying",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Custoza, 12, Desio MB",
+        "Note": "",
+        "Latitude": "45.622207",
+        "Longitude": "9.181519"
+      }
+    ],
+    "Contacts": []
+  }
+]

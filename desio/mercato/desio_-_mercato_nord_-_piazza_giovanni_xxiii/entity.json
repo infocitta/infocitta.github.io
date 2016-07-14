@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "a19c410a-76dc-4d08-ac04-a76bcc1b64bd",
+  "Name": "DESIO - MERCATO \"NORD\" - PIAZZA GIOVANNI XXIII",
+  "Alias": "desio_-_mercato_nord_-_piazza_giovanni_xxiii",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "MERCATO \"NORD\" - PIAZZA GIOVANNI XXIII DESIO",
+      "Note": "",
+      "Latitude": "",
+      "Longitude": ""
+    }
+  ],
+  "Contacts": []
+}

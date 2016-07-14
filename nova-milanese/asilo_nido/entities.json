@@ -1,0 +1,248 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "0799594b-b621-413b-a0e3-4e94d37f9d7c",
+    "Name": "L'ARCA DI NOE'",
+    "Alias": "larca_di_noe",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VILLORESI E.  32 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.586988",
+        "Longitude": "9.201056"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "373 3460658",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "mirelainta@yahoo.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "210d7db6-ccde-4b5f-8728-95f4e5c3a47c",
+    "Name": "PICCOLI PASSI",
+    "Alias": "piccoli_passi",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA TOGLIATTI P.  6 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.585487",
+        "Longitude": "9.196788"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "340 4708275",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@giuseppefelici.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "84e5e175-8f35-444c-9c70-476eb4f09b4d",
+    "Name": "ASILO NIDO COMUNALE POLLICINO",
+    "Alias": "asilo_nido_comunale_pollicino",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA TOGLIATTI P.  3 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.585487",
+        "Longitude": "9.196788"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 374510/511",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nido.pollicino@novamilanese.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ab4390c6-f15c-4b6d-a02d-31c077e3a136",
+    "Name": "HAPPY NIDO",
+    "Alias": "happy_nido",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SCURATTI A.  7 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.591718",
+        "Longitude": "9.187251"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 459243",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@happynido.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c08c3141-154b-4034-aeba-74f7721dca97",
+    "Name": "IL MONDO DEI BIMBI   2",
+    "Alias": "il_mondo_dei_bimbi___2",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAN MARTINO  4 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.598519",
+        "Longitude": "9.199022"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "nidoilmondodeibimbi@virgilio.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 366082",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "eefbffb9-2e95-40cd-9e6c-3aaa57688215",
+    "Name": "I PUFFETTI",
+    "Alias": "i_puffetti",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GARIBALDI G.  51 NOVA MILANESE",
+        "Note": "",
+        "Latitude": "45.584681",
+        "Longitude": "9.195394"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "toia123@libero.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "334  5418357",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

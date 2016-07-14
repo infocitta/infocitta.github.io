@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "ef2be077-b3f8-46d1-859a-6b70b0db47cb",
+  "Name": "Infanzia - Santa Maria",
+  "Alias": "infanzia_-_santa_maria",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA S. MARIA 187 DESIO",
+      "Note": "",
+      "Latitude": "45.616781",
+      "Longitude": "9.208670"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic879004@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0362624030",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

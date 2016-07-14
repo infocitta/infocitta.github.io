@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "ecf827eb-520a-4690-8c49-6e2a24a7ee70",
+  "Name": "Scuola Dell'infanzia Paritaria S.Giuseppe",
+  "Alias": "scuola_dellinfanzia_paritaria_sgiuseppe",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DUCA D'AOSTA 8 MONZA",
+      "Note": "",
+      "Latitude": "45.579736",
+      "Longitude": "9.252233"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "infanziasg@libero.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039740119",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

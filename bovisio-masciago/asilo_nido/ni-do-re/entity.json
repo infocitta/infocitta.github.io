@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "a1ac968e-799a-485c-babc-46f2b08839df",
+  "Name": "NI-DO-RE",
+  "Alias": "ni-do-re",
+  "Level1": [
+    {
+      "Value": "Bovisio Masciago",
+      "Alias": "bovisio-masciago"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA GIOVANNI XXIII 12 BOVISIO-MASCIAGO",
+      "Note": "",
+      "Latitude": "45.608537",
+      "Longitude": "9.152863"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362 591392",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "bri74@libero.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

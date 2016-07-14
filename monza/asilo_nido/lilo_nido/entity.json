@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "b2a4d6cc-7bd4-49f6-988d-5a8ca5539f5d",
+  "Name": "LILO NIDO",
+  "Alias": "lilo_nido",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BORGAZZI GEROLAMO  143 MONZA",
+      "Note": "",
+      "Latitude": "45.561970",
+      "Longitude": "9.257462"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2910263",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@lilonido.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

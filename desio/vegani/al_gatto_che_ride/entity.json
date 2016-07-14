@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "c5f648b2-b682-41a7-a27c-0335bf0d66a2",
+  "Name": "Al Gatto Che Ride",
+  "Alias": "al_gatto_che_ride",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Prodotti per vegani",
+      "Alias": "vegani"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Corso Lombardia 2, 20832 Desio",
+      "Note": "",
+      "Latitude": "45.619933",
+      "Longitude": "9.210222"
+    }
+  ],
+  "Contacts": []
+}

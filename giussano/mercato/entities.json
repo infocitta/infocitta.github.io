@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "3bae0ab7-f2bf-40fa-9b01-5bfa960065dc",
+    "Name": "GIUSSANO - PIAZZALE CATTANEO",
+    "Alias": "giussano_-_piazzale_cattaneo",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZALE CATTANEO GIUSSANO",
+        "Note": "",
+        "Latitude": "45.707163",
+        "Longitude": "9.200851"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "bb42366c-ffbc-4e35-9ab4-f7b1dc1bad08",
+    "Name": "GIUSSANO - VIA DEI CERTOSINI",
+    "Alias": "giussano_-_via_dei_certosini",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DEI CERTOSINI GIUSSANO",
+        "Note": "",
+        "Latitude": "45.672546",
+        "Longitude": "9.204867"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "be959d93-c4fe-409a-932a-f5350e531193",
+    "Name": "GIUSSANO - VIA LONGONI",
+    "Alias": "giussano_-_via_longoni",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Mercati",
+        "Alias": "mercato"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA LONGONI GIUSSANO",
+        "Note": "",
+        "Latitude": "45.695469",
+        "Longitude": "9.220758"
+      }
+    ],
+    "Contacts": []
+  }
+]

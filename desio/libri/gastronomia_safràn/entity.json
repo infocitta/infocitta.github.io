@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "15940cbc-ac1f-46ef-b852-df6fd134d5af",
+  "Name": "Gastronomia Safràn",
+  "Alias": "gastronomia_safràn",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Libri in Transito",
+      "Alias": "libri"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via Giuseppe Garibaldi, 55, 20832 Desio MB",
+      "Note": "",
+      "Latitude": "45.615573",
+      "Longitude": "9.206509"
+    }
+  ],
+  "Contacts": []
+}

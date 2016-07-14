@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
+  "Name": "IL PAESE DELLE MERAVIGLIE",
+  "Alias": "il_paese_delle_meraviglie",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "CORSO ITALIA 149 DESIO",
+      "Note": "",
+      "Latitude": "45.622835",
+      "Longitude": "9.208356"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362 304168",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@asilopaesedellemeraviglie.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

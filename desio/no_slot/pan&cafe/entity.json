@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "b5611071-a6f6-4742-8eab-ad593620a0b1",
+  "Name": "Pan&cafe",
+  "Alias": "pan&cafe",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Corso Italia 13 Desio",
+      "Note": "",
+      "Latitude": "45.617567",
+      "Longitude": "9.207226"
+    }
+  ],
+  "Contacts": []
+}

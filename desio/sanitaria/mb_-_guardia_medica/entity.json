@@ -1,0 +1,98 @@
+﻿{
+  "Version": 1,
+  "ID": "31a0c21d-019c-4ca8-ba22-b2ab77968d77",
+  "Name": "MB - Guardia Medica",
+  "Alias": "mb_-_guardia_medica",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Sanitaria",
+      "Alias": "sanitaria"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Limbiate",
+      "Value": "Via Monte Grappa, 20812 Limbiate MB",
+      "Note": "",
+      "Latitude": "45.612030",
+      "Longitude": "9.124101"
+    },
+    {
+      "Title": "Monza",
+      "Value": "Via Antonio Pacinotti, 2 20900 Monza MB",
+      "Note": "",
+      "Latitude": "45.576578",
+      "Longitude": "9.267968"
+    },
+    {
+      "Title": "Bellusco",
+      "Value": "Via Roma, 9 20882 Bellusco MB",
+      "Note": "",
+      "Latitude": "45.619074",
+      "Longitude": "9.419754"
+    },
+    {
+      "Title": "Seveso",
+      "Value": "Via Monte Grappa, 18 20822 Seveso MB",
+      "Note": "",
+      "Latitude": "45.641332",
+      "Longitude": "9.142747"
+    },
+    {
+      "Title": "Concorezzo",
+      "Value": "Via de Giorgi, 9, 20863 Concorezzo MB",
+      "Note": "",
+      "Latitude": "45.588369",
+      "Longitude": "9.335507"
+    },
+    {
+      "Title": "Cesano Maderno",
+      "Value": "Via Padre Egidio Boga, 8, 20811 Cesano Maderno MB",
+      "Note": "",
+      "Latitude": "45.624293",
+      "Longitude": "9.140165"
+    },
+    {
+      "Title": "Brugherio",
+      "Value": "Via Guglielmo Oberdan, 83 20861 Brugherio MB",
+      "Note": "",
+      "Latitude": "45.549765",
+      "Longitude": "9.307424"
+    },
+    {
+      "Title": "Nova Milanese",
+      "Value": "Via Croce Rossa Italiana, 2 20834 Nova Milanese MB",
+      "Note": "",
+      "Latitude": "45.587000",
+      "Longitude": "9.203680"
+    },
+    {
+      "Title": "Besana",
+      "Value": "Via Alessandro Manzoni, 21, 20842 Besana In Brianza MB",
+      "Note": "",
+      "Latitude": "45.701925",
+      "Longitude": "9.282429"
+    },
+    {
+      "Title": "Seregno",
+      "Value": "Via Giuseppe Verdi, 2 20831 Seregno MB",
+      "Note": "",
+      "Latitude": "45.653868",
+      "Longitude": "9.204975"
+    },
+    {
+      "Title": "Lissone",
+      "Value": "Via Alberto da Giussano, 56, 20853 Biassono MB",
+      "Note": "",
+      "Latitude": "45.633158",
+      "Longitude": "9.267232"
+    }
+  ],
+  "Contacts": []
+}

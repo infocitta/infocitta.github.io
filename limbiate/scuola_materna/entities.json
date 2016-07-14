@@ -1,0 +1,294 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "326e4fdf-b274-4c67-9341-3ee5d83cc432",
+    "Name": "Infanzia - Bruno Munari",
+    "Alias": "infanzia_-_bruno_munari",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ENNA LIMBIATE",
+        "Note": "",
+        "Latitude": "45.619356",
+        "Longitude": "9.119027"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "53e33de8-224f-4996-8376-cd9a8adc7e7f",
+    "Name": "Infanzia - Marco Polo",
+    "Alias": "infanzia_-_marco_polo",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BELLARIA LIMBIATE",
+        "Note": "",
+        "Latitude": "45.601014",
+        "Longitude": "9.114258"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "58265cb8-156f-4937-b7cc-07982da4e42b",
+    "Name": "Fondazione Scuola Dell'infanzia Regina Margherita",
+    "Alias": "fondazione_scuola_dellinfanzia_regina_margherita",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA SUORE DEL COTTOLENGO- SNC LIMBIATE",
+        "Note": "",
+        "Latitude": "38.897401",
+        "Longitude": "-77.026253"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "029960547",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "materna.re.ma@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "8f58d32a-074b-4305-bc51-ee1db049657f",
+    "Name": "Infanzia - Don Zeno",
+    "Alias": "infanzia_-_don_zeno",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GIORDANO LIMBIATE",
+        "Note": "",
+        "Latitude": "45.613780",
+        "Longitude": "9.107940"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b3036a96-ccc1-4918-82f0-d405f4167191",
+    "Name": "Scuola Materna Autorizzata 'Felice Solaro'",
+    "Alias": "scuola_materna_autorizzata_felice_solaro",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA TITO SPERI 6 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.591329",
+        "Longitude": "9.143370"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "sc.materna.f.solaro@tiscali.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0299056976",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "d5b1d476-4e1a-48d1-b5bc-c4f7bea677d1",
+    "Name": "Infanzia - Collodi",
+    "Alias": "infanzia_-_collodi",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GIOTTO 28 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.588070",
+        "Longitude": "9.117540"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "e4dba54f-8671-434c-aa9e-fa91ab76928d",
+    "Name": "Infanzia - Don Lorenzo Milani",
+    "Alias": "infanzia_-_don_lorenzo_milani",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CARTESIO 12 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.591889",
+        "Longitude": "9.138136"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "feb8de48-ff43-4599-9916-2829395e56f0",
+    "Name": "Infanzia - Madre Teresa di Calcutta",
+    "Alias": "infanzia_-_madre_teresa_di_calcutta",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ROMA LIMBIATE",
+        "Note": "",
+        "Latitude": "45.598229",
+        "Longitude": "9.138977"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

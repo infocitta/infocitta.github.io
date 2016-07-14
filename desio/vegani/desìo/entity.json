@@ -1,0 +1,32 @@
+﻿{
+  "Version": 1,
+  "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1",
+  "Name": "Desìo",
+  "Alias": "desìo",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    },
+    {
+      "Value": "Prodotti per vegani",
+      "Alias": "vegani"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via Lombardia, 6, 20832 Desio MB",
+      "Note": "",
+      "Latitude": "45.619940",
+      "Longitude": "9.210502"
+    }
+  ],
+  "Contacts": []
+}

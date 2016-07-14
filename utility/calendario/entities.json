@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "caa980b0-a9e2-48ad-8b30-eb7ed16a4274",
+    "Name": "Festività Italiane",
+    "Alias": "festività_italiane",
+    "Level1": [
+      {
+        "Value": "~ Utilità",
+        "Alias": "utility"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Calendario",
+        "Alias": "calendario"
+      }
+    ],
+    "Adresses": [],
+    "Contacts": []
+  }
+]

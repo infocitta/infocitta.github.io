@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "0f6c5bf3-1214-4189-b037-f24d915f4a37",
+  "Name": "Infanzia - Grimm",
+  "Alias": "infanzia_-_grimm",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MONTELLO BRUGHERIO",
+      "Note": "",
+      "Latitude": "45.566421",
+      "Longitude": "9.307214"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic8al00t@istruzione.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

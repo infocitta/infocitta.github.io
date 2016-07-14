@@ -1,0 +1,207 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "096e71a0-640e-4145-aeaf-e558f782908b",
+    "Name": "Scuola Dell'infanzia 'G.Aliprandi'",
+    "Alias": "scuola_dellinfanzia_galiprandi",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ALIPRANDI 6 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.697286",
+        "Longitude": "9.211160"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "segreteria@scuoladellinfanziaaliprandi.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362850603",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "5c54ed7e-d5b9-434f-b233-bbe5b9a356b9",
+    "Name": "Scuola Dell'infanzia 'Divina Provvidenza'",
+    "Alias": "scuola_dellinfanzia_divina_provvidenza",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA XXIV MAGGIO 10 - Frazione Paina GIUSSANO",
+        "Note": "",
+        "Latitude": "45.675894",
+        "Longitude": "9.202035"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362861488",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "maternapaina@tiscali.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "a5cc27b3-d6a5-4232-9f7d-e19f01d3982a",
+    "Name": "Scuola Materna Immacolata",
+    "Alias": "scuola_materna_immacolata",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAN GIOVANNI BOSCO 5 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.683922",
+        "Longitude": "9.203632"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362860632",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "maternaimmacolata@alice.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b84d51d9-4d7d-456f-b181-b7ce35fc34f1",
+    "Name": "Infanzia - via D'Azeglio",
+    "Alias": "infanzia_-_via_dazeglio",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MASSIMO D'AZEGLIO 64 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.691827",
+        "Longitude": "9.203900"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362850674",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic83500a@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "e9bf8ffb-8376-47ef-970d-d6227e052e1a",
+    "Name": "Scuola Dell'infanzia Parrocchiale 'L.Proserpio'",
+    "Alias": "scuola_dellinfanzia_parrocchiale_lproserpio",
+    "Level1": [
+      {
+        "Value": "Giussano",
+        "Alias": "giussano"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA STELVIO 4 GIUSSANO",
+        "Note": "",
+        "Latitude": "45.709626",
+        "Longitude": "9.217790"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362850007",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "segreteriagiussano@comunitasanpaolo.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,207 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "088702a5-0cdd-4081-a71d-810e109e8d70",
+    "Name": "ASILO NIDO BIANCA GALLONE",
+    "Alias": "asilo_nido_bianca_gallone",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GRANDI ACHILLE  3 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.590737",
+        "Longitude": "9.143169"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "materna.re.ma@gmail.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "02 99501393",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "115583c1-80f7-4d79-92ea-aee08ea0e0c1",
+    "Name": "MILLE COLORI",
+    "Alias": "mille_colori",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MISSORI  13 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.591907",
+        "Longitude": "9.140548"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "servizi.sociali@comune.limbiate.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "02 99056912",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "80439260-6cf6-44c3-95da-952da9edda9c",
+    "Name": "FANTASIA",
+    "Alias": "fantasia",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GIUSEPPE GARIBALDI 13 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.604683",
+        "Longitude": "9.125491"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "servizi.sociali@comune.limbiate.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "02 9964935",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "973b6767-7320-4d47-95d0-c949b82c7050",
+    "Name": "IL GRAPPOLO",
+    "Alias": "il_grappolo",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PISANI VITTORIO  10 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.604225",
+        "Longitude": "9.116135"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "02 23164988",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asilonido.ilgrappolo@libero.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bb8db115-5b13-43a1-87aa-32ee9d139d40",
+    "Name": "ASILO NIDO BEE HAPPY",
+    "Alias": "asilo_nido_bee_happy",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTE BIANCO 131 LIMBIATE",
+        "Note": "",
+        "Latitude": "45.617732",
+        "Longitude": "9.118412"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@asilonido-beehappy.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "334 7503933",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

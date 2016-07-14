@@ -1,0 +1,242 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "15940cbc-ac1f-46ef-b852-df6fd134d5af",
+    "Name": "Gastronomia Safràn",
+    "Alias": "gastronomia_safràn",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Giuseppe Garibaldi, 55, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.615573",
+        "Longitude": "9.206509"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "21d4430e-a51b-4874-84d4-0b20fd1b83d2",
+    "Name": "BAR DEL CORSO",
+    "Alias": "bar_del_corso",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia, 137, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.622610",
+        "Longitude": "9.208331"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "3d511cb4-38de-4c0c-987d-aeca6a53b790",
+    "Name": "BFD di Marco Farina & C. Snc",
+    "Alias": "bfd_di_marco farina &_c_snc",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Gioacchino Rossini, 102, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.609671",
+        "Longitude": "9.216818"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "48a8466b-4e1d-4d55-b331-076e8f1d1954",
+    "Name": "GELATERIA IL PISTACCHIO",
+    "Alias": "gelateria_il_pistacchio",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia, 14, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.617916",
+        "Longitude": "9.207524"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "527c5971-cdbb-48e5-a423-e13f370906bf",
+    "Name": "Abbigliamento Kids",
+    "Alias": "abbigliamento_kids",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia, 22, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.618251",
+        "Longitude": "9.207583"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39",
+    "Name": "Bar Centrale",
+    "Alias": "bar_centrale",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      },
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Piazza Conciliazione - Desio",
+        "Note": "",
+        "Latitude": "45.617370",
+        "Longitude": "9.207582"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0",
+    "Name": "CAFFÈ VERGNANO 1882",
+    "Alias": "caffè_vergnano_1882",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      },
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia 49 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.618263",
+        "Longitude": "9.207437"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "a65029fa-46b7-4256-90b4-27b00da99df2",
+    "Name": "GIUSSANI ABBIGLIAMENTO OLTRE LA 46",
+    "Alias": "giussani_abbigliamento_oltre_la_46",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Giuseppe Garibaldi, 31, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.616979",
+        "Longitude": "9.207168"
+      }
+    ],
+    "Contacts": []
+  }
+]

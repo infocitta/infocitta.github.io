@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "419e4eef-5846-4c80-80e8-a2dd10c907fc",
+  "Name": "Infanzia - Donizzetti",
+  "Alias": "infanzia_-_donizzetti",
+  "Level1": [
+    {
+      "Value": "Varedo",
+      "Alias": "varedo"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DONIZZETTI VAREDO",
+      "Note": "",
+      "Latitude": "45.598400",
+      "Longitude": "9.153167"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic87100d@istruzione.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

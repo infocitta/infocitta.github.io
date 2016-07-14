@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "b84d51d9-4d7d-456f-b181-b7ce35fc34f1",
+  "Name": "Infanzia - via D'Azeglio",
+  "Alias": "infanzia_-_via_dazeglio",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MASSIMO D'AZEGLIO 64 GIUSSANO",
+      "Note": "",
+      "Latitude": "45.691827",
+      "Longitude": "9.203900"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362850674",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic83500a@istruzione.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

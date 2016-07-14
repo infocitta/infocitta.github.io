@@ -1,0 +1,35 @@
+﻿{
+  "Version": 1,
+  "ID": "7d2d0c4e-4086-4532-9831-49d3e242d52a",
+  "Name": "Infanzia - L. Calastri",
+  "Alias": "infanzia_-_l_calastri",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SAN BERNARDO CESANO MADERNO",
+      "Note": "",
+      "Latitude": "45.638831",
+      "Longitude": "9.183888"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "80439260-6cf6-44c3-95da-952da9edda9c",
+  "Name": "FANTASIA",
+  "Alias": "fantasia",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA GIUSEPPE GARIBALDI 13 LIMBIATE",
+      "Note": "",
+      "Latitude": "45.604683",
+      "Longitude": "9.125491"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "servizi.sociali@comune.limbiate.mb.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "02 9964935",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

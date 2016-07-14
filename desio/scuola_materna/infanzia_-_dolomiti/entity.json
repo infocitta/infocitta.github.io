@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "6045afef-b9a3-446f-ab57-f8911c75648d",
+  "Name": "Infanzia - Dolomiti",
+  "Alias": "infanzia_-_dolomiti",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DOLOMITI 48 DESIO",
+      "Note": "",
+      "Latitude": "45.620443",
+      "Longitude": "9.185921"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "miic878008@istruzione.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

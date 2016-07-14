@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "c3dadcca-359b-47b2-8372-d779eda7d9d7",
+  "Name": "Scuola Dell'infanzia Parrocchia S. Carlo",
+  "Alias": "scuola_dellinfanzia_parrocchia_s_carlo",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA XX SETTEMBRE 14/16 MONZA",
+      "Note": "",
+      "Latitude": "45.577412",
+      "Longitude": "9.269414"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "parrocchia_monza@libero.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039384430",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

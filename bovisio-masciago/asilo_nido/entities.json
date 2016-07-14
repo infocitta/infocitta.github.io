@@ -1,0 +1,248 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "03082314-c6c5-4167-8a6d-f98531d4cbee",
+    "Name": "L'ALBERO",
+    "Alias": "lalbero",
+    "Level1": [
+      {
+        "Value": "Bovisio Masciago",
+        "Alias": "bovisio-masciago"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA REDIPUGLIA 5 BOVISIO-MASCIAGO",
+        "Note": "",
+        "Latitude": "45.612118",
+        "Longitude": "9.153232"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "cristianacucchi@yahoo.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "349 6725353",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "1791e24c-a5fb-40f3-9ef9-1a696816d9eb",
+    "Name": "POLVERE DI FATA",
+    "Alias": "polvere_di_fata",
+    "Level1": [
+      {
+        "Value": "Bovisio Masciago",
+        "Alias": "bovisio-masciago"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MARCONI 5 BOVISIO-MASCIAGO",
+        "Note": "",
+        "Latitude": "45.612182",
+        "Longitude": "9.148050"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "3471264137",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "ilaria.zabatta@hotmail.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "5fe373b8-9069-46f9-a5d2-a49b79ce9943",
+    "Name": "ATELIER DEI PICCOLI",
+    "Alias": "atelier_dei_piccoli",
+    "Level1": [
+      {
+        "Value": "Bovisio Masciago",
+        "Alias": "bovisio-masciago"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SALVEMINI 6 BOVISIO-MASCIAGO",
+        "Note": "",
+        "Latitude": "45.603840",
+        "Longitude": "9.140399"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "349 6289607",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "atelierdeipiccoli@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "a1ac968e-799a-485c-babc-46f2b08839df",
+    "Name": "NI-DO-RE",
+    "Alias": "ni-do-re",
+    "Level1": [
+      {
+        "Value": "Bovisio Masciago",
+        "Alias": "bovisio-masciago"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GIOVANNI XXIII 12 BOVISIO-MASCIAGO",
+        "Note": "",
+        "Latitude": "45.608537",
+        "Longitude": "9.152863"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 591392",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "bri74@libero.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bee63679-0495-48c9-bdbe-ef7177376b62",
+    "Name": "IL NIDO DI WENDY 2",
+    "Alias": "il_nido_di_wendy_2",
+    "Level1": [
+      {
+        "Value": "Bovisio Masciago",
+        "Alias": "bovisio-masciago"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "PIAZZA MOZART 6/7 BOVISIO-MASCIAGO",
+        "Note": "",
+        "Latitude": "45.608970",
+        "Longitude": "9.149966"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "nido.bovisio@alice.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "392 2229735",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "fdffdccc-5869-4e88-a244-312713aeb92b",
+    "Name": "ASILO NIDO COMUNALE-BOVISIO MASCIAGO",
+    "Alias": "asilo_nido_comunale-bovisio_masciago",
+    "Level1": [
+      {
+        "Value": "Bovisio Masciago",
+        "Alias": "bovisio-masciago"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BERTACCIOLA/VIA GRAMSCI BOVISIO-MASCIAGO",
+        "Note": "",
+        "Latitude": "45.608745",
+        "Longitude": "9.153894"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asilonido@comune.bovisiomasciago.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 597217",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

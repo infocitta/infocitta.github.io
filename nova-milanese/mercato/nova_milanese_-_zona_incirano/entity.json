@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "13e60186-d66c-431e-96cb-3bdab07c80e5",
+  "Name": "NOVA MILANESE - ZONA INCIRANO",
+  "Alias": "nova_milanese_-_zona_incirano",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "ZONA INCIRANO NOVA MILANESE",
+      "Note": "",
+      "Latitude": "45.582597",
+      "Longitude": "9.190877"
+    }
+  ],
+  "Contacts": []
+}

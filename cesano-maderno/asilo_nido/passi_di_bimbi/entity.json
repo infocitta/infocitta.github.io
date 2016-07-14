@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "201eaf76-d6e3-4bbb-a5ec-6d8602484945",
+  "Name": "PASSI DI BIMBI",
+  "Alias": "passi_di_bimbi",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA REDIPUGLIA 12 CESANO MADERNO",
+      "Note": "",
+      "Latitude": "45.622663",
+      "Longitude": "9.147774"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "328 1391828",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@passidibimbi.net",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

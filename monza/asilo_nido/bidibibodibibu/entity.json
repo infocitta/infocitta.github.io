@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "b97ad016-be43-4828-9406-effd33771b32",
+  "Name": "BIDIBIBODIBIBU'",
+  "Alias": "bidibibodibibu",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA BIANCAMANO U.  14 MONZA",
+      "Note": "",
+      "Latitude": "45.581651",
+      "Longitude": "9.252414"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "039 2001229",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@bidibibodibibÃ¹.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "6724b648-dbe5-4042-9e0a-04e989cda674",
+  "Name": "I CUCCIOLI",
+  "Alias": "i_cuccioli",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DELLA TACCONA 16 MONZA",
+      "Note": "",
+      "Latitude": "45.579101",
+      "Longitude": "9.245632"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "segreteria.difrancia@virgilio.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039 742465",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

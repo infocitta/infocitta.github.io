@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "58265cb8-156f-4937-b7cc-07982da4e42b",
+  "Name": "Fondazione Scuola Dell'infanzia Regina Margherita",
+  "Alias": "fondazione_scuola_dellinfanzia_regina_margherita",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA SUORE DEL COTTOLENGO- SNC LIMBIATE",
+      "Note": "",
+      "Latitude": "38.897401",
+      "Longitude": "-77.026253"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "029960547",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "materna.re.ma@gmail.com",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

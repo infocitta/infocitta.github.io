@@ -1,0 +1,246 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "29cd4196-0e50-45ce-9958-8cd7b0c64eea",
+    "Name": "Panificio Di Vara",
+    "Alias": "panificio_di_vara",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Giuseppe Garibaldi, 71, Desio MB",
+        "Note": "",
+        "Latitude": "45.615446",
+        "Longitude": "9.206464"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "405eaed8-8ee6-44a7-9a48-8abf1ea0d891",
+    "Name": "Pane e Dintorni",
+    "Alias": "pane_e_dintorni",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Edoardo Ferravilla, 51, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.616831",
+        "Longitude": "9.192888"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "61e51330-da01-4899-88fc-b15a2bf4bcd7",
+    "Name": "La Birreria Italiana",
+    "Alias": "la_birreria_italiana",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Carlo Forlanini, 71/A, 20033 Desio MB",
+        "Note": "",
+        "Latitude": "45.613104",
+        "Longitude": "9.220602"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39",
+    "Name": "Bar Centrale",
+    "Alias": "bar_centrale",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      },
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Piazza Conciliazione - Desio",
+        "Note": "",
+        "Latitude": "45.617370",
+        "Longitude": "9.207582"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0",
+    "Name": "CAFFÈ VERGNANO 1882",
+    "Alias": "caffè_vergnano_1882",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Libri in Transito",
+        "Alias": "libri"
+      },
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Italia 49 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.618263",
+        "Longitude": "9.207437"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1",
+    "Name": "Desìo",
+    "Alias": "desìo",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Locali NoSlot",
+        "Alias": "no_slot"
+      },
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Via Lombardia, 6, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.619940",
+        "Longitude": "9.210502"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "c5f648b2-b682-41a7-a27c-0335bf0d66a2",
+    "Name": "Al Gatto Che Ride",
+    "Alias": "al_gatto_che_ride",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Corso Lombardia 2, 20832 Desio",
+        "Note": "",
+        "Latitude": "45.619933",
+        "Longitude": "9.210222"
+      }
+    ],
+    "Contacts": []
+  },
+  {
+    "Version": 1,
+    "ID": "e5f6cb95-df3c-44c8-aad8-f6db25f5d070",
+    "Name": "Crema & Cioccolato ",
+    "Alias": "crema_&_cioccolato_",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Prodotti per vegani",
+        "Alias": "vegani"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "Piazza Don Giussani, 13, 20832 Desio MB",
+        "Note": "",
+        "Latitude": "45.620856",
+        "Longitude": "9.210470"
+      }
+    ],
+    "Contacts": []
+  }
+]

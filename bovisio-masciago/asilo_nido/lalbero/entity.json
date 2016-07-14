@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "03082314-c6c5-4167-8a6d-f98531d4cbee",
+  "Name": "L'ALBERO",
+  "Alias": "lalbero",
+  "Level1": [
+    {
+      "Value": "Bovisio Masciago",
+      "Alias": "bovisio-masciago"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA REDIPUGLIA 5 BOVISIO-MASCIAGO",
+      "Note": "",
+      "Latitude": "45.612118",
+      "Longitude": "9.153232"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "cristianacucchi@yahoo.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "349 6725353",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "1785d2d1-7187-4113-b479-5a19b3eda890",
+  "Name": "NIDO SAN BIAGIO",
+  "Alias": "nido_san_biagio",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA MANARA LUCIANO  10 MONZA",
+      "Note": "",
+      "Latitude": "45.588570",
+      "Longitude": "9.264622"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "amministrazione@sanbiagiomonza.com",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039 323837",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

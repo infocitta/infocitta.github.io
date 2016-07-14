@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "0799594b-b621-413b-a0e3-4e94d37f9d7c",
+  "Name": "L'ARCA DI NOE'",
+  "Alias": "larca_di_noe",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA VILLORESI E.  32 NOVA MILANESE",
+      "Note": "",
+      "Latitude": "45.586988",
+      "Longitude": "9.201056"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "373 3460658",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "mirelainta@yahoo.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

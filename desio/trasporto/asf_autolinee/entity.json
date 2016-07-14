@@ -1,0 +1,27 @@
+﻿{
+  "Version": 1,
+  "ID": "7ab91894-a76f-48ae-878f-da438c02cab7",
+  "Name": "ASF Autolinee",
+  "Alias": "asf_autolinee",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Trasporti",
+      "Alias": "trasporto"
+    }
+  ],
+  "Adresses": [],
+  "Contacts": [
+    {
+      "Title": "ASF Autolinee C 80 Feriale Invernale e Festivo",
+      "Value": "http://www.asfautolinee.it/Portals/5/Documents/Orari/C80.pdf?ver=2015-10-19-062905-217",
+      "Note": "Cantù  Vighizzolo  Monza",
+      "Type": 2
+    }
+  ]
+}

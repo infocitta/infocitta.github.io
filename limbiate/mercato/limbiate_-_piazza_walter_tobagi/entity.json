@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "0230948c-5793-48c5-9374-0479e3c05dc5",
+  "Name": "LIMBIATE - PIAZZA WALTER TOBAGI",
+  "Alias": "limbiate_-_piazza_walter_tobagi",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "PIAZZA WALTER TOBAGI LIMBIATE",
+      "Note": "",
+      "Latitude": "45.642111",
+      "Longitude": "9.167184"
+    }
+  ],
+  "Contacts": []
+}

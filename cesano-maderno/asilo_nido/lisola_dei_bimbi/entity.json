@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "de704fd2-6cd0-4243-a30f-7f72c4c834d8",
+  "Name": "L'ISOLA DEI BIMBI",
+  "Alias": "lisola_dei_bimbi",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA COPERNICO 19 CESANO MADERNO",
+      "Note": "",
+      "Latitude": "45.631924",
+      "Longitude": "9.139703"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "338 3660383",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@lisoladeibimbi.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

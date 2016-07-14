@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "bc2e2269-687e-467c-9e5e-db166ea80ccc",
+  "Name": "MUGGIO' - VIA LEONCAVALLO",
+  "Alias": "muggio_-_via_leoncavallo",
+  "Level1": [
+    {
+      "Value": "Muggio'",
+      "Alias": "muggio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA LEONCAVALLO MUGGIO'",
+      "Note": "",
+      "Latitude": "45.581370",
+      "Longitude": "9.224081"
+    }
+  ],
+  "Contacts": []
+}

@@ -1,0 +1,36 @@
+﻿{
+  "Version": 1,
+  "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39",
+  "Name": "Bar Centrale",
+  "Alias": "bar_centrale",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Libri in Transito",
+      "Alias": "libri"
+    },
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    },
+    {
+      "Value": "Prodotti per vegani",
+      "Alias": "vegani"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Piazza Conciliazione - Desio",
+      "Note": "",
+      "Latitude": "45.617370",
+      "Longitude": "9.207582"
+    }
+  ],
+  "Contacts": []
+}

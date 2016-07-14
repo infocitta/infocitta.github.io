@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "9424d6c8-a694-413c-8bc4-aa792d3073b5",
+  "Name": "ASILO NIDO PICCOLO PRINCIPE",
+  "Alias": "asilo_nido_piccolo_principe",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SANTA CATERINA DA SIENA 16 LISSONE",
+      "Note": "",
+      "Latitude": "45.616572",
+      "Longitude": "9.240233"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "329 1640153",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@asilonidopiccoloprincipe.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

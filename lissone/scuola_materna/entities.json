@@ -1,0 +1,312 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "05bfc517-bbf0-458d-9d4a-f9c021454949",
+    "Name": "Infanzia - Volturno",
+    "Alias": "infanzia_-_volturno",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VOLTURNO LISSONE",
+        "Note": "",
+        "Latitude": "45.615025",
+        "Longitude": "9.237277"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "09543c27-571c-4003-8c97-0837eae97a10",
+    "Name": "Scuola Dell'infanzia 'Maria Bambina'",
+    "Alias": "scuola_dellinfanzia_maria_bambina",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ORELLI 21 LISSONE",
+        "Note": "",
+        "Latitude": "45.611946",
+        "Longitude": "9.243839"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039482359",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "mbambinalissone@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "0bf5f5e4-ce35-4fb1-9f3f-4c55a317b18c",
+    "Name": "Asilo nido Tiglio",
+    "Alias": "asilo_nido_tiglio",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DEL TIGLIO 10 Lissone",
+        "Note": "",
+        "Latitude": "45.626501",
+        "Longitude": "9.239384"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039462385",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asilonido@comune.lissone.mi.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "25afd012-79e5-4eea-988a-3f06b442cc0f",
+    "Name": "Scuola Dell'infanzia Paritaria 'Cuore Immacolato Di Maria'",
+    "Alias": "scuola_dellinfanzia_paritaria_cuore_immacolato_di_maria",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA NOBEL 14 LISSONE",
+        "Note": "",
+        "Latitude": "45.605142",
+        "Longitude": "9.253715"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "scuolainfanziacim@tiscali.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039482510",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "74f0ba93-0031-4721-8c15-869c44f25d31",
+    "Name": "Infanzia - Penati",
+    "Alias": "infanzia_-_penati",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA PENATI LISSONE",
+        "Note": "",
+        "Latitude": "45.615279",
+        "Longitude": "9.256976"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "b016e650-b3fa-4859-bb26-191510a9f24f",
+    "Name": "Infanzia - Tiglio",
+    "Alias": "infanzia_-_tiglio",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DEL PIOPPO LISSONE",
+        "Note": "",
+        "Latitude": "45.626741",
+        "Longitude": "9.240379"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039481125",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic89200e@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "d291c233-0c75-4814-88f5-1de787dc1aec",
+    "Name": "Scuola Marterna Paritaria Mater Divinae Providentiae",
+    "Alias": "scuola_marterna_paritaria_mater_divinae_providentiae",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DE AMICIS 17 LISSONE",
+        "Note": "",
+        "Latitude": "45.633872",
+        "Longitude": "9.232447"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "materdivinaeprov@tiscali.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039482329",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "f801d825-77bd-40d9-bb02-6befcf852dd2",
+    "Name": "Infanzia - Cagnola",
+    "Alias": "infanzia_-_cagnola",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MARIANI LISSONE",
+        "Note": "",
+        "Latitude": "45.614329",
+        "Longitude": "9.237913"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "b409d66d-d3ce-4545-a509-cd6975d36946",
+  "Name": "La piazzetta",
+  "Alias": "la_piazzetta",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Corso italia 79 Desio",
+      "Note": "",
+      "Latitude": "45.620860",
+      "Longitude": "9.208482"
+    }
+  ],
+  "Contacts": []
+}

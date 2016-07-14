@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "7fb02ce2-7d58-4f37-8fd9-cdb7392a615e",
+  "Name": "Scuola Dell'infanzia 'San Giorgio'",
+  "Alias": "scuola_dellinfanzia_san_giorgio",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA S.APOLLINARE 6 DESIO",
+      "Note": "",
+      "Latitude": "45.621311",
+      "Longitude": "9.230891"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "maternasangiorgio@tiscali.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0362309342",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

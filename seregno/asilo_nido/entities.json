@@ -1,0 +1,535 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "06229738-7451-4317-9bcd-31da0c0f9938",
+    "Name": "I CUCCIOLI DI ROBY",
+    "Alias": "i_cuccioli_di_roby",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA STELVIO 2 SEREGNO",
+        "Note": "",
+        "Latitude": "45.658522",
+        "Longitude": "9.207024"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "333 2834938",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "federica.conte@live.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "1a30306c-d13f-48ec-9508-5dbbca4180ce",
+    "Name": "BABYSCHOOL-1 2 3 STELLA",
+    "Alias": "babyschool-1_2_3_stella",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SANZIO 29 SEREGNO",
+        "Note": "",
+        "Latitude": "45.648052",
+        "Longitude": "9.208551"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@asilobabyschool.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 247025",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "28451f7e-59e2-4f19-97e5-c3e8039c6ce2",
+    "Name": "MARIA IMMACOLATA",
+    "Alias": "maria_immacolata",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA LAMARMORA 43 SEREGNO",
+        "Note": "",
+        "Latitude": "45.646972",
+        "Longitude": "9.206419"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 237670",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "nido.immacolata@libero.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "40ca6e4f-2822-493a-befb-de269281a730",
+    "Name": "THE CHILDREN'S ISLAND",
+    "Alias": "the_childrens_island",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAN ROCCO 81 SEREGNO",
+        "Note": "",
+        "Latitude": "45.655920",
+        "Longitude": "9.209459"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "339 2075029    328 9076368",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "thechildrenisland@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "50030f6e-c1db-45d8-b1cf-edbc1b2b1d3b",
+    "Name": "ASILO NIDO AQUILONE",
+    "Alias": "asilo_nido_aquilone",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BOTTEGO 11 SEREGNO",
+        "Note": "",
+        "Latitude": "45.648775",
+        "Longitude": "9.197555"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 236184",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info.asilonido@seregno.info",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "5641cf20-c105-475d-b2ef-d7bc6694fe34",
+    "Name": "DOLCENIDO",
+    "Alias": "dolcenido",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MACALLE' 16 SEREGNO",
+        "Note": "",
+        "Latitude": "45.645945",
+        "Longitude": "9.213628"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "392 5304316",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info.dolcenido@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "6b8b68e7-84be-4657-bc3c-9e3cbd414b29",
+    "Name": "BETTY'S BABY CLUB",
+    "Alias": "bettys_baby_club",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DA VINCI 1 SEREGNO",
+        "Note": "",
+        "Latitude": "45.651026",
+        "Longitude": "9.203609"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@babyclubseregno.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "340 8650370",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "792dd38d-545a-4e73-b004-98d791ffe0a7",
+    "Name": "ASILO NIDO COMUNALE-SEREGNO",
+    "Alias": "asilo_nido_comunale-seregno",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MARZABOTTO 13 SEREGNO",
+        "Note": "",
+        "Latitude": "45.647127",
+        "Longitude": "9.195577"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info.asilonido@seregno.info",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 236184",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "7a008bc8-f262-4951-bbd2-f7f8af85e495",
+    "Name": "IL NIDO VERDE",
+    "Alias": "il_nido_verde",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SONDRIO 24 SEREGNO",
+        "Note": "",
+        "Latitude": "45.656533",
+        "Longitude": "9.218247"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asilonidoverde@gmail.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "348 0820411",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "bab953b9-9d75-4d67-8e83-783ce4577af5",
+    "Name": "LA CAROVANA",
+    "Alias": "la_carovana",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SCHIAPPARELLI 24 SEREGNO",
+        "Note": "",
+        "Latitude": "45.653597",
+        "Longitude": "9.203030"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 230110",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "segreteria@iemcandia.org",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "cfd64544-04b1-4725-ab1a-694267b5ea77",
+    "Name": "IL PAESE DEI BALOCCHI",
+    "Alias": "il_paese_dei_balocchi",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA RESEGONE 52 SEREGNO",
+        "Note": "",
+        "Latitude": "45.661404",
+        "Longitude": "9.209983"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "ilpaesedeibalocchi.nido@hotmail.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "349  4451104",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "e9e002d9-72fe-4bec-83b8-d4f88ef5b7f7",
+    "Name": "FANTASILANDIA",
+    "Alias": "fantasilandia",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA ORCELLETTO 25/b SEREGNO",
+        "Note": "",
+        "Latitude": "45.667558",
+        "Longitude": "9.194618"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 325281",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asilofantasilandia@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ea2a2e54-9f31-4ff4-97ef-a57d5422d7f1",
+    "Name": "BABY COLLEGE",
+    "Alias": "baby_college",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VERDI 83 SEREGNO",
+        "Note": "",
+        "Latitude": "45.661606",
+        "Longitude": "9.203187"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@babycollege.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 798277",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

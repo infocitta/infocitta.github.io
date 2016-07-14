@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Value": "Scuola materna",
+    "Alias": "scuola_materna"
+  },
+  {
+    "Value": "Asilo nido",
+    "Alias": "asilo_nido"
+  },
+  {
+    "Value": "Mercati",
+    "Alias": "mercato"
+  },
+  {
+    "Value": "Sanitaria",
+    "Alias": "sanitaria"
+  },
+  {
+    "Value": "Medico di famiglia",
+    "Alias": "medico"
+  },
+  {
+    "Value": "~ Comune",
+    "Alias": "comune"
+  }
+]

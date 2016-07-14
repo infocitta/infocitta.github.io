@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32",
+  "Name": "LA VISPA TERESA",
+  "Alias": "la_vispa_teresa",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA CANONICA VILLA 26/28 DESIO",
+      "Note": "",
+      "Latitude": "45.614128",
+      "Longitude": "9.207836"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "stefania.14@libero.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0362 300609",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

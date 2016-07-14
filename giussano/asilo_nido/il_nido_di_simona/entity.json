@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "29423e65-3b67-4769-9384-44f2ff97c2e4",
+  "Name": "IL NIDO DI SIMONA",
+  "Alias": "il_nido_di_simona",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA PIAVE 16 GIUSSANO",
+      "Note": "",
+      "Latitude": "45.702249",
+      "Longitude": "9.205513"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362 1900875",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@ilnidodisimona.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

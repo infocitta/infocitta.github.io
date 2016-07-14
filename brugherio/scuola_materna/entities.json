@@ -1,0 +1,207 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "0f6c5bf3-1214-4189-b037-f24d915f4a37",
+    "Name": "Infanzia - Grimm",
+    "Alias": "infanzia_-_grimm",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MONTELLO BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.566421",
+        "Longitude": "9.307214"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic8al00t@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "2e160a2c-aab8-47f6-9d16-5520ba9e207a",
+    "Name": "IC Don Camagni",
+    "Alias": "ic_don_camagni",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DANTE 111 Brugherio",
+        "Note": "",
+        "Latitude": "45.548431",
+        "Longitude": "9.294726"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039879623",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "miic8aj00c@istruzione.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "4f0f5bb7-e274-4ea4-a2cd-8bd8d519388f",
+    "Name": "Asilo Inf. Umberto I E Margherita",
+    "Alias": "asilo_inf_umberto_i_e_margherita",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DE GASPERI 41 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.551451",
+        "Longitude": "9.297224"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039870438",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asiloumbertoprimo@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "c29f2fb5-880a-4a4f-93cc-247a9bb86bc8",
+    "Name": "Infanzia - Pavan",
+    "Alias": "infanzia_-_pavan",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE BRIANZA 46 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.556487",
+        "Longitude": "9.307944"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "miic8am00n@istruzione.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "dedd4bc0-70e6-4e28-8338-395e1e98f77a",
+    "Name": "Scuola Materna Maria Ausiliatrice",
+    "Alias": "scuola_materna_maria_ausiliatrice",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Scuola materna",
+        "Alias": "scuola_materna"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SANTA CATERINA 53 BRUGHERIO",
+        "Note": "",
+        "Latitude": "45.556031",
+        "Longitude": "9.305544"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "03279917207",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "scuolamaterna.ma@libero.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

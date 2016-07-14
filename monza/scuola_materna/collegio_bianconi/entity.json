@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "03300c05-1f49-4096-ab70-99178cf2c4b5",
+  "Name": "Collegio Bianconi",
+  "Alias": "collegio_bianconi",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA Q.SELLA 6 A MONZA",
+      "Note": "",
+      "Latitude": "45.586736",
+      "Longitude": "9.268218"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "segreteria@collegio-bianconi.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "039363381",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

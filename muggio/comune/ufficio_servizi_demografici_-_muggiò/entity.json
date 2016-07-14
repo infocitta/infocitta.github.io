@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "b585ca91-8ee1-4a0d-92e9-f4740abb9a67",
+  "Name": "Ufficio Servizi Demografici - Muggiò",
+  "Alias": "ufficio_servizi_demografici_-_muggiò",
+  "Level1": [
+    {
+      "Value": "Muggio'",
+      "Alias": "muggio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "~ Comune",
+      "Alias": "comune"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "PALAZZO ISIMBARDI",
+      "Value": "Piazza Giacomo Matteotti, 5, 20835 Muggiò MB",
+      "Note": "",
+      "Latitude": "45.593350",
+      "Longitude": "9.230000"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono 3",
+      "Value": "039 2709318",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "demografici@comune.muggio.mb.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono 1",
+      "Value": "039 2709315",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Telefono 2",
+      "Value": "039 2709316",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

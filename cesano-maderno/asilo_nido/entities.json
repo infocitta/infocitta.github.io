@@ -1,0 +1,330 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "201eaf76-d6e3-4bbb-a5ec-6d8602484945",
+    "Name": "PASSI DI BIMBI",
+    "Alias": "passi_di_bimbi",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA REDIPUGLIA 12 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.622663",
+        "Longitude": "9.147774"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "328 1391828",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@passidibimbi.net",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "45ae2262-48a4-4c69-bd25-44bd47816e69",
+    "Name": "RONZONIDO",
+    "Alias": "ronzonido",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA GIULIANA RONZONI 3 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.629468",
+        "Longitude": "9.144400"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "operapiagiulianaronzoni@virgilio.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 501287",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "55dc20ce-df22-40df-b7c6-8287292e0616",
+    "Name": "ABC NURSERY",
+    "Alias": "abc_nursery",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA REDIPUGLIA 12 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.622663",
+        "Longitude": "9.147774"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@asilonido-cesanomaderno.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "391 4811935",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "6d30fd80-de65-4d69-acc1-7078e9f14f29",
+    "Name": "IL BOSCO DELLE MERAVIGLIE",
+    "Alias": "il_bosco_delle_meraviglie",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DON ENRICO TAZZOLI 24 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.639054",
+        "Longitude": "9.186140"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@ilboscodellemeraviglie.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 1785655",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "951c0c80-56e8-4b0c-a093-00b624d259d2",
+    "Name": "ASILO NIDO 1,2,3 STELLA BABY SCHOOL",
+    "Alias": "asilo_nido_1-2-3_stella_baby_school",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BENACO 10 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.634278",
+        "Longitude": "9.167935"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "info@asilobabyschool.com",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 551229",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9e55f4e1-2824-4ece-b637-379595549b54",
+    "Name": "ASILO NIDO COMUNALE-CESANO M",
+    "Alias": "asilo_nido_comunale-cesano_m",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SAN MARCO 18 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.629473",
+        "Longitude": "9.169839"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "asilonido@comune.cesano-maderno.mb.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "0362 520991",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "de704fd2-6cd0-4243-a30f-7f72c4c834d8",
+    "Name": "L'ISOLA DEI BIMBI",
+    "Alias": "lisola_dei_bimbi",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA COPERNICO 19 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.631924",
+        "Longitude": "9.139703"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "338 3660383",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@lisoladeibimbi.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ffe04c4d-f30b-4f7f-869d-208e034eebaf",
+    "Name": "VOGLIA DI COCCOLE",
+    "Alias": "voglia_di_coccole",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA VOLTA 81 CESANO MADERNO",
+        "Note": "",
+        "Latitude": "45.633182",
+        "Longitude": "9.140370"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "0362 545576",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "asilovogliadicoccole@alice.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  }
+]

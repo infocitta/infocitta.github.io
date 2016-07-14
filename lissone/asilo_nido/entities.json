@@ -1,0 +1,371 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "1c33f544-e83a-4dda-9274-00a106185030",
+    "Name": "COCCOLANDIA",
+    "Alias": "coccolandia",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIALE DELLA REPUBBLICA 65 LISSONE",
+        "Note": "",
+        "Latitude": "45.608191",
+        "Longitude": "9.250430"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "331  3829343",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "sarettaandrovandi@hotmail.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "40d8c04c-addf-4308-bb9b-950a51e65535",
+    "Name": "ASSOCIAZIONE PETER PAN",
+    "Alias": "associazione_peter_pan",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DANTE ALIGHIERI 10 LISSONE",
+        "Note": "",
+        "Latitude": "45.612238",
+        "Longitude": "9.237047"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "349 1637428",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "lorenzamassara63@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "43fdefe4-bc24-4757-8a82-f79756cd7e86",
+    "Name": "IL PICCOLO LORD SNC DI PARLATO DEBORAH POSENATO VALERIA",
+    "Alias": "il_piccolo_lord_snc_di_parlato_deborah_posenato_valeria",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA DANTE ALIGHIERI 45 LISSONE",
+        "Note": "",
+        "Latitude": "45.611919",
+        "Longitude": "9.233996"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "340 2621981",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@asilonidoil piccololord.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "55102fd6-1932-4389-a16c-b86cc6254eb3",
+    "Name": "OFFICINA DELLE FIABE",
+    "Alias": "officina_delle_fiabe",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MADONNA 5 LISSONE",
+        "Note": "",
+        "Latitude": "45.610498",
+        "Longitude": "9.240475"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "sarahsoroldoni@yahoo.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2450676",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "6157974e-5274-41e7-acf6-7e1a07b7d3fa",
+    "Name": "CIUF CIUF",
+    "Alias": "ciuf_ciuf",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA BELLINI V.  13 LISSONE",
+        "Note": "",
+        "Latitude": "45.608100",
+        "Longitude": "9.234154"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "amministrazione@ciufciuf.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 9153438",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "86b68154-52e3-4f52-b58f-587c31069859",
+    "Name": "BIMBI & CO",
+    "Alias": "bimbi_&_co",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA MAZZINI 49 LISSONE",
+        "Note": "",
+        "Latitude": "45.603704",
+        "Longitude": "9.244549"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "039 461588",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "bimbieco@gmail.com",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9424d6c8-a694-413c-8bc4-aa792d3073b5",
+    "Name": "ASILO NIDO PICCOLO PRINCIPE",
+    "Alias": "asilo_nido_piccolo_principe",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA SANTA CATERINA DA SIENA 16 LISSONE",
+        "Note": "",
+        "Latitude": "45.616572",
+        "Longitude": "9.240233"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "329 1640153",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "info@asilonidopiccoloprincipe.it",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "9b8b52be-8a2a-4555-86ba-00057407be3f",
+    "Name": "ASILO NIDO BILINGUE HAPPY CHILDREN",
+    "Alias": "asilo_nido_bilingue_happy_children",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA CAVALLOTTI 3 LISSONE",
+        "Note": "",
+        "Latitude": "45.602886",
+        "Longitude": "9.233624"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Telefono",
+        "Value": "329 4016354",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Email",
+        "Value": "betti.nadia@gimail.co",
+        "Note": "",
+        "Type": 1
+      }
+    ]
+  },
+  {
+    "Version": 1,
+    "ID": "ac9ab337-268f-4f50-9861-099441b615fa",
+    "Name": "IL PIANETA DEI BAMBINI DI ADRIANA VIDUS ROSIN",
+    "Alias": "il_pianeta_dei_bambini_di_adriana_vidus_rosin",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Asilo nido",
+        "Alias": "asilo_nido"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Indirizzo",
+        "Value": "VIA FRATELLI BANDIERA 17/A LISSONE",
+        "Note": "",
+        "Latitude": "45.602512",
+        "Longitude": "9.245884"
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Email",
+        "Value": "lissone@ilpianetadeibambini.it",
+        "Note": "",
+        "Type": 1
+      },
+      {
+        "Title": "Telefono",
+        "Value": "039 2455600",
+        "Note": "",
+        "Type": 0
+      }
+    ]
+  }
+]

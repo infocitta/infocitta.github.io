@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "8764aba1-b3c3-49d7-bb8d-6df7b21eb7bf",
+  "Name": "Scuola Materna 'Marchesa Ida Stanga Busca'",
+  "Alias": "scuola_materna_marchesa_ida_stanga_busca",
+  "Level1": [
+    {
+      "Value": "Carate Brianza",
+      "Alias": "carate-brianza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA G. PARINI 2 CARATE BRIANZA",
+      "Note": "",
+      "Latitude": "45.686711",
+      "Longitude": "9.246632"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362900136",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "infanzia.stangabusca@tin.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

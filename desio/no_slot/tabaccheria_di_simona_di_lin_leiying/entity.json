@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "ebe4de96-2712-4116-bfc2-eb2e6df2bf40",
+  "Name": "Tabaccheria Di Simona Di Lin Leiying",
+  "Alias": "tabaccheria_di_simona_di_lin_leiying",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Locali NoSlot",
+      "Alias": "no_slot"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "Via Custoza, 12, Desio MB",
+      "Note": "",
+      "Latitude": "45.622207",
+      "Longitude": "9.181519"
+    }
+  ],
+  "Contacts": []
+}

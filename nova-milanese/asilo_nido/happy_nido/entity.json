@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "ab4390c6-f15c-4b6d-a02d-31c077e3a136",
+  "Name": "HAPPY NIDO",
+  "Alias": "happy_nido",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SCURATTI A.  7 NOVA MILANESE",
+      "Note": "",
+      "Latitude": "45.591718",
+      "Longitude": "9.187251"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0362 459243",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Email",
+      "Value": "info@happynido.it",
+      "Note": "",
+      "Type": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "0d87982a-8aa5-48f6-b5ea-2ce1a7a5044e",
+  "Name": "LO SCARABOCCHIO",
+  "Alias": "lo_scarabocchio",
+  "Level1": [
+    {
+      "Value": "Carate Brianza",
+      "Alias": "carate-brianza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Asilo nido",
+      "Alias": "asilo_nido"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA ENRICO TOTI 41 CARATE BRIANZA",
+      "Note": "",
+      "Latitude": "45.676098",
+      "Longitude": "9.242756"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "info@asilonidoloscarabocchio.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "338 3347428   0362 805165",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿{
+  "Version": 1,
+  "ID": "bb42366c-ffbc-4e35-9ab4-f7b1dc1bad08",
+  "Name": "GIUSSANO - VIA DEI CERTOSINI",
+  "Alias": "giussano_-_via_dei_certosini",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Mercati",
+      "Alias": "mercato"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA DEI CERTOSINI GIUSSANO",
+      "Note": "",
+      "Latitude": "45.672546",
+      "Longitude": "9.204867"
+    }
+  ],
+  "Contacts": []
+}

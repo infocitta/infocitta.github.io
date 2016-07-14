@@ -1,0 +1,35 @@
+﻿{
+  "Version": 1,
+  "ID": "feb8de48-ff43-4599-9916-2829395e56f0",
+  "Name": "Infanzia - Madre Teresa di Calcutta",
+  "Alias": "infanzia_-_madre_teresa_di_calcutta",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA ROMA LIMBIATE",
+      "Note": "",
+      "Latitude": "45.598229",
+      "Longitude": "9.138977"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}

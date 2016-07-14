@@ -1,0 +1,41 @@
+﻿{
+  "Version": 1,
+  "ID": "d2f61600-5809-49ae-9129-b598578b4e65",
+  "Name": "Infanzia - Sauro",
+  "Alias": "infanzia_-_sauro",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Scuola materna",
+      "Alias": "scuola_materna"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Indirizzo",
+      "Value": "VIA SAURO MONZA",
+      "Note": "",
+      "Latitude": "45.559395",
+      "Longitude": "9.262999"
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Email",
+      "Value": "miic8ah00l@istruzione.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Telefono",
+      "Value": "0",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}
