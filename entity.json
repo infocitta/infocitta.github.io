@@ -1,0 +1,63 @@
+﻿{
+  "Version": 1,
+  "ID": "fcfff603-cd54-4360-8311-9ee055063d76",
+  "Name": "Ufficio Servizi Demografici - Desio",
+  "Alias": "ufficio_servizi_demografici_-_desio",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "~ Comune",
+      "Alias": "comune"
+    }
+  ],
+  "Adresses": [],
+  "Contacts": [
+    {
+      "Title": "Ufficio Anagrafe",
+      "Value": "0362 392224",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Sottocommissione Elettorale Circondariale",
+      "Value": "0362 392244",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Indirizzo e-mail",
+      "Value": "anagrafe@comune.desio.mb.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Indirizzo posta certificata",
+      "Value": "protocollo.comune.desio@legalmail.it",
+      "Note": "",
+      "Type": 1
+    },
+    {
+      "Title": "Ufficio Leva",
+      "Value": "0362 39224",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Ufficio Stato Civile",
+      "Value": "0362 392385",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Ufficio Elettorale",
+      "Value": "0362 392225",
+      "Note": "",
+      "Type": 0
+    }
+  ]
+}
