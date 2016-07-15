@@ -20,9 +20,9 @@
       {
         "Title": "Studio",
         "Value": "Via per Binzago, 50, 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.623661",
-        "Longitude": "9.186548"
+        "Longitude": "9.186548",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -55,9 +55,9 @@
       {
         "Title": "Studio",
         "Value": "Via Giuseppe Garibaldi, 255, 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.609900",
-        "Longitude": "9.204130"
+        "Longitude": "9.204130",
+        "Note": ""
       }
     ],
     "Contacts": [

@@ -1,0 +1,111 @@
+﻿{
+  "Version": 1,
+  "ID": "acdcf9a8-5a2f-49f3-b821-f2e9e77937a0",
+  "Name": "Dott. Giuseppe Lietti",
+  "Alias": "dott_giuseppe_lietti",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via M. d'Azeglio, 11 MONZA",
+      "Latitude": "45.587904",
+      "Longitude": "9.277120",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "338 5784277",
+      "Note": "da lun a ven durante l'orario di ambulatorio ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "338 5784277",
+      "Note": "da lun a ven durante l'orario di ambulatorio ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "10:15",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:15",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

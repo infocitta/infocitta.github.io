@@ -3,6 +3,8 @@
   "ID": "c8aa6279-eaed-436a-af54-8733824e17c3",
   "Name": "CESANO MADERNO - VIA MONCENISIO",
   "Alias": "cesano_maderno_-_via_moncenisio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONCENISIO CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.633854",
-      "Longitude": "9.172180"
+      "Longitude": "9.172180",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "ab4390c6-f15c-4b6d-a02d-31c077e3a136",
   "Name": "HAPPY NIDO",
   "Alias": "happy_nido",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SCURATTI A.  7 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.591718",
-      "Longitude": "9.187251"
+      "Longitude": "9.187251",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

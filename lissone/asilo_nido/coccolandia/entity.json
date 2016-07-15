@@ -3,6 +3,8 @@
   "ID": "1c33f544-e83a-4dda-9274-00a106185030",
   "Name": "COCCOLANDIA",
   "Alias": "coccolandia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE DELLA REPUBBLICA 65 LISSONE",
-      "Note": "",
       "Latitude": "45.608191",
-      "Longitude": "9.250430"
+      "Longitude": "9.250430",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

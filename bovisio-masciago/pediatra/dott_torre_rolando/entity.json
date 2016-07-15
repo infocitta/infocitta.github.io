@@ -1,0 +1,111 @@
+﻿{
+  "Version": 1,
+  "ID": "2e543797-f1ec-4865-bb1e-95c9fc702da2",
+  "Name": "Dott Torre Rolando",
+  "Alias": "dott_torre_rolando",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Bovisio Masciago",
+      "Alias": "bovisio-masciago"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Cantu', 7  20813 BOVISIO-MASCIAGO",
+      "Latitude": "45.610000",
+      "Longitude": "9.146015",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "338/5827393",
+      "Note": "durante l'orario di ambulatorio ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "02/66200117",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

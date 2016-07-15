@@ -3,6 +3,8 @@
   "ID": "2534e989-85e6-4569-8d0d-6d4f87b418e5",
   "Name": "Infanzia - Cazzaniga",
   "Alias": "infanzia_-_cazzaniga",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DEBUSSY MONZA",
-      "Note": "",
       "Latitude": "45.594481",
-      "Longitude": "9.255751"
+      "Longitude": "9.255751",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

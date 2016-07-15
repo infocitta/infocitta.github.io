@@ -3,6 +3,8 @@
   "ID": "50030f6e-c1db-45d8-b1cf-edbc1b2b1d3b",
   "Name": "ASILO NIDO AQUILONE",
   "Alias": "asilo_nido_aquilone",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BOTTEGO 11 SEREGNO",
-      "Note": "",
       "Latitude": "45.648775",
-      "Longitude": "9.197555"
+      "Longitude": "9.197555",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

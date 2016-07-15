@@ -3,6 +3,8 @@
   "ID": "86eb8c83-1cea-49b3-97f5-946097ea0008",
   "Name": "COLORE PASTELLO",
   "Alias": "colore_pastello",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTANARI CARLO  3/C MONZA",
-      "Note": "",
       "Latitude": "45.572050",
-      "Longitude": "9.239949"
+      "Longitude": "9.239949",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

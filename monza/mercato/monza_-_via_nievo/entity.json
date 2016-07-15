@@ -3,6 +3,8 @@
   "ID": "bca7aba7-6cb4-4ed7-8872-1d472523aaad",
   "Name": "MONZA - VIA NIEVO",
   "Alias": "monza_-_via_nievo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA NIEVO MONZA",
-      "Note": "",
       "Latitude": "45.576990",
-      "Longitude": "9.304638"
+      "Longitude": "9.304638",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

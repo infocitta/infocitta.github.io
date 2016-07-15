@@ -3,6 +3,8 @@
   "ID": "3ec53c87-f120-47b5-88ce-97e9bc66aba0",
   "Name": "Scuola Materna Umberto I",
   "Alias": "scuola_materna_umberto_i",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SCIESA 20 DESIO",
-      "Note": "",
       "Latitude": "45.610889",
-      "Longitude": "9.207173"
+      "Longitude": "9.207173",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

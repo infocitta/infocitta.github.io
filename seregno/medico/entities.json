@@ -1,0 +1,3663 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "023e80b4-1bed-4ecf-9703-ffc675c2bc5f",
+    "Name": "Dott. DI MAURO MAURO ANTONIO",
+    "Alias": "dott_di_mauro_mauro_antonio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "P.ZA SEGNI,6 SEREGNO  -",
+        "Latitude": "45.651484",
+        "Longitude": "9.204912",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/231531",
+        "Note": "LU/MA/ME 10-12 GIO/VEN 15-17",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/231531",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/231531",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "027605cf-a55f-4ed1-b384-5f61d9bf98d1",
+    "Name": "Dott. GRASSI ERNESTO",
+    "Alias": "dott_grassi_ernesto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA MEDICI DA SEREGNO, 12  20831 - SEREGNO ",
+        "Latitude": "45.649487",
+        "Longitude": "9.203732",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/229779",
+        "Note": "LU/ME 15-17 MA/GI 10-12 VEN 14-16",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/229779 ",
+        "Note": "LUN- VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/229779",
+        "Note": "DAL LUN AL VEN",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "0b983ba7-e6f8-465c-93d2-6bd734c01024",
+    "Name": "Dott. SCAMAZZO FRANCESCO",
+    "Alias": "dott_scamazzo_francesco",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA BALLERINI, 20  SEREGNO",
+        "Latitude": "45.650587",
+        "Longitude": "9.201319",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/229563",
+        "Note": "LUN/VEN 16:00 - 18:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/229563",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/221911",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "0ca0d09e-556a-47c3-9693-4c63755c0c21",
+    "Name": "Dott. ROVEDA MARCO",
+    "Alias": "dott_roveda_marco",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA VESPUCCI,11 SEREGNO  -",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/243139",
+        "Note": "LUN/VEN 14:30 - 18:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/239963",
+        "Note": "LUN/VEN  8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/243139",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "17:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "1cf2ddf6-dc85-4840-916d-1f38c4b59e81",
+    "Name": "Dott. FRANGI FERDINANDO GIOVANNI",
+    "Alias": "dott_frangi_ferdinando_giovanni",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "SEREGNO - Via E. Fermi, 129",
+        "Latitude": "45.637041",
+        "Longitude": "9.203425",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362 223121",
+        "Note": "LUN/VEN 8:00 -10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362 223121",
+        "Note": "LUN/VEN 16:30 - 18:30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362 223121",
+        "Note": "LUN/VEN 8:00 -10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "25874ef1-0e56-47ea-9d6b-d04121368195",
+    "Name": "Dott. ssa QUARANTA SANTINA",
+    "Alias": "dott_ssa_quaranta_santina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA CORSO MATTEOTTI,55 SEREGNO  -",
+        "Latitude": "45.650017",
+        "Longitude": "9.208370",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "335/6679085",
+        "Note": "13.00 - 13.30",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "335/6679085",
+        "Note": "8.30 - 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "E-mail:  Sito web:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "362fc903-ff1d-4e38-9f0f-488d29f07b37",
+    "Name": "Dott.ssa MARIANI ROSA GIOVANNA",
+    "Alias": "dottssa_mariani_rosa_giovanna",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA RISMONDO,22 SEREGNO  -",
+        "Latitude": "45.652048",
+        "Longitude": "9.194812",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/327747",
+        "Note": "LUN/VEN 11:30 - 13:30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/327747",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3a7e6f6d-158c-4066-b520-8a8a8d6325aa",
+    "Name": "Dott. Giussani Roberto Leopoldo",
+    "Alias": "dott_giussani_roberto_leopoldo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via -OLIVETI, 11 SEREGNO  -  ",
+        "Latitude": "45.645085",
+        "Longitude": "9.211975",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "NON RICEVE PER APUNTAMENTO",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/239474",
+        "Note": "11.00 - 13.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/239474",
+        "Note": "8.00 - 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "42dd570f-d8a1-45fe-ad1b-6cbe44e60db6",
+    "Name": "Dott. SIRONI VITTORIO ALESSANDRO",
+    "Alias": "dott_sironi_vittorio_alessandro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA VESPUCCI,11 SEREGNO  -",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/243139",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/222967-243139",
+        "Note": "LUN/VEN 14:30 - 18:30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/222967",
+        "Note": "LUN/VEN 08:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "4c7698eb-42ba-45ff-93f8-a81366d5c411",
+    "Name": "Dott. CAPELLLI LUIGI",
+    "Alias": "dott_capellli_luigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA PARINI,50 - SEREGNO  ",
+        "Latitude": "45.655895",
+        "Longitude": "9.209842",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/236535",
+        "Note": "LUN/VEN 12:00 - 14:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/342222",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/342222",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "570fd178-c306-4583-90ae-b10187586d8a",
+    "Name": "Dott.ssa CAJANI FRANCESCA",
+    "Alias": "dottssa_cajani_francesca",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "P.zza Della Madonnina, 8  20831 - SEREGNO",
+        "Latitude": "45.651200",
+        "Longitude": "9.194489",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "334 8215347",
+        "Note": "dalle 8 alle 9 e dalle 14.30 alle 15.30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "334 8215347",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "334 8215347",
+        "Note": "dalle 8 alle 9 e dalle 14.30 alle 15.30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "60333323-61af-4201-aa1f-405854fa53fd",
+    "Name": "Dott. PARENTE ENRICO",
+    "Alias": "dott_parente_enrico",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Ivo Oliveti, 5, 20831 Seregno MB",
+        "Latitude": "45.644968",
+        "Longitude": "9.211955",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/229984",
+        "Note": "LU/MA/ME/VE 17-19 GIO 10-12",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/220430",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/220430",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "673aa2b4-b566-4d78-bfb5-3d6e8a0bd686",
+    "Name": "Dott. NESPOLI TIZIANO",
+    "Alias": "dott_nespoli_tiziano",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA BARNABA ORIANI,14 SEREGNO  -",
+        "Latitude": "45.640872",
+        "Longitude": "9.204223",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/220626",
+        "Note": "Durante orari ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "0362/851157 dalle ore 8.00 alle ore 10.00 ",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "E-mail:  Sito web:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "15:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "15:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "15:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "15:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "68771e74-ac6b-4fe8-98a3-8154784cfd82",
+    "Name": "Dott.ssa Rovati MariaTeresa",
+    "Alias": "dottssa_rovati_mariateresa",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via San Carlo, 78  SEREGNO  ",
+        "Latitude": "45.636021",
+        "Longitude": "9.193301",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/331101",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/326424",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/331101",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "70a6adbd-0219-4beb-b9d8-63821f240239",
+    "Name": "Dott. SABATO MARCO ROBERTO",
+    "Alias": "dott_sabato_marco_roberto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA VESPUCCI 11  SEREGNO",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/243139",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "335/8035143",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "335/8035143",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "790e97ae-db91-497a-93c3-39003d9a1398",
+    "Name": "Dott. FRATTINI FABIO",
+    "Alias": "dott_frattini_fabio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "via Vespucci 11 SEREGNO  -",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "335/5221654 - 0362/243139",
+        "Note": "da lunedì a venerdì 14:30 - 16:30",
+        "Type": 0
+      },
+      {
+        "Title": "per apputamento:",
+        "Value": "0362/243139",
+        "Note": "da lunedì a venerdì 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "0362/243139/860181",
+        "Note": "da lunedì a venerdì 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "7ac2630b-2093-4642-ad22-ab6cbf80cf93",
+    "Name": "Dott.ssa COLOMBO EMANUELA",
+    "Alias": "dottssa_colombo_emanuela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA MESSINA,24 SEREGNO  -",
+        "Latitude": "45.651338",
+        "Longitude": "9.221643",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/237009",
+        "Note": "8.00 - 9.00   lunedì8.30 - 10.00 mart - mer- giov- ven",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "0362/237009",
+        "Note": "8.30 -10.00 e 13.30 - 14.00 da lunedì a venerdì",
+        "Type": 0
+      },
+      {
+        "Title": "E-mail:  Sito web:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "7ec407f0-6c04-450a-8d58-38415fd4fe1b",
+    "Name": "Dott. MOLTENI PAOLO ANGELO",
+    "Alias": "dott_molteni_paolo_angelo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA TORINO,3 SEREGNO  -",
+        "Latitude": "45.651549",
+        "Longitude": "9.199799",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/239776",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/239776",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/235159",
+        "Note": "LUN/VEN 16:00 - 18.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "840dc57a-f2e3-40d8-b960-05a1ba90f2cd",
+    "Name": "Dott. Dall'omo Roberto",
+    "Alias": "dott_dallomo_roberto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vespucci, 11 SEREGNO  -  ",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/235200",
+        "Note": "8.00 - 10.00  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-0362/243139",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/243139",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9342f480-3572-4630-a85f-cd56e604482b",
+    "Name": "Dott.ssa MAMBRETTI GLORIA",
+    "Alias": "dottssa_mambretti_gloria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA MEDICI DA SEREGNO, 12  20831 - SEREGNO ",
+        "Latitude": "45.649487",
+        "Longitude": "9.203732",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/229779",
+        "Note": "DAL LUN AL VEN 9.30 - 12.00 e 16.00 - 18.30",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/1704329",
+        "Note": "LUN/VEN 10-12 MAR/MER/GIO 15-17",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/1704329",
+        "Note": "LUN/VEN 8:00 - 10:00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a7480edb-4bd9-4698-842b-80c7cecf16e8",
+    "Name": "Dott.ssa BERETTA ANTONELLA",
+    "Alias": "dottssa_beretta_antonella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Piazzale Madonnina, 8, 20831 Seregno MB",
+        "Latitude": "45.651200",
+        "Longitude": "9.194489",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/330439",
+        "Note": "LUN/VEN 10:00 - 12:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/311765",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/311765",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b3d19abf-cc41-41d1-adbd-3be915ec5f46",
+    "Name": "Dott.ssa CAZZANIGA ELENA",
+    "Alias": "dottssa_cazzaniga_elena",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vignoli, 15  20831 - SEREGNO (MB)",
+        "Latitude": "45.652246",
+        "Longitude": "9.207910",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "339/8448619",
+        "Note": "dalle 8:30 alle 10:00 dal lunedi' al venerdi' ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "339/8448619",
+        "Note": "dalle 8:30 alle 10:00 dal lunedi' al venerdi' ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "339/8448619",
+        "Note": "dalle 8:30 alle 10:00 dal lunedi' al venerdi' ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "ba19d8db-3e09-4696-968d-7a89c45044ce",
+    "Name": "Dott. NATELLI ANTONINO",
+    "Alias": "dott_natelli_antonino",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA CANTù,22 SEREGNO  -",
+        "Latitude": "45.654646",
+        "Longitude": "9.205838",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/222382",
+        "Note": "LUN/VEN ORARI AMBULATORIO",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/229309",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "13:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "bc96f10f-9754-4c8a-9e71-a48768416fda",
+    "Name": "Dott. CRETA CARMINE",
+    "Alias": "dott_creta_carmine",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA MEDICI DA SEREGNO, 12  20831 - SEREGNO",
+        "Latitude": "45.649487",
+        "Longitude": "9.203732",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "335/6388593",
+        "Note": "LUN/VEN 15:00 - 17:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/229779",
+        "Note": "DAL LUN AL VEN",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "335/6388593",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c319d587-f22e-4e3b-b936-0891b1368d9c",
+    "Name": "Dott. GIUSSANI MAURIZIO",
+    "Alias": "dott_giussani_maurizio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA REGGIO, 6   SEREGNO",
+        "Latitude": "45.649520",
+        "Longitude": "9.220791",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "339/5845227",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "E-mail:  Sito web:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/328921",
+        "Note": "LU/ME/VE 15 - 17 MA/GIO 10 - 12",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c5f5bb7a-3162-4e4b-86ac-1e5121fa4383",
+    "Name": "Dott. MOLTENI LUCIANO",
+    "Alias": "dott_molteni_luciano",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA VESPUCCI 11, SEREGNO  - ",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/310245",
+        "Note": "LUN/VEN 8:00 - 20:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/310245",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/310245",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "cc0d96b2-b69e-456d-9499-c3632afd6b76",
+    "Name": "Dott. PASINI OMAR",
+    "Alias": "dott_pasini_omar",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA SAN VITALE 12, SEREGNO",
+        "Latitude": "45.650368",
+        "Longitude": "9.200122",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "392/4420732",
+        "Note": "LUN/VEN 14:00 - 16:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "331/4837733",
+        "Note": "LUN/VEN 15.00 - 18.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "392/4420732",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "cdca436d-bbef-435c-aa02-3c1ecfa0519e",
+    "Name": "Dott.ssa CRIPPA ANTONIA PAOLA",
+    "Alias": "dottssa_crippa_antonia_paola",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA MEDICI DA SEREGNO, 1220831 - SEREGNO ",
+        "Latitude": "45.649183",
+        "Longitude": "9.203756",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "338/8716603",
+        "Note": "mar/mer/ven  10.00 - 12.00 -  lun e gio 15.00 17.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "338/8716603",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/229779",
+        "Note": "DAL LUN AL VEN ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d4037922-3b5d-4f63-ab20-613ded471468",
+    "Name": "Dott. MARIANI EMILIO",
+    "Alias": "dott_mariani_emilio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA VESPUCCI,11 SEREGNO  -",
+        "Latitude": "45.650586",
+        "Longitude": "9.201163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "0362/235324",
+        "Note": "LUN/VEN  8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per apputamento:",
+        "Value": "0362/243139",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/243139",
+        "Note": "LUN/VEN 14:30 - 18:30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "15:00",
+                "Note": "(via luini n°1: seregno)"
+              },
+              {
+                "StartTime": "10:15",
+                "EndTime": "11:15",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e2f43a12-ecdd-4e0e-8492-3d6596b2e6f5",
+    "Name": "Dott. BALLABIO MAURIZIO",
+    "Alias": "dott_ballabio_maurizio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Volta SEREGNO  -",
+        "Latitude": "45.650825",
+        "Longitude": "9.205402",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/235585",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/221326",
+        "Note": "LUN/VEN 11:30 - 13:30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/235585",
+        "Note": "LUN/VEN 8:00 - 10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f9433be5-abc5-4f8e-a7c8-b0d63faa3146",
+    "Name": "Dott. NOBILI GIANCARLO",
+    "Alias": "dott_nobili_giancarlo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Seregno",
+        "Alias": "seregno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA KEPLERO,10 SEREGNO  -",
+        "Latitude": "45.655293",
+        "Longitude": "9.197920",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/229865",
+        "Note": "8:00 10:00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/220675",
+        "Note": "LU/MA/GIO/VE 16-18 ME 11-13",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/229865",
+        "Note": "8:00 /10:00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

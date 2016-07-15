@@ -1,0 +1,105 @@
+﻿{
+  "Version": 1,
+  "ID": "e0096cd6-5e92-46c5-870e-eccd71a3d7dc",
+  "Name": "Dott.ssa GOMIERO CLAUDIA",
+  "Alias": "dottssa_gomiero_claudia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Antonio Pacinotti, 61/e 20851 Lissone MB",
+      "Latitude": "45.612901",
+      "Longitude": "9.257623",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "346 2351635",
+      "Note": "8.00 - 9.30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

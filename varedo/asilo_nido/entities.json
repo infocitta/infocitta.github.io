@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA SOLARI  34 VAREDO",
-        "Note": "",
         "Latitude": "45.596444",
-        "Longitude": "9.157665"
+        "Longitude": "9.157665",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -61,9 +61,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA VERDI  4 VAREDO",
-        "Note": "",
         "Latitude": "45.598625",
-        "Longitude": "9.154290"
+        "Longitude": "9.154290",
+        "Note": ""
       }
     ],
     "Contacts": [

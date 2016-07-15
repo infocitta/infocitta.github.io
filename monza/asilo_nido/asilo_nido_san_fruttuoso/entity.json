@@ -3,6 +3,8 @@
   "ID": "6d215b91-1aeb-461f-a0b9-15648351a143",
   "Name": "ASILO NIDO SAN FRUTTUOSO",
   "Alias": "asilo_nido_san_fruttuoso",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TAZZOLI ENRICO  4 MONZA",
-      "Note": "",
       "Latitude": "45.571438",
-      "Longitude": "9.241870"
+      "Longitude": "9.241870",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

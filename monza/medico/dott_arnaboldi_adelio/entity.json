@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "9cc1da1d-5970-4790-9fcc-b82e0a0f8b4b",
+  "Name": "Dott. ARNABOLDI ADELIO",
+  "Alias": "dott_arnaboldi_adelio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Felice Cavallotti, 104 MONZA",
+      "Latitude": "45.578443",
+      "Longitude": "9.256083",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 730152",
+      "Note": "lun 17,00-19,00 mart 14,00-16,00  merc giov  17,00-19,00 ven14,0016,00                                                               ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

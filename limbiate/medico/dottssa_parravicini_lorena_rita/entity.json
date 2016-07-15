@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "e60e7271-e96a-43aa-aad8-c9f9f562a778",
+  "Name": "Dott.ssa Parravicini Lorena Rita",
+  "Alias": "dottssa_parravicini_lorena_rita",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via F.lli Casati, 12  20812 Limbiate ",
+      "Latitude": "45.599551",
+      "Longitude": "9.124626",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "02 99 618 57",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "02 99 66 272",
+      "Note": "da lunedì a venerdì 8 - 10 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "333 60 20 722",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

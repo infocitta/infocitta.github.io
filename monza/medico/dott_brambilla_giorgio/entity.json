@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "c6784b0c-94c8-4362-9ec7-53f7e0bc45dc",
+  "Name": "Dott. BRAMBILLA GIORGIO",
+  "Alias": "dott_brambilla_giorgio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Foscolo, 7 MONZA",
+      "Latitude": "45.577673",
+      "Longitude": "9.283809",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì ",
+      "Value": "039 836648",
+      "Note": "8,00 - 10,00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 836648",
+      "Note": "lun-merc-ven 16,00-18,00 mart-giov 10,00-12,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

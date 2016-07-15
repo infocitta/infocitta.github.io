@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "9d4ffc9d-fe4e-4fbb-976d-46921367b02f",
+  "Name": "Dott. Pedicino Marco Ottorino",
+  "Alias": "dott_pedicino_marco_ottorino",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Carate Brianza",
+      "Alias": "carate-brianza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Mascherpa 14  20841 CARATE ",
+      "Latitude": "45.671449",
+      "Longitude": "9.231838",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "3394483796",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "3394483796",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "3394483796",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "13:30",
+              "EndTime": "16:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

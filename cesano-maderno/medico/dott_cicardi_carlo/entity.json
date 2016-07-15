@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "a0849019-0fd1-4605-9310-7347a12e1d18",
+  "Name": "Dott. Cicardi Carlo",
+  "Alias": "dott_cicardi_carlo",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via C. Cantu, 520811 CESANO MADERNO",
+      "Latitude": "45.629999",
+      "Longitude": "9.146667",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "393 398 60 36 o, in orari di ambulatorio, 0362 501118",
+      "Note": "da lun a ven dalle 8 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "393 398 60 36",
+      "Note": "da lun a ven dalle 08.00 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "393 3986036",
+      "Note": "da lun a ven dalle 08.00 alle 12.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "10:15",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:15",
+              "EndTime": "18:15",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "10:10",
+              "Note": ""
+            },
+            {
+              "StartTime": "16:15",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

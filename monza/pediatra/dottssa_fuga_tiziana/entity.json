@@ -1,0 +1,47 @@
+﻿{
+  "Version": 1,
+  "ID": "c494c59b-4c22-4ced-bd2a-35c610496c62",
+  "Name": "Dott.ssa FUGA TIZIANA",
+  "Alias": "dottssa_fuga_tiziana",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Ferraris, 10 Monza",
+      "Latitude": "45.575108",
+      "Longitude": "9.267416",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "346 7549422",
+      "Note": "8,00 - 9,30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

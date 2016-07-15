@@ -10,5 +10,13 @@
   {
     "Value": "Mercati",
     "Alias": "mercato"
+  },
+  {
+    "Value": "Pediatra",
+    "Alias": "pediatra"
+  },
+  {
+    "Value": "Medico di famiglia",
+    "Alias": "medico"
   }
 ]

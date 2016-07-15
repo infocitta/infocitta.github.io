@@ -3,6 +3,8 @@
   "ID": "fb3bd37a-f565-4396-8d59-474d45f63b30",
   "Name": "RAGGI DI SOLE S.R.L.",
   "Alias": "raggi_di_sole_srl",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN LUIGI 5 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.568059",
-      "Longitude": "9.306646"
+      "Longitude": "9.306646",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

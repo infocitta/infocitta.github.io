@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "f8d5f146-ca87-433b-85e4-50eec94759ab",
+  "Name": "Dott. Dell'Orto Paolo Carlo",
+  "Alias": "dott_dellorto_paolo_carlo",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - via Volta 36  ",
+      "Latitude": "45.589887",
+      "Longitude": "9.268069",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "392 6862822",
+      "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "392 6862822",
+      "Note": "dal lunedì al venerdì negli orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "392 6862822",
+      "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": "su A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:30",
+              "Note": " su A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": " su A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:30",
+              "Note": " su A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "13:00",
+              "EndTime": "16:00",
+              "Note": " su A"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

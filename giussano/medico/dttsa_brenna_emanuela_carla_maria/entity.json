@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "03aa94bf-eb4f-4a75-8680-560b096e4c22",
+  "Name": "Dtt.sa Brenna Emanuela Carla Maria",
+  "Alias": "dttsa_brenna_emanuela_carla_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIALE PIAVE 11 20833 - GIUSSANO",
+      "Latitude": "45.702435",
+      "Longitude": "9.206122",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "339-7522824",
+      "Note": "7.45 - 8.45",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "339-7522824",
+      "Note": "7.45 - 8.45",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "339-7522824",
+      "Note": "7.45 - 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:45",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:45",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "14:45",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:45",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

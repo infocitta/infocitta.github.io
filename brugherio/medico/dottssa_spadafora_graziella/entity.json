@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "6d62e51e-10d3-4fad-a01f-73d592caa6c1",
+  "Name": "Dott.ssa Spadafora Graziella",
+  "Alias": "dottssa_spadafora_graziella",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Volturno cond.Fiori 80  20861 BRUGHERIO ",
+      "Latitude": "45.553941",
+      "Longitude": "9.298022",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "3398455782",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "3398455782",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "3398466782",
+      "Note": "-",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

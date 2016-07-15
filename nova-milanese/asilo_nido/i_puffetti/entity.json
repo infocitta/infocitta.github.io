@@ -3,6 +3,8 @@
   "ID": "eefbffb9-2e95-40cd-9e6c-3aaa57688215",
   "Name": "I PUFFETTI",
   "Alias": "i_puffetti",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GARIBALDI G.  51 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.584681",
-      "Longitude": "9.195394"
+      "Longitude": "9.195394",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

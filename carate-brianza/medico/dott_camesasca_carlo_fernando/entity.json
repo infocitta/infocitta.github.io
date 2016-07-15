@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "b342df33-ccae-4a93-89af-1c0cdbd393c9",
+  "Name": "Dott. CAMESASCA CARLO FERNANDO",
+  "Alias": "dott_camesasca_carlo_fernando",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Carate Brianza",
+      "Alias": "carate-brianza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA CRISTOFORO COLOMBO 9 -",
+      "Latitude": "41.830705",
+      "Longitude": "12.469893",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/9003468",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:45",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:45",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:45",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:45",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

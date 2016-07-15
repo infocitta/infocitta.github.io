@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "78c53202-d869-454d-9a70-8c12abd15951",
+  "Name": "Dott. MARIANI MARCO MARIA",
+  "Alias": "dott_mariani_marco_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - VIA RAIBERTI 9",
+      "Latitude": "45.586294",
+      "Longitude": "9.284513",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento : ",
+      "Value": "039 369597",
+      "Note": "telefonare negli orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 388331",
+      "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 369597 o 348 9105523",
+      "Note": "dal lunedì al venerdì durante gli orari di ambulatorio",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -1,0 +1,116 @@
+﻿{
+  "Version": 1,
+  "ID": "af3ad3ff-6db4-403a-b40f-7ceb69ac4440",
+  "Name": "Dott.ssa D'ascenzo Gabriella",
+  "Alias": "dottssa_dascenzo_gabriella",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Wolfgang Amadeus Mozart, 29, 20900 Monza MB",
+      "Latitude": "45.598271",
+      "Longitude": "9.266529",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: telefonare dal lunedì al venerdi ",
+      "Value": "- 347 8001741",
+      "Note": "- 13,00 - 15,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: ",
+      "Value": "- 347 4991663",
+      "Note": "- 12,00 - 13,00 telefonare il lunedì mercoledì giovedì ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "18:00",
+              "Note": "A   18:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "10:30",
+              "Note": " A 10:30"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "18:00",
+              "Note": " A   18:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "10:30",
+              "Note": " A  10:30"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "13:30",
+              "EndTime": "15:00",
+              "Note": " A"
+            },
+            {
+              "StartTime": "09:00",
+              "EndTime": "10:00",
+              "Note": " A 10:30"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

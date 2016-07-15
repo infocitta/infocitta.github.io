@@ -3,6 +3,8 @@
   "ID": "80439260-6cf6-44c3-95da-952da9edda9c",
   "Name": "FANTASIA",
   "Alias": "fantasia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GIUSEPPE GARIBALDI 13 LIMBIATE",
-      "Note": "",
       "Latitude": "45.604683",
-      "Longitude": "9.125491"
+      "Longitude": "9.125491",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

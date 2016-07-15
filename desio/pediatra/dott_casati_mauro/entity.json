@@ -1,0 +1,116 @@
+﻿{
+  "Version": 1,
+  "ID": "ce24d753-9b03-4992-8418-03809f2dac62",
+  "Name": "Dott Casati Mauro",
+  "Alias": "dott_casati_mauro",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Giuseppe Garibaldi, 35 20832 Desio MB",
+      "Latitude": "45.616149",
+      "Longitude": "9.206877",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/301528",
+      "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "0362/301528",
+      "Note": "da lun a ven durante l'orario di ambulatorio ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "14:00",
+              "EndTime": "16:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "14:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "14:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

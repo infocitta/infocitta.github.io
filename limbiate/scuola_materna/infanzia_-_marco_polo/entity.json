@@ -3,6 +3,8 @@
   "ID": "53e33de8-224f-4996-8376-cd9a8adc7e7f",
   "Name": "Infanzia - Marco Polo",
   "Alias": "infanzia_-_marco_polo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BELLARIA LIMBIATE",
-      "Note": "",
       "Latitude": "45.601014",
-      "Longitude": "9.114258"
+      "Longitude": "9.114258",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

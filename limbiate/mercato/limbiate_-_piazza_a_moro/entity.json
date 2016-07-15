@@ -3,6 +3,8 @@
   "ID": "5eb12367-89ad-4950-853b-85df68181066",
   "Name": "LIMBIATE - PIAZZA A. MORO",
   "Alias": "limbiate_-_piazza_a_moro",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA A. MORO LIMBIATE",
-      "Note": "",
       "Latitude": "45.611990",
-      "Longitude": "9.147761"
+      "Longitude": "9.147761",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

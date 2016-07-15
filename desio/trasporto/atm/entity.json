@@ -3,6 +3,8 @@
   "ID": "68cc18cd-b050-4193-bf09-57ba4512cdb8",
   "Name": "ATM",
   "Alias": "atm",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -23,5 +25,15 @@
       "Note": "Desio(opedale)  Milano (Parco Nord)",
       "Type": 2
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

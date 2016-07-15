@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "ce081ba7-a833-4317-8779-69af5c0769c2",
+  "Name": "Dott.ssa CAGLIO LORETTA",
+  "Alias": "dottssa_caglio_loretta",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Antonio Gramsci, 57 20851 Lissone MB",
+      "Latitude": "45.608777",
+      "Longitude": "9.244515",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039 482156",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:45",
+              "EndTime": "19:00",
+              "Note": "  (DALLE 15,45 ALLE 17 SU APPUNTAMENTO)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:45",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:45",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "13:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:45",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

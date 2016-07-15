@@ -3,6 +3,8 @@
   "ID": "bbf2b764-33d0-4be2-aa3d-f7cdc57978f7",
   "Name": "Infanzia - Il Cartoccino",
   "Alias": "infanzia_-_il_cartoccino",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA POLIZIANO MONZA",
-      "Note": "",
       "Latitude": "45.578971",
-      "Longitude": "9.303394"
+      "Longitude": "9.303394",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

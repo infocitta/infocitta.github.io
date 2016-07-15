@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "570ce1f3-739d-4124-98b7-5a1196f5ad82",
+  "Name": "Dott.ssa Brenno Brunella",
+  "Alias": "dottssa_brenno_brunella",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Cadorna, 19  20834 NOVA MILANESE",
+      "Latitude": "45.590202",
+      "Longitude": "9.194619",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "0362/42311",
+      "Note": "da lun a ven dalle 17.00 alle 18.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/42311",
+      "Note": "durante l'orario di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/42311",
+      "Note": "lasciare il biglietto nella cassetta fuori dall'ambulatorio entro le  10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA GRANDI 5 NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.591657",
-        "Longitude": "9.194388"
+        "Longitude": "9.194388",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -55,9 +55,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA ROMA 5 NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.590317",
-        "Longitude": "9.199932"
+        "Longitude": "9.199932",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -90,9 +90,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA OBERDAN 4 NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.584453",
-        "Longitude": "9.193606"
+        "Longitude": "9.193606",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -125,9 +125,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA FIUME 26 NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.593709",
-        "Longitude": "9.203332"
+        "Longitude": "9.203332",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -160,9 +160,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA VENEZIA NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.597101",
-        "Longitude": "9.197003"
+        "Longitude": "9.197003",
+        "Note": ""
       }
     ],
     "Contacts": [

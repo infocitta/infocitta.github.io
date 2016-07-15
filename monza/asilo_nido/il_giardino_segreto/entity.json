@@ -3,6 +3,8 @@
   "ID": "97cf488b-c367-4327-9f27-3ea85930edd9",
   "Name": "IL GIARDINO SEGRETO",
   "Alias": "il_giardino_segreto",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CARLO ALBERTO  48 MONZA",
-      "Note": "",
       "Latitude": "45.587487",
-      "Longitude": "9.275968"
+      "Longitude": "9.275968",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -1,0 +1,122 @@
+﻿{
+  "Version": 1,
+  "ID": "0148e5d8-0df5-43b6-bb83-b4ab15af5de6",
+  "Name": "Dott. Continanza Pietro",
+  "Alias": "dott_continanza_pietro",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Favaron, 45  20834 NOVA MILANESE",
+      "Latitude": "45.594240",
+      "Longitude": "9.192557",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "0362/451321  338/4032976",
+      "Note": "durante l'orario di ambulatorio al cellulare dalle 09.00 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/451321",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/451321",
+      "Note": "segreteria 24 h al giorno",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:45",
+              "EndTime": "19:45",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:45",
+              "EndTime": "19:40",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "14:30",
+              "EndTime": "16:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -3,6 +3,8 @@
   "ID": "95a7d9b7-1627-4fc5-839a-6021b345a446",
   "Name": "Scuola Dell'infanzia Sant'eurosia",
   "Alias": "scuola_dellinfanzia_santeurosia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN LUIGI 1 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.624168",
-      "Longitude": "9.167338"
+      "Longitude": "9.167338",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

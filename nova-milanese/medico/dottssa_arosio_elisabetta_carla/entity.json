@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "89946052-ab43-4960-ab85-fbf83be10e9f",
+  "Name": "Dott.ssa Arosio Elisabetta Carla",
+  "Alias": "dottssa_arosio_elisabetta_carla",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Sarajevo, 12  NOVA MILANESE",
+      "Latitude": "45.593557",
+      "Longitude": "9.192067",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/41790",
+      "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/41790 ",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

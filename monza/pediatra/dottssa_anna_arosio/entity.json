@@ -1,0 +1,111 @@
+﻿{
+  "Version": 1,
+  "ID": "192a5542-2ef9-4b8d-b670-3e7749b0ca1e",
+  "Name": "Dott.ssa Anna Arosio",
+  "Alias": "dottssa_anna_arosio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Ferraris, 10  20900 MONZA ",
+      "Latitude": "45.575108",
+      "Longitude": "9.267416",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "334 1130574",
+      "Note": "da lun a ven  dalle ore 8,30 alle ore 10,00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per visita domiciliare : ",
+      "Value": "334 1130574",
+      "Note": "da lun a ven dalle ore 8,30 alle ore 10,00 ( la richiesta di visita domiciliare viene valutata dal Pediatra sulla base delle condizioni cliniche e della trasferibilitò del bambino)",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "13:00",
+              "EndTime": "15:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

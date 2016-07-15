@@ -3,6 +3,8 @@
   "ID": "bb8db115-5b13-43a1-87aa-32ee9d139d40",
   "Name": "ASILO NIDO BEE HAPPY",
   "Alias": "asilo_nido_bee_happy",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTE BIANCO 131 LIMBIATE",
-      "Note": "",
       "Latitude": "45.617732",
-      "Longitude": "9.118412"
+      "Longitude": "9.118412",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

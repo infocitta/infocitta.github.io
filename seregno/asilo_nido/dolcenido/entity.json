@@ -3,6 +3,8 @@
   "ID": "5641cf20-c105-475d-b2ef-d7bc6694fe34",
   "Name": "DOLCENIDO",
   "Alias": "dolcenido",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MACALLE' 16 SEREGNO",
-      "Note": "",
       "Latitude": "45.645945",
-      "Longitude": "9.213628"
+      "Longitude": "9.213628",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

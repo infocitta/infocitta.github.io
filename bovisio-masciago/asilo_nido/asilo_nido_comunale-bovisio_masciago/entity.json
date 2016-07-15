@@ -3,6 +3,8 @@
   "ID": "fdffdccc-5869-4e88-a244-312713aeb92b",
   "Name": "ASILO NIDO COMUNALE-BOVISIO MASCIAGO",
   "Alias": "asilo_nido_comunale-bovisio_masciago",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BERTACCIOLA/VIA GRAMSCI BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.608745",
-      "Longitude": "9.153894"
+      "Longitude": "9.153894",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

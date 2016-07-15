@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "80e996b6-f7b3-48bc-836b-3396482003c3",
+  "Name": "Dott. MARIANI GIOVANNI",
+  "Alias": "dott_mariani_giovanni",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA VARENNA, 7  GIUSSANO",
+      "Latitude": "45.697856",
+      "Longitude": "9.208468",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "339/3687655",
+      "Note": "LUN/VEN 10:00 - 14:00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/310225",
+      "Note": "339/3687655 LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/310225",
+      "Note": "339/3687655 LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "20:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "20:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "13:30",
+              "EndTime": "16:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -1,0 +1,2483 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "06c6e1be-0f71-4174-976e-f454798a4fdf",
+    "Name": "Dott.ssa DELL'ORTO PIERANGELA",
+    "Alias": "dottssa_dellorto_pierangela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Borromeo, 46 20811 - CESANO MADERNO",
+        "Latitude": "45.631302",
+        "Longitude": "9.151707",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "333/3854371",
+        "Note": "da lun a ven dalle 11.00 alle 13.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "0362/593562",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/593562",
+        "Note": "lun - ven 8.00 - 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "184927eb-0aa0-4c70-bde9-c15b73a7fa86",
+    "Name": "Dott. RIVA CESARE GIOVANNI",
+    "Alias": "dott_riva_cesare_giovanni",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via __________  20811 ______________",
+        "Latitude": "44.987252",
+        "Longitude": "4.745360",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "1d1f82bc-ba24-4245-b7ce-806e0054d0f0",
+    "Name": "Dott. Palmaro Franco",
+    "Alias": "dott_palmaro_franco",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Dante, 71  20811 CESANO MADERNO",
+        "Latitude": "45.621897",
+        "Longitude": "9.146002",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "342 77 51 390",
+        "Note": "da lun a ven dalle 10.00 alle 12.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "342 77 51 390",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "342 77 51 390",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "1efecd5d-4762-4529-907a-34c82b10aa75",
+    "Name": "Dott.ssa Ronchi Ornella",
+    "Alias": "dottssa_ronchi_ornella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Manzoni, 55  20811 CESANO MADERNO",
+        "Latitude": "45.621374",
+        "Longitude": "9.156730",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "348/8930190",
+        "Note": "da lun a ven dalle 16.00 alle 18.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/500020",
+        "Note": "da lun a ven dalle dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "305bca34-a1b8-4272-8d53-3a7043393e79",
+    "Name": "Dott. Molteni Ruggero",
+    "Alias": "dott_molteni_ruggero",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Battisti, 50 20811 - CESANO MADERNO",
+        "Latitude": "45.621277",
+        "Longitude": "9.136920",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "339/7027360",
+        "Note": "da lun a ven dalle 10.00 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "340/2115346",
+        "Note": "da lun a ven dalle 09.00 alle 11.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "339/7027360",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3bb68da1-7379-431e-be0f-69f51fb3713a",
+    "Name": "Dott. Bonadonna Domenico",
+    "Alias": "dott_bonadonna_domenico",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Como, 8  20811 CESANO MADERNO",
+        "Latitude": "45.631049",
+        "Longitude": "9.145295",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/523293",
+        "Note": "da lun a ven dalle 10.30 alle 12.30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/523293",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5f42ea26-5941-44d0-9f2e-0518ee28781e",
+    "Name": "Dott. Monieri Silvio",
+    "Alias": "dott_monieri_silvio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Addolorata, 7  20811 CESANO MADERNO",
+        "Latitude": "45.628508",
+        "Longitude": "9.143624",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "338/3731145",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "338/3731145",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "338/3731145",
+        "Note": "da lun a ven dalle 10.00 alle 12.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6606fbc7-2913-4ef4-adb3-5bddda2f44e2",
+    "Name": "Dott. Manenti Roberto",
+    "Alias": "dott_manenti_roberto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Cantù, 5  20811 CESANO MADERNO",
+        "Latitude": "45.630001",
+        "Longitude": "9.146615",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "340/3973175",
+        "Note": "da lun a ven dalle 08.00 alle 9.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "340/3973175",
+        "Note": "da lun a ven dalle 9 - 10",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "340/3973175",
+        "Note": "da lun a ven dalle 08.00 alle 9.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6942179c-316e-441e-addb-47fa75c84be7",
+    "Name": "Dott.ssa Cultraro Daniela",
+    "Alias": "dottssa_cultraro_daniela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via San Luca, 1 20811 CESANO MADERNO",
+        "Latitude": "45.630737",
+        "Longitude": "9.173856",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "348/5317961",
+        "Note": "Lun 9-11.30; 15.30 - 18.30; mar 9.30 - 11.30; mer 9 - 11 e 15.30 - 18.30; gio 9 - 11; ven 9 - 11",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "348/0868616",
+        "Note": "da lun a ven dalle 9..00 alle 18.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "348/0868616",
+        "Note": "da lun a ven dalle 9.00 alle 18.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "86a78c05-49f9-460b-a774-c6789bedc4bf",
+    "Name": "Dott. INTERLANDI SALVATORE",
+    "Alias": "dott_interlandi_salvatore",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "C.so Roma, 2/C 20811 - CESANO MADERNO",
+        "Latitude": "45.627605",
+        "Longitude": "9.144187",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/520916",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "347/9239182",
+        "Note": "da lun a ven dalle 10.00 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "0362/520916",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "875b5ba2-0210-45cb-9795-fbe7a49ce55c",
+    "Name": "Dott. ssa OLTOLINI MARIA PIA",
+    "Alias": "dott_ssa_oltolini_maria_pia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via C. Ferrari, 12 20811 - CESANO MADERNO",
+        "Latitude": "45.618358",
+        "Longitude": "9.150906",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "347/5984525| tel. 0362 593562",
+        "Note": "da lun a ven dalle 8 alle 9",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "347/5984525",
+        "Note": "da lun a ven dalle 08.00 alle 9",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "347/5984525",
+        "Note": "da lun mar gio 14 - 16; mer e ven dalle 10.00 alle 12.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "894f8dae-a173-4866-9d9b-46f2b6fcac78",
+    "Name": "Dott.ssa Cogliati Ivana",
+    "Alias": "dottssa_cogliati_ivana",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Dante, 76  20811 CESANO MADERNO",
+        "Latitude": "45.621308",
+        "Longitude": "9.145842",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/500072",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/500072",
+        "Note": "lun e ven 16.00-18.00 mar mer e gio 11.00-13.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:45",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:45",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8f67820c-d6aa-4fa5-bb4a-026a6d3ec90f",
+    "Name": "Dott.ssa RADICE LAURA",
+    "Alias": "dottssa_radice_laura",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "P.ZZA RISORGIMENTO (ANGOLO VIA TORINO,12)  20811 CESANO MADERNO",
+        "Latitude": "45.633351",
+        "Longitude": "9.122863",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "02/96720091",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/541188",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "E-mail:  Sito web:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "93d2f79b-4bfb-43f2-a832-56fda7c8a23b",
+    "Name": "Dott.ssa De Toni Pamela",
+    "Alias": "dottssa_de_toni_pamela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Friuli, 24 Cesano Maderno",
+        "Latitude": "45.631685",
+        "Longitude": "9.129961",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "328 4724674",
+        "Note": "da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "328 4724674",
+        "Note": "da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "328 4724674",
+        "Note": "da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9bc1d852-6155-475a-b279-a6d58939e40a",
+    "Name": "Dott. FASCI' ANTONIO MAURO",
+    "Alias": "dott_fasci_antonio_mauro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Battisti, 50 20811 - CESANO MADERNO",
+        "Latitude": "45.621277",
+        "Longitude": "9.136920",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "342/7677579",
+        "Note": "da lun a ven dalle 09.00 alle 11.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "339/6993592",
+        "Note": "da lun a ven dalle 10.00 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio:",
+        "Value": "339/6993592",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a0849019-0fd1-4605-9310-7347a12e1d18",
+    "Name": "Dott. Cicardi Carlo",
+    "Alias": "dott_cicardi_carlo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via C. Cantu, 520811 CESANO MADERNO",
+        "Latitude": "45.629999",
+        "Longitude": "9.146667",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "393 398 60 36 o, in orari di ambulatorio, 0362 501118",
+        "Note": "da lun a ven dalle 8 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "393 398 60 36",
+        "Note": "da lun a ven dalle 08.00 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "393 3986036",
+        "Note": "da lun a ven dalle 08.00 alle 12.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "10:15",
+                "Note": ""
+              },
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:15",
+                "EndTime": "18:15",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "10:10",
+                "Note": ""
+              },
+              {
+                "StartTime": "16:15",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b0ecaa9d-4e5e-4a49-8080-40ac13a71bf1",
+    "Name": "Dott.ssa Andriku Maria",
+    "Alias": "dottssa_andriku_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Molino Arese, 60  20811 CESANO MADERNO",
+        "Latitude": "45.630907",
+        "Longitude": "9.173014",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/503668",
+        "Note": "lun-giov 09.00-11.00 mar-mer-ven 16.00 18.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "368/3146989",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/503668",
+        "Note": "da lun a ven dalle 09.00 alle 11.00 e dalle 16.00 alle 19.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b5f0dfc5-e4fb-4242-b8f7-31dbbf0dae91",
+    "Name": "Dott.ssa AUTUORI ANTONELLA",
+    "Alias": "dottssa_autuori_antonella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Santa Lucia, 2/C  20811 Cesano Maderno ",
+        "Latitude": "45.623261",
+        "Longitude": "9.168058",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "329/8979497",
+        "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "329/8979497",
+        "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/522773",
+        "Note": "negli orari di apertura dell'ambulatorio ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c6b8c5e8-7d80-4d8f-a5bb-2f1d48ef41be",
+    "Name": "Dott. Cazzaniga Marco Cesare",
+    "Alias": "dott_cazzaniga_marco_cesare",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Molino Arese, 60   20811 CESANO MADERNO",
+        "Latitude": "45.630907",
+        "Longitude": "9.173014",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "334/2324535",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/503668",
+        "Note": "da lun a ven dalle 09.00-11.00 e 16.00-19.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "334/2324535",
+        "Note": "lun e gio 16.00-18.00 mar, mer e ven 10.00-12.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d1e0a769-905d-4d0e-a5bb-5d75bbe6a778",
+    "Name": "Dott. Tonetti Luigi",
+    "Alias": "dott_tonetti_luigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Milano, 49 20811 CESANO MADERNO (MB)",
+        "Latitude": "45.624457",
+        "Longitude": "9.149589",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362 55 36 70",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362 55 36 70",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362 55 36 70",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "deb76529-f50b-4dea-aead-d1ac11739d50",
+    "Name": "Dott. Vago Claudio Gianluigi",
+    "Alias": "dott_vago_claudio_gianluigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Sardegna, 18   20811 CESANO MADERNO (MB)",
+        "Latitude": "45.635797",
+        "Longitude": "9.122962",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "347 93 21 206",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "347 93 21 206",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "347 93 21 206",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:15",
+                "EndTime": "20:15",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:15",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:15",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:15",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:15",
+                "EndTime": "20:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "fa03a0ae-5324-490d-839a-383bd2fdd21d",
+    "Name": "Dott.ssa Magagnato Franca",
+    "Alias": "dottssa_magagnato_franca",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Molino Arese, 60  20811 CESANO MADERNO",
+        "Latitude": "45.630907",
+        "Longitude": "9.173014",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "330/718062",
+        "Note": "lun e mer 10.00-12.00 mar gio e ven 16.00-18.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "330/718062",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/503668",
+        "Note": "da lun a ven dalle 09.00 alle 11.00 e dalle 16.00 alle 19.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

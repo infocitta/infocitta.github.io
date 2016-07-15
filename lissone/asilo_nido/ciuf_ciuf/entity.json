@@ -3,6 +3,8 @@
   "ID": "6157974e-5274-41e7-acf6-7e1a07b7d3fa",
   "Name": "CIUF CIUF",
   "Alias": "ciuf_ciuf",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BELLINI V.  13 LISSONE",
-      "Note": "",
       "Latitude": "45.608100",
-      "Longitude": "9.234154"
+      "Longitude": "9.234154",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

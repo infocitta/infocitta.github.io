@@ -3,6 +3,8 @@
   "ID": "ccc134cf-1bc8-422a-b365-602cf6af51b9",
   "Name": "SEREGNO - VIA SILVA",
   "Alias": "seregno_-_via_silva",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SILVA SEREGNO",
-      "Note": "",
       "Latitude": "45.642545",
-      "Longitude": "9.209079"
+      "Longitude": "9.209079",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

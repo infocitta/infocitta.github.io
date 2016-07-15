@@ -3,6 +3,8 @@
   "ID": "a2dfd8f1-915c-4e29-a0b1-5646932d83f7",
   "Name": "Scuola Dell'infanzia San Carlo",
   "Alias": "scuola_dellinfanzia_san_carlo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN CARLO 43 SEREGNO",
-      "Note": "",
       "Latitude": "45.639134",
-      "Longitude": "9.192317"
+      "Longitude": "9.192317",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

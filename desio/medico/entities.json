@@ -1,0 +1,2910 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "2360c042-8bff-4c02-92eb-c0fb225020fb",
+    "Name": "Dott. Tagliabue Primo",
+    "Alias": "dott_tagliabue_primo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Carlo Forlanini, 36 20832 Desio MB",
+        "Latitude": "45.618067",
+        "Longitude": "9.217818",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/626996",
+        "Note": "lun-mer-ven 10.00-12.00 mar-gio 16.00-18.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/628484",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:45",
+                "EndTime": "12:45",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "2365d74e-2054-4e01-a084-f47416d319a5",
+    "Name": "Dott. Longobardi Alfonso",
+    "Alias": "dott_longobardi_alfonso",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Cesare D'Adda, 5 20832 Desio MB",
+        "Latitude": "45.616603",
+        "Longitude": "9.205558",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362 622 131",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "392/2577601",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362 622 131",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "25536bb5-0b6d-4ac3-ba4f-0149514353db",
+    "Name": "Dott. Rocca Adelio",
+    "Alias": "dott_rocca_adelio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via dei Tigli, 8 20832 Desio MB",
+        "Latitude": "45.613572",
+        "Longitude": "9.210516",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/630486",
+        "Note": "da lun a ven entro le ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/630486",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/630486",
+        "Note": "da lun a ven dalle 17.00 alle 19.00 solo il merc dalle 10.30 alle 12.30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "21:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "21:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "21:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "21:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "27072d9b-d951-4936-a593-2fc5f1715f87",
+    "Name": "Dott. ssa PERNA MARINA",
+    "Alias": "dott_ssa_perna_marina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Emilio Salgari, 7 20832 Desio MB",
+        "Latitude": "45.623337",
+        "Longitude": "9.229552",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "339 2830637",
+        "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "339 2830637",
+        "Note": "Negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "339 2830637",
+        "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "279c5434-a1a0-41f7-80af-e84b15a84910",
+    "Name": "Dott. Sala Vittorino",
+    "Alias": "dott_sala_vittorino",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Achille Grandi, 30 20832 Desio MB",
+        "Latitude": "45.614930",
+        "Longitude": "9.208434",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/628246",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/302679",
+        "Note": "lun-mer-ven 10.00 - 12.00 mar-gio 16.00 - 18.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/302679",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3c3fcec0-5e2f-4e34-83f9-663c736f4cf8",
+    "Name": "Dott.ssa Santoro Giuseppa Silvana",
+    "Alias": "dottssa_santoro_giuseppa_silvana",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Giuseppe Garibaldi, 139 20832 Desio MB",
+        "Latitude": "45.613341",
+        "Longitude": "9.205656",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/303534",
+        "Note": "lun  gio 15.00-17.00 mar mer ven 09.30-11.30 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/303534",
+        "Note": "lun-giov 15.00 - 17.00  mar mer-ven 09.30 - 11.30 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/630673",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "4b1d8d86-ed65-4bce-83e7-7a750420ebed",
+    "Name": "Dott.ssa Rivolta Marisa",
+    "Alias": "dottssa_rivolta_marisa",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Generale Cantore, 15 20832 Desio MB",
+        "Latitude": "45.622337",
+        "Longitude": "9.207654",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "340/2849578",
+        "Note": "durante gli orari di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/627490",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "340/2849578",
+        "Note": "lun-ven 16.00-18.00 mar-mer-gio 09.00- 11.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5ccc2c00-5bba-4da9-90fa-f9bda9a34d31",
+    "Name": "Dott. Pinnavaria Antonio",
+    "Alias": "dott_pinnavaria_antonio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vercelli, 2 20832 Desio MB",
+        "Latitude": "45.629585",
+        "Longitude": "9.204959",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/624294",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/624294",
+        "Note": "lun-mer-ven 10.00 - 12.00 mar-gio 16.00 - 18.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/303112",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:45",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:45",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6b71e09c-167b-42af-b10d-2de42dff85cc",
+    "Name": "Dott. Formentoni Antonio",
+    "Alias": "dott_formentoni_antonio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Giuseppe di Vittorio, 29 20832 Desio MB",
+        "Latitude": "45.619317",
+        "Longitude": "9.193792",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/626805",
+        "Note": "da lun a ven negli orari di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/626805",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/626805",
+        "Note": "su modulo settimanale",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "80643397-6e6a-4639-8913-f12ee5eb1a4b",
+    "Name": "Dott.ssa Marinato Marina Milena",
+    "Alias": "dottssa_marinato_marina_milena",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Don Antonio Villoresi, 54 20832 Desio MB",
+        "Latitude": "45.604705",
+        "Longitude": "9.198832",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/626123",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/626123",
+        "Note": "da lun a ven negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/626123",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "20:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8ed283e0-ffc7-4dab-a735-b2af50451206",
+    "Name": "Dott.ssa Lappa Isabella",
+    "Alias": "dottssa_lappa_isabella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Generale Cantore, 2 20832 Desio MB",
+        "Latitude": "45.622446",
+        "Longitude": "9.208003",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/302394",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/631217",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/302394 - 338 9182164",
+        "Note": "da lun a ven durante gli orari ambulatoriali ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9e7eecee-dc2c-4476-85e6-08f5c9bbe04b",
+    "Name": "Dott. Napoleone Francesco",
+    "Alias": "dott_napoleone_francesco",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Cesare D'Adda, 5, 20832 Desio MB",
+        "Latitude": "45.616603",
+        "Longitude": "9.205558",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": " 388 938 18 30",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a015aa39-109b-4e24-b563-91f1c0922980",
+    "Name": "Dott. Rossi Alberto",
+    "Alias": "dott_rossi_alberto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Galeno, 11 20832 Desio MB",
+        "Latitude": "45.613746",
+        "Longitude": "9.206797",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/630110",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "333/6125404",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/630110",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a40f6426-7f1c-4fd0-a89d-54972210260b",
+    "Name": "Dott. Lucarelli Giambattista",
+    "Alias": "dott_lucarelli_giambattista",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Portichetto, 26 20832 Desio MB",
+        "Latitude": "45.618040",
+        "Longitude": "9.210000",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/627271",
+        "Note": "lun-mer-gio 16.00-18.00 mar-ven 10.00-12.00  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/300915",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a4fefec4-3d97-461e-ba0b-0f2a760b6be7",
+    "Name": "Dott. Tomasoni Ferdy",
+    "Alias": "dott_tomasoni_ferdy",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Generale Cantore, 2 20832 Desio MB",
+        "Latitude": "45.622446",
+        "Longitude": "9.208003",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/302394",
+        "Note": "da lun a ven durante gli orari ambulatoriali ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/621527",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/302394",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a5f2e9d8-0770-43e3-bd8f-c45e20c0f489",
+    "Name": "Dott. Malberti Rodolfo",
+    "Alias": "dott_malberti_rodolfo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Trento, 11 20832 Desio MB",
+        "Latitude": "45.617018",
+        "Longitude": "9.202209",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "339/1665332",
+        "Note": "da lun a ven dalle 09.00 alle 10.30",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/302326",
+        "Note": "durante l'orario di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/302326",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d39a0f7b-454a-4091-ab3b-7086c24ab7c9",
+    "Name": "Dott. Maroni Paolo",
+    "Alias": "dott_maroni_paolo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Alberto Gabellini, 6 20832 Desio MB",
+        "Latitude": "45.622764",
+        "Longitude": "9.207490",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/631183",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/620868",
+        "Note": "negli orari di ricevimento",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/620868  335 5916936",
+        "Note": "da lun a ven orari ambulatorio,  mer e ven 10.00-12.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:15",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:15",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:15",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:15",
+                "EndTime": "10:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d4a3ecc9-cfba-406c-a158-ad1e0621aed2",
+    "Name": "Dott. Sala Virginio",
+    "Alias": "dott_sala_virginio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Achille Grandi, 37 20832 Desio MB",
+        "Latitude": "45.615055",
+        "Longitude": "9.209142",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/628823  ",
+        "Note": "da lunedì a venerdì entro le ore 10",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "339/8189627 - 0362 628823",
+        "Note": "da lun a ven dalle 10.00 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/628823  ",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d9cd8106-44db-465d-8ae9-dc5e9ae08cc9",
+    "Name": "Dott.ssa Riboldi Claretta Maria",
+    "Alias": "dottssa_riboldi_claretta_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Galileo Vercesi, 1 20832 Desio MB",
+        "Latitude": "45.612521",
+        "Longitude": "9.208758",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/305238",
+        "Note": "lun-mer-ven 10.00-12.00 mar-gio 17.00-19.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "346/6289019",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/630825",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "dba7d4cc-0cc6-4874-ae47-30658bde67ce",
+    "Name": "Dott. Somaschini Claudio Maria",
+    "Alias": "dott_somaschini_claudio_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Generale Cantore, 2 20832 Desio MB",
+        "Latitude": "45.622446",
+        "Longitude": "9.208003",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "3351268601",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/302394  335 1268601",
+        "Note": "da lun a ven durante gli orari ambulatoriali ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/302394 335 1268601",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e1e5eb1b-cbd8-4c92-8e1d-423dacb983b2",
+    "Name": "Dott. ssa CRIPPA LAURA",
+    "Alias": "dott_ssa_crippa_laura",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Emilio Salgari, 7 20832 Desio MB",
+        "Latitude": "45.623337",
+        "Longitude": "9.229552",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "347 4857295",
+        "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "347 4857295",
+        "Note": "Negli orari di apertura dell'ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "347 4857295",
+        "Note": "Da lunedì a venerdì dalle 8.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "18:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "13:30",
+                "EndTime": "15:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e97125b4-733e-4ce3-93ac-68fd7644f88e",
+    "Name": "Dott.Mazzacuva Nicola Antonio",
+    "Alias": "dottmazzacuva_nicola_antonio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Alcide de Gasperi, 21 20832 Desio MB",
+        "Latitude": "45.628554",
+        "Longitude": "9.201405",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/620824",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/620824",
+        "Note": "da lun a ven durante gli orari ambulatoriali ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/620824",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "18:00",
+                "EndTime": "20:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "18:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "eccaa241-1428-4f75-9c44-b0e61069fa17",
+    "Name": "Dott. Canali Raffaele",
+    "Alias": "dott_canali_raffaele",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Guglielmo Oberdan, 12\r\n20832 Desio MB",
+        "Latitude": "45.621255",
+        "Longitude": "9.207413",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/624618",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "339 2084791",
+        "Note": "lun-mar-giov 16.30 - 18.30 mer-ven 10.30 - 12.30 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/624618",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f13b7b1b-1d42-4fab-ab26-940edb2efd8c",
+    "Name": "Dott. Sala Silvio",
+    "Alias": "dott_sala_silvio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Achille Grandi, 37/E 20832 Desio MB",
+        "Latitude": "45.615055",
+        "Longitude": "9.209142",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/301030",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "333/8841125",
+        "Note": "da lun a ven dalle 08.00 alle 09.00 e dalle 14.30 alle 16.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/301030",
+        "Note": "lun e merc 18.00-20.00 mar 11.30-13.30 gio 17.00-19.00  ven 12.30-14.30 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "fd5831da-b9b3-4421-bffa-d08c761df6eb",
+    "Name": "Dott.ssa Putignano Pinuccia Stefania",
+    "Alias": "dottssa_putignano_pinuccia_stefania",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Desio",
+        "Alias": "desio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Generale Cantore, 2 20832 Desio MB",
+        "Latitude": "45.622446",
+        "Longitude": "9.208003",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362 302394",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "3391353751",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "3391353751",
+        "Note": "da lun a ven durante gli orari ambulatoriali ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

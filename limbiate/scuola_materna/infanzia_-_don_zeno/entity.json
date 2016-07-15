@@ -3,6 +3,8 @@
   "ID": "8f58d32a-074b-4305-bc51-ee1db049657f",
   "Name": "Infanzia - Don Zeno",
   "Alias": "infanzia_-_don_zeno",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GIORDANO LIMBIATE",
-      "Note": "",
       "Latitude": "45.613780",
-      "Longitude": "9.107940"
+      "Longitude": "9.107940",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

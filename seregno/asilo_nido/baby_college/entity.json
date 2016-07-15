@@ -3,6 +3,8 @@
   "ID": "ea2a2e54-9f31-4ff4-97ef-a57d5422d7f1",
   "Name": "BABY COLLEGE",
   "Alias": "baby_college",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA VERDI 83 SEREGNO",
-      "Note": "",
       "Latitude": "45.661606",
-      "Longitude": "9.203187"
+      "Longitude": "9.203187",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

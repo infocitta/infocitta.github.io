@@ -3,6 +3,8 @@
   "ID": "26844610-6524-4db6-b69b-a1eb1a58daf8",
   "Name": "Scuola Dell'infanzia Maria Immacolata",
   "Alias": "scuola_dellinfanzia_maria_immacolata",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA LAMARMORA 43 SEREGNO",
-      "Note": "",
       "Latitude": "45.646972",
-      "Longitude": "9.206419"
+      "Longitude": "9.206419",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

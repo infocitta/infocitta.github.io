@@ -3,6 +3,8 @@
   "ID": "2564be8d-73d6-4038-99e9-ef453182f791",
   "Name": "ASILO NIDO COMUNALE-BRUNO MUNARI",
   "Alias": "asilo_nido_comunale-bruno_munari",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA NAZARIO SAURO 135 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.552290",
-      "Longitude": "9.287099"
+      "Longitude": "9.287099",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

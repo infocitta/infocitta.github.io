@@ -3,6 +3,8 @@
   "ID": "86b68154-52e3-4f52-b58f-587c31069859",
   "Name": "BIMBI & CO",
   "Alias": "bimbi_&_co",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MAZZINI 49 LISSONE",
-      "Note": "",
       "Latitude": "45.603704",
-      "Longitude": "9.244549"
+      "Longitude": "9.244549",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

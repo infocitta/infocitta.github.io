@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "c6ffe8ee-5c19-4ac6-8043-050154c47014",
+  "Name": "Dott.ssa Cavallini Anna Maria",
+  "Alias": "dottssa_cavallini_anna_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Varedo",
+      "Alias": "varedo"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via S. Pellico, 18  20814 VAREDO",
+      "Latitude": "45.596415",
+      "Longitude": "9.153382",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "0362/580196",
+      "Note": "da lun a ven dalle 12.30 alle 14.30 ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/580196| 02/33105800",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/580196",
+      "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

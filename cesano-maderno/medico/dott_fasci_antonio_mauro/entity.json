@@ -1,0 +1,122 @@
+﻿{
+  "Version": 1,
+  "ID": "9bc1d852-6155-475a-b279-a6d58939e40a",
+  "Name": "Dott. FASCI' ANTONIO MAURO",
+  "Alias": "dott_fasci_antonio_mauro",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Battisti, 50 20811 - CESANO MADERNO",
+      "Latitude": "45.621277",
+      "Longitude": "9.136920",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "342/7677579",
+      "Note": "da lun a ven dalle 09.00 alle 11.00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "339/6993592",
+      "Note": "da lun a ven dalle 10.00 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domiciio:",
+      "Value": "339/6993592",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "11:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "16:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "11:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

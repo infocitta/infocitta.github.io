@@ -3,6 +3,8 @@
   "ID": "5a6667b3-34c7-407e-91cf-c000059df8b7",
   "Name": "LISSONE - VIA PASCOLI",
   "Alias": "lissone_-_via_pascoli",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PASCOLI LISSONE",
-      "Note": "",
       "Latitude": "45.602017",
-      "Longitude": "9.236467"
+      "Longitude": "9.236467",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

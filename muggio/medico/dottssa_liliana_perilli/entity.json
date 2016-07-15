@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "df44c1be-70c2-48b0-8a89-b05b7e913e4d",
+  "Name": "Dott.ssa LILIANA PERILLI",
+  "Alias": "dottssa_liliana_perilli",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Muggio'",
+      "Alias": "muggio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "PIAZZA LIBERO GRASSI, 3  20835 Muggiò MB",
+      "Latitude": "45.591052",
+      "Longitude": "9.226417",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "388 48 66 530",
+      "Note": "8.30 - 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "E-mail:  Sito web:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039 91 457 69| 333 93 211 30",
+      "Note": "8.30 - 9.30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

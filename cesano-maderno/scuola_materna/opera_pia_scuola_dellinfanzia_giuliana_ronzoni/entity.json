@@ -3,6 +3,8 @@
   "ID": "022fdac6-811d-4da7-95ed-96e8d329b8b2",
   "Name": "Opera Pia Scuola Dell'infanzia Giuliana Ronzoni",
   "Alias": "opera_pia_scuola_dellinfanzia_giuliana_ronzoni",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA RONZONI 3 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.649390",
-      "Longitude": "9.198869"
+      "Longitude": "9.198869",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

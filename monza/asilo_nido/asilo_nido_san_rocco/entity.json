@@ -3,6 +3,8 @@
   "ID": "dada585c-5f7a-42df-946f-155749282eb8",
   "Name": "ASILO NIDO SAN ROCCO",
   "Alias": "asilo_nido_san_rocco",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA NAZARIO SAURO MONZA",
-      "Note": "",
       "Latitude": "45.559395",
-      "Longitude": "9.262999"
+      "Longitude": "9.262999",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

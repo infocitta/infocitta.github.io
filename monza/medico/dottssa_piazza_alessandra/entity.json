@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "733b7134-7ee4-4ad5-923f-270c5e2f9ab4",
+  "Name": "Dott.ssa PIAZZA ALESSANDRA",
+  "Alias": "dottssa_piazza_alessandra",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - VIALE UGO FOSCOLO 23   ",
+      "Latitude": "45.577361",
+      "Longitude": "9.285486",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "- 380 1337754",
+      "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "- 338 4443340",
+      "Note": "- dal luneedì al venerdì dalle ore 18,00 alle ore 19,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "- 380 1337754",
+      "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

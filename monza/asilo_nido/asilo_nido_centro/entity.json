@@ -3,6 +3,8 @@
   "ID": "f0a8da83-d24f-41ce-84f3-76d1d5239e98",
   "Name": "ASILO NIDO CENTRO",
   "Alias": "asilo_nido_centro",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA MATTEOTTI GIACOMO  1 MONZA",
-      "Note": "",
       "Latitude": "45.585860",
-      "Longitude": "9.277279"
+      "Longitude": "9.277279",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

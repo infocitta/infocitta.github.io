@@ -3,6 +3,8 @@
   "ID": "9c77b90e-afd5-4467-aa59-341e0749743d",
   "Name": "Infanzia - Arcobaleno",
   "Alias": "infanzia_-_arcobaleno",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA FIUME 26 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.593709",
-      "Longitude": "9.203332"
+      "Longitude": "9.203332",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

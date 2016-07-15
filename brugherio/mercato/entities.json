@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "CAPOLUOGO BRUGHERIO",
-        "Note": "",
         "Latitude": "",
-        "Longitude": ""
+        "Longitude": "",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "SAN DAMIANO BRUGHERIO",
-        "Note": "",
         "Latitude": "45.567466",
-        "Longitude": "9.303728"
+        "Longitude": "9.303728",
+        "Note": ""
       }
     ],
     "Contacts": []

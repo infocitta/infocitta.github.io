@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "5f95d621-24f6-4d90-a4e7-5797331eb544",
+  "Name": "Dott. CAZZANIGA FRANCESCO",
+  "Alias": "dott_cazzaniga_francesco",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Sorteni, 5 MONZA",
+      "Latitude": "45.576650",
+      "Longitude": "9.240130",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "039 324491",
+      "Note": "19,00 - 20,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 730164           339 5040546",
+      "Note": "lunedì martedì giovedì 17,00-19,00  mercoledì - venerdì    10,00-12,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

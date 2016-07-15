@@ -3,6 +3,8 @@
   "ID": "eee7eb4e-b198-469f-9ab6-c3152c3e214c",
   "Name": "CARATE BRIANZA - PIAZZA CADUTI PER LA LIBERAZIONE",
   "Alias": "carate_brianza_-_piazza_caduti_per_la_liberazione",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Carate Brianza",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA CADUTI PER LA LIBERAZIONE CARATE BRIANZA",
-      "Note": "",
       "Latitude": "45.676552",
-      "Longitude": "9.236743"
+      "Longitude": "9.236743",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

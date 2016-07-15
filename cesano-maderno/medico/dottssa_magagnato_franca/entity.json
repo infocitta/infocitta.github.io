@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "fa03a0ae-5324-490d-839a-383bd2fdd21d",
+  "Name": "Dott.ssa Magagnato Franca",
+  "Alias": "dottssa_magagnato_franca",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Molino Arese, 60  20811 CESANO MADERNO",
+      "Latitude": "45.630907",
+      "Longitude": "9.173014",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "330/718062",
+      "Note": "lun e mer 10.00-12.00 mar gio e ven 16.00-18.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "330/718062",
+      "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/503668",
+      "Note": "da lun a ven dalle 09.00 alle 11.00 e dalle 16.00 alle 19.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

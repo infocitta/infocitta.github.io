@@ -3,6 +3,8 @@
   "ID": "40235f4c-8807-4949-99e8-31e36cc4b00a",
   "Name": "BRUGHERIO - SAN DAMIANO",
   "Alias": "brugherio_-_san_damiano",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "SAN DAMIANO BRUGHERIO",
-      "Note": "",
       "Latitude": "45.567466",
-      "Longitude": "9.303728"
+      "Longitude": "9.303728",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

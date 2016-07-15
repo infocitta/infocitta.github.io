@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "e10c9e7c-f7e5-40b9-a0f3-570405295de3",
+  "Name": "Dott.ssa DI NARZO IDELBA LUCIA",
+  "Alias": "dottssa_di_narzo_idelba_lucia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via De Gasperi, 54 BRUGHERIO",
+      "Latitude": "45.551594",
+      "Longitude": "9.297075",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "039 2872072",
+      "Note": "18,00 - 19,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "377 3066793",
+      "Note": "8,00 - 10,00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "377 3066793",
+      "Note": "10,00 - 12,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

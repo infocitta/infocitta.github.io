@@ -3,6 +3,8 @@
   "ID": "03082314-c6c5-4167-8a6d-f98531d4cbee",
   "Name": "L'ALBERO",
   "Alias": "lalbero",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA REDIPUGLIA 5 BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.612118",
-      "Longitude": "9.153232"
+      "Longitude": "9.153232",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

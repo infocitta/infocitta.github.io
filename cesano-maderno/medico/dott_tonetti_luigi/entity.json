@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "d1e0a769-905d-4d0e-a5bb-5d75bbe6a778",
+  "Name": "Dott. Tonetti Luigi",
+  "Alias": "dott_tonetti_luigi",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Milano, 49 20811 CESANO MADERNO (MB)",
+      "Latitude": "45.624457",
+      "Longitude": "9.149589",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362 55 36 70",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "0362 55 36 70",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362 55 36 70",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -3,6 +3,8 @@
   "ID": "b3036a96-ccc1-4918-82f0-d405f4167191",
   "Name": "Scuola Materna Autorizzata 'Felice Solaro'",
   "Alias": "scuola_materna_autorizzata_felice_solaro",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TITO SPERI 6 LIMBIATE",
-      "Note": "",
       "Latitude": "45.591329",
-      "Longitude": "9.143370"
+      "Longitude": "9.143370",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

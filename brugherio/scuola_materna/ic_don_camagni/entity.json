@@ -3,6 +3,8 @@
   "ID": "2e160a2c-aab8-47f6-9d16-5520ba9e207a",
   "Name": "IC Don Camagni",
   "Alias": "ic_don_camagni",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DANTE 111 Brugherio",
-      "Note": "",
       "Latitude": "45.548431",
-      "Longitude": "9.294726"
+      "Longitude": "9.294726",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

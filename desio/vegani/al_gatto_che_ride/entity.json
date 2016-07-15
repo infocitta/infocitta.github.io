@@ -3,6 +3,8 @@
   "ID": "c5f648b2-b682-41a7-a27c-0335bf0d66a2",
   "Name": "Al Gatto Che Ride",
   "Alias": "al_gatto_che_ride",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,25 @@
     {
       "Title": "Indirizzo",
       "Value": "Corso Lombardia 2, 20832 Desio",
-      "Note": "",
       "Latitude": "45.619933",
-      "Longitude": "9.210222"
+      "Longitude": "9.210222",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [
+    {
+      "Title": "Note per vegani",
+      "Value": "Disponibile brioches vegane in busta marca Misura"
+    }
+  ],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

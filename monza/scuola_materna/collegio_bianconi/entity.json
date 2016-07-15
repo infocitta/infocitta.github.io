@@ -3,6 +3,8 @@
   "ID": "03300c05-1f49-4096-ab70-99178cf2c4b5",
   "Name": "Collegio Bianconi",
   "Alias": "collegio_bianconi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA Q.SELLA 6 A MONZA",
-      "Note": "",
       "Latitude": "45.586736",
-      "Longitude": "9.268218"
+      "Longitude": "9.268218",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

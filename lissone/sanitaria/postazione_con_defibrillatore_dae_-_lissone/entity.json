@@ -3,6 +3,8 @@
   "ID": "5820ee76-0ef5-4b08-9201-9e50a70d1734",
   "Name": "Postazione con defibrillatore DAE - Lissone",
   "Alias": "postazione_con_defibrillatore_dae_-_lissone",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,38 +21,48 @@
     {
       "Title": "Biblioteca Civica di Lissone",
       "Value": "Piazza IV Novembre, 2, 20035 Lissone MI",
-      "Note": "Posizione approssimata",
       "Latitude": "45.609343",
-      "Longitude": "9.243133"
+      "Longitude": "9.243133",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "Bosco urbano e bacino lacustre",
       "Value": "Via Guglielmo Pepe, 12, 20851 Lissone MB",
-      "Note": "Posizione approssimata",
       "Latitude": "45.621816",
-      "Longitude": "9.256436"
+      "Longitude": "9.256436",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "Stazione di Lissone-Muggiò",
       "Value": "Via della Pinacoteca, 1, 20851 Lissone MB",
-      "Note": "Posizione approssimata",
       "Latitude": "45.606174",
-      "Longitude": "9.235595"
+      "Longitude": "9.235595",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "Comune Di Lissone Palazzo Terragni",
       "Value": "Piazza Libertà, Lissone MB",
-      "Note": "Posizione approssimata",
       "Latitude": "45.610842",
-      "Longitude": "9.240416"
+      "Longitude": "9.240416",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "Piazzale Umiliati - Piazza Mercato",
       "Value": "Piazzale Umiliati - Piazza Mercato",
-      "Note": "Posizione approssimata",
       "Latitude": "45.614344",
-      "Longitude": "9.232695"
+      "Longitude": "9.232695",
+      "Note": "Posizione approssimata"
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

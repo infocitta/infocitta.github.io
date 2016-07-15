@@ -1,0 +1,111 @@
+﻿{
+  "Version": 1,
+  "ID": "5516dcec-bb24-4056-a548-753414fe93fb",
+  "Name": "Dott.ssa Dell'Orto Mariagrazia",
+  "Alias": "dottssa_dellorto_mariagrazia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Varedo",
+      "Alias": "varedo"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Desio, 3  20814 VAREDO",
+      "Latitude": "45.598586",
+      "Longitude": "9.163332",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "392/2373917",
+      "Note": "da lun a ven dalle 14,30 alle 15",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "392/2373917",
+      "Note": "da lun a ven dalle 07.30 alle 10.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

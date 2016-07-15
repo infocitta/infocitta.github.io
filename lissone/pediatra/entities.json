@@ -1,0 +1,658 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "126bc506-791e-4ba1-9361-2716e059a2e7",
+    "Name": "Dott.ssa CORBETTA ADELE ANNA",
+    "Alias": "dottssa_corbetta_adele_anna",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "ia Antonio Pacinotti, 61/c 20851 Lissone MB",
+        "Latitude": "45.612901",
+        "Longitude": "9.257623",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "335 6956377",
+        "Note": "8.00 - 9.30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "22656b72-0115-4016-b901-a2612a48072c",
+    "Name": "Dott.ssa SANTAMARIA MARZIA",
+    "Alias": "dottssa_santamaria_marzia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA CRIPPA, 26 20851 - Lissone",
+        "Latitude": "45.608972",
+        "Longitude": "9.242405",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 461383",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3e44d01e-ae02-4550-abff-0042396cf057",
+    "Name": "Dott.ssa GERVASONI ROBERTA",
+    "Alias": "dottssa_gervasoni_roberta",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Antonio Stoppani, 17/A 20851 Lissone MB",
+        "Latitude": "45.604741",
+        "Longitude": "9.233988",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "340 7403490",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "13:15",
+                "EndTime": "15:15",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "13:15",
+                "EndTime": "15:15",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6b06adf9-1f23-40b5-b672-d4922a853013",
+    "Name": "Dott.ssa MARENZI KAREN SABRINA",
+    "Alias": "dottssa_marenzi_karen_sabrina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via S. Domenico Savio, 33/a 20851 Santa Margherita MB",
+        "Latitude": "45.635663",
+        "Longitude": "9.232391",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "393 0361910",
+        "Note": "dalle 8.30 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "393 0361910",
+        "Note": "dalle 8.30 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per urgenze:",
+        "Value": "393 0361910",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "16:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e0096cd6-5e92-46c5-870e-eccd71a3d7dc",
+    "Name": "Dott.ssa GOMIERO CLAUDIA",
+    "Alias": "dottssa_gomiero_claudia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Antonio Pacinotti, 61/e 20851 Lissone MB",
+        "Latitude": "45.612901",
+        "Longitude": "9.257623",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "346 2351635",
+        "Note": "8.00 - 9.30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e40dae25-1e1f-44a7-9fa9-8f8912b68916",
+    "Name": "Dott TERENGHI ALBINO",
+    "Alias": "dott_terenghi_albino",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Piazzale B.Salvadori, 7 20851 Lissone",
+        "Latitude": "45.613324",
+        "Longitude": "9.247059",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "338 1492612",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "10:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "17:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "10:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "18:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "09:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "09:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

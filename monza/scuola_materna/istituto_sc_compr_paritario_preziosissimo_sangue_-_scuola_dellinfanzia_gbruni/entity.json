@@ -3,6 +3,8 @@
   "ID": "330c0001-8020-4f7c-a2a4-b818a63b1366",
   "Name": "Istituto Sc. Compr. Paritario 'Preziosissimo Sangue' - Scuola Dell'infanzia G.Bruni",
   "Alias": "istituto_sc_compr_paritario_preziosissimo_sangue_-_scuola_dellinfanzia_gbruni",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA LECCO 6 MONZA",
-      "Note": "",
       "Latitude": "45.585459",
-      "Longitude": "9.281562"
+      "Longitude": "9.281562",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

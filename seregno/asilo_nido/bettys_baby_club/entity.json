@@ -3,6 +3,8 @@
   "ID": "6b8b68e7-84be-4657-bc3c-9e3cbd414b29",
   "Name": "BETTY'S BABY CLUB",
   "Alias": "bettys_baby_club",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DA VINCI 1 SEREGNO",
-      "Note": "",
       "Latitude": "45.651026",
-      "Longitude": "9.203609"
+      "Longitude": "9.203609",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

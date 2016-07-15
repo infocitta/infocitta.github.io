@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "eac37843-3f91-4b28-80ef-63a651970ded",
+  "Name": "Dott.ssa Pessina Stefania Tiziana",
+  "Alias": "dottssa_pessina_stefania_tiziana",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Francesco Guerrazzi, 13, 20900 Monza MB",
+      "Latitude": "45.571371",
+      "Longitude": "9.263749",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

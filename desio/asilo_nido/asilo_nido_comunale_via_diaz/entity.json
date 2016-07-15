@@ -3,6 +3,8 @@
   "ID": "bd611481-6689-4707-a471-40092a2a9afc",
   "Name": "ASILO NIDO COMUNALE VIA DIAZ",
   "Alias": "asilo_nido_comunale_via_diaz",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DIAZ 7 DESIO",
-      "Note": "",
       "Latitude": "45.619109",
-      "Longitude": "9.204760"
+      "Longitude": "9.204760",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

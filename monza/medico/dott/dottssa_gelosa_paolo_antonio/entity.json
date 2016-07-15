@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "a39838aa-e85c-48c7-8cee-8c56f9db45d2",
+  "Name": "Dott./Dott.ssa Gelosa Paolo Antonio",
+  "Alias": "dott/dottssa_gelosa_paolo_antonio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - via Querini, 3/A",
+      "Latitude": "45.578128",
+      "Longitude": "9.253528",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039 734585",
+      "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039 2726369",
+      "Note": "lunedì e giovedì 8.00/10.00 martedì e mercoledì 15.00/19.00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "039 734585",
+      "Note": "lunedì mercoledì venerdì 16.00/18.00 martedì giovedì 10.00/12.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:00",
+              "Note": " A12:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:00",
+              "Note": " A12:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

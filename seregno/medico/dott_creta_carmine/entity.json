@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "bc96f10f-9754-4c8a-9e71-a48768416fda",
+  "Name": "Dott. CRETA CARMINE",
+  "Alias": "dott_creta_carmine",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Seregno",
+      "Alias": "seregno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA MEDICI DA SEREGNO, 12  20831 - SEREGNO",
+      "Latitude": "45.649487",
+      "Longitude": "9.203732",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "335/6388593",
+      "Note": "LUN/VEN 15:00 - 17:00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/229779",
+      "Note": "DAL LUN AL VEN",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "335/6388593",
+      "Note": "LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "20:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

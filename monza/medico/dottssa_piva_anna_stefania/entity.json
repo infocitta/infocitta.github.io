@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "67c14813-f56e-4f20-898a-191ab6f96121",
+  "Name": "Dott.ssa PIVA ANNA STEFANIA",
+  "Alias": "dottssa_piva_anna_stefania",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Cattaneo, 6 MONZA",
+      "Latitude": "45.589203",
+      "Longitude": "9.264088",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "333 3289781",
+      "Note": "lun - giov 16,00-18,00 mart - ven 10,00-12,00  merc 14,00 - 16,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "338 1771009",
+      "Note": "7,30 - 8,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2300390",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

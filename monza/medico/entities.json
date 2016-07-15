@@ -1,0 +1,5193 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "0b0a1728-8198-43c4-a5d7-5c5b5e457601",
+    "Name": "Dott.ssa TONELLI FLORA",
+    "Alias": "dottssa_tonelli_flora",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Largo Esterle, 4 MONZA",
+        "Latitude": "45.587138",
+        "Longitude": "9.281247",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 327610",
+        "Note": "8,00 - 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 327610",
+        "Note": "lunedì martedì e giovedì 17,00 - 19,00 mercoledì e venerdì 10,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento:",
+        "Value": "039 327610",
+        "Note": "telefonare negli orari di studio  dal lunedì                        dal  venerdì  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "0c7b3266-f752-4717-bc57-3be41bf8c24a",
+    "Name": "Dott. MOGRE MAURIZIO",
+    "Alias": "dott_mogre_maurizio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA SAN ROCCO 32/2 ",
+        "Latitude": "45.560274",
+        "Longitude": "9.263360",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2004224",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 2004224",
+        "Note": "- lunedì mercoledì venerdì sabato 10,00/14,00 martedì e giovedì 17,00/20,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "0e8fc3b4-062b-4bed-b0bd-98052ed01c20",
+    "Name": "Dott.ssa BARRECA GIUSEPPINA",
+    "Alias": "dottssa_barreca_giuseppina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Niccolò Paganini, 33, 20900 Monza MB",
+        "Latitude": "45.598754",
+        "Longitude": "9.259201",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "347 9767546",
+        "Note": "9,30 - 10,30",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 360686",
+        "Note": "10,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2497621",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "19d8d80f-a918-4d80-8111-3468cbf33c44",
+    "Name": "Dott. Nova Pier Giorgio Maria",
+    "Alias": "dott_nova_pier_giorgio_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Spreafico, 7 MONZA   ",
+        "Latitude": "45.585190",
+        "Longitude": "9.268960",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: ",
+        "Value": "- 338 3016980",
+        "Note": "- 19,30 - 20,00 telefonare il lunedì - martedì - mercoledì",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: telefonare dal lunedì al venerdì ",
+        "Value": "- 039 362028",
+        "Note": "- 6,30 - 8,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "1a00ca56-3aac-42d2-bc84-3fa952d356ef",
+    "Name": "Dott.ssa BOSISIO MARINA",
+    "Alias": "dottssa_bosisio_marina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Manara, 15 MONZA",
+        "Latitude": "45.588679",
+        "Longitude": "9.263722",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento e prescrizioni ricette:",
+        "Value": "039 365766 ",
+        "Note": "9,00 - 13,00  dal lunedì al venerdì",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: consulenze mediche urgenti",
+        "Value": "039 365766",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 361435",
+        "Note": "8,00 - 10,00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "1cc86a31-6505-4b7b-b56e-414a764ea250",
+    "Name": "Dott. PEREGO CLAUDIO LUIGI",
+    "Alias": "dott_perego_claudio_luigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - Via D'Annunzio 21    ",
+        "Latitude": "45.565056",
+        "Longitude": "9.265472",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "- 039 2005215",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "- 039 2005215",
+        "Note": "- dal lunedì al venerdì durante gli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "- 039 2005215",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "21763aad-4bcc-4239-ada9-cc53bef7b379",
+    "Name": "Dott.ssa FOSSATI BIANCA",
+    "Alias": "dottssa_fossati_bianca",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Manara, 15 MONZA",
+        "Latitude": "45.588679",
+        "Longitude": "9.263722",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: consulenze mediche urgenti",
+        "Value": "039 365766",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento e prescrizioni ricette :",
+        "Value": "039 365766",
+        "Note": "9,00 - 13,00  dal lunedì al venerdì",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 380330",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "25e32f70-96e3-4806-a491-ba1f48d6a602",
+    "Name": "Dott. Monguzzi Alberto Lorenzo",
+    "Alias": "dott_monguzzi_alberto_lorenzo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "V. LIGURIA, 1 MONZA",
+        "Latitude": "45.572913",
+        "Longitude": "9.253505",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "2e32de0b-43c5-4ecc-932a-f8f484a14ca7",
+    "Name": "Dott.ssa LISEI ELENA",
+    "Alias": "dottssa_lisei_elena",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Lecco, 3 MONZA",
+        "Latitude": "45.585650",
+        "Longitude": "9.281595",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 360392",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 360392",
+        "Note": "lun - mart - merc 15,30 - 17,30 giov - ven 10,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "338 2768542",
+        "Note": "9,00 - 9,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "316603c9-342f-43e0-a73b-1091338fbedf",
+    "Name": "Dott.ssa PANDOLFI MARIA GRAZIA",
+    "Alias": "dottssa_pandolfi_maria_grazia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA MONTESANTO, 40",
+        "Latitude": "45.562084",
+        "Longitude": "9.269835",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì ",
+        "Value": "039 2002609",
+        "Note": "dalle ore  8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "NON riceve su appuntamento",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 2002609",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3595b119-36c4-47c5-86ff-2c908a32cf69",
+    "Name": "Dott. BOGANI VITTORIO",
+    "Alias": "dott_bogani_vittorio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Archimede, 1 MONZA",
+        "Latitude": "45.590070",
+        "Longitude": "9.297513",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 320508",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento:",
+        "Value": "039 320508",
+        "Note": "8.00 - 10,00  dal lunedì al venerdì (ambulatorio Via Sempione 10)",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì ",
+        "Value": "039 2024936",
+        "Note": "14,00  16,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "35f02218-73ba-4c6d-862e-c1ec799d1fe6",
+    "Name": "Dott. BENATTI MAURO",
+    "Alias": "dott_benatti_mauro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Buonarroti, 91 MONZA",
+        "Latitude": "45.571766",
+        "Longitude": "9.283660",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "349 1484010 ",
+        "Note": "15,00 - 17,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 830648",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3b7e39a3-9220-4c3b-909d-20cde04e9303",
+    "Name": "Dott. RUSSO DAVIDE",
+    "Alias": "dott_russo_davide",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - Via San Rocco 32  ",
+        "Latitude": "45.560274",
+        "Longitude": "9.263360",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039 2003751",
+        "Note": "- dal lunedì al venerdì negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2003751",
+        "Note": "- dal lunedì al venerdì negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2003751",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "43c47a9d-0a47-49c1-909a-5c943063d3d2",
+    "Name": "Dott.ssa FIACCABRINO VALERIA GIROLAMA",
+    "Alias": "dottssa_fiaccabrino_valeria_girolama",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZAA - Via Borgazzi, 9",
+        "Latitude": "45.573580",
+        "Longitude": "9.268526",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "340 2745815",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "340 2745815",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "48e66542-4f66-4b2f-9f4a-412dd6ac937b",
+    "Name": "Dott. Montrasio Giuseppe Carlo",
+    "Alias": "dott_montrasio_giuseppe_carlo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - Via Parravicini, 30 ",
+        "Latitude": "45.584127",
+        "Longitude": "9.270245",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 380890",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 387400",
+        "Note": "dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì ",
+        "Value": "039 380890",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": "(A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "541cac5f-486d-49f4-87ff-1953aa7fea1a",
+    "Name": "Dott.ssa Bramati Enrica",
+    "Alias": "dottssa_bramati_enrica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Valosa di Sopra 24",
+        "Latitude": "45.567474",
+        "Longitude": "9.239661",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "380 3169813",
+        "Note": "dal lunedì al venerdì dalle ore 10,00 alle ore 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039  735455",
+        "Note": "il lunedì dalle 11,00 alle 12,00 il martedì il mercoledì il venerdì durante gli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: ",
+        "Value": "039 6014114",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:00",
+                "Note": "(A)"
+              },
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "13:00",
+                "Note": " (A)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5bc0fb7f-575c-4ec9-a502-0665acaa193e",
+    "Name": "Dott. Arosio Daniele Maria",
+    "Alias": "dott_arosio_daniele_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Ludwig Van Beethoven, 2, 20900 Monza MB",
+        "Latitude": "45.594975",
+        "Longitude": "9.257745",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5c9b6284-2d15-4aed-9d23-5815a3f9ed86",
+    "Name": "Dott.ssa CIUCCI SIMONETTA",
+    "Alias": "dottssa_ciucci_simonetta",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Buonarroti, 121 MONZA",
+        "Latitude": "45.568974",
+        "Longitude": "9.284508",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2847665",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì ",
+        "Value": "346 3253171",
+        "Note": "15,30 - 17,30",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì ",
+        "Value": "039 2847665",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5f95d621-24f6-4d90-a4e7-5797331eb544",
+    "Name": "Dott. CAZZANIGA FRANCESCO",
+    "Alias": "dott_cazzaniga_francesco",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Sorteni, 5 MONZA",
+        "Latitude": "45.576650",
+        "Longitude": "9.240130",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 324491",
+        "Note": "19,00 - 20,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 730164           339 5040546",
+        "Note": "lunedì martedì giovedì 17,00-19,00  mercoledì - venerdì    10,00-12,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "62f74119-3723-4b00-baa6-e39e18db9dbe",
+    "Name": "Dott.ssa Montani Maria",
+    "Alias": "dottssa_montani_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Antonietti 14 ",
+        "Latitude": "45.580050",
+        "Longitude": "9.285479",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039 835196",
+        "Note": "dal lunedì al venerdì in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2028387",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 835196",
+        "Note": "dal lunedì al venerdì in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "09:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "20:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "65835068-7f5b-412b-b991-1305a3a456e5",
+    "Name": "Dott.ssa LAZZARI MARINA GRAZIA",
+    "Alias": "dottssa_lazzari_marina_grazia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Carlo Alberto, 41 MONZA",
+        "Latitude": "45.587344",
+        "Longitude": "9.276002",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venrdì",
+        "Value": "039 320246",
+        "Note": "8,00 - 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 320246",
+        "Note": "lun giov 17,00 - 19,00 mart merc ven 10,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì ",
+        "Value": "340 538902",
+        "Note": "8,00 - 8,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "67c14813-f56e-4f20-898a-191ab6f96121",
+    "Name": "Dott.ssa PIVA ANNA STEFANIA",
+    "Alias": "dottssa_piva_anna_stefania",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Cattaneo, 6 MONZA",
+        "Latitude": "45.589203",
+        "Longitude": "9.264088",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "333 3289781",
+        "Note": "lun - giov 16,00-18,00 mart - ven 10,00-12,00  merc 14,00 - 16,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "338 1771009",
+        "Note": "7,30 - 8,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2300390",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "69e0a5d4-f727-4df2-9898-abfbb0863d08",
+    "Name": "Dott.ssa Merlini Desiree Chiara",
+    "Alias": "dottssa_merlini_desiree_chiara",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Libertà 19   ",
+        "Latitude": "45.592971",
+        "Longitude": "9.337662",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "335 8167876",
+        "Note": "dal lunedì al venerdì preferenzialmente tra le ore 8.00 e le ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "335 8167876",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 2315859",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": "A"
+              },
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:15",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:15",
+                "Note": " A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6c5b0d58-9fd2-4a29-866f-3ba4641bce33",
+    "Name": "Dott. MARCONCINI PIETRO",
+    "Alias": "dott_marconcini_pietro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Rota, 70/A MONZA",
+        "Latitude": "45.580837",
+        "Longitude": "9.292420",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 833600",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 833600",
+        "Note": "7,30 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "733b7134-7ee4-4ad5-923f-270c5e2f9ab4",
+    "Name": "Dott.ssa PIAZZA ALESSANDRA",
+    "Alias": "dottssa_piazza_alessandra",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIALE UGO FOSCOLO 23   ",
+        "Latitude": "45.577361",
+        "Longitude": "9.285486",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "- 380 1337754",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "- 338 4443340",
+        "Note": "- dal luneedì al venerdì dalle ore 18,00 alle ore 19,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "- 380 1337754",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "74898830-ee3e-4edc-9ca9-8a73d0d02f9b",
+    "Name": "Dott.ssa ARIENTI ENRICA",
+    "Alias": "dottssa_arienti_enrica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via De Gradi, 306417 MONZA ",
+        "Latitude": "45.584160",
+        "Longitude": "9.281229",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento:",
+        "Value": "335 6648233",
+        "Note": " solo il martedì e il mercoledì dalle ore 12,00 alle ore 13,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "335 6648233",
+        "Note": "8,00 - 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì ",
+        "Value": "335 6648233",
+        "Note": "10,00 12,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "78c53202-d869-454d-9a70-8c12abd15951",
+    "Name": "Dott. MARIANI MARCO MARIA",
+    "Alias": "dott_mariani_marco_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA RAIBERTI 9",
+        "Latitude": "45.586294",
+        "Longitude": "9.284513",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento : ",
+        "Value": "039 369597",
+        "Note": "telefonare negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 388331",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 369597 o 348 9105523",
+        "Note": "dal lunedì al venerdì durante gli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "7b9ec500-a705-4640-a126-c1a8580f7075",
+    "Name": "Dott. RINARELLI RENATO",
+    "Alias": "dott_rinarelli_renato",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Borgazzi, 9 MONZA",
+        "Latitude": "45.573580",
+        "Longitude": "9.268526",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:dal lunedì al venerdì",
+        "Value": "338 4270376",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: martedì e giovedì",
+        "Value": "338 4270376",
+        "Note": "12,00 - 13,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "338 4270376",
+        "Note": "8,00 - 12,00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8044e9bd-e9ba-4e4d-90c6-dd806533c555",
+    "Name": "Dott.ssa PANZERI MARTA",
+    "Alias": "dottssa_panzeri_marta",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Gottardo, 60 MONZA",
+        "Latitude": "45.583998",
+        "Longitude": "9.268365",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2141365",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 380238",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 380238",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "83a72c4f-7537-49c6-822f-7597ed273915",
+    "Name": "Dott. Cappiello Arcangelo",
+    "Alias": "dott_cappiello_arcangelo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via -  Toti 29 MONZA   ",
+        "Latitude": "45.589743",
+        "Longitude": "9.284900",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "- ",
+        "Note": "- ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 362292",
+        "Note": "8.00 - 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 362292",
+        "Note": "10.00 - 11.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8a20ab2f-4757-4255-b743-27552e664b50",
+    "Name": "Dott.ssa GILTRI DONATA",
+    "Alias": "dottssa_giltri_donata",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Fieramosca, 31 MONZA",
+        "Latitude": "45.571579",
+        "Longitude": "9.306142",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "345 3418321",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 836166",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8a6eecd8-48dc-402f-bdee-5be4e9a5cfea",
+    "Name": "Dott. Noseda Enrico",
+    "Alias": "dott_noseda_enrico",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA -via Cagni 6  ",
+        "Latitude": "45.578271",
+        "Longitude": "9.252077",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "340 2364493",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 735167",
+        "Note": "lunedì mercoledì giovedì e venerdì 15.00/17.00 martedì 8.30/10.30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2101531",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": "A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9056f3ad-52ea-40b1-b51b-71acdf649948",
+    "Name": "Dott.ssa BALESTRACCI LUCIA",
+    "Alias": "dottssa_balestracci_lucia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Paganini 9/a MONZA",
+        "Latitude": "45.598210",
+        "Longitude": "9.256881",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 369541",
+        "Note": "9,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 369541 ",
+        "Note": "lun mart giov 10,00-12,00  merc ven 15,00-17,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9423b9f0-7c94-46ba-b10b-b366c86f7886",
+    "Name": "Dott. AGOSTONI ROBERTO",
+    "Alias": "dott_agostoni_roberto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Liguria, 1 MONZA",
+        "Latitude": "45.572913",
+        "Longitude": "9.253505",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 745032",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 2006833",
+        "Note": "lun mart merc ven 16,30 -18,30                       giov 9,30 - 11,30",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "96da4068-a86a-4754-8015-57482f1248ad",
+    "Name": "Dott. REDAELLI VALENTINO",
+    "Alias": "dott_redaelli_valentino",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA ZUCCHI 1  ",
+        "Latitude": "45.585839",
+        "Longitude": "9.275352",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 365222",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 360338",
+        "Note": "- negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2304207",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "13:30",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "98a467f1-106e-4dda-806c-320adccfd07c",
+    "Name": "Dott. CASIRAGHI EZIO",
+    "Alias": "dott_casiraghi_ezio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Buccari, 2 MONZA",
+        "Latitude": "45.580962",
+        "Longitude": "9.282380",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 2021122",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2021122",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 2021122",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9cc1da1d-5970-4790-9fcc-b82e0a0f8b4b",
+    "Name": "Dott. ARNABOLDI ADELIO",
+    "Alias": "dott_arnaboldi_adelio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Felice Cavallotti, 104 MONZA",
+        "Latitude": "45.578443",
+        "Longitude": "9.256083",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 730152",
+        "Note": "lun 17,00-19,00 mart 14,00-16,00  merc giov  17,00-19,00 ven14,0016,00                                                               ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a1f31f68-7241-4396-87ed-a82c6c9d895c",
+    "Name": "Dott.ssa PUCCINI SANDRA",
+    "Alias": "dottssa_puccini_sandra",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Cavallotti, 19 MONZA",
+        "Latitude": "45.581325",
+        "Longitude": "9.267737",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "02 66016286",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "335 5288215",
+        "Note": "lun - merc 10,00 - 12,00 mart - giov - ven 16,00 - 18,00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a21c965c-5dbc-4bae-a83e-58a024d713ab",
+    "Name": "Dott. CALIENNO SERGIO",
+    "Alias": "dott_calienno_sergio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Modorati, 1 MONZA",
+        "Latitude": "45.592270",
+        "Longitude": "9.302055",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "335 6089705",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: mercoledì e venerdì",
+        "Value": "039 2021559",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì ",
+        "Value": "039 384476",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a39838aa-e85c-48c7-8cee-8c56f9db45d2",
+    "Name": "Dott./Dott.ssa Gelosa Paolo Antonio",
+    "Alias": "dott/dottssa_gelosa_paolo_antonio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Querini, 3/A",
+        "Latitude": "45.578128",
+        "Longitude": "9.253528",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 734585",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2726369",
+        "Note": "lunedì e giovedì 8.00/10.00 martedì e mercoledì 15.00/19.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 734585",
+        "Note": "lunedì mercoledì venerdì 16.00/18.00 martedì giovedì 10.00/12.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:00",
+                "Note": " A12:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:00",
+                "Note": " A12:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a5860dcc-d483-4779-8e6e-fdc5accd9472",
+    "Name": "Dott.ssa Ricci Caterina",
+    "Alias": "dottssa_ricci_caterina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Querini 3/A   ",
+        "Latitude": "45.578128",
+        "Longitude": "9.253528",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039 2721558",
+        "Note": "durante gli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2721558",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "ad1db3fb-48a4-4808-ab57-5d3abf75d92e",
+    "Name": "Dott.ssa Mangiagalli Monica",
+    "Alias": "dottssa_mangiagalli_monica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Antonietti 14  MONZA - via Ferraris 10",
+        "Latitude": "45.580050",
+        "Longitude": "9.285479",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2315345",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "349 4133583",
+        "Note": "dal lunedì al venerdì in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0392 315345",
+        "Note": "dal lunedì al venrdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "16:00",
+                "Note": "(via Antonietti 14)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:00",
+                "Note": " (via Ferraris 10)"
+              },
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": " (via Antonietti 14)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": " (via Antonietti 14)"
+              },
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": " (via Ferraris 10) su A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": " (via Antonietti 14) su A"
+              },
+              {
+                "StartTime": "16:30",
+                "EndTime": "17:30",
+                "Note": " (via Ferraris 10) su A17:30"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "17:00",
+                "Note": " (via Antonietti 14) su A  17:00"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "ae85095a-ba45-41fa-b8eb-c78cc3f13968",
+    "Name": "Dott.ssa Medi Sira",
+    "Alias": "dottssa_medi_sira",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Querini 1 ",
+        "Latitude": "45.577851",
+        "Longitude": "9.253520",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 733757",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 9,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "334 9053324",
+        "Note": "lunedì mercoledì venerdì 10.00/12.00 martedì giovedì 16.30/18.30",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "334 7759150",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": " A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "af3ad3ff-6db4-403a-b40f-7ceb69ac4440",
+    "Name": "Dott.ssa D'ascenzo Gabriella",
+    "Alias": "dottssa_dascenzo_gabriella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Wolfgang Amadeus Mozart, 29, 20900 Monza MB",
+        "Latitude": "45.598271",
+        "Longitude": "9.266529",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: telefonare dal lunedì al venerdi ",
+        "Value": "- 347 8001741",
+        "Note": "- 13,00 - 15,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: ",
+        "Value": "- 347 4991663",
+        "Note": "- 12,00 - 13,00 telefonare il lunedì mercoledì giovedì ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": "A   18:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "10:30",
+                "Note": " A 10:30"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": " A   18:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "10:30",
+                "Note": " A  10:30"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "13:30",
+                "EndTime": "15:00",
+                "Note": " A"
+              },
+              {
+                "StartTime": "09:00",
+                "EndTime": "10:00",
+                "Note": " A 10:30"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b0665dbf-21b2-4704-9038-209a2e68e89a",
+    "Name": "Dott. JOPPOLO GIOVANNI",
+    "Alias": "dott_joppolo_giovanni",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Segrè, 1",
+        "Latitude": "45.577092",
+        "Longitude": "9.252638",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 747138",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: ",
+        "Value": "039 737579",
+        "Note": "lunedì mercoledì venerdì dalle ore 15,00 alle ore 15,30",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "347 9561180 solo lunedì 12,00-13,00   e 039 737579",
+        "Note": "martedì giovedì dalle ore 10,00 alle ore 11,30 lun merc ven dalle ore 15,30 alle ore 17,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": "(A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:15",
+                "EndTime": "12:45",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:15",
+                "EndTime": "12:45",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": " (A)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b393b889-8fcf-49c1-a2dd-bd1d79ac71c1",
+    "Name": "Dott. Camagna Paolo Luigi",
+    "Alias": "dott_camagna_paolo_luigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Talamoni 3  20900 MONZA ",
+        "Latitude": "45.583923",
+        "Longitude": "9.280721",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039380936",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039380936",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039380936",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b784e991-d5e9-4cf7-a63b-d3a4788985f0",
+    "Name": "Dott.ssa VILLA DANIELA LUCIA",
+    "Alias": "dottssa_villa_daniela_lucia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA , VIA VISCONTI 41   ",
+        "Latitude": "45.641339",
+        "Longitude": "9.271713",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "- 347 6918361 ",
+        "Note": "-  dal lunedì al venerdì dalle ore 8,00 alle ore 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "- 347 6918361",
+        "Note": "-  dal lunedì al venerdì dalle ore 8,00  alle ore 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "- 347 6918361 - 039 325760",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b880ecac-ebc5-42e0-80c4-5c4a4815f2b2",
+    "Name": "Dott. FARINA ARMANDO",
+    "Alias": "dott_farina_armando",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Liguria, 1 MONZA",
+        "Latitude": "45.572913",
+        "Longitude": "9.253505",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2496996",
+        "Note": "8,00 - 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 2496996",
+        "Note": "14,30 - 16,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "bd91332e-c65c-43da-9bd6-95f3877717ac",
+    "Name": "Dott.ssa Piamarta Laura",
+    "Alias": "dottssa_piamarta_laura",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Volta 36 ",
+        "Latitude": "45.589887",
+        "Longitude": "9.268069",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 323594",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 387322",
+        "Note": "dal lunedì al venerdì in orario di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 323594",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "15:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": " A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": " A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "be4c76ab-760e-45a6-8b17-b0131671bdca",
+    "Name": "Dott. COLOMBO MARIO",
+    "Alias": "dott_colombo_mario",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Filiberto, 3 MONZA",
+        "Latitude": "45.580138",
+        "Longitude": "9.251982",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "335 8358910",
+        "Note": "10,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "335 8358910",
+        "Note": "8,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "335 8358910",
+        "Note": "8,00 - 8,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "bfa341a6-b784-4ccc-b44a-1442ad3d7232",
+    "Name": "Dott.ssa BILLI LAURA",
+    "Alias": "dottssa_billi_laura",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Parravicini, 30 MONZA",
+        "Latitude": "45.584127",
+        "Longitude": "9.270245",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 387400",
+        "Note": "dalle ore 8,00  alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal martedì al venerdì",
+        "Value": "039 380890",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 380890",
+        "Note": "negli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c03b3c02-1a29-48d8-b6d2-2de0d32a3a76",
+    "Name": "Dott. CAIMI VITTORIO",
+    "Alias": "dott_caimi_vittorio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Manara, 15 MONZA",
+        "Latitude": "45.588679",
+        "Longitude": "9.263722",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento e prescrizioni ricette :",
+        "Value": "039 365766",
+        "Note": "9,00 - 13,00  dal lunedì al venerdì",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2022793",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: consulenze mediche urgenti",
+        "Value": "039 365766",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:00",
+                "EndTime": "12:30",
+                "Note": "(A)"
+              },
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": "(A) 18:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": "(A) su appuntamento"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": " (A) 18:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": " (A) 18:00"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "13:00",
+                "Note": " accesso libero"
+              },
+              {
+                "StartTime": "10:00",
+                "EndTime": "11:30",
+                "Note": " (A)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c089219c-c9d5-46dd-aedd-71b3591e99d0",
+    "Name": "Dott. Gianfranco Filiberti",
+    "Alias": "dott_gianfranco_filiberti",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Monti e Tognetti 21 MONZA ",
+        "Latitude": "45.590853",
+        "Longitude": "9.263617",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "331 3478778",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "331 3478778",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c5b22d00-4d7e-4c78-9236-ef3a49743fab",
+    "Name": "Dott.ssa RIPAMONTI LUIGIA",
+    "Alias": "dottssa_ripamonti_luigia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA SAN ROCCO 100/D ",
+        "Latitude": "45.556762",
+        "Longitude": "9.260630",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039 2003728",
+        "Note": "lunedì mercoledì giovedì venerdì dalle ore 15,00 alle ore 17,00 martedì dalle ore 10,00 alle ore 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2003728",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "340 2311109",
+        "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c666b7c3-903f-41ab-a277-95b7f4edcfd5",
+    "Name": "Dott. Schettino Francesco Carlo",
+    "Alias": "dott_schettino_francesco_carlo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Gerolamo Borgazzi, 9, 20900 Monza MB",
+        "Latitude": "45.573580",
+        "Longitude": "9.268526",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c6784b0c-94c8-4362-9ec7-53f7e0bc45dc",
+    "Name": "Dott. BRAMBILLA GIORGIO",
+    "Alias": "dott_brambilla_giorgio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Foscolo, 7 MONZA",
+        "Latitude": "45.577673",
+        "Longitude": "9.283809",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì ",
+        "Value": "039 836648",
+        "Note": "8,00 - 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 836648",
+        "Note": "lun-merc-ven 16,00-18,00 mart-giov 10,00-12,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d08a2166-78b3-4d69-abf7-deb03b4fa050",
+    "Name": "Dott.ssa Villa Enrica",
+    "Alias": "dottssa_villa_enrica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Piazza Armando Diaz, 1, 20900 Monza MB",
+        "Latitude": "45.580228",
+        "Longitude": "9.271034",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d3d88857-edac-49e6-83a0-2c7ad7e9934c",
+    "Name": "Dott. MOSCA GIAMPIETRO",
+    "Alias": "dott_mosca_giampietro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA TOSI 3  ",
+        "Latitude": "45.590855",
+        "Longitude": "9.302536",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "- ",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d8cbf3a8-8de7-4226-bb44-a24e0cd3a98e",
+    "Name": "Dott. POGGIOLI GIAMPIERO",
+    "Alias": "dott_poggioli_giampiero",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA SAN ROCCO 32",
+        "Latitude": "45.560274",
+        "Longitude": "9.263360",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "333 2096329",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2004446",
+        "Note": "dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "NON si riceve SU APPUNTAMENTO",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e592333c-0521-45f1-8414-d13a29a76446",
+    "Name": "Dott. MIGLIAVACCA PAOLO",
+    "Alias": "dott_migliavacca_paolo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Paganini, 9/a MONZA",
+        "Latitude": "45.598210",
+        "Longitude": "9.256881",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 325368",
+        "Note": "lun-ven 7,30-8,30 lun-mart-giov 15,30-17,00 merc 10,00-11,30 ven 12,00-13,30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 325368",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 325368",
+        "Note": "8,30 - 9,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "eac37843-3f91-4b28-80ef-63a651970ded",
+    "Name": "Dott.ssa Pessina Stefania Tiziana",
+    "Alias": "dottssa_pessina_stefania_tiziana",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Francesco Guerrazzi, 13, 20900 Monza MB",
+        "Latitude": "45.571371",
+        "Longitude": "9.263749",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "ee03437c-74b5-48f3-8c04-a4b452a49f4f",
+    "Name": "Dott. MARINARO PASQUALE",
+    "Alias": "dott_marinaro_pasquale",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA MANZONI 20",
+        "Latitude": "45.584083",
+        "Longitude": "9.270694",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "335 5682446",
+        "Note": "dal lunedì al venerdì dalle ore 9,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 360393",
+        "Note": "dal lunedì al venerdì dalle ore 8,30 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 360393",
+        "Note": "dal lunedì al venerdì dalle ore 9,00 alle ore 11,00 e il mercoledì e giovedì anche dalle ore 15,00 alle ore 16,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f312dc03-51cb-4251-8fb1-37e18b23c969",
+    "Name": "Dott. CAMBINI PIERLUIGI",
+    "Alias": "dott_cambini_pierluigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Lecco, 49 MONZA",
+        "Latitude": "45.589086",
+        "Longitude": "9.286043",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2301372",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 388352",
+        "Note": "lun-merc-ven 16,00-18,00 mart 10,00-12,00 giov 9,00-11,00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f447502f-2fcf-4db9-b6b6-5edc6fc85784",
+    "Name": "Dott. SILVESTRI DARIO",
+    "Alias": "dott_silvestri_dario",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - VIA PARINI 4  ",
+        "Latitude": "45.588167",
+        "Longitude": "9.273480",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039 360228",
+        "Note": "- negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 360228",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 320978",
+        "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:15",
+                "EndTime": "19:00",
+                "Note": "(A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:15",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:15",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:15",
+                "EndTime": "19:00",
+                "Note": " (A)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f8d5f146-ca87-433b-85e4-50eec94759ab",
+    "Name": "Dott. Dell'Orto Paolo Carlo",
+    "Alias": "dott_dellorto_paolo_carlo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "MONZA - via Volta 36  ",
+        "Latitude": "45.589887",
+        "Longitude": "9.268069",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "392 6862822",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "392 6862822",
+        "Note": "dal lunedì al venerdì negli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "392 6862822",
+        "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": "su A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": " su A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": " su A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": " su A"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "16:00",
+                "Note": " su A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f9da966c-e4a2-4608-8a00-5d29fe906db0",
+    "Name": "Dott.ssa RIVA MARIA GRAZIA",
+    "Alias": "dottssa_riva_maria_grazia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Bergamo, 18 MONZA",
+        "Latitude": "45.583526",
+        "Longitude": "9.284720",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento:",
+        "Value": "337 350817",
+        "Note": "8,30 - 10,30 dello stesso giorno in cui si vuole  accedere all'ambulatorio  il martedì, il giovedì e il venerdì",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì ",
+        "Value": "337 350817",
+        "Note": "10,00 - 12,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 737304",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "fcccc1aa-013a-486a-872e-18c0b8241fb1",
+    "Name": "Dott. BENEDUCCI ALBERTO",
+    "Alias": "dott_beneducci_alberto",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Quarnaro, 6 MONZA",
+        "Latitude": "45.578824",
+        "Longitude": "9.281988",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2494402",
+        "Note": "8,00 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 2060464 / 039 2022333",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 2060464 / 039 2022333",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

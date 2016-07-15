@@ -3,6 +3,8 @@
   "ID": "df086ee8-a151-4426-9d70-791190ac8498",
   "Name": "Scuola Dell'infanzia S. Anna",
   "Alias": "scuola_dellinfanzia_s_anna",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BUONARROTI 106 MONZA",
-      "Note": "",
       "Latitude": "45.570191",
-      "Longitude": "9.284148"
+      "Longitude": "9.284148",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "72ddebb7-d0d0-485f-89de-91ba0166eb41",
   "Name": "MONZA - PIAZZA TRENTO",
   "Alias": "monza_-_piazza_trento",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA TRENTO MONZA",
-      "Note": "",
       "Latitude": "45.010777",
-      "Longitude": "7.819958"
+      "Longitude": "7.819958",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

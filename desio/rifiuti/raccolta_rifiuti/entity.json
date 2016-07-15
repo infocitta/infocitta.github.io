@@ -3,6 +3,8 @@
   "ID": "51c10197-6999-45c9-b08a-df4eeed6c60f",
   "Name": "Raccolta Rifiuti",
   "Alias": "raccolta_rifiuti",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -29,5 +31,43 @@
       "Note": "Cosa differenziare",
       "Type": 2
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Giorni senza raccolta rifiuti",
+      "Note": "",
+      "WeekDays": [],
+      "Days": [
+        {
+          "Date": "2016-05-01T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-12-25T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-04-25T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-08-15T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-01-01T00:00:00",
+          "Schedules": []
+        }
+      ]
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

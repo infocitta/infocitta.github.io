@@ -3,6 +3,8 @@
   "ID": "156bfdc5-fd28-415a-a4d6-f40c50c0d56a",
   "Name": "IL PIANETA DEI BAMBINI",
   "Alias": "il_pianeta_dei_bambini",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DE MARCHI EMILIO  18 MONZA",
-      "Note": "",
       "Latitude": "45.592698",
-      "Longitude": "9.294578"
+      "Longitude": "9.294578",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

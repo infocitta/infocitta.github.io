@@ -3,6 +3,8 @@
   "ID": "84e5e175-8f35-444c-9c70-476eb4f09b4d",
   "Name": "ASILO NIDO COMUNALE POLLICINO",
   "Alias": "asilo_nido_comunale_pollicino",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TOGLIATTI P.  3 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.585487",
-      "Longitude": "9.196788"
+      "Longitude": "9.196788",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

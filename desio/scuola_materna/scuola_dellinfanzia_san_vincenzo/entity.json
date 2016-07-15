@@ -3,6 +3,8 @@
   "ID": "2f0852b8-ba6e-48d3-9f91-fee7428e41f8",
   "Name": "Scuola Dell'infanzia San Vincenzo",
   "Alias": "scuola_dellinfanzia_san_vincenzo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TRE VENEZIE 7 DESIO",
-      "Note": "",
       "Latitude": "45.603698",
-      "Longitude": "9.196814"
+      "Longitude": "9.196814",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

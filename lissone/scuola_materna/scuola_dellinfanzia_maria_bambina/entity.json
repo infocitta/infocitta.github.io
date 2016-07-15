@@ -3,6 +3,8 @@
   "ID": "09543c27-571c-4003-8c97-0837eae97a10",
   "Name": "Scuola Dell'infanzia 'Maria Bambina'",
   "Alias": "scuola_dellinfanzia_maria_bambina",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ORELLI 21 LISSONE",
-      "Note": "",
       "Latitude": "45.611946",
-      "Longitude": "9.243839"
+      "Longitude": "9.243839",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -1,0 +1,122 @@
+﻿{
+  "Version": 1,
+  "ID": "d4a3ecc9-cfba-406c-a158-ad1e0621aed2",
+  "Name": "Dott. Sala Virginio",
+  "Alias": "dott_sala_virginio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Desio",
+      "Alias": "desio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Achille Grandi, 37 20832 Desio MB",
+      "Latitude": "45.615055",
+      "Longitude": "9.209142",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/628823  ",
+      "Note": "da lunedì a venerdì entro le ore 10",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "339/8189627 - 0362 628823",
+      "Note": "da lun a ven dalle 10.00 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/628823  ",
+      "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "11:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "16:30",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "11:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "11:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "11:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

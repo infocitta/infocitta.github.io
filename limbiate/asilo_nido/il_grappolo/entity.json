@@ -3,6 +3,8 @@
   "ID": "973b6767-7320-4d47-95d0-c949b82c7050",
   "Name": "IL GRAPPOLO",
   "Alias": "il_grappolo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PISANI VITTORIO  10 LIMBIATE",
-      "Note": "",
       "Latitude": "45.604225",
-      "Longitude": "9.116135"
+      "Longitude": "9.116135",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

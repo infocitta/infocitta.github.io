@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "f6ed4e00-26fc-4333-8410-e0b43f615da0",
+  "Name": "Dott. Meazza Luigi Pietro",
+  "Alias": "dott_meazza_luigi_pietro",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via G. CARDUCCI, 19  20851 LISSONE ",
+      "Latitude": "45.604686",
+      "Longitude": "9.235592",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "039481130",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039481130",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039481130",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

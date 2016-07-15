@@ -3,6 +3,8 @@
   "ID": "ac9ab337-268f-4f50-9861-099441b615fa",
   "Name": "IL PIANETA DEI BAMBINI DI ADRIANA VIDUS ROSIN",
   "Alias": "il_pianeta_dei_bambini_di_adriana_vidus_rosin",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA FRATELLI BANDIERA 17/A LISSONE",
-      "Note": "",
       "Latitude": "45.602512",
-      "Longitude": "9.245884"
+      "Longitude": "9.245884",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

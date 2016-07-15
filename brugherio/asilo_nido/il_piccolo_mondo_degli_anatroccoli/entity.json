@@ -3,6 +3,8 @@
   "ID": "8630279a-3628-47c5-ab47-ef240f6f10c1",
   "Name": "IL PICCOLO MONDO DEGLI ANATROCCOLI",
   "Alias": "il_piccolo_mondo_degli_anatroccoli",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA STOPPANI A.  10 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.548454",
-      "Longitude": "9.302854"
+      "Longitude": "9.302854",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "b9ba2ea1-9895-4c39-b64f-fce7e425a387",
   "Name": "LA MAGNOLIA",
   "Alias": "la_magnolia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SCIVIERO  5 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.554050",
-      "Longitude": "9.302004"
+      "Longitude": "9.302004",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "40d8c04c-addf-4308-bb9b-950a51e65535",
   "Name": "ASSOCIAZIONE PETER PAN",
   "Alias": "associazione_peter_pan",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DANTE ALIGHIERI 10 LISSONE",
-      "Note": "",
       "Latitude": "45.612238",
-      "Longitude": "9.237047"
+      "Longitude": "9.237047",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

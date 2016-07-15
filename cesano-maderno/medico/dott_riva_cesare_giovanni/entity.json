@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "184927eb-0aa0-4c70-bde9-c15b73a7fa86",
+  "Name": "Dott. RIVA CESARE GIOVANNI",
+  "Alias": "dott_riva_cesare_giovanni",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via __________  20811 ______________",
+      "Latitude": "44.987252",
+      "Longitude": "4.745360",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

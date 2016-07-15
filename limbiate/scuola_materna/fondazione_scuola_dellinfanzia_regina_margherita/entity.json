@@ -3,6 +3,8 @@
   "ID": "58265cb8-156f-4937-b7cc-07982da4e42b",
   "Name": "Fondazione Scuola Dell'infanzia Regina Margherita",
   "Alias": "fondazione_scuola_dellinfanzia_regina_margherita",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA SUORE DEL COTTOLENGO- SNC LIMBIATE",
-      "Note": "",
       "Latitude": "38.897401",
-      "Longitude": "-77.026253"
+      "Longitude": "-77.026253",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

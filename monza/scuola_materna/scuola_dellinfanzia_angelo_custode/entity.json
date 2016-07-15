@@ -3,6 +3,8 @@
   "ID": "4f5d61f6-63bf-4cf5-b7cd-51a46a080e19",
   "Name": "Scuola Dell'infanzia Angelo Custode",
   "Alias": "scuola_dellinfanzia_angelo_custode",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA SANTA MARGHERITA 2 MONZA",
-      "Note": "",
       "Latitude": "45.583936",
-      "Longitude": "9.280083"
+      "Longitude": "9.280083",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

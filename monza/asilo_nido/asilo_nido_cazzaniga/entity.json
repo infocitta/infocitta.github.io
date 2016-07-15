@@ -3,6 +3,8 @@
   "ID": "185913d7-1b90-4845-b9ee-780dec583d0d",
   "Name": "ASILO NIDO CAZZANIGA",
   "Alias": "asilo_nido_cazzaniga",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DEBUSSY CLAUDE  10 MONZA",
-      "Note": "",
       "Latitude": "45.593984",
-      "Longitude": "9.255329"
+      "Longitude": "9.255329",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

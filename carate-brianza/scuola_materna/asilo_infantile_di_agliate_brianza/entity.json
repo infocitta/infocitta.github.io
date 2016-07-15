@@ -3,6 +3,8 @@
   "ID": "06085419-253b-4753-ae1e-2b0d5e1e9133",
   "Name": "Asilo Infantile Di Agliate Brianza",
   "Alias": "asilo_infantile_di_agliate_brianza",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Carate Brianza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA G. PASCOLI 4 CARATE BRIANZA",
-      "Note": "",
       "Latitude": "45.685169",
-      "Longitude": "9.241050"
+      "Longitude": "9.241050",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

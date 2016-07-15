@@ -3,6 +3,8 @@
   "ID": "25afd012-79e5-4eea-988a-3f06b442cc0f",
   "Name": "Scuola Dell'infanzia Paritaria 'Cuore Immacolato Di Maria'",
   "Alias": "scuola_dellinfanzia_paritaria_cuore_immacolato_di_maria",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA NOBEL 14 LISSONE",
-      "Note": "",
       "Latitude": "45.605142",
-      "Longitude": "9.253715"
+      "Longitude": "9.253715",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

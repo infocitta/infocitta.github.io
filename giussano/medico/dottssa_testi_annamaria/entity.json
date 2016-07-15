@@ -1,0 +1,132 @@
+﻿{
+  "Version": 1,
+  "ID": "e646eb67-a293-487e-9a95-ff4e334ad02e",
+  "Name": "Dott.ssa TESTI ANNAMARIA",
+  "Alias": "dottssa_testi_annamaria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Gaetano Donizetti, 41, 20833 Giussano MB",
+      "Latitude": "45.684018",
+      "Longitude": "9.208485",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "3669867889",
+      "Note": "PRIME DUE ORE ORARI AMBULAT. POMERIGGIO",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/554076",
+      "Note": "LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/554076",
+      "Note": "LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "11:00",
+              "EndTime": "12:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

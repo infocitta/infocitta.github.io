@@ -1,0 +1,127 @@
+﻿{
+  "Version": 1,
+  "ID": "9df72f54-f670-488d-8c61-51263cb0df3d",
+  "Name": "Dott. Ballabio Fiorenzo Mario",
+  "Alias": "dott_ballabio_fiorenzo_mario",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via privata Varenna, 7  Giussano",
+      "Latitude": "45.697856",
+      "Longitude": "9.208468",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "0362/850513 - 335/8444275",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/850513 - 335/8444275",
+      "Note": "-",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/850513 - 335/8444275",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:00",
+              "Note": "  (su appuntamento)"
+            },
+            {
+              "StartTime": "13:30",
+              "EndTime": "16:00",
+              "Note": "  (accesso libero)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "13:00",
+              "EndTime": "15:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "11:30",
+              "EndTime": "13:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

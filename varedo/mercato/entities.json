@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA REBUZZINI VAREDO",
-        "Note": "",
         "Latitude": "45.596838",
-        "Longitude": "9.162500"
+        "Longitude": "9.162500",
+        "Note": ""
       }
     ],
     "Contacts": []

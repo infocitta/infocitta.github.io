@@ -14,5 +14,13 @@
   {
     "Value": "Scuola materna",
     "Alias": "scuola_materna"
+  },
+  {
+    "Value": "Medico di famiglia",
+    "Alias": "medico"
+  },
+  {
+    "Value": "Pediatra",
+    "Alias": "pediatra"
   }
 ]

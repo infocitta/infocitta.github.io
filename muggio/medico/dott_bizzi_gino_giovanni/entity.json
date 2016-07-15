@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "178aab67-9f9a-4d96-889c-7a08a859642d",
+  "Name": "Dott. Bizzi Gino Giovanni",
+  "Alias": "dott_bizzi_gino_giovanni",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Muggio'",
+      "Alias": "muggio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Piave, 29 20835 Muggiò MB",
+      "Latitude": "45.596624",
+      "Longitude": "9.228548",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039/792373",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "039/792373",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:15",
+              "EndTime": "11:15",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:15",
+              "EndTime": "11:15",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:15",
+              "EndTime": "11:15",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

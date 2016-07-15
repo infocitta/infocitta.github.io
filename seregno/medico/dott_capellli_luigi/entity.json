@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "4c7698eb-42ba-45ff-93f8-a81366d5c411",
+  "Name": "Dott. CAPELLLI LUIGI",
+  "Alias": "dott_capellli_luigi",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Seregno",
+      "Alias": "seregno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA PARINI,50 - SEREGNO  ",
+      "Latitude": "45.655895",
+      "Longitude": "9.209842",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "0362/236535",
+      "Note": "LUN/VEN 12:00 - 14:00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/342222",
+      "Note": "LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/342222",
+      "Note": "LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "10:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "10:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "10:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

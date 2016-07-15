@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "f9bcf308-bdd4-4580-aa46-9e2900db2f3f",
+  "Name": "Dott. Re Massimo",
+  "Alias": "dott_re_massimo",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Nova Milanese",
+      "Alias": "nova-milanese"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via A. Doria, 2  NOVA MILANESE",
+      "Latitude": "45.587793",
+      "Longitude": "9.195797",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "338/8900926",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "338/8900926",
+      "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "335/6704036",
+      "Note": "da lun a ven dalle 08.00 alle 20.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "11:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "16:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "16:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "16:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "16:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

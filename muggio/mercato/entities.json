@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "V.LE RIMEMBRANZE MUGGIO'",
-        "Note": "",
         "Latitude": "45.530578",
-        "Longitude": "9.240724"
+        "Longitude": "9.240724",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA LEONCAVALLO MUGGIO'",
-        "Note": "",
         "Latitude": "45.581370",
-        "Longitude": "9.224081"
+        "Longitude": "9.224081",
+        "Note": ""
       }
     ],
     "Contacts": []

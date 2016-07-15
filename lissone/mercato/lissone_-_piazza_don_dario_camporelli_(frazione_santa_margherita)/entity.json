@@ -3,6 +3,8 @@
   "ID": "89b87ba8-73bc-4d4f-8aa9-af4e278cdae8",
   "Name": "LISSONE - PIAZZA DON DARIO CAMPORELLI (FRAZIONE SANTA MARGHERITA)",
   "Alias": "lissone_-_piazza_don_dario_camporelli_(frazione_santa_margherita)",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA DON DARIO CAMPORELLI (FRAZIONE SANTA MARGHERITA) LISSONE",
-      "Note": "",
       "Latitude": "45.634045",
-      "Longitude": "9.231659"
+      "Longitude": "9.231659",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

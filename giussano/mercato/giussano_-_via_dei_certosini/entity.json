@@ -3,6 +3,8 @@
   "ID": "bb42366c-ffbc-4e35-9ab4-f7b1dc1bad08",
   "Name": "GIUSSANO - VIA DEI CERTOSINI",
   "Alias": "giussano_-_via_dei_certosini",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DEI CERTOSINI GIUSSANO",
-      "Note": "",
       "Latitude": "45.672546",
-      "Longitude": "9.204867"
+      "Longitude": "9.204867",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "06:30",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

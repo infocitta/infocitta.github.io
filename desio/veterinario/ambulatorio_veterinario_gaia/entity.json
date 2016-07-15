@@ -3,6 +3,8 @@
   "ID": "71409751-62fd-4df8-a4c0-1ed1e267c559",
   "Name": "Ambulatorio Veterinario Gaia",
   "Alias": "ambulatorio_veterinario_gaia",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Studio",
       "Value": "Via per Binzago, 50, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.623661",
-      "Longitude": "9.186548"
+      "Longitude": "9.186548",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

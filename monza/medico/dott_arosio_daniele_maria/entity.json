@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "5bc0fb7f-575c-4ec9-a502-0665acaa193e",
+  "Name": "Dott. Arosio Daniele Maria",
+  "Alias": "dott_arosio_daniele_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Ludwig Van Beethoven, 2, 20900 Monza MB",
+      "Latitude": "45.594975",
+      "Longitude": "9.257745",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

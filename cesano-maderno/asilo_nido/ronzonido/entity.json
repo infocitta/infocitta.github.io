@@ -3,6 +3,8 @@
   "ID": "45ae2262-48a4-4c69-bd25-44bd47816e69",
   "Name": "RONZONIDO",
   "Alias": "ronzonido",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GIULIANA RONZONI 3 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.629468",
-      "Longitude": "9.144400"
+      "Longitude": "9.144400",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

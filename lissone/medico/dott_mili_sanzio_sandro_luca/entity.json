@@ -3,6 +3,8 @@
   "ID": "6f948e1a-11a3-42db-8fef-411d76dcca1c",
   "Name": "Dott. Mili Sanzio Sandro Luca",
   "Alias": "dott_mili_sanzio_sandro_luca",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,16 +21,16 @@
     {
       "Title": "Ambulatorio 2",
       "Value": "Via Alessandro Manzoni, 38, 20851 Lissone MB",
-      "Note": "",
       "Latitude": "45.611718",
-      "Longitude": "9.244958"
+      "Longitude": "9.244958",
+      "Note": ""
     },
     {
       "Title": "Ambulatorio 1",
       "Value": "Via S. Domenico Savio, 33, 20851 Lissone MB",
-      "Note": "",
       "Latitude": "45.635663",
-      "Longitude": "9.232391"
+      "Longitude": "9.232391",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -44,5 +46,88 @@
       "Note": "DALLE ORE 8.00 ALLE ORE 10.00",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario Ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "14:00",
+              "EndTime": "16:00",
+              "Note": "(VIA S. D.SAVIO,33)"
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": "(VIA MANZONI,38)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "10:00",
+              "Note": "(VIA S. D. SAVIO, 33)"
+            },
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": "(VIA MANZONI,38)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": "(VIA S.D. SAVIO,33)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": "(VIA MANZONI, 38)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:30",
+              "Note": "(via Manzoni,38)"
+            },
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": "(VIA S.D. SAVIO,33)"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "4a92c25e-69da-4fd8-8b9d-39d25b715f41",
   "Name": "COLLEGIO VILLORESI SAN GIUSEPPE",
   "Alias": "collegio_villoresi_san_giuseppe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTI E TOGNETTI 10 MONZA",
-      "Note": "",
       "Latitude": "45.589607",
-      "Longitude": "9.265714"
+      "Longitude": "9.265714",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

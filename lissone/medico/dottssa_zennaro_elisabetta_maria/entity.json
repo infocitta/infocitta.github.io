@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "6627029a-df05-4541-a1f1-2b8e24d0a744",
+  "Name": "Dott.ssa Zennaro Elisabetta Maria",
+  "Alias": "dottssa_zennaro_elisabetta_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Antonio Pacinotti, 28\r\n 20851 Lissone MB",
+      "Latitude": "45.612061",
+      "Longitude": "9.253163",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "339 7971513",
+      "Note": "07:45 - 08:15 (per appuntamenti nella giornata in corso)",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "334 7668813",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "334 7668813",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "12:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

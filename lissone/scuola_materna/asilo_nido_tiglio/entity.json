@@ -3,6 +3,8 @@
   "ID": "0bf5f5e4-ce35-4fb1-9f3f-4c55a317b18c",
   "Name": "Asilo nido Tiglio",
   "Alias": "asilo_nido_tiglio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DEL TIGLIO 10 Lissone",
-      "Note": "",
       "Latitude": "45.626501",
-      "Longitude": "9.239384"
+      "Longitude": "9.239384",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

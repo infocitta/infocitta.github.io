@@ -1,0 +1,127 @@
+﻿{
+  "Version": 1,
+  "ID": "6942179c-316e-441e-addb-47fa75c84be7",
+  "Name": "Dott.ssa Cultraro Daniela",
+  "Alias": "dottssa_cultraro_daniela",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via San Luca, 1 20811 CESANO MADERNO",
+      "Latitude": "45.630737",
+      "Longitude": "9.173856",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "348/5317961",
+      "Note": "Lun 9-11.30; 15.30 - 18.30; mar 9.30 - 11.30; mer 9 - 11 e 15.30 - 18.30; gio 9 - 11; ven 9 - 11",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "348/0868616",
+      "Note": "da lun a ven dalle 9..00 alle 18.00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "348/0868616",
+      "Note": "da lun a ven dalle 9.00 alle 18.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "11:30",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "11:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

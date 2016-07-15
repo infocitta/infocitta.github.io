@@ -3,6 +3,8 @@
   "ID": "a19c410a-76dc-4d08-ac04-a76bcc1b64bd",
   "Name": "DESIO - MERCATO \"NORD\" - PIAZZA GIOVANNI XXIII",
   "Alias": "desio_-_mercato_nord_-_piazza_giovanni_xxiii",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "MERCATO \"NORD\" - PIAZZA GIOVANNI XXIII DESIO",
-      "Note": "",
       "Latitude": "",
-      "Longitude": ""
+      "Longitude": "",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "71d16b07-2029-489a-bac8-cb42c21cd19d",
   "Name": "Scuola Dell'infanzia S. Luca",
   "Alias": "scuola_dellinfanzia_s_luca",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA FRANCESCO GUERRAZZI 33 MONZA",
-      "Note": "",
       "Latitude": "45.571314",
-      "Longitude": "9.262466"
+      "Longitude": "9.262466",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

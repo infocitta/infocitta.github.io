@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "7ac2630b-2093-4642-ad22-ab6cbf80cf93",
+  "Name": "Dott.ssa COLOMBO EMANUELA",
+  "Alias": "dottssa_colombo_emanuela",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Seregno",
+      "Alias": "seregno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA MESSINA,24 SEREGNO  -",
+      "Latitude": "45.651338",
+      "Longitude": "9.221643",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/237009",
+      "Note": "8.00 - 9.00   lunedì8.30 - 10.00 mart - mer- giov- ven",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "0362/237009",
+      "Note": "8.30 -10.00 e 13.30 - 14.00 da lunedì a venerdì",
+      "Type": 0
+    },
+    {
+      "Title": "E-mail:  Sito web:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "10:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "17:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "17:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "17:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "17:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

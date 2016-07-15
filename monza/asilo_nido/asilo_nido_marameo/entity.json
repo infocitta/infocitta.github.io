@@ -3,6 +3,8 @@
   "ID": "9ceb0649-2c35-4045-8184-afd5f447c1ca",
   "Name": "ASILO NIDO MARAMEO",
   "Alias": "asilo_nido_marameo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ENRICO DA MONZA  7 MONZA",
-      "Note": "",
       "Latitude": "45.584052",
-      "Longitude": "9.283269"
+      "Longitude": "9.283269",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

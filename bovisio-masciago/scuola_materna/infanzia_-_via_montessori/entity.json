@@ -3,6 +3,8 @@
   "ID": "1be6174f-eb4f-4cc7-87df-24cb348644d1",
   "Name": "Infanzia - via Montessori",
   "Alias": "infanzia_-_via_montessori",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTESSORI BOVISIO MASCIAGO",
-      "Note": "",
       "Latitude": "45.637686",
-      "Longitude": "9.207932"
+      "Longitude": "9.207932",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

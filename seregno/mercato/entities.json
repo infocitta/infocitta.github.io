@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA LINATE SEREGNO",
-        "Note": "",
         "Latitude": "45.650456",
-        "Longitude": "9.205160"
+        "Longitude": "9.205160",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA SILVA SEREGNO",
-        "Note": "",
         "Latitude": "45.642545",
-        "Longitude": "9.209079"
+        "Longitude": "9.209079",
+        "Note": ""
       }
     ],
     "Contacts": []

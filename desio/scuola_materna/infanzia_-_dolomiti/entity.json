@@ -3,6 +3,8 @@
   "ID": "6045afef-b9a3-446f-ab57-f8911c75648d",
   "Name": "Infanzia - Dolomiti",
   "Alias": "infanzia_-_dolomiti",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DOLOMITI 48 DESIO",
-      "Note": "",
       "Latitude": "45.620443",
-      "Longitude": "9.185921"
+      "Longitude": "9.185921",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "9a213618-8286-4951-b8eb-cf5b128cea89",
   "Name": "Infanzia - Giotto",
   "Alias": "infanzia_-_giotto",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA XX SETTEMBRE 27 MONZA",
-      "Note": "",
       "Latitude": "45.576493",
-      "Longitude": "9.268945"
+      "Longitude": "9.268945",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

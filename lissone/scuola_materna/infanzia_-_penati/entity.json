@@ -3,6 +3,8 @@
   "ID": "74f0ba93-0031-4721-8c15-869c44f25d31",
   "Name": "Infanzia - Penati",
   "Alias": "infanzia_-_penati",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PENATI LISSONE",
-      "Note": "",
       "Latitude": "45.615279",
-      "Longitude": "9.256976"
+      "Longitude": "9.256976",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

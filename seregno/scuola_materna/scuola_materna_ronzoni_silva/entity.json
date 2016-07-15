@@ -3,6 +3,8 @@
   "ID": "12219845-207f-4187-a03f-adee4b2f6579",
   "Name": "Scuola Materna Ronzoni Silva",
   "Alias": "scuola_materna_ronzoni_silva",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TOTI 3 SEREGNO",
-      "Note": "",
       "Latitude": "45.653895",
-      "Longitude": "9.194888"
+      "Longitude": "9.194888",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

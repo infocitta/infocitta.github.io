@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "0c7b3266-f752-4717-bc57-3be41bf8c24a",
+  "Name": "Dott. MOGRE MAURIZIO",
+  "Alias": "dott_mogre_maurizio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - VIA SAN ROCCO 32/2 ",
+      "Latitude": "45.560274",
+      "Longitude": "9.263360",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039 2004224",
+      "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "039 2004224",
+      "Note": "- lunedì mercoledì venerdì sabato 10,00/14,00 martedì e giovedì 17,00/20,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "20:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "20:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

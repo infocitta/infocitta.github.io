@@ -3,6 +3,8 @@
   "ID": "c8135642-833c-4297-9efb-8efe7cb264d5",
   "Name": "Scuola Infanzia Bachelet",
   "Alias": "scuola_infanzia_bachelet",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DELLA BIRONA MONZA",
-      "Note": "",
       "Latitude": "45.593866",
-      "Longitude": "9.260367"
+      "Longitude": "9.260367",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

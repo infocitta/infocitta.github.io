@@ -3,6 +3,8 @@
   "ID": "c29f2fb5-880a-4a4f-93cc-247a9bb86bc8",
   "Name": "Infanzia - Pavan",
   "Alias": "infanzia_-_pavan",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE BRIANZA 46 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.556487",
-      "Longitude": "9.307944"
+      "Longitude": "9.307944",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

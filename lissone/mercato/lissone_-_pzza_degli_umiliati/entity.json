@@ -3,6 +3,8 @@
   "ID": "1cac3127-869f-46e3-9256-2b6c0eb1042b",
   "Name": "LISSONE - P.ZZA DEGLI UMILIATI",
   "Alias": "lissone_-_pzza_degli_umiliati",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "P.ZZA DEGLI UMILIATI LISSONE",
-      "Note": "",
       "Latitude": "45.613037",
-      "Longitude": "9.242569"
+      "Longitude": "9.242569",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

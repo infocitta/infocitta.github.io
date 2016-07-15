@@ -3,6 +3,8 @@
   "ID": "405eaed8-8ee6-44a7-9a48-8abf1ea0d891",
   "Name": "Pane e Dintorni",
   "Alias": "pane_e_dintorni",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,25 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Edoardo Ferravilla, 51, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.616831",
-      "Longitude": "9.192888"
+      "Longitude": "9.192888",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [
+    {
+      "Title": "Note per vegani",
+      "Value": "Disponibile brioches vegane"
+    }
+  ],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

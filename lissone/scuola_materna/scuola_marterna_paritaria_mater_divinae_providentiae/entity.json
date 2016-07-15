@@ -3,6 +3,8 @@
   "ID": "d291c233-0c75-4814-88f5-1de787dc1aec",
   "Name": "Scuola Marterna Paritaria Mater Divinae Providentiae",
   "Alias": "scuola_marterna_paritaria_mater_divinae_providentiae",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DE AMICIS 17 LISSONE",
-      "Note": "",
       "Latitude": "45.633872",
-      "Longitude": "9.232447"
+      "Longitude": "9.232447",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

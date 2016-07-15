@@ -1,0 +1,121 @@
+﻿{
+  "Version": 1,
+  "ID": "72851662-58c9-46df-8c6d-4047000f591a",
+  "Name": "Dott. DI STEFANO PASCAL",
+  "Alias": "dott_di_stefano_pascal",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Carate Brianza",
+      "Alias": "carate-brianza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA N. SAURO, 2",
+      "Latitude": "44.702333",
+      "Longitude": "10.620834",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "0362 900659",
+      "Note": "DA LUN A VEN 8 - 9.30 E 12.30 - 13.10",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362 900659",
+      "Note": "DA LUN A VEN 8 - 9.30 E 12.30 - 13.10",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "18:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "18:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

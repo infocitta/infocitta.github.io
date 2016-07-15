@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "ae85095a-ba45-41fa-b8eb-c78cc3f13968",
+  "Name": "Dott.ssa Medi Sira",
+  "Alias": "dottssa_medi_sira",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - via Querini 1 ",
+      "Latitude": "45.577851",
+      "Longitude": "9.253520",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039 733757",
+      "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 9,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "334 9053324",
+      "Note": "lunedì mercoledì venerdì 10.00/12.00 martedì giovedì 16.30/18.30",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "334 7759150",
+      "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:30",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:30",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:30",
+              "Note": " A"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

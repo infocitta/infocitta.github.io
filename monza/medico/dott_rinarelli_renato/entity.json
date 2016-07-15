@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "7b9ec500-a705-4640-a126-c1a8580f7075",
+  "Name": "Dott. RINARELLI RENATO",
+  "Alias": "dott_rinarelli_renato",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Borgazzi, 9 MONZA",
+      "Latitude": "45.573580",
+      "Longitude": "9.268526",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:dal lunedì al venerdì",
+      "Value": "338 4270376",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: martedì e giovedì",
+      "Value": "338 4270376",
+      "Note": "12,00 - 13,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "338 4270376",
+      "Note": "8,00 - 12,00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

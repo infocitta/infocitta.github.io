@@ -3,6 +3,8 @@
   "ID": "579f7f47-4800-4859-b1d9-a1b62252d9a4",
   "Name": "EFFEPI DI EFFEPI SRL",
   "Alias": "effepi_di_effepi_srl",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CEDERNA ANTONIO  38 MONZA",
-      "Note": "",
       "Latitude": "45.579321",
-      "Longitude": "9.297264"
+      "Longitude": "9.297264",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "8fb24a3e-d805-4530-9520-e4657f0bb4e9",
+  "Name": "Dott.ssa MAURI LAURA",
+  "Alias": "dottssa_mauri_laura",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "VIA CORRIDONI,19 GIUSSANO  -",
+      "Latitude": "45.670611",
+      "Longitude": "9.201392",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/862197",
+      "Note": "DAL LUN AL VEN DALLE 8:00 ALLE 11:00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "0362/862197",
+      "Note": "8:00 - 9:15(poi c'è la segreteria)",
+      "Type": 0
+    },
+    {
+      "Title": "E-mail:  Sito web:",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

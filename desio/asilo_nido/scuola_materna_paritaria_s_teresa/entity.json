@@ -3,6 +3,8 @@
   "ID": "31cf85d2-bfe2-4248-b20e-cdbffd687730",
   "Name": "SCUOLA MATERNA PARITARIA S. TERESA",
   "Alias": "scuola_materna_paritaria_s_teresa",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN PIETRO 16 DESIO",
-      "Note": "",
       "Latitude": "45.618542",
-      "Longitude": "9.210565"
+      "Longitude": "9.210565",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

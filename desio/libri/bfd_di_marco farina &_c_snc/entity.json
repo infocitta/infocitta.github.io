@@ -3,6 +3,8 @@
   "ID": "3d511cb4-38de-4c0c-987d-aeca6a53b790",
   "Name": "BFD di Marco Farina & C. Snc",
   "Alias": "bfd_di_marco farina &_c_snc",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Gioacchino Rossini, 102, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.609671",
-      "Longitude": "9.216818"
+      "Longitude": "9.216818",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "3d49b644-d577-4b94-9098-ab32fee9da64",
   "Name": "LIMBIATE - PIAZZA XI SETTEMBRE",
   "Alias": "limbiate_-_piazza_xi_settembre",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA XI SETTEMBRE LIMBIATE",
-      "Note": "",
       "Latitude": "45.599551",
-      "Longitude": "9.124626"
+      "Longitude": "9.124626",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

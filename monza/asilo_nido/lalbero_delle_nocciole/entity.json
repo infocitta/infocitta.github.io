@@ -3,6 +3,8 @@
   "ID": "aab3b0f1-4c91-4724-a9d1-f01f12c04cf4",
   "Name": "L'ALBERO DELLE NOCCIOLE",
   "Alias": "lalbero_delle_nocciole",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTE LEGNONE  23 MONZA",
-      "Note": "",
       "Latitude": "45.589643",
-      "Longitude": "9.241916"
+      "Longitude": "9.241916",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "325b8d23-2cc9-4ec9-bd9f-f70f13104418",
   "Name": "ASILO NIDO COMUNALE",
   "Alias": "asilo_nido_comunale",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Muggio'",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GALVANI 2 MUGGIÃ’",
-      "Note": "",
       "Latitude": "45.597677",
-      "Longitude": "9.228858"
+      "Longitude": "9.228858",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

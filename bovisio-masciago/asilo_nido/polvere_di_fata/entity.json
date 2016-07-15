@@ -3,6 +3,8 @@
   "ID": "1791e24c-a5fb-40f3-9ef9-1a696816d9eb",
   "Name": "POLVERE DI FATA",
   "Alias": "polvere_di_fata",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MARCONI 5 BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.612182",
-      "Longitude": "9.148050"
+      "Longitude": "9.148050",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

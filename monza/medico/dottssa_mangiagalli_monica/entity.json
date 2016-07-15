@@ -1,0 +1,132 @@
+﻿{
+  "Version": 1,
+  "ID": "ad1db3fb-48a4-4808-ab57-5d3abf75d92e",
+  "Name": "Dott.ssa Mangiagalli Monica",
+  "Alias": "dottssa_mangiagalli_monica",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - via Antonietti 14  MONZA - via Ferraris 10",
+      "Latitude": "45.580050",
+      "Longitude": "9.285479",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "039 2315345",
+      "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "349 4133583",
+      "Note": "dal lunedì al venerdì in orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0392 315345",
+      "Note": "dal lunedì al venrdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "13:00",
+              "EndTime": "16:00",
+              "Note": "(via Antonietti 14)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "11:00",
+              "Note": " (via Ferraris 10)"
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": " (via Antonietti 14)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "11:30",
+              "Note": " (via Antonietti 14)"
+            },
+            {
+              "StartTime": "14:00",
+              "EndTime": "16:00",
+              "Note": " (via Ferraris 10) su A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:00",
+              "Note": " (via Antonietti 14) su A"
+            },
+            {
+              "StartTime": "16:30",
+              "EndTime": "17:30",
+              "Note": " (via Ferraris 10) su A17:30"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "17:00",
+              "Note": " (via Antonietti 14) su A  17:00"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

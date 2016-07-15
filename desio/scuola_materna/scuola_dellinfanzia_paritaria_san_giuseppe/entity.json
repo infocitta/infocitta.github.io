@@ -3,6 +3,8 @@
   "ID": "94f4a78a-5827-4a05-8af4-9ed219c1f3a9",
   "Name": "Scuola Dell'infanzia Paritaria San Giuseppe",
   "Alias": "scuola_dellinfanzia_paritaria_san_giuseppe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CONCILIAZIONE 9 DESIO",
-      "Note": "",
       "Latitude": "45.617471",
-      "Longitude": "9.208725"
+      "Longitude": "9.208725",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

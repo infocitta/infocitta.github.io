@@ -3,6 +3,8 @@
   "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
   "Name": "IL PAESE DELLE MERAVIGLIE",
   "Alias": "il_paese_delle_meraviglie",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "CORSO ITALIA 149 DESIO",
-      "Note": "",
       "Latitude": "45.622835",
-      "Longitude": "9.208356"
+      "Longitude": "9.208356",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

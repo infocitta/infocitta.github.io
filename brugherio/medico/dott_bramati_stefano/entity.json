@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "21010101-175b-483c-9608-f7551fd1f95b",
+  "Name": "Dott. BRAMATI STEFANO",
+  "Alias": "dott_bramati_stefano",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Sauro, 114 BRUGHERIO",
+      "Latitude": "45.551994",
+      "Longitude": "9.288524",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 881176",
+      "Note": "lun-merc-ven 17,00 - 19,00                      mart-giov 11,00-13,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "333 2301479",
+      "Note": "12,00 - 13,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

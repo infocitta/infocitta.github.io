@@ -3,6 +3,8 @@
   "ID": "16232bab-a2b1-43e6-b28d-e98603e34cbb",
   "Name": "L'ARCOBALENO",
   "Alias": "larcobaleno",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA NEGRELLI LUIGI  21 MONZA",
-      "Note": "",
       "Latitude": "45.591861",
-      "Longitude": "9.299387"
+      "Longitude": "9.299387",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

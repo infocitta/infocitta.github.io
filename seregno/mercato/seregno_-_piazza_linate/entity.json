@@ -3,6 +3,8 @@
   "ID": "31a50d65-2a81-4a0c-a74a-18f055411874",
   "Name": "SEREGNO - PIAZZA LINATE",
   "Alias": "seregno_-_piazza_linate",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA LINATE SEREGNO",
-      "Note": "",
       "Latitude": "45.650456",
-      "Longitude": "9.205160"
+      "Longitude": "9.205160",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "16:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

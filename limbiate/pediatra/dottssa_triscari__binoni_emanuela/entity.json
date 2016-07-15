@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "c8231d4b-98cc-496e-ac44-b261c96dc2ef",
+  "Name": "Dott.ssa TRISCARI  BINONI EMANUELA",
+  "Alias": "dottssa_triscari__binoni_emanuela",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Achille Grandi, 820812 Limbiate MB",
+      "Latitude": "45.591348",
+      "Longitude": "9.143437",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli, informazioni e richieste:",
+      "Value": "339/4221357",
+      "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "339/4221357",
+      "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

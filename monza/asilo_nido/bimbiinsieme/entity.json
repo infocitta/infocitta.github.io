@@ -3,6 +3,8 @@
   "ID": "c9584272-dc9c-4f25-8daa-02a98558d9f5",
   "Name": "BIMBIINSIEME",
   "Alias": "bimbiinsieme",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MAGENTA  4 MONZA",
-      "Note": "",
       "Latitude": "45.580222",
-      "Longitude": "9.270755"
+      "Longitude": "9.270755",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

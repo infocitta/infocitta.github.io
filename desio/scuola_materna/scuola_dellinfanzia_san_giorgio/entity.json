@@ -3,6 +3,8 @@
   "ID": "7fb02ce2-7d58-4f37-8fd9-cdb7392a615e",
   "Name": "Scuola Dell'infanzia 'San Giorgio'",
   "Alias": "scuola_dellinfanzia_san_giorgio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA S.APOLLINARE 6 DESIO",
-      "Note": "",
       "Latitude": "45.621311",
-      "Longitude": "9.230891"
+      "Longitude": "9.230891",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

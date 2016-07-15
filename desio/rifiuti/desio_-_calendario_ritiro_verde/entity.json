@@ -3,6 +3,8 @@
   "ID": "41d56e21-2060-4018-864b-a78f9e439ed6",
   "Name": "Desio - Calendario ritiro verde",
   "Alias": "desio_-_calendario_ritiro_verde",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -16,5 +18,221 @@
     }
   ],
   "Adresses": [],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Ritiro Zona C",
+      "Note": "",
+      "WeekDays": [],
+      "Days": [
+        {
+          "Date": "2016-05-28T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-07-09T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-11-26T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-06-25T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-10-15T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-10-01T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-06-11T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-12-24T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-12-10T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-11-12T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-08-20T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-17T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-10-29T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-07-23T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-05-14T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-08-06T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-03T00:00:00",
+          "Schedules": []
+        }
+      ]
+    },
+    {
+      "Title": "Ritiro Zona A",
+      "Note": "",
+      "WeekDays": [],
+      "Days": [
+        {
+          "Date": "2016-10-13T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-05-12T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-15T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-06-09T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-07-07T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-11-10T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-01T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-08-18T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-12-22T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-05-26T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-29T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-11-24T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-10-27T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-08-04T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-06-23T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-07-21T00:00:00",
+          "Schedules": []
+        }
+      ]
+    },
+    {
+      "Title": "Ritiro Zona B",
+      "Note": "",
+      "WeekDays": [],
+      "Days": [
+        {
+          "Date": "2016-11-25T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-05-13T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-10-28T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-05-27T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-02T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-16T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-12-23T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-10-14T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-12-09T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-06-24T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-11-11T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-09-30T00:00:00",
+          "Schedules": []
+        },
+        {
+          "Date": "2016-06-10T00:00:00",
+          "Schedules": []
+        }
+      ]
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

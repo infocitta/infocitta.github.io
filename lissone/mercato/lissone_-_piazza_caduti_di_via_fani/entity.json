@@ -3,6 +3,8 @@
   "ID": "6a712745-f0d6-44e3-aec3-32158023ca04",
   "Name": "LISSONE - PIAZZA CADUTI DI VIA FANI",
   "Alias": "lissone_-_piazza_caduti_di_via_fani",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA CADUTI DI VIA FANI LISSONE",
-      "Note": "",
       "Latitude": "45.606157",
-      "Longitude": "9.249701"
+      "Longitude": "9.249701",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

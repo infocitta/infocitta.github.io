@@ -3,6 +3,8 @@
   "ID": "9b8b52be-8a2a-4555-86ba-00057407be3f",
   "Name": "ASILO NIDO BILINGUE HAPPY CHILDREN",
   "Alias": "asilo_nido_bilingue_happy_children",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CAVALLOTTI 3 LISSONE",
-      "Note": "",
       "Latitude": "45.602886",
-      "Longitude": "9.233624"
+      "Longitude": "9.233624",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

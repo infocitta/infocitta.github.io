@@ -3,6 +3,8 @@
   "ID": "8ee8ec64-e13c-4417-b634-a39b6d507f7e",
   "Name": "Infanzia - B.Munari",
   "Alias": "infanzia_-_bmunari",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA OBERDAN 4 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.584453",
-      "Longitude": "9.193606"
+      "Longitude": "9.193606",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

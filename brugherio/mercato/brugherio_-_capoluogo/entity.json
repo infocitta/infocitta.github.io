@@ -3,6 +3,8 @@
   "ID": "329f9fd5-701a-463c-89f9-2fa1f018bfe3",
   "Name": "BRUGHERIO - CAPOLUOGO",
   "Alias": "brugherio_-_capoluogo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "CAPOLUOGO BRUGHERIO",
-      "Note": "",
       "Latitude": "",
-      "Longitude": ""
+      "Longitude": "",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "7a008bc8-f262-4951-bbd2-f7f8af85e495",
   "Name": "IL NIDO VERDE",
   "Alias": "il_nido_verde",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SONDRIO 24 SEREGNO",
-      "Note": "",
       "Latitude": "45.656533",
-      "Longitude": "9.218247"
+      "Longitude": "9.218247",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

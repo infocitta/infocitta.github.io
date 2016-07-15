@@ -3,6 +3,8 @@
   "ID": "e6956fd9-aff6-4cda-88a1-ef38b1426136",
   "Name": "SCUOLA Dell'infanzia San Luigi",
   "Alias": "scuola_dellinfanzia_san_luigi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA G. DALLE BANDE NERE 9 MONZA",
-      "Note": "",
       "Latitude": "45.569242",
-      "Longitude": "9.312328"
+      "Longitude": "9.312328",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

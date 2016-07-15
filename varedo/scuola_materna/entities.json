@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA DONIZZETTI VAREDO",
-        "Note": "",
         "Latitude": "45.598400",
-        "Longitude": "9.153167"
+        "Longitude": "9.153167",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -61,9 +61,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIALE BRIANZA 77 VAREDO",
-        "Note": "",
         "Latitude": "45.600426",
-        "Longitude": "9.173980"
+        "Longitude": "9.173980",
+        "Note": ""
       }
     ],
     "Contacts": [

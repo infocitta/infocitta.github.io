@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "df2f7e59-5c50-4050-b416-0097a3351a25",
+  "Name": "Dott. CONSIGLIO ANTONIO",
+  "Alias": "dott_consiglio_antonio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "P.ZZA CARDUCCI, 19  GIUSSANO",
+      "Latitude": "45.683332",
+      "Longitude": "9.204674",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "0362/851006",
+      "Note": "LUN/VEN ORARI AMBULATORIO",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "0362/851006",
+      "Note": "LUN/VEN 08:00 - 10:00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/851006",
+      "Note": "LUN/VEN 08:00 - 10:00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:00",
+              "Note": " (su appuntamento) 17:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:00",
+              "Note": " (su appuntamento) 17:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "10:00",
+              "Note": " (su appuntamento) 10:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:00",
+              "Note": " (su appuntamento) 17:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "17:00",
+              "Note": " (su appuntamento) 17:00"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

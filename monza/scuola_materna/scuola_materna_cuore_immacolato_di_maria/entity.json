@@ -3,6 +3,8 @@
   "ID": "b988ff59-9368-47b3-b5be-0c592fc81047",
   "Name": "Scuola Materna Cuore Immacolato Di Maria",
   "Alias": "scuola_materna_cuore_immacolato_di_maria",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PARMENIDE 3 MONZA",
-      "Note": "",
       "Latitude": "45.591537",
-      "Longitude": "9.302649"
+      "Longitude": "9.302649",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

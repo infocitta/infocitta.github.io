@@ -3,6 +3,8 @@
   "ID": "e7cea3be-472b-40e2-ba56-b4aa5b3248cc",
   "Name": "IL MESTIERE DI CRESCERE",
   "Alias": "il_mestiere_di_crescere",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA EVA SEGRE' 23 MONZA",
-      "Note": "",
       "Latitude": "45.575290",
-      "Longitude": "9.253432"
+      "Longitude": "9.253432",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

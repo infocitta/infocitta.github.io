@@ -3,6 +3,8 @@
   "ID": "80a8ce53-9f2b-4c32-b14b-a6e8526a51a0",
   "Name": "Infanzia - Milite Ignoto",
   "Alias": "infanzia_-_milite_ignoto",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ROMA 5 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.590317",
-      "Longitude": "9.199932"
+      "Longitude": "9.199932",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

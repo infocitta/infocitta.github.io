@@ -3,6 +3,8 @@
   "ID": "7217a8d6-221a-4a05-bfed-144193d835d1",
   "Name": "ASILO NIDO 123â€¦STELLA",
   "Alias": "asilo_nido_123â€¦stella",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DANTE ALIGHIERI 11 GIUSSANO",
-      "Note": "",
       "Latitude": "45.696302",
-      "Longitude": "9.220777"
+      "Longitude": "9.220777",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

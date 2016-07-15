@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "14871832-26d4-494e-99a4-295fddb18384",
+  "Name": "Dott.ssa Corda Rosaria",
+  "Alias": "dottssa_corda_rosaria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Varedo",
+      "Alias": "varedo"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Indicazioni stradali Viale Brianza, 49, 20814 Varedo MB",
+      "Latitude": "45.600020",
+      "Longitude": "9.171759",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per consigli",
+      "Value": "388/6375811",
+      "Note": "Da lun a ven dalle 09.00 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "388/6375811",
+      "Note": "Da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per visite a domicilio",
+      "Value": "388/6375811",
+      "Note": "Da lun a ven dalle 08.00 alle 10.00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": "Su appuntamento"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": "Su appuntamento"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": "Su appuntamento"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

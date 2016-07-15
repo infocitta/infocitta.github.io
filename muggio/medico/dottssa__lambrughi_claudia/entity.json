@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "e3ed4772-9108-43bf-bf20-c1c949f8e2d5",
+  "Name": "Dott.ssa  LAMBRUGHI CLAUDIA",
+  "Alias": "dottssa__lambrughi_claudia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Muggio'",
+      "Alias": "muggio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via XXV Aprile, 5 20835 Muggiò MB",
+      "Latitude": "45.593618",
+      "Longitude": "9.232578",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domiciio:",
+      "Value": "039/2457792 - 333/3846917",
+      "Note": "da lun a ven dalle 8.00 alle 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "333 38 46 917",
+      "Note": "da lunedì a venerdì dalle 8.30 alle 9.30",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "333/3846917",
+      "Note": "da lun a ven dalle  8.00 alle 14.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

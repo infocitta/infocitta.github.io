@@ -1,0 +1,1497 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "0148e5d8-0df5-43b6-bb83-b4ab15af5de6",
+    "Name": "Dott. Continanza Pietro",
+    "Alias": "dott_continanza_pietro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Favaron, 45  20834 NOVA MILANESE",
+        "Latitude": "45.594240",
+        "Longitude": "9.192557",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/451321  338/4032976",
+        "Note": "durante l'orario di ambulatorio al cellulare dalle 09.00 alle 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/451321",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/451321",
+        "Note": "segreteria 24 h al giorno",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:45",
+                "EndTime": "19:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:45",
+                "EndTime": "19:40",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "196c5c23-5716-4ea6-89fb-11f0f607adf0",
+    "Name": "Dott. Bellotto Luigi",
+    "Alias": "dott_bellotto_luigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Locatelli, 2  NOVA MILANESE",
+        "Latitude": "45.592331",
+        "Longitude": "9.197136",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/44154 ",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/44154",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "570ce1f3-739d-4124-98b7-5a1196f5ad82",
+    "Name": "Dott.ssa Brenno Brunella",
+    "Alias": "dottssa_brenno_brunella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Cadorna, 19  20834 NOVA MILANESE",
+        "Latitude": "45.590202",
+        "Longitude": "9.194619",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0362/42311",
+        "Note": "da lun a ven dalle 17.00 alle 18.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/42311",
+        "Note": "durante l'orario di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/42311",
+        "Note": "lasciare il biglietto nella cassetta fuori dall'ambulatorio entro le  10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5e2f5ea5-780a-4496-801b-cd94d4dcdebb",
+    "Name": "Dott.ssa Revera Tiziana",
+    "Alias": "dottssa_revera_tiziana",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Locatelli, 2  NOVA MILANESE",
+        "Latitude": "45.592331",
+        "Longitude": "9.197136",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/451370",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/451370",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6108bb48-4c18-4db2-b56a-e5412d8d456c",
+    "Name": "Dott. Manzoni Luigi Maria",
+    "Alias": "dott_manzoni_luigi_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Brodolini, 1  20834 NOVA MILANESE",
+        "Latitude": "45.583157",
+        "Longitude": "9.196531",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "02/33105800",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "335 71 04 889",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/43186",
+        "Note": "da lun a ven durante l'orario di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "84ccbfc5-c674-489b-985b-d0d6a1e846d8",
+    "Name": "Dott. Nicolussi Mario",
+    "Alias": "dott_nicolussi_mario",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Cortelunga, 6/E  NOVA MILANESE",
+        "Latitude": "45.591294",
+        "Longitude": "9.201567",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/41820 - 0362/43775",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "89946052-ab43-4960-ab85-fbf83be10e9f",
+    "Name": "Dott.ssa Arosio Elisabetta Carla",
+    "Alias": "dottssa_arosio_elisabetta_carla",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Sarajevo, 12  NOVA MILANESE",
+        "Latitude": "45.593557",
+        "Longitude": "9.192067",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/41790",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/41790 ",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8fd61510-1daf-4efa-9b00-5f77365a829f",
+    "Name": "Dott. Beretti Raul",
+    "Alias": "dott_beretti_raul",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Brodolini, 1  20834 NOVA MILANESE",
+        "Latitude": "45.583157",
+        "Longitude": "9.196531",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "349/1193204",
+        "Note": "da lun a ven entro le ore 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "349/1193204",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0362/43186",
+        "Note": "durante l'orario dell'ambulatorio ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9172484a-3d05-4ba8-839b-ca6c7da6ced8",
+    "Name": "Dott. Fabbrica Davide Riccardo",
+    "Alias": "dott_fabbrica_davide_riccardo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Bernini, 4  NOVA MILANESE",
+        "Latitude": "45.593449",
+        "Longitude": "9.200709",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/40457",
+        "Note": "durante gli orari di apertura dell'ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/40457 ",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "93a8cfb2-1488-4d84-b89c-60eecddc84b9",
+    "Name": "Dott. Naddeo Angelo",
+    "Alias": "dott_naddeo_angelo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Brodolini, 1  20834 NOVA MILANESE",
+        "Latitude": "45.583157",
+        "Longitude": "9.196531",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "02/33105800",
+        "Note": "24 ore al giorno",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "335/6283102",
+        "Note": "da lun a ven dalle 09.00 alle 11.00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "02/33105800",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a59bce95-ec57-4722-b160-2f9bd4d573ae",
+    "Name": "Dott. Paletta Leonardo",
+    "Alias": "dott_paletta_leonardo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "P.zza Don Gnocchi, 2  20834 NOVA MILANESE",
+        "Latitude": "45.591161",
+        "Longitude": "9.189032",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0362/41176",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/41176 | 335/6275409",
+        "Note": "durante l'orario di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "335/6275409",
+        "Note": "da lun a ven dalle 16.00 alle 18.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "10:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f08457f5-61ff-4b98-83f8-7f0b7af7c2a8",
+    "Name": "Dott. Negretto Ezio",
+    "Alias": "dott_negretto_ezio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Vicolo Cadorna, 2   20834 NOVA MILANESE",
+        "Latitude": "45.590482",
+        "Longitude": "9.196279",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "335/8220508",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "335/8220508",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "335/8220508",
+        "Note": "da lun a ven dalle 10.00 alle 12.00 e dalle 16.00 alle 18.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:40",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f9bcf308-bdd4-4580-aa46-9e2900db2f3f",
+    "Name": "Dott. Re Massimo",
+    "Alias": "dott_re_massimo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Nova Milanese",
+        "Alias": "nova-milanese"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via A. Doria, 2  NOVA MILANESE",
+        "Latitude": "45.587793",
+        "Longitude": "9.195797",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "338/8900926",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "338/8900926",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "335/6704036",
+        "Note": "da lun a ven dalle 08.00 alle 20.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "11:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

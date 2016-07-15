@@ -3,6 +3,8 @@
   "ID": "94421378-a054-4837-bf92-e5bed2991fb9",
   "Name": "MUGGIO' - V.LE RIMEMBRANZE",
   "Alias": "muggio_-_vle_rimembranze",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Muggio'",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "V.LE RIMEMBRANZE MUGGIO'",
-      "Note": "",
       "Latitude": "45.530578",
-      "Longitude": "9.240724"
+      "Longitude": "9.240724",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "867dff4b-3d2d-4713-afd6-5cb97a2414ee",
   "Name": "Scuola Paritaria Margherita Tonoli",
   "Alias": "scuola_paritaria_margherita_tonoli",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTE BARRO 6 MONZA",
-      "Note": "",
       "Latitude": "45.590542",
-      "Longitude": "9.243978"
+      "Longitude": "9.243978",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

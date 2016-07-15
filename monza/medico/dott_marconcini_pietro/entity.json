@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "6c5b0d58-9fd2-4a29-866f-3ba4641bce33",
+  "Name": "Dott. MARCONCINI PIETRO",
+  "Alias": "dott_marconcini_pietro",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Rota, 70/A MONZA",
+      "Latitude": "45.580837",
+      "Longitude": "9.292420",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 833600",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 833600",
+      "Note": "7,30 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

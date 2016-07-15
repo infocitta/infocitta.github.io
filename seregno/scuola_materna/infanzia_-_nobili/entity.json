@@ -3,6 +3,8 @@
   "ID": "3e18b8bf-83b3-4055-a3e8-b528b648ca87",
   "Name": "Infanzia - Nobili",
   "Alias": "infanzia_-_nobili",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CAGNOLA 37 SEREGNO",
-      "Note": "",
       "Latitude": "45.656233",
-      "Longitude": "9.215788"
+      "Longitude": "9.215788",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

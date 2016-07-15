@@ -3,6 +3,8 @@
   "ID": "cb93b3fe-ca6c-486e-b270-f5dced8979e2",
   "Name": "CESANO MADERNO - CAPOLUOGO",
   "Alias": "cesano_maderno_-_capoluogo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "CAPOLUOGO CESANO MADERNO",
-      "Note": "",
       "Latitude": "",
-      "Longitude": ""
+      "Longitude": "",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "7f311c02-a9db-4709-a6d0-6d69c95b7b5a",
   "Name": "LE CILIEGINE",
   "Alias": "le_ciliegine",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PERGOLESI G.  33 MONZA",
-      "Note": "",
       "Latitude": "45.600185",
-      "Longitude": "9.258430"
+      "Longitude": "9.258430",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

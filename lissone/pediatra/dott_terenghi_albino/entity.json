@@ -1,0 +1,125 @@
+﻿{
+  "Version": 1,
+  "ID": "e40dae25-1e1f-44a7-9fa9-8f8912b68916",
+  "Name": "Dott TERENGHI ALBINO",
+  "Alias": "dott_terenghi_albino",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Piazzale B.Salvadori, 7 20851 Lissone",
+      "Latitude": "45.613324",
+      "Longitude": "9.247059",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "338 1492612",
+      "Note": "8.00 - 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "10:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "18:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "10:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "18:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "09:30",
+              "EndTime": "10:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "11:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "09:30",
+              "EndTime": "10:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

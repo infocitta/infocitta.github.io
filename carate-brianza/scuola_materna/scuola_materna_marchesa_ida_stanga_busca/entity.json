@@ -3,6 +3,8 @@
   "ID": "8764aba1-b3c3-49d7-bb8d-6df7b21eb7bf",
   "Name": "Scuola Materna 'Marchesa Ida Stanga Busca'",
   "Alias": "scuola_materna_marchesa_ida_stanga_busca",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Carate Brianza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA G. PARINI 2 CARATE BRIANZA",
-      "Note": "",
       "Latitude": "45.686711",
-      "Longitude": "9.246632"
+      "Longitude": "9.246632",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

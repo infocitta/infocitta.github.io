@@ -3,6 +3,8 @@
   "ID": "f27fdb16-366e-4aa4-b37e-cf0b9df684a7",
   "Name": "Scuola Dell'infanzia Paritaria S. Pio X",
   "Alias": "scuola_dellinfanzia_paritaria_s_pio_x",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TRASIMENO 2 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.631793",
-      "Longitude": "9.167758"
+      "Longitude": "9.167758",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

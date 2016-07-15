@@ -3,6 +3,8 @@
   "ID": "bee63679-0495-48c9-bdbe-ef7177376b62",
   "Name": "IL NIDO DI WENDY 2",
   "Alias": "il_nido_di_wendy_2",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA MOZART 6/7 BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.608970",
-      "Longitude": "9.149966"
+      "Longitude": "9.149966",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

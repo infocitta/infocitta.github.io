@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA CAMBIAGHI MONZA",
-        "Note": "",
         "Latitude": "45.581751",
-        "Longitude": "9.277488"
+        "Longitude": "9.277488",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA S.ANDREA MONZA",
-        "Note": "",
         "Latitude": "45.599544",
-        "Longitude": "9.265443"
+        "Longitude": "9.265443",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -76,9 +76,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA TRENTO MONZA",
-        "Note": "",
         "Latitude": "45.010777",
-        "Longitude": "7.819958"
+        "Longitude": "7.819958",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -104,9 +104,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA PO MONZA",
-        "Note": "",
         "Latitude": "45.575474",
-        "Longitude": "9.243211"
+        "Longitude": "9.243211",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -132,9 +132,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA PAISIELLO MONZA",
-        "Note": "",
         "Latitude": "45.561314",
-        "Longitude": "9.261115"
+        "Longitude": "9.261115",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -160,9 +160,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA NIEVO MONZA",
-        "Note": "",
         "Latitude": "45.576990",
-        "Longitude": "9.304638"
+        "Longitude": "9.304638",
+        "Note": ""
       }
     ],
     "Contacts": []

@@ -3,6 +3,8 @@
   "ID": "8083be6e-3263-4fa4-b055-550c905fa894",
   "Name": "Ufficio Servizi Demografici - Lissone",
   "Alias": "ufficio_servizi_demografici_-_lissone",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Palazzo Comunale - 2° Piano",
       "Value": "Via Antonio Gramsci, 21, 20851 Lissone MB",
-      "Note": "",
       "Latitude": "45.610318",
-      "Longitude": "9.243298"
+      "Longitude": "9.243298",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -55,5 +57,88 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Apertura ufficio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "08:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "13:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

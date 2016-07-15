@@ -3,6 +3,8 @@
   "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39",
   "Name": "Bar Centrale",
   "Alias": "bar_centrale",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -27,10 +29,25 @@
     {
       "Title": "Indirizzo",
       "Value": "Piazza Conciliazione - Desio",
-      "Note": "",
       "Latitude": "45.617370",
-      "Longitude": "9.207582"
+      "Longitude": "9.207582",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [
+    {
+      "Title": "Note per vegani",
+      "Value": "Disponibile cappuccio vegetale e brioches vegana"
+    }
+  ],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

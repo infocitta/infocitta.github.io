@@ -3,6 +3,8 @@
   "ID": "61c79ff1-ed6d-44d9-ae59-51cff946b7a8",
   "Name": "Infanzia - Andersen",
   "Alias": "infanzia_-_andersen",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Varedo",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE BRIANZA 77 VAREDO",
-      "Note": "",
       "Latitude": "45.600426",
-      "Longitude": "9.173980"
+      "Longitude": "9.173980",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

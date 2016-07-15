@@ -3,6 +3,8 @@
   "ID": "dedd4bc0-70e6-4e28-8338-395e1e98f77a",
   "Name": "Scuola Materna Maria Ausiliatrice",
   "Alias": "scuola_materna_maria_ausiliatrice",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SANTA CATERINA 53 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.556031",
-      "Longitude": "9.305544"
+      "Longitude": "9.305544",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

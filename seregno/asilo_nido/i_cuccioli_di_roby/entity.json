@@ -3,6 +3,8 @@
   "ID": "06229738-7451-4317-9bcd-31da0c0f9938",
   "Name": "I CUCCIOLI DI ROBY",
   "Alias": "i_cuccioli_di_roby",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA STELVIO 2 SEREGNO",
-      "Note": "",
       "Latitude": "45.658522",
-      "Longitude": "9.207024"
+      "Longitude": "9.207024",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

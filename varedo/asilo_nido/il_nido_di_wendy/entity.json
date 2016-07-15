@@ -3,6 +3,8 @@
   "ID": "153804cb-b67b-497b-8ed3-e45e7b0a88ea",
   "Name": "IL NIDO DI WENDY",
   "Alias": "il_nido_di_wendy",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Varedo",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SOLARI  34 VAREDO",
-      "Note": "",
       "Latitude": "45.596444",
-      "Longitude": "9.157665"
+      "Longitude": "9.157665",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

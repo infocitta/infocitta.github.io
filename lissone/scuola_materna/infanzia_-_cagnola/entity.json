@@ -3,6 +3,8 @@
   "ID": "f801d825-77bd-40d9-bb02-6befcf852dd2",
   "Name": "Infanzia - Cagnola",
   "Alias": "infanzia_-_cagnola",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MARIANI LISSONE",
-      "Note": "",
       "Latitude": "45.614329",
-      "Longitude": "9.237913"
+      "Longitude": "9.237913",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

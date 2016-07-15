@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "b0665dbf-21b2-4704-9038-209a2e68e89a",
+  "Name": "Dott. JOPPOLO GIOVANNI",
+  "Alias": "dott_joppolo_giovanni",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - via Segrè, 1",
+      "Latitude": "45.577092",
+      "Longitude": "9.252638",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039 747138",
+      "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: ",
+      "Value": "039 737579",
+      "Note": "lunedì mercoledì venerdì dalle ore 15,00 alle ore 15,30",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "347 9561180 solo lunedì 12,00-13,00   e 039 737579",
+      "Note": "martedì giovedì dalle ore 10,00 alle ore 11,30 lun merc ven dalle ore 15,30 alle ore 17,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:45",
+              "Note": "(A)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:15",
+              "EndTime": "12:45",
+              "Note": " (A)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:45",
+              "Note": " (A)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:15",
+              "EndTime": "12:45",
+              "Note": " (A)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "18:45",
+              "Note": " (A)"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

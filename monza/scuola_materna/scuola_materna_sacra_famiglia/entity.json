@@ -3,6 +3,8 @@
   "ID": "c272d573-8bdc-4d43-99c6-dbad7ff2f727",
   "Name": "Scuola Materna Sacra Famiglia",
   "Alias": "scuola_materna_sacra_famiglia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MARELLI 10 MONZA",
-      "Note": "",
       "Latitude": "45.568951",
-      "Longitude": "9.241928"
+      "Longitude": "9.241928",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

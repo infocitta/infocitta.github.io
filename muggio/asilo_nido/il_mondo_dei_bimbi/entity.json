@@ -3,6 +3,8 @@
   "ID": "871f0ced-b7cd-4512-9d9b-bc3655272423",
   "Name": "IL MONDO DEI BIMBI",
   "Alias": "il_mondo_dei_bimbi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Muggio'",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MILANO 50/52 MUGGIÃ’",
-      "Note": "",
       "Latitude": "45.585135",
-      "Longitude": "9.228155"
+      "Longitude": "9.228155",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

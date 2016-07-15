@@ -3,6 +3,8 @@
   "ID": "55102fd6-1932-4389-a16c-b86cc6254eb3",
   "Name": "OFFICINA DELLE FIABE",
   "Alias": "officina_delle_fiabe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MADONNA 5 LISSONE",
-      "Note": "",
       "Latitude": "45.610498",
-      "Longitude": "9.240475"
+      "Longitude": "9.240475",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

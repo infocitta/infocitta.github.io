@@ -3,6 +3,8 @@
   "ID": "4de8fa24-2993-450e-9111-76dbfe760d3a",
   "Name": "ASILO NIDO COMUNALE ARCOBALENO",
   "Alias": "asilo_nido_comunale_arcobaleno",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Varedo",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA VERDI  4 VAREDO",
-      "Note": "",
       "Latitude": "45.598625",
-      "Longitude": "9.154290"
+      "Longitude": "9.154290",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

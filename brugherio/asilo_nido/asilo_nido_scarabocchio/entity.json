@@ -3,6 +3,8 @@
   "ID": "b2d82d93-b7f8-40eb-8663-7bd65ede8cab",
   "Name": "ASILO NIDO SCARABOCCHIO",
   "Alias": "asilo_nido_scarabocchio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA VOLTURNO 80 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.542575",
-      "Longitude": "9.297996"
+      "Longitude": "9.297996",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

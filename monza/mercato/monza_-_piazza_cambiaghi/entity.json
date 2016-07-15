@@ -3,6 +3,8 @@
   "ID": "2f43dfa6-3e3c-4ef8-b441-53b0d065e345",
   "Name": "MONZA - PIAZZA CAMBIAGHI",
   "Alias": "monza_-_piazza_cambiaghi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA CAMBIAGHI MONZA",
-      "Note": "",
       "Latitude": "45.581751",
-      "Longitude": "9.277488"
+      "Longitude": "9.277488",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "15:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

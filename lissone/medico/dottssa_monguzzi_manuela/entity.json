@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "94891e30-43fc-4cea-be2b-e08b6a01e34a",
+  "Name": "Dott.ssa MONGUZZI MANUELA",
+  "Alias": "dottssa_monguzzi_manuela",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Lissone",
+      "Alias": "lissone"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via S. Rocco, 95 20851 Lissone MB",
+      "Latitude": "45.608110",
+      "Longitude": "9.244558",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "335 1000564",
+      "Note": "DA LUN A VEN 8.00 - 10.00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "335 1000564",
+      "Note": "ORARIO AMBULATORIO",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "335 1000564",
+      "Note": "DA LUN A VEN 8.00 - 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:30",
+              "Note": " su appunt."
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "14:00",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:00",
+              "Note": " su appunt."
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "14:00",
+              "EndTime": "17:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

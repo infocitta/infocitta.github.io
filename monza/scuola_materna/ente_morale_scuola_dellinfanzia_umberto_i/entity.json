@@ -3,6 +3,8 @@
   "ID": "95da9ba7-3498-445b-b205-890142421d35",
   "Name": "Ente Morale Scuola Dell'infanzia 'Umberto I'",
   "Alias": "ente_morale_scuola_dellinfanzia_umberto_i",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VICOLO SCULE 2 MONZA",
-      "Note": "",
       "Latitude": "45.585147",
-      "Longitude": "9.277108"
+      "Longitude": "9.277108",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

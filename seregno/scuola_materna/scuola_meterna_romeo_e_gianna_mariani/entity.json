@@ -3,6 +3,8 @@
   "ID": "67c2eaae-b072-40fe-ab27-c2943fdbf1fe",
   "Name": "Scuola Meterna Romeo E Gianna Mariani",
   "Alias": "scuola_meterna_romeo_e_gianna_mariani",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DON GNOCCHI 16 SEREGNO",
-      "Note": "",
       "Latitude": "45.642810",
-      "Longitude": "9.197963"
+      "Longitude": "9.197963",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

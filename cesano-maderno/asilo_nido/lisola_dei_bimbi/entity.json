@@ -3,6 +3,8 @@
   "ID": "de704fd2-6cd0-4243-a30f-7f72c4c834d8",
   "Name": "L'ISOLA DEI BIMBI",
   "Alias": "lisola_dei_bimbi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA COPERNICO 19 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.631924",
-      "Longitude": "9.139703"
+      "Longitude": "9.139703",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

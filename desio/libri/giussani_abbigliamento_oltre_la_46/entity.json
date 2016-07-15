@@ -3,6 +3,8 @@
   "ID": "a65029fa-46b7-4256-90b4-27b00da99df2",
   "Name": "GIUSSANI ABBIGLIAMENTO OLTRE LA 46",
   "Alias": "giussani_abbigliamento_oltre_la_46",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Giuseppe Garibaldi, 31, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.616979",
-      "Longitude": "9.207168"
+      "Longitude": "9.207168",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

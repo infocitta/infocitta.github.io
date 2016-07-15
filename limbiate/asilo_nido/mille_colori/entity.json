@@ -3,6 +3,8 @@
   "ID": "115583c1-80f7-4d79-92ea-aee08ea0e0c1",
   "Name": "MILLE COLORI",
   "Alias": "mille_colori",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MISSORI  13 LIMBIATE",
-      "Note": "",
       "Latitude": "45.591907",
-      "Longitude": "9.140548"
+      "Longitude": "9.140548",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

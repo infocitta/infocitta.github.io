@@ -3,6 +3,8 @@
   "ID": "68924258-bf0c-4ddc-b691-549fcefff46e",
   "Name": "ASILO NIDO LIBERTA'",
   "Alias": "asilo_nido_liberta",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BERTACCHI/MODIGLIANI MONZA",
-      "Note": "",
       "Latitude": "45.590623",
-      "Longitude": "9.304026"
+      "Longitude": "9.304026",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

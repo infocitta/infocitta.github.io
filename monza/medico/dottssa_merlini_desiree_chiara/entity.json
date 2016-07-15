@@ -1,0 +1,122 @@
+﻿{
+  "Version": 1,
+  "ID": "69e0a5d4-f727-4df2-9898-abfbb0863d08",
+  "Name": "Dott.ssa Merlini Desiree Chiara",
+  "Alias": "dottssa_merlini_desiree_chiara",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - via Libertà 19   ",
+      "Latitude": "45.592971",
+      "Longitude": "9.337662",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "335 8167876",
+      "Note": "dal lunedì al venerdì preferenzialmente tra le ore 8.00 e le ore 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "335 8167876",
+      "Note": "dal lunedì al venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "039 2315859",
+      "Note": "negli orari di ambulatorio",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": "A"
+            },
+            {
+              "StartTime": "10:00",
+              "EndTime": "11:00",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:15",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": " A"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:15",
+              "Note": " A"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "ac26e7d8-1def-420b-b15c-30a2b2628268",
+  "Name": "Dott.ssa BOVOLATO PAOLA",
+  "Alias": "dottssa_bovolato_paola",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Pediatra",
+      "Alias": "pediatra"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Marsala, 17 MONZA",
+      "Latitude": "45.576262",
+      "Longitude": "9.265933",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "340 8559644",
+      "Note": "in orario di ambulatorio ",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "340 8559644",
+      "Note": "in orario di ambulatorio ",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domiciio: dal lunedì al venerdì",
+      "Value": "340 8559644",
+      "Note": "in orario di ambulatorio ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "13:00",
+              "EndTime": "16:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

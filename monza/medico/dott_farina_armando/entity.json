@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "b880ecac-ebc5-42e0-80c4-5c4a4815f2b2",
+  "Name": "Dott. FARINA ARMANDO",
+  "Alias": "dott_farina_armando",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Liguria, 1 MONZA",
+      "Latitude": "45.572913",
+      "Longitude": "9.253505",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2496996",
+      "Note": "8,00 - 10,00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 2496996",
+      "Note": "14,30 - 16,30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

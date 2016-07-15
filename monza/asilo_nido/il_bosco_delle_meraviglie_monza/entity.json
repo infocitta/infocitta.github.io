@@ -3,6 +3,8 @@
   "ID": "384fd4f0-03e2-417a-b2f6-c236d4ea923c",
   "Name": "IL BOSCO DELLE MERAVIGLIE MONZA",
   "Alias": "il_bosco_delle_meraviglie_monza",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TACCONA  16 MONZA",
-      "Note": "",
       "Latitude": "45.579101",
-      "Longitude": "9.245632"
+      "Longitude": "9.245632",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

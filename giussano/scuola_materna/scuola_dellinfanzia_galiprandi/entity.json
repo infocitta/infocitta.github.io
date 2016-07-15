@@ -3,6 +3,8 @@
   "ID": "096e71a0-640e-4145-aeaf-e558f782908b",
   "Name": "Scuola Dell'infanzia 'G.Aliprandi'",
   "Alias": "scuola_dellinfanzia_galiprandi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ALIPRANDI 6 GIUSSANO",
-      "Note": "",
       "Latitude": "45.697286",
-      "Longitude": "9.211160"
+      "Longitude": "9.211160",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "1785d2d1-7187-4113-b479-5a19b3eda890",
   "Name": "NIDO SAN BIAGIO",
   "Alias": "nido_san_biagio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MANARA LUCIANO  10 MONZA",
-      "Note": "",
       "Latitude": "45.588570",
-      "Longitude": "9.264622"
+      "Longitude": "9.264622",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

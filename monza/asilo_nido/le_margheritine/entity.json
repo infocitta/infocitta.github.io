@@ -3,6 +3,8 @@
   "ID": "22b1c765-297d-437c-a946-3ccb4ddfbe1f",
   "Name": "LE MARGHERITINE",
   "Alias": "le_margheritine",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTE BARRO  6 MONZA",
-      "Note": "",
       "Latitude": "45.590542",
-      "Longitude": "9.243978"
+      "Longitude": "9.243978",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

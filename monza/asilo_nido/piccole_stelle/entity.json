@@ -3,6 +3,8 @@
   "ID": "448ce5b3-2fdf-45ca-b9e2-96ba188c9250",
   "Name": "PICCOLE STELLE",
   "Alias": "piccole_stelle",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DORIA ANDREA  1 MONZA",
-      "Note": "",
       "Latitude": "45.580747",
-      "Longitude": "9.252617"
+      "Longitude": "9.252617",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

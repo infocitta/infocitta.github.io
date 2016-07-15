@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "d08a2166-78b3-4d69-abf7-deb03b4fa050",
+  "Name": "Dott.ssa Villa Enrica",
+  "Alias": "dottssa_villa_enrica",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Piazza Armando Diaz, 1, 20900 Monza MB",
+      "Latitude": "45.580228",
+      "Longitude": "9.271034",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

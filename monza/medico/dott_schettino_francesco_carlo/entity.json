@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "c666b7c3-903f-41ab-a277-95b7f4edcfd5",
+  "Name": "Dott. Schettino Francesco Carlo",
+  "Alias": "dott_schettino_francesco_carlo",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Gerolamo Borgazzi, 9, 20900 Monza MB",
+      "Latitude": "45.573580",
+      "Longitude": "9.268526",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "b784e991-d5e9-4cf7-a63b-d3a4788985f0",
+  "Name": "Dott.ssa VILLA DANIELA LUCIA",
+  "Alias": "dottssa_villa_daniela_lucia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA , VIA VISCONTI 41   ",
+      "Latitude": "45.641339",
+      "Longitude": "9.271713",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "- 347 6918361 ",
+      "Note": "-  dal lunedì al venerdì dalle ore 8,00 alle ore 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "- 347 6918361",
+      "Note": "-  dal lunedì al venerdì dalle ore 8,00  alle ore 10,00 ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "- 347 6918361 - 039 325760",
+      "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

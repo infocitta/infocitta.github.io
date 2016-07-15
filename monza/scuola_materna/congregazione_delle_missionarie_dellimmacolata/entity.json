@@ -3,6 +3,8 @@
   "ID": "2cd597d9-cf81-4713-9ada-0343e938d634",
   "Name": "Congregazione Delle Missionarie Dell'immacolata",
   "Alias": "congregazione_delle_missionarie_dellimmacolata",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MANTEGNA 27 MONZA",
-      "Note": "",
       "Latitude": "45.585049",
-      "Longitude": "9.305669"
+      "Longitude": "9.305669",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

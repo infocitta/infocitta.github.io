@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZALE CATTANEO GIUSSANO",
-        "Note": "",
         "Latitude": "45.707163",
-        "Longitude": "9.200851"
+        "Longitude": "9.200851",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA DEI CERTOSINI GIUSSANO",
-        "Note": "",
         "Latitude": "45.672546",
-        "Longitude": "9.204867"
+        "Longitude": "9.204867",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -76,9 +76,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA LONGONI GIUSSANO",
-        "Note": "",
         "Latitude": "45.695469",
-        "Longitude": "9.220758"
+        "Longitude": "9.220758",
+        "Note": ""
       }
     ],
     "Contacts": []

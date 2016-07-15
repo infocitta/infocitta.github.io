@@ -3,6 +3,8 @@
   "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32",
   "Name": "LA VISPA TERESA",
   "Alias": "la_vispa_teresa",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CANONICA VILLA 26/28 DESIO",
-      "Note": "",
       "Latitude": "45.614128",
-      "Longitude": "9.207836"
+      "Longitude": "9.207836",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

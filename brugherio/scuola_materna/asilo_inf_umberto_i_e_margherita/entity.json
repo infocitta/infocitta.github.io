@@ -3,6 +3,8 @@
   "ID": "4f0f5bb7-e274-4ea4-a2cd-8bd8d519388f",
   "Name": "Asilo Inf. Umberto I E Margherita",
   "Alias": "asilo_inf_umberto_i_e_margherita",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DE GASPERI 41 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.551451",
-      "Longitude": "9.297224"
+      "Longitude": "9.297224",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

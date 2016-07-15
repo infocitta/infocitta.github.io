@@ -3,6 +3,8 @@
   "ID": "6222d71a-0ef6-4b54-a425-abc41c6d2267",
   "Name": "Infanzia - A. Grandi",
   "Alias": "infanzia_-_a_grandi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GRANDI 5 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.591657",
-      "Longitude": "9.194388"
+      "Longitude": "9.194388",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

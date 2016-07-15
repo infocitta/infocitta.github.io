@@ -3,6 +3,8 @@
   "ID": "a5cc27b3-d6a5-4232-9f7d-e19f01d3982a",
   "Name": "Scuola Materna Immacolata",
   "Alias": "scuola_materna_immacolata",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN GIOVANNI BOSCO 5 GIUSSANO",
-      "Note": "",
       "Latitude": "45.683922",
-      "Longitude": "9.203632"
+      "Longitude": "9.203632",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

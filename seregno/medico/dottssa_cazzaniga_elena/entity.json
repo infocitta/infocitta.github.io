@@ -1,0 +1,122 @@
+﻿{
+  "Version": 1,
+  "ID": "b3d19abf-cc41-41d1-adbd-3be915ec5f46",
+  "Name": "Dott.ssa CAZZANIGA ELENA",
+  "Alias": "dottssa_cazzaniga_elena",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Seregno",
+      "Alias": "seregno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Vignoli, 15  20831 - SEREGNO (MB)",
+      "Latitude": "45.652246",
+      "Longitude": "9.207910",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "339/8448619",
+      "Note": "dalle 8:30 alle 10:00 dal lunedi' al venerdi' ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "339/8448619",
+      "Note": "dalle 8:30 alle 10:00 dal lunedi' al venerdi' ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "339/8448619",
+      "Note": "dalle 8:30 alle 10:00 dal lunedi' al venerdi' ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "17:30",
+              "EndTime": "19:00",
+              "Note": ""
+            },
+            {
+              "StartTime": "10:00",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "17:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "10:00",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

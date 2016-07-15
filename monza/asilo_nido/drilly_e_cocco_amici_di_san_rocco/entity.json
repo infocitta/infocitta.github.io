@@ -3,6 +3,8 @@
   "ID": "ba761eee-76d9-4a02-b890-50176307fba7",
   "Name": "DRILLY E COCCO AMICI DI SAN ROCCO",
   "Alias": "drilly_e_cocco_amici_di_san_rocco",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MERCADANTE S.  38 MONZA",
-      "Note": "",
       "Latitude": "45.555479",
-      "Longitude": "9.256847"
+      "Longitude": "9.256847",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "0b0a1728-8198-43c4-a5d7-5c5b5e457601",
+  "Name": "Dott.ssa TONELLI FLORA",
+  "Alias": "dottssa_tonelli_flora",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Largo Esterle, 4 MONZA",
+      "Latitude": "45.587138",
+      "Longitude": "9.281247",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 327610",
+      "Note": "8,00 - 10,00 ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 327610",
+      "Note": "lunedì martedì e giovedì 17,00 - 19,00 mercoledì e venerdì 10,00 - 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento:",
+      "Value": "039 327610",
+      "Note": "telefonare negli orari di studio  dal lunedì                        dal  venerdì  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

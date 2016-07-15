@@ -1,0 +1,1337 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "21010101-175b-483c-9608-f7551fd1f95b",
+    "Name": "Dott. BRAMATI STEFANO",
+    "Alias": "dott_bramati_stefano",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Sauro, 114 BRUGHERIO",
+        "Latitude": "45.551994",
+        "Longitude": "9.288524",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 881176",
+        "Note": "lun-merc-ven 17,00 - 19,00                      mart-giov 11,00-13,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "333 2301479",
+        "Note": "12,00 - 13,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "2a25100a-68f5-4106-892a-dc6757f6ad8c",
+    "Name": "Dott.ssa LEVI PATRIZIA",
+    "Alias": "dottssa_levi_patrizia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Turati, 4 BRUGHERIO",
+        "Latitude": "45.555393",
+        "Longitude": "9.297665",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "331 2655480",
+        "Note": "9,00 - 11,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 305234",
+        "Note": "8,00 - 9,00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "32a81a73-6065-47de-b6e9-c8e9bc8d57bb",
+    "Name": "Dott.ssa PALEARI MARINA",
+    "Alias": "dottssa_paleari_marina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Piazza IV Novembre, 12 BRUGHERIO",
+        "Latitude": "45.567610",
+        "Longitude": "9.304748",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2840983",
+        "Note": "7,00 - 10,00 (preferibilmente dalle 7,00 alle 8,00) ",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 2026005",
+        "Note": "8,30 - 11,30 e 16,00 - 19,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3448d7ce-0e64-4ba0-ae2a-401c4ebbcc47",
+    "Name": "Dott. Tarallo Umberto Giuseppe",
+    "Alias": "dott_tarallo_umberto_giuseppe",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Alcide de Gasperi, 54, 20861 Brugherio MB",
+        "Latitude": "45.551594",
+        "Longitude": "9.297075",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3656ba6b-0a16-4ed0-b3fc-f0a6271b4b9e",
+    "Name": "Dott. Beretta Dario Giuseppe",
+    "Alias": "dott_beretta_dario_giuseppe",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "\r\nVia Vittorio Veneto, 79, 20861 Brugherio MB",
+        "Latitude": "45.553520",
+        "Longitude": "9.298306",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "48658b5b-8e3d-4e0b-b3ce-cef0c214ff01",
+    "Name": "Dott.ssa Paro Maria Serena",
+    "Alias": "dottssa_paro_maria_serena",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Italia 4  20861 BRUGHERIO ",
+        "Latitude": "45.550497",
+        "Longitude": "9.302037",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039877253",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039877253",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039877253",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "58c4c35a-f970-485d-a67a-690bd089f068",
+    "Name": "Dott.ssa Rossetti Gabriella Maria Orso",
+    "Alias": "dottssa_rossetti_gabriella_maria_orso",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Volturno, 80, 20861 Brugherio MB",
+        "Latitude": "45.542949",
+        "Longitude": "9.297780",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6d62e51e-10d3-4fad-a01f-73d592caa6c1",
+    "Name": "Dott.ssa Spadafora Graziella",
+    "Alias": "dottssa_spadafora_graziella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Volturno cond.Fiori 80  20861 BRUGHERIO ",
+        "Latitude": "45.553941",
+        "Longitude": "9.298022",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "3398455782",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "3398455782",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "3398466782",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "791e7deb-11b8-46b9-953e-7e3ab0496a0d",
+    "Name": "Dott.ssa SALA BARBARA",
+    "Alias": "dottssa_sala_barbara",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Quarto, 51 BRUGHERIO",
+        "Latitude": "45.543382",
+        "Longitude": "9.303870",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "335 6648957",
+        "Note": "15,00 - 17,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "039 2983192 / 335 6648957",
+        "Note": "7,00 - 8,00 039 2983192  / 8,00 -  9,00 335 6648957",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal martedì al venerdì",
+        "Value": "039 2873469",
+        "Note": "11,00 - 13,00 mart - merc - ven",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8308492e-5a6c-4f7c-9414-633c1f67b044",
+    "Name": "Dott. Oliveri Francesco Giuseppe",
+    "Alias": "dott_oliveri_francesco_giuseppe",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Filippo Turati, 4, 20861 Brugherio MB",
+        "Latitude": "45.555393",
+        "Longitude": "9.297665",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "9337b7e6-2634-4f83-b69d-c4a4c4623844",
+    "Name": "Dott. FACCHINI FABRIZIO",
+    "Alias": "dott_facchini_fabrizio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via Dante, 119 BRUGHERIO",
+        "Latitude": "45.548312",
+        "Longitude": "9.294062",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "333 6987667 ",
+        "Note": "9,00 - 11,00",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal martedì al giovedì",
+        "Value": "039 879332",
+        "Note": "8,00 - 8,30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "333 6987667",
+        "Note": "7,00 - 9,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "d825a19f-535b-40e7-87f1-3cf28fb1800f",
+    "Name": "Dott. Carafassi Antonio",
+    "Alias": "dott_carafassi_antonio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "BRUGHERIO - Via San Maurizio, 7  ",
+        "Latitude": "45.547482",
+        "Longitude": "9.292167",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "- 342 0756589",
+        "Note": "- dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì ",
+        "Value": "- 342 0756589",
+        "Note": "- durante gli orari di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì ",
+        "Value": "- 342 0756589",
+        "Note": "- dalle ore 8,00 alle ore 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e10c9e7c-f7e5-40b9-a0f3-570405295de3",
+    "Name": "Dott.ssa DI NARZO IDELBA LUCIA",
+    "Alias": "dottssa_di_narzo_idelba_lucia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "- Via De Gasperi, 54 BRUGHERIO",
+        "Latitude": "45.551594",
+        "Longitude": "9.297075",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 2872072",
+        "Note": "18,00 - 19,00",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio: dal lunedì al venerdì",
+        "Value": "377 3066793",
+        "Note": "8,00 - 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "377 3066793",
+        "Note": "10,00 - 12,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e516b4b3-0d19-4c07-92bc-990fa9486bf2",
+    "Name": "Dott.ssa Santagostino Lucia Liliana Maria",
+    "Alias": "dottssa_santagostino_lucia_liliana_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Luigi Galvani, 6, 20861 Brugherio MB",
+        "Latitude": "45.552971",
+        "Longitude": "9.298702",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e7859681-4a2b-4570-9929-7a8867cced2d",
+    "Name": "Dott. Maderna Gianni",
+    "Alias": "dott_maderna_gianni",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Monza, 27, 20861 Brugherio MB",
+        "Latitude": "45.554660",
+        "Longitude": "9.297475",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "0392873792",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0392873792",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0392873792",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:45",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f66b14aa-e44f-423f-a2e7-5b91695fe3fe",
+    "Name": "Dott.ssa Marinelli Raffaella",
+    "Alias": "dottssa_marinelli_raffaella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via San Bartolomeo 8  20861 BRUGHERIO ",
+        "Latitude": "45.551144",
+        "Longitude": "9.300835",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "3468478515",
+        "Note": "da lunedì a venerdì: 08.00 - 10.00  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "3468478515",
+        "Note": "in orario di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "3468478515",
+        "Note": "da lunedì a venerdì: 08.00 - 10.00  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": "/ 19:15"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": " / 19:15"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": " / 19:15"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "fb75789f-59e2-482b-99a2-d1fe21c0d41e",
+    "Name": "Dott. Valesi Vincenzo Ercole",
+    "Alias": "dott_valesi_vincenzo_ercole",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Piazza Palmiro Togliatti, 12, 20861 Brugherio MB",
+        "Latitude": "45.550534",
+        "Longitude": "9.282993",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "-",
+        "Note": "-",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "-",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "fc480ef8-3024-49e7-9f68-3e9df872bbd5",
+    "Name": "Dott.ssa Longo Patrizia Angela",
+    "Alias": "dottssa_longo_patrizia_angela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Brugherio",
+        "Alias": "brugherio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Lombardia 96  20861 BRUGHERIO ",
+        "Latitude": "45.547452",
+        "Longitude": "9.293346",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "328 1384294",
+        "Note": "dalle ore 8,00 alle ore 10,00 dal lunedì al venerdi ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "328  1384294",
+        "Note": "dalle ore 8,00 alle ore 10,00 dal lunedì al venerdì",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "328 1384294",
+        "Note": "dalle ore 8,00 alle ore 10,00 dal lunedì al venerdì ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

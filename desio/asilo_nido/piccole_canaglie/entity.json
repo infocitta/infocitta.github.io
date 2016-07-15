@@ -3,6 +3,8 @@
   "ID": "97f44b30-c706-4534-9329-24248bfcd692",
   "Name": "PICCOLE CANAGLIE",
   "Alias": "piccole_canaglie",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA MARTIRI DI FOSSOLI 23 DESIO",
-      "Note": "",
       "Latitude": "45.615800",
-      "Longitude": "9.212350"
+      "Longitude": "9.212350",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

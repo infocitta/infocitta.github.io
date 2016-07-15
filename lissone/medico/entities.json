@@ -20,16 +20,16 @@
       {
         "Title": "Ambulatorio 2",
         "Value": "Via Alessandro Manzoni, 38, 20851 Lissone MB",
-        "Note": "",
         "Latitude": "45.611718",
-        "Longitude": "9.244958"
+        "Longitude": "9.244958",
+        "Note": ""
       },
       {
         "Title": "Ambulatorio 1",
         "Value": "Via S. Domenico Savio, 33, 20851 Lissone MB",
-        "Note": "",
         "Latitude": "45.635663",
-        "Longitude": "9.232391"
+        "Longitude": "9.232391",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -46,5 +46,2035 @@
         "Type": 0
       }
     ]
+  },
+  {
+    "Version": 1,
+    "ID": "00e0b0e4-fdbc-4c0a-a9b2-eda9adee2d67",
+    "Name": "Dott.ssa Ottavia Paccagnini",
+    "Alias": "dottssa_ottavia_paccagnini",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vittorio Alfieri, 22 20851 Lissone MB",
+        "Latitude": "45.604576",
+        "Longitude": "9.233594",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0392785412",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0392785412",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0392785412",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "07c1abc4-22ef-44fa-8054-fbfc3fb52196",
+    "Name": "Dott.ssa Negretti Elena",
+    "Alias": "dottssa_negretti_elena",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Bernasconi 31  20851 LISSONE ",
+        "Latitude": "45.621035",
+        "Longitude": "9.237086",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "334 5340328",
+        "Note": "LUN/MAR/ GIO DALLE ORE 8.00-ALLE ORE 9.00 | MER/VEN DALLE ORE 9.30-ALLE ORE 11.30",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:DA LUN A VEN",
+        "Value": "33884195650392494193",
+        "Note": "-DALLE ORE 8.00 - ALLE ORE 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:LUN/MER/VEN               MAR/GIO",
+        "Value": "3388419565",
+        "Note": "DALLE ORE 10.00 - ALLE ORE 12.00 DALLE ORE 15.00 - ALLE ORE 17.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:15",
+                "EndTime": "12:15",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:15",
+                "EndTime": "12:15",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "07ee9e67-9b61-41d0-bfe7-7b3a51584983",
+    "Name": "Dott. Tuccia Plinio",
+    "Alias": "dott_tuccia_plinio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vittorio Alfieri, 22 20851 Lissone MB",
+        "Latitude": "45.604576",
+        "Longitude": "9.233594",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0392789030",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0392789030",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0392789030",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "1649a350-7ceb-4fc8-bbef-09c0d002a276",
+    "Name": "Dott. Rivolta Enrico",
+    "Alias": "dott_rivolta_enrico",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Don Minzoni 32  20851 LISSONE ",
+        "Latitude": "45.612771",
+        "Longitude": "9.238926",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039481702",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039481702",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0392450054",
+        "Note": "8.00 -8.30 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "166789fe-2f32-479f-a736-e335558bf794",
+    "Name": "Dott. COLOMBO FERRUCCIO",
+    "Alias": "dott_colombo_ferruccio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Pietro da Lissone, 41 20851 Lissone MB",
+        "Latitude": "45.608816",
+        "Longitude": "9.247288",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 462269",
+        "Note": "DA LUN A VEN 8.00 - 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 462269",
+        "Note": "ORARIO AMBULATORIO ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 462269",
+        "Note": "DA LUN A VEN 8.00 - 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "2da1055f-08a9-4bf0-b496-b79627f71c99",
+    "Name": "Dott. Sala Enzo",
+    "Alias": "dott_sala_enzo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Alessandro Manzoni, 38\r\n 0851 Lissone MB",
+        "Latitude": "45.611718",
+        "Longitude": "9.244958",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "347 3674013",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "347 3674013",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "11:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3aed1b55-ef84-4f74-b42f-a0681f93ee3e",
+    "Name": "Dott. FOSSATI LUIGI",
+    "Alias": "dott_fossati_luigi",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Viale della Repubblica, 110 20851 Lissone MB",
+        "Latitude": "45.604370",
+        "Longitude": "9.251535",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2456291",
+        "Note": "DA LUN A VEN 8.00 - 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2456291",
+        "Note": "DA LUN A VEN 8.00 - 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 2456291",
+        "Note": "ORARIO AMBULATORIO ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "18:30",
+                "EndTime": "20:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "14:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "5940f983-e11d-467d-ae50-8c3d1d09a148",
+    "Name": "Dott. ZIZZO FILIPPO",
+    "Alias": "dott_zizzo_filippo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Don Minzoni, 56/A -",
+        "Latitude": "40.572060",
+        "Longitude": "8.322252",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 4655064",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 4655064",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 4655064",
+        "Note": "ORARIO AMBULATORIO ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6627029a-df05-4541-a1f1-2b8e24d0a744",
+    "Name": "Dott.ssa Zennaro Elisabetta Maria",
+    "Alias": "dottssa_zennaro_elisabetta_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Antonio Pacinotti, 28\r\n 20851 Lissone MB",
+        "Latitude": "45.612061",
+        "Longitude": "9.253163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "339 7971513",
+        "Note": "07:45 - 08:15 (per appuntamenti nella giornata in corso)",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "334 7668813",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "334 7668813",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "12:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6bed983d-7154-4d23-8aa0-821937b7b17c",
+    "Name": "Dott.ssa Mingozzi Silvia",
+    "Alias": "dottssa_mingozzi_silvia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vittorio Alfieri, 22 20851 Lissone MB",
+        "Latitude": "45.604576",
+        "Longitude": "9.233594",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "0392785412",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "0392785412",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "0392785412",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "6edca073-15c3-4947-b7ec-0a4ecd4e33c8",
+    "Name": "Dott. DASSI FABIO",
+    "Alias": "dott_dassi_fabio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Antonio Pacinotti, 28\r\n 20851 Lissone MB",
+        "Latitude": "45.612061",
+        "Longitude": "9.253163",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 480341",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "7d060eb7-11dc-4916-a84d-8c330490aa45",
+    "Name": "Dott.ssa Ricci Alessandra",
+    "Alias": "dottssa_ricci_alessandra",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via S. Domenico Savio, 33 20851 Santa Margherita MB",
+        "Latitude": "45.635663",
+        "Longitude": "9.232391",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "3485845542",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "3485845542",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "3485845542",
+        "Note": "-  ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8427ff09-131c-4952-bf03-93681d60960f",
+    "Name": "Dott.ssa PIAZZA LIDIA",
+    "Alias": "dottssa_piazza_lidia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Pietro da Lissone, 15 20851 Lissone MB",
+        "Latitude": "45.608438",
+        "Longitude": "9.245971",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 2455606",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "039 2456814",
+        "Note": "ORARIO AMBULATORIO ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 2455606",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "94891e30-43fc-4cea-be2b-e08b6a01e34a",
+    "Name": "Dott.ssa MONGUZZI MANUELA",
+    "Alias": "dottssa_monguzzi_manuela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via S. Rocco, 95 20851 Lissone MB",
+        "Latitude": "45.608110",
+        "Longitude": "9.244558",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "335 1000564",
+        "Note": "DA LUN A VEN 8.00 - 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "335 1000564",
+        "Note": "ORARIO AMBULATORIO",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "335 1000564",
+        "Note": "DA LUN A VEN 8.00 - 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": " su appunt."
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": " su appunt."
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a06e8575-4399-4def-87b7-96e9ab28350c",
+    "Name": "Dott. Ponti Edoardo",
+    "Alias": "dott_ponti_edoardo",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Vittorio Alfieri, 22 20851 Lissone MB",
+        "Latitude": "45.604576",
+        "Longitude": "9.233594",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039461306",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039461306",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039461306",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "ce081ba7-a833-4317-8779-69af5c0769c2",
+    "Name": "Dott.ssa CAGLIO LORETTA",
+    "Alias": "dottssa_caglio_loretta",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Antonio Gramsci, 57 20851 Lissone MB",
+        "Latitude": "45.608777",
+        "Longitude": "9.244515",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 482156",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:45",
+                "EndTime": "19:00",
+                "Note": "  (DALLE 15,45 ALLE 17 SU APPUNTAMENTO)"
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:45",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:45",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:45",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f6ed4e00-26fc-4333-8410-e0b43f615da0",
+    "Name": "Dott. Meazza Luigi Pietro",
+    "Alias": "dott_meazza_luigi_pietro",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via G. CARDUCCI, 19  20851 LISSONE ",
+        "Latitude": "45.604686",
+        "Longitude": "9.235592",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039481130",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039481130",
+        "Note": "-  ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039481130",
+        "Note": "",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "f8821a47-6add-422d-a5a4-a50478b774d7",
+    "Name": "Dott. CITTERIO TIZIANO",
+    "Alias": "dott_citterio_tiziano",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Lissone",
+        "Alias": "lissone"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Medico di famiglia",
+        "Alias": "medico"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Giovanni Orelli, 28\r\n20851 Lissone MB",
+        "Latitude": "45.612623",
+        "Longitude": "9.243692",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli:",
+        "Value": "039 461222",
+        "Note": "orario ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "039 461222",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039 461222",
+        "Note": "8.00 - 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

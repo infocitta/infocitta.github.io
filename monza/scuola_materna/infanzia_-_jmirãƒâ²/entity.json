@@ -3,6 +3,8 @@
   "ID": "838b014f-4a00-46a4-bdc4-d30e14b999e4",
   "Name": "Infanzia - J.MirÃƒÂ²",
   "Alias": "infanzia_-_jmirãƒâ²",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTE BIANCO MONZA",
-      "Note": "",
       "Latitude": "45.581845",
-      "Longitude": "9.259581"
+      "Longitude": "9.259581",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "419e4eef-5846-4c80-80e8-a2dd10c907fc",
   "Name": "Infanzia - Donizzetti",
   "Alias": "infanzia_-_donizzetti",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Varedo",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DONIZZETTI VAREDO",
-      "Note": "",
       "Latitude": "45.598400",
-      "Longitude": "9.153167"
+      "Longitude": "9.153167",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

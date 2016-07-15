@@ -3,6 +3,8 @@
   "ID": "946b3e8f-3d74-4b1b-bdf0-f2e71ef0dd2f",
   "Name": "MONZA - VIA PAISIELLO",
   "Alias": "monza_-_via_paisiello",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PAISIELLO MONZA",
-      "Note": "",
       "Latitude": "45.561314",
-      "Longitude": "9.261115"
+      "Longitude": "9.261115",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

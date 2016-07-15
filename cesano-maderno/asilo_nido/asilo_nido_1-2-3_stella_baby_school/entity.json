@@ -3,6 +3,8 @@
   "ID": "951c0c80-56e8-4b0c-a093-00b624d259d2",
   "Name": "ASILO NIDO 1,2,3 STELLA BABY SCHOOL",
   "Alias": "asilo_nido_1-2-3_stella_baby_school",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BENACO 10 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.634278",
-      "Longitude": "9.167935"
+      "Longitude": "9.167935",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

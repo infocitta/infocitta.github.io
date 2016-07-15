@@ -3,6 +3,8 @@
   "ID": "5fe373b8-9069-46f9-a5d2-a49b79ce9943",
   "Name": "ATELIER DEI PICCOLI",
   "Alias": "atelier_dei_piccoli",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SALVEMINI 6 BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.603840",
-      "Longitude": "9.140399"
+      "Longitude": "9.140399",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

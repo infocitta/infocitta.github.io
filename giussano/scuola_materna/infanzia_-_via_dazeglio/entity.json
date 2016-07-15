@@ -3,6 +3,8 @@
   "ID": "b84d51d9-4d7d-456f-b181-b7ce35fc34f1",
   "Name": "Infanzia - via D'Azeglio",
   "Alias": "infanzia_-_via_dazeglio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MASSIMO D'AZEGLIO 64 GIUSSANO",
-      "Note": "",
       "Latitude": "45.691827",
-      "Longitude": "9.203900"
+      "Longitude": "9.203900",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

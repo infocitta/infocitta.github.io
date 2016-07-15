@@ -3,6 +3,8 @@
   "ID": "7d2d0c4e-4086-4532-9831-49d3e242d52a",
   "Name": "Infanzia - L. Calastri",
   "Alias": "infanzia_-_l_calastri",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN BERNARDO CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.638831",
-      "Longitude": "9.183888"
+      "Longitude": "9.183888",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

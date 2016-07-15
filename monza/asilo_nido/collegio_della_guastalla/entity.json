@@ -3,6 +3,8 @@
   "ID": "66ec960e-6e85-48c3-870b-848fbd91876f",
   "Name": "COLLEGIO DELLA GUASTALLA",
   "Alias": "collegio_della_guastalla",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE LOMBARDIA  180 MONZA",
-      "Note": "",
       "Latitude": "45.572814",
-      "Longitude": "9.246495"
+      "Longitude": "9.246495",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "6724b648-dbe5-4042-9e0a-04e989cda674",
   "Name": "I CUCCIOLI",
   "Alias": "i_cuccioli",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DELLA TACCONA 16 MONZA",
-      "Note": "",
       "Latitude": "45.579101",
-      "Longitude": "9.245632"
+      "Longitude": "9.245632",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

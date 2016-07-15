@@ -3,6 +3,8 @@
   "ID": "e4dba54f-8671-434c-aa9e-fa91ab76928d",
   "Name": "Infanzia - Don Lorenzo Milani",
   "Alias": "infanzia_-_don_lorenzo_milani",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CARTESIO 12 LIMBIATE",
-      "Note": "",
       "Latitude": "45.591889",
-      "Longitude": "9.138136"
+      "Longitude": "9.138136",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

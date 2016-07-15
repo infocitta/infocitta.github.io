@@ -3,6 +3,8 @@
   "ID": "f5f1c7c3-96cb-42b9-972a-785853e8eeba",
   "Name": "Scuola Dell'infanzia Paritaria 'Padre Di Francia'",
   "Alias": "scuola_dellinfanzia_paritaria_padre_di_francia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TACCONA 16 MONZA",
-      "Note": "",
       "Latitude": "45.579101",
-      "Longitude": "9.245632"
+      "Longitude": "9.245632",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

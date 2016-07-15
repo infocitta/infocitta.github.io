@@ -3,6 +3,8 @@
   "ID": "d5b1d476-4e1a-48d1-b5bc-c4f7bea677d1",
   "Name": "Infanzia - Collodi",
   "Alias": "infanzia_-_collodi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GIOTTO 28 LIMBIATE",
-      "Note": "",
       "Latitude": "45.588070",
-      "Longitude": "9.117540"
+      "Longitude": "9.117540",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "f262c8f0-6889-43e5-a3cb-0eb273139f37",
   "Name": "Asilo Infantile Leopoldo Marangoni",
   "Alias": "asilo_infantile_leopoldo_marangoni",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA LEONARDO DA VINCI 7 BOVISIO MASCIAGO",
-      "Note": "",
       "Latitude": "45.609539",
-      "Longitude": "9.145266"
+      "Longitude": "9.145266",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

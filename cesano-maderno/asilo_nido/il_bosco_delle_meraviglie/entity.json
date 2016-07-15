@@ -3,6 +3,8 @@
   "ID": "6d30fd80-de65-4d69-acc1-7078e9f14f29",
   "Name": "IL BOSCO DELLE MERAVIGLIE",
   "Alias": "il_bosco_delle_meraviglie",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DON ENRICO TAZZOLI 24 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.639054",
-      "Longitude": "9.186140"
+      "Longitude": "9.186140",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

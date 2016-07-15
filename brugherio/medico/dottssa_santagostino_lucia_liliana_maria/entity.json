@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "e516b4b3-0d19-4c07-92bc-990fa9486bf2",
+  "Name": "Dott.ssa Santagostino Lucia Liliana Maria",
+  "Alias": "dottssa_santagostino_lucia_liliana_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Luigi Galvani, 6, 20861 Brugherio MB",
+      "Latitude": "45.552971",
+      "Longitude": "9.298702",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

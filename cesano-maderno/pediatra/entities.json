@@ -1,0 +1,332 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "0ee5dc77-e5f4-4d98-9890-117f99bd352d",
+    "Name": "Dott.ssa BONACINA MARIA",
+    "Alias": "dottssa_bonacina_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "VIA RONZONI, 2  20811 CESANO MADERNO",
+        "Latitude": "45.630612",
+        "Longitude": "9.143184",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "366.7127924",
+        "Note": "DA LUN A VEN DALLE 8.30 ALLE 12.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "360/589913",
+        "Note": "DALLE 09.00 ALLE 09.30 E DALLE 14.00 ALLE 14.30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "15:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "3f63d3dd-e2a9-4cbd-82fc-4a1bec079b6f",
+    "Name": "Dott.ssa Colombo Marinella",
+    "Alias": "dottssa_colombo_marinella",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Dante, 74  20811 CESANO MADERNO",
+        "Latitude": "45.621414",
+        "Longitude": "9.145796",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "0362/507046 ",
+        "Note": "da lun a ven durante l'orario di ambulatorio",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/507046",
+        "Note": "da lun a ven dalle 08.00 alle 10.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "cb2a1b00-12bc-4c27-84d4-c0082ad48639",
+    "Name": "Dott.ssa Borgonovo Fernanda",
+    "Alias": "dottssa_borgonovo_fernanda",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Cesano Maderno",
+        "Alias": "cesano-maderno"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Padre Gemelli, 6   20811 CESANO MADERNO",
+        "Latitude": "45.626221",
+        "Longitude": "9.137021",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "0362/540898",
+        "Note": "da lun a ven dalle ore 8.00 - 9.45",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "0362/540898",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

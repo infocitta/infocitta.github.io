@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VILLAGGIO SNIA CESANO MADERNO",
-        "Note": "",
         "Latitude": "45.632329",
-        "Longitude": "9.105171"
+        "Longitude": "9.105171",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA MONCENISIO CESANO MADERNO",
-        "Note": "",
         "Latitude": "45.633854",
-        "Longitude": "9.172180"
+        "Longitude": "9.172180",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -76,9 +76,9 @@
       {
         "Title": "Indirizzo",
         "Value": "CAPOLUOGO CESANO MADERNO",
-        "Note": "",
         "Latitude": "",
-        "Longitude": ""
+        "Longitude": "",
+        "Note": ""
       }
     ],
     "Contacts": []

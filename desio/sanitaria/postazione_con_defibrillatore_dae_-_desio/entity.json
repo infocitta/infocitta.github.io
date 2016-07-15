@@ -3,6 +3,8 @@
   "ID": "f6650da8-41ad-4bc7-bd4d-8b55f05d9f71",
   "Name": "Postazione con defibrillatore DAE - Desio",
   "Alias": "postazione_con_defibrillatore_dae_-_desio",
+  "Note": "Opendata Comune di Desio",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,171 +21,181 @@
     {
       "Title": "NUOVO CIMITERO COMUNALE",
       "Value": " PIAZZALE DIVINA MISERICORDIA ",
-      "Note": "Posizione approssimata",
       "Latitude": "45.604717",
-      "Longitude": "9.209982"
+      "Longitude": "9.209982",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "CIMITERO COMUNALE MONUMENTALE ",
       "Value": " VIALE  RIMEMBRANZE  1",
-      "Note": "Posizione approssimata",
       "Latitude": "45.621810",
-      "Longitude": "9.203690"
+      "Longitude": "9.203690",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLE ELEMENTARI ",
       "Value": " VIA  DIAZ 7",
-      "Note": "Posizione approssimata",
       "Latitude": "45.618944",
-      "Longitude": "9.203303"
+      "Longitude": "9.203303",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLE ELEMENTARI",
       "Value": " VIA  AGNESI  10",
-      "Note": "Posizione approssimata",
       "Latitude": "45.612646",
-      "Longitude": "9.199092"
+      "Longitude": "9.199092",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLE ELEMENTARI ",
       "Value": " VIA DOLOMITI  50",
-      "Note": "Posizione approssimata",
       "Latitude": "45.621031",
-      "Longitude": "9.186354"
+      "Longitude": "9.186354",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "PARROCCHIA / ORATORIO SS.PIETRO E PAOLO ",
       "Value": " VIA  SANTA CATERINA 9",
-      "Note": "Posizione approssimata",
       "Latitude": "45.626235",
-      "Longitude": "9.203488"
+      "Longitude": "9.203488",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLE ELEMENTARI S.PERTINI ",
       "Value": " VIA MILANO  345",
-      "Note": "Posizione approssimata",
       "Latitude": "45.627484",
-      "Longitude": "9.205470"
+      "Longitude": "9.205470",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SOCIETA' BOCCIOFILA AURORA ",
       "Value": " VIA GARIBALDI  257",
-      "Note": "Posizione approssimata",
       "Latitude": "45.612075",
-      "Longitude": "9.205036"
+      "Longitude": "9.205036",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "PARROCCHIA S. GIORGIO ",
       "Value": " VIA S. APOLLINARE  4",
-      "Note": "Posizione approssimata",
       "Latitude": "45.620644",
-      "Longitude": "9.231016"
+      "Longitude": "9.231016",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLA MEDIA \"L.PIROTTA\"",
       "Value": " VIA STADIO 13",
-      "Note": "Posizione approssimata",
       "Latitude": "45.614080",
-      "Longitude": "9.199060"
+      "Longitude": "9.199060",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLE ELEMENTARI ",
       "Value": " VIA  TOLSTOJ 1",
-      "Note": "Posizione approssimata",
       "Latitude": "45.627866",
-      "Longitude": "9.203195"
+      "Longitude": "9.203195",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "PARROCCHIA / ORATORIO S.PIO X",
       "Value": " VIA GARIBALDI  288",
-      "Note": "Posizione approssimata",
       "Latitude": "45.607928",
-      "Longitude": "9.203218"
+      "Longitude": "9.203218",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "INTERNO PALADESIO ",
       "Value": " LARGO  ATLETI AZZURRI D'ITALIA  ",
-      "Note": "Posizione approssimata",
       "Latitude": "45.613304",
-      "Longitude": "9.193077"
+      "Longitude": "9.193077",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "INTERNO BOCCIOFILA PARCO DI DESIO",
       "Value": " VIALE  CAVALIERI DI VITTORIO VENETO  ",
-      "Note": "Posizione approssimata",
       "Latitude": "45.616830",
-      "Longitude": "9.216500"
+      "Longitude": "9.216500",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "CENTRO RICREATIVO \" IL GIRASOLE\"",
       "Value": " VIA  S.PIETRO 14",
-      "Note": "Posizione approssimata",
       "Latitude": "45.618636",
-      "Longitude": "9.210455"
+      "Longitude": "9.210455",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLE ELEMENTARI ",
       "Value": " VIA  JACOPO DAL VERME  ",
-      "Note": "Posizione approssimata",
       "Latitude": "45.614076",
-      "Longitude": "9.210180"
+      "Longitude": "9.210180",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "ORATORIO B.V.I. ",
       "Value": " VIA GRANDI  31",
-      "Note": "Posizione approssimata",
       "Latitude": "45.615004",
-      "Longitude": "9.208094"
+      "Longitude": "9.208094",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SOCIETAâ€™ DI SCHERMA ",
       "Value": " VIA SANTA CATERINA 13",
-      "Note": "Posizione approssimata",
       "Latitude": "45.626687",
-      "Longitude": "9.205079"
+      "Longitude": "9.205079",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "PIAZZA CONCILIAZIONE",
       "Value": " PIAZZA CONCILIAZIONE ",
-      "Note": "Posizione verificata",
       "Latitude": "45.617391",
-      "Longitude": "9.207367"
+      "Longitude": "9.207367",
+      "Note": "Posizione verificata"
     },
     {
       "Title": "CENTRO SPORTIVO COMUNALE ",
       "Value": " VIA AGNESI    ",
-      "Note": "Posizione approssimata",
       "Latitude": "45.611574",
-      "Longitude": "9.193684"
+      "Longitude": "9.193684",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "INTERNO PARCO COMUNALE ",
       "Value": " PIAZZALE PARCO  ",
-      "Note": "Posizione Verificata",
       "Latitude": "45.614392",
-      "Longitude": "9.216209"
+      "Longitude": "9.216209",
+      "Note": "Posizione Verificata"
     },
     {
       "Title": "PARROCCHIA / ORATORIO S.GIOVANNI BATTISTA ",
       "Value": " VIA DI VITTORIO  18",
-      "Note": "Posizione approssimata",
       "Latitude": "45.618451",
-      "Longitude": "9.193961"
+      "Longitude": "9.193961",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "ATRIO URP PALAZZO COMUNALE ",
       "Value": " PIAZZA GIOVANNI PAOLO II ",
-      "Note": "Posizione approssimata",
       "Latitude": "45.620388",
-      "Longitude": "9.208536"
+      "Longitude": "9.208536",
+      "Note": "Posizione approssimata"
     },
     {
       "Title": "SCUOLA MEDIA \"G.RODARI\"",
       "Value": " PIAZZA NENNI 1",
-      "Note": "Posizione approssimata",
       "Latitude": "45.611910",
-      "Longitude": "9.207170"
+      "Longitude": "9.207170",
+      "Note": "Posizione approssimata"
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

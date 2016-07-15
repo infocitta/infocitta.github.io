@@ -3,6 +3,8 @@
   "ID": "792dd38d-545a-4e73-b004-98d791ffe0a7",
   "Name": "ASILO NIDO COMUNALE-SEREGNO",
   "Alias": "asilo_nido_comunale-seregno",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MARZABOTTO 13 SEREGNO",
-      "Note": "",
       "Latitude": "45.647127",
-      "Longitude": "9.195577"
+      "Longitude": "9.195577",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

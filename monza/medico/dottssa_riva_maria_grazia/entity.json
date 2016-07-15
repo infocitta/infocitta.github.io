@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "f9da966c-e4a2-4608-8a00-5d29fe906db0",
+  "Name": "Dott.ssa RIVA MARIA GRAZIA",
+  "Alias": "dottssa_riva_maria_grazia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Bergamo, 18 MONZA",
+      "Latitude": "45.583526",
+      "Longitude": "9.284720",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento:",
+      "Value": "337 350817",
+      "Note": "8,30 - 10,30 dello stesso giorno in cui si vuole  accedere all'ambulatorio  il martedì, il giovedì e il venerdì",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì ",
+      "Value": "337 350817",
+      "Note": "10,00 - 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 737304",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

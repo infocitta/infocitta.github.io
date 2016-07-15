@@ -3,6 +3,8 @@
   "ID": "628d19bd-4d99-4bae-b6a1-e766af4c67d6",
   "Name": "Officina del Caffè",
   "Alias": "officina_del_caffè",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Garibaldi 99 Desio",
-      "Note": "",
       "Latitude": "45.614697",
-      "Longitude": "9.205971"
+      "Longitude": "9.205971",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

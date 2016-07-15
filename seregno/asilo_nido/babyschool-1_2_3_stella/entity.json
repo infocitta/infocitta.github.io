@@ -3,6 +3,8 @@
   "ID": "1a30306c-d13f-48ec-9508-5dbbca4180ce",
   "Name": "BABYSCHOOL-1 2 3 STELLA",
   "Alias": "babyschool-1_2_3_stella",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SANZIO 29 SEREGNO",
-      "Note": "",
       "Latitude": "45.648052",
-      "Longitude": "9.208551"
+      "Longitude": "9.208551",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

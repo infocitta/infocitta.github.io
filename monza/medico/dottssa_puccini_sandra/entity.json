@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "a1f31f68-7241-4396-87ed-a82c6c9d895c",
+  "Name": "Dott.ssa PUCCINI SANDRA",
+  "Alias": "dottssa_puccini_sandra",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Cavallotti, 19 MONZA",
+      "Latitude": "45.581325",
+      "Longitude": "9.267737",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "02 66016286",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "335 5288215",
+      "Note": "lun - merc 10,00 - 12,00 mart - giov - ven 16,00 - 18,00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

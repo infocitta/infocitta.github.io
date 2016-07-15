@@ -3,6 +3,8 @@
   "ID": "e5f6cb95-df3c-44c8-aad8-f6db25f5d070",
   "Name": "Crema & Cioccolato ",
   "Alias": "crema_&_cioccolato_",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,25 @@
     {
       "Title": "Indirizzo",
       "Value": "Piazza Don Giussani, 13, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.620856",
-      "Longitude": "9.210470"
+      "Longitude": "9.210470",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [
+    {
+      "Title": "Note per vegani",
+      "Value": "Disponibile cappuccio vegetale e brioches vegana"
+    }
+  ],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

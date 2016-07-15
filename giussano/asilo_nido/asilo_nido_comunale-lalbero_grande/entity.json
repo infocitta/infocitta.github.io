@@ -3,6 +3,8 @@
   "ID": "7c6e77f4-60a1-4b83-af71-4d00b1caa269",
   "Name": "ASILO NIDO COMUNALE-L'ALBERO GRANDE",
   "Alias": "asilo_nido_comunale-lalbero_grande",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MILANO 90 GIUSSANO",
-      "Note": "",
       "Latitude": "45.688514",
-      "Longitude": "9.204739"
+      "Longitude": "9.204739",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

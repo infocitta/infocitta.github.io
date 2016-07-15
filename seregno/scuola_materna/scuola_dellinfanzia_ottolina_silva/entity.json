@@ -3,6 +3,8 @@
   "ID": "32e192a0-edfd-47b6-9d97-eda30571967f",
   "Name": "Scuola Dell'infanzia Ottolina Silva",
   "Alias": "scuola_dellinfanzia_ottolina_silva",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTELLO 276 SEREGNO",
-      "Note": "",
       "Latitude": "45.649965",
-      "Longitude": "9.216705"
+      "Longitude": "9.216705",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

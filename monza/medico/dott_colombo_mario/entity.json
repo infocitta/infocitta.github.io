@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "be4c76ab-760e-45a6-8b17-b0131671bdca",
+  "Name": "Dott. COLOMBO MARIO",
+  "Alias": "dott_colombo_mario",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Filiberto, 3 MONZA",
+      "Latitude": "45.580138",
+      "Longitude": "9.251982",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "335 8358910",
+      "Note": "10,00 - 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "335 8358910",
+      "Note": "8,00 - 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "335 8358910",
+      "Note": "8,00 - 8,30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

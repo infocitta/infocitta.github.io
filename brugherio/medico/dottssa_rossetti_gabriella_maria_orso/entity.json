@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "58c4c35a-f970-485d-a67a-690bd089f068",
+  "Name": "Dott.ssa Rossetti Gabriella Maria Orso",
+  "Alias": "dottssa_rossetti_gabriella_maria_orso",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Volturno, 80, 20861 Brugherio MB",
+      "Latitude": "45.542949",
+      "Longitude": "9.297780",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "-",
+      "Note": "-  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "-",
+      "Note": "-",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

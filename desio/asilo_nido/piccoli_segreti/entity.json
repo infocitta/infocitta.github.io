@@ -3,6 +3,8 @@
   "ID": "f09554bd-723f-429d-93ab-49baae348c92",
   "Name": "PICCOLI SEGRETI",
   "Alias": "piccoli_segreti",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA CADORE 10 DESIO",
-      "Note": "",
       "Latitude": "45.608893",
-      "Longitude": "9.202987"
+      "Longitude": "9.202987",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "48a8466b-4e1d-4d55-b331-076e8f1d1954",
   "Name": "GELATERIA IL PISTACCHIO",
   "Alias": "gelateria_il_pistacchio",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Corso Italia, 14, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.617916",
-      "Longitude": "9.207524"
+      "Longitude": "9.207524",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

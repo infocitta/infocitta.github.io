@@ -3,6 +3,8 @@
   "ID": "210d7db6-ccde-4b5f-8728-95f4e5c3a47c",
   "Name": "PICCOLI PASSI",
   "Alias": "piccoli_passi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TOGLIATTI P.  6 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.585487",
-      "Longitude": "9.196788"
+      "Longitude": "9.196788",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "ecf827eb-520a-4690-8c49-6e2a24a7ee70",
   "Name": "Scuola Dell'infanzia Paritaria S.Giuseppe",
   "Alias": "scuola_dellinfanzia_paritaria_sgiuseppe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DUCA D'AOSTA 8 MONZA",
-      "Note": "",
       "Latitude": "45.579736",
-      "Longitude": "9.252233"
+      "Longitude": "9.252233",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "326e4fdf-b274-4c67-9341-3ee5d83cc432",
   "Name": "Infanzia - Bruno Munari",
   "Alias": "infanzia_-_bruno_munari",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ENNA LIMBIATE",
-      "Note": "",
       "Latitude": "45.619356",
-      "Longitude": "9.119027"
+      "Longitude": "9.119027",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

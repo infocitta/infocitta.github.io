@@ -3,6 +3,8 @@
   "ID": "3c6bf16d-6d6a-476a-9837-b6621fe2c8d3",
   "Name": "CLUB DEGLI ALVEARI",
   "Alias": "club_degli_alveari",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA RANDACCIO G.  11 MONZA",
-      "Note": "",
       "Latitude": "45.587297",
-      "Longitude": "9.283929"
+      "Longitude": "9.283929",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "b2a4d6cc-7bd4-49f6-988d-5a8ca5539f5d",
   "Name": "LILO NIDO",
   "Alias": "lilo_nido",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BORGAZZI GEROLAMO  143 MONZA",
-      "Note": "",
       "Latitude": "45.561970",
-      "Longitude": "9.257462"
+      "Longitude": "9.257462",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

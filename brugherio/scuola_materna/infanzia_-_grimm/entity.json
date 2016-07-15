@@ -3,6 +3,8 @@
   "ID": "0f6c5bf3-1214-4189-b037-f24d915f4a37",
   "Name": "Infanzia - Grimm",
   "Alias": "infanzia_-_grimm",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MONTELLO BRUGHERIO",
-      "Note": "",
       "Latitude": "45.566421",
-      "Longitude": "9.307214"
+      "Longitude": "9.307214",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

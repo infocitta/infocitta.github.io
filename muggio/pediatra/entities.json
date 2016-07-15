@@ -1,0 +1,487 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "11f09bce-581b-4060-996b-3dc0677f5db7",
+    "Name": "Dott.ssa Melzi Paola",
+    "Alias": "dottssa_melzi_paola",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Muggio'",
+        "Alias": "muggio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Giuseppe Mazzini, 5 20835 Muggiò MB",
+        "Latitude": "45.593250",
+        "Longitude": "9.233553",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "329.8223238",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "329.8223238",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "17:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "addda1a3-713c-439e-b234-bb07c247ada6",
+    "Name": "Dott.ssa Pirola Ambrogina",
+    "Alias": "dottssa_pirola_ambrogina",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Muggio'",
+        "Alias": "muggio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Dante c/o Distretto   20835 MUGGIO'",
+        "Latitude": "45.591052",
+        "Longitude": "9.226417",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "039/2780332",
+        "Note": "da lun a ven durante l'orario d'ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039/2780332",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "b24f4e8a-e059-4d2b-8ff7-6b1f85331fcf",
+    "Name": "Dott.ssa Picco Patrizia",
+    "Alias": "dottssa_picco_patrizia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Muggio'",
+        "Alias": "muggio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Dante c/o Distretto   20835 MUGGIO'",
+        "Latitude": "45.591052",
+        "Longitude": "9.226417",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039/2782225",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "039/2782225",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "fe02ae3a-10f6-451d-aa80-bd8e889a57d3",
+    "Name": "Dott Ragazzon Ferdinando",
+    "Alias": "dott_ragazzon_ferdinando",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Muggio'",
+        "Alias": "muggio"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Dante c/o Distretto   20835 MUGGIO'",
+        "Latitude": "45.591052",
+        "Longitude": "9.226417",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "039/2780403",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "039/2780403",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "18:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "13:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              },
+              {
+                "StartTime": "18:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

@@ -3,6 +3,8 @@
   "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1",
   "Name": "Desìo",
   "Alias": "desìo",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -23,10 +25,25 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Lombardia, 6, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.619940",
-      "Longitude": "9.210502"
+      "Longitude": "9.210502",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [
+    {
+      "Title": "Note per vegani",
+      "Value": "Disponibile cappuccio vegetale"
+    }
+  ],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

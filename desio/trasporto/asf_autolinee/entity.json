@@ -3,6 +3,8 @@
   "ID": "7ab91894-a76f-48ae-878f-da438c02cab7",
   "Name": "ASF Autolinee",
   "Alias": "asf_autolinee",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -23,5 +25,15 @@
       "Note": "Cantù  Vighizzolo  Monza",
       "Type": 2
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "e592333c-0521-45f1-8414-d13a29a76446",
+  "Name": "Dott. MIGLIAVACCA PAOLO",
+  "Alias": "dott_migliavacca_paolo",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Paganini, 9/a MONZA",
+      "Latitude": "45.598210",
+      "Longitude": "9.256881",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 325368",
+      "Note": "lun-ven 7,30-8,30 lun-mart-giov 15,30-17,00 merc 10,00-11,30 ven 12,00-13,30",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 325368",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "039 325368",
+      "Note": "8,30 - 9,30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

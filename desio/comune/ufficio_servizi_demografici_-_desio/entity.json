@@ -3,6 +3,8 @@
   "ID": "fcfff603-cd54-4360-8311-9ee055063d76",
   "Name": "Ufficio Servizi Demografici - Desio",
   "Alias": "ufficio_servizi_demografici_-_desio",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -59,5 +61,93 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario Ufficio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "15:30",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "15:30",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "11:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

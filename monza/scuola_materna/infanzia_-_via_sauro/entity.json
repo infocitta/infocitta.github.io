@@ -3,6 +3,8 @@
   "ID": "c74dfef4-c8b8-45d3-9b0b-d8adbac4a97f",
   "Name": "Infanzia - via Sauro",
   "Alias": "infanzia_-_via_sauro",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA S. ALESSANDRO MONZA",
-      "Note": "",
       "Latitude": "45.556567",
-      "Longitude": "9.261149"
+      "Longitude": "9.261149",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

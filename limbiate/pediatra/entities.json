@@ -1,0 +1,483 @@
+﻿[
+  {
+    "Version": 1,
+    "ID": "0a7f92c4-c07b-4756-8e2f-4241170c0c35",
+    "Name": "Dott.ssa Ferretti Lorena Maria",
+    "Alias": "dottssa_ferretti_lorena_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Grandi,8  20812 LIMBIATE",
+        "Latitude": "45.590862",
+        "Longitude": "9.143244",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "02/4222360",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "02/4222360",
+        "Note": "da lun a ven dalle 08.00 alle 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:15",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:15",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:15",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:15",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "2bcb51cd-8ce1-4263-bef5-38666a64e09d",
+    "Name": "Dott Ferrentino Raffaele",
+    "Alias": "dott_ferrentino_raffaele",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Trento, 4  20812 LIMBIATE",
+        "Latitude": "45.597983",
+        "Longitude": "9.120706",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "039.366973",
+        "Note": "da lun a ven dalle 08.30 alle 09.30 o di persona il giorno precedente",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "329.068363802.99052999",
+        "Note": "da lunedì a venerdì dalle 11.30 alle 12.30Negli orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "7f628b33-9034-453e-95c6-a873292d6186",
+    "Name": "Dott.ssa  Mazzei Anna Maria",
+    "Alias": "dottssa__mazzei_anna_maria",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Toscana, 2   20812 LIMBIATE",
+        "Latitude": "45.594952",
+        "Longitude": "9.144540",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "02/99501946",
+        "Note": "da lun a ven dalle 08.45 alle 12.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "a2601b4c-f3a5-44d5-a1bd-4196f74c43e5",
+    "Name": "Dott.ssa Bosco Monica",
+    "Alias": "dottssa_bosco_monica",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Toscana, 2  20812 LIMBIATE",
+        "Latitude": "45.594952",
+        "Longitude": "9.144540",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "02/99500033",
+        "Note": "da lun a ven dalle 08.45 alle 12.00 ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c8231d4b-98cc-496e-ac44-b261c96dc2ef",
+    "Name": "Dott.ssa TRISCARI  BINONI EMANUELA",
+    "Alias": "dottssa_triscari__binoni_emanuela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Limbiate",
+        "Alias": "limbiate"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Achille Grandi, 820812 Limbiate MB",
+        "Latitude": "45.591348",
+        "Longitude": "9.143437",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "339/4221357",
+        "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00 ",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "339/4221357",
+        "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  }
+]

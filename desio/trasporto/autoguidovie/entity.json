@@ -3,6 +3,8 @@
   "ID": "e82d0e09-0e55-4a7e-8f90-dd46cc94012b",
   "Name": "Autoguidovie",
   "Alias": "autoguidovie",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -113,5 +115,15 @@
       "Note": "Desio (FS)-Cesano M. (FNM)-Limbiate",
       "Type": 2
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263",
   "Name": "Piattaforma Ecologica",
   "Alias": "piattaforma_ecologica",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Piattaforma",
       "Value": "Via Luigi Einaudi, 3, 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.604419",
-      "Longitude": "9.213966"
+      "Longitude": "9.213966",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,98 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Apertura",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": "UTENZE DOMESTICHE"
+            },
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": "UTENZE DOMESTICHE"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": "UTENZE COMMERCIALI"
+            },
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": "UTENZE COMMERCIALI"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": "UTENZE DOMESTICHE"
+            },
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": "UTENZE DOMESTICHE"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": "UTENZE COMMERCIALI"
+            },
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": "UTENZE COMMERCIALI"
+            }
+          ]
+        },
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:30",
+              "Note": "UTENZE DOMESTICHE"
+            },
+            {
+              "StartTime": "08:30",
+              "EndTime": "12:30",
+              "Note": "UTENZE DOMESTICHE"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

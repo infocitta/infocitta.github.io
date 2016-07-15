@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "98a467f1-106e-4dda-806c-320adccfd07c",
+  "Name": "Dott. CASIRAGHI EZIO",
+  "Alias": "dott_casiraghi_ezio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Buccari, 2 MONZA",
+      "Latitude": "45.580962",
+      "Longitude": "9.282380",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "039 2021122",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2021122",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 2021122",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

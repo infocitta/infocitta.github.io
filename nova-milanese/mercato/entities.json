@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA FIUME-PISACANE NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.591981",
-        "Longitude": "9.197770"
+        "Longitude": "9.197770",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "ZONA INCIRANO NOVA MILANESE",
-        "Note": "",
         "Latitude": "45.582597",
-        "Longitude": "9.190877"
+        "Longitude": "9.190877",
+        "Note": ""
       }
     ],
     "Contacts": []

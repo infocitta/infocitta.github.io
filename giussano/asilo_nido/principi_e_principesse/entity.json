@@ -3,6 +3,8 @@
   "ID": "320ae5c1-82ec-45d1-982e-328cdf56605b",
   "Name": "PRINCIPI E PRINCIPESSE",
   "Alias": "principi_e_principesse",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GARIBALDI G.  151/A GIUSSANO",
-      "Note": "",
       "Latitude": "45.705076",
-      "Longitude": "9.200114"
+      "Longitude": "9.200114",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

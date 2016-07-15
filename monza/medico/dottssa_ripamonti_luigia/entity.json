@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "c5b22d00-4d7e-4c78-9236-ef3a49743fab",
+  "Name": "Dott.ssa RIPAMONTI LUIGIA",
+  "Alias": "dottssa_ripamonti_luigia",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - VIA SAN ROCCO 100/D ",
+      "Latitude": "45.556762",
+      "Longitude": "9.260630",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "039 2003728",
+      "Note": "lunedì mercoledì giovedì venerdì dalle ore 15,00 alle ore 17,00 martedì dalle ore 10,00 alle ore 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039 2003728",
+      "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "340 2311109",
+      "Note": "dal lunedì al venerdì dalle ore 8,00 alle ore 10,00 ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

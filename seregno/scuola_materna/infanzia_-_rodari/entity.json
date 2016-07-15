@@ -3,6 +3,8 @@
   "ID": "fdab0a06-7209-46b3-be91-7b2a9e7788b2",
   "Name": "Infanzia - Rodari",
   "Alias": "infanzia_-_rodari",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PACINI 71 SEREGNO",
-      "Note": "",
       "Latitude": "45.638153",
-      "Longitude": "9.196625"
+      "Longitude": "9.196625",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

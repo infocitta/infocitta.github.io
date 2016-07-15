@@ -3,6 +3,8 @@
   "ID": "9424d6c8-a694-413c-8bc4-aa792d3073b5",
   "Name": "ASILO NIDO PICCOLO PRINCIPE",
   "Alias": "asilo_nido_piccolo_principe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SANTA CATERINA DA SIENA 16 LISSONE",
-      "Note": "",
       "Latitude": "45.616572",
-      "Longitude": "9.240233"
+      "Longitude": "9.240233",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

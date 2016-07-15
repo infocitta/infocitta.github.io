@@ -3,6 +3,8 @@
   "ID": "c08c3141-154b-4034-aeba-74f7721dca97",
   "Name": "IL MONDO DEI BIMBI   2",
   "Alias": "il_mondo_dei_bimbi___2",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN MARTINO  4 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.598519",
-      "Longitude": "9.199022"
+      "Longitude": "9.199022",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

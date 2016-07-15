@@ -3,6 +3,8 @@
   "ID": "cb10965a-0627-4954-bf68-d19fc542edf0",
   "Name": "Scuola Materna San Teresa",
   "Alias": "scuola_materna_san_teresa",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN PIETRO 16 DESIO",
-      "Note": "",
       "Latitude": "45.618542",
-      "Longitude": "9.210565"
+      "Longitude": "9.210565",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "3e2031cc-b589-4dbb-951b-3ae4d42c7a0c",
   "Name": "Dott.ssa Villa Mariateresa Odette",
   "Alias": "dottssa_villa_mariateresa_odette",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Ambulatorio (dal 22/06/2015)",
       "Value": "Via Antonio Cederna, 53, 20900 Monza MB",
-      "Note": "",
       "Latitude": "45.580414",
-      "Longitude": "9.297126"
+      "Longitude": "9.297126",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,73 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario Ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "10:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "14:30",
+              "EndTime": "17:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "cfd64544-04b1-4725-ab1a-694267b5ea77",
   "Name": "IL PAESE DEI BALOCCHI",
   "Alias": "il_paese_dei_balocchi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA RESEGONE 52 SEREGNO",
-      "Note": "",
       "Latitude": "45.661404",
-      "Longitude": "9.209983"
+      "Longitude": "9.209983",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

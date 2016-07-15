@@ -3,6 +3,8 @@
   "ID": "d2372387-6483-4500-b29c-c7e74b239db4",
   "Name": "Scuola Materna Santino Denova",
   "Alias": "scuola_materna_santino_denova",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SANTINO DENOVA 38 SEREGNO",
-      "Note": "",
       "Latitude": "45.650724",
-      "Longitude": "9.206388"
+      "Longitude": "9.206388",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

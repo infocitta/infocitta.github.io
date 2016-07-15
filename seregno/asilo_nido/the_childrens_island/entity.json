@@ -3,6 +3,8 @@
   "ID": "40ca6e4f-2822-493a-befb-de269281a730",
   "Name": "THE CHILDREN'S ISLAND",
   "Alias": "the_childrens_island",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN ROCCO 81 SEREGNO",
-      "Note": "",
       "Latitude": "45.655920",
-      "Longitude": "9.209459"
+      "Longitude": "9.209459",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

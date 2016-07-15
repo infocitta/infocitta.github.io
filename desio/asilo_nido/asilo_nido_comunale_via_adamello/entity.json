@@ -3,6 +3,8 @@
   "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a",
   "Name": "ASILO NIDO COMUNALE VIA ADAMELLO",
   "Alias": "asilo_nido_comunale_via_adamello",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ADAMELLO DESIO",
-      "Note": "",
       "Latitude": "45.609328",
-      "Longitude": "9.203835"
+      "Longitude": "9.203835",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

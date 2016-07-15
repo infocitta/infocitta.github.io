@@ -3,6 +3,8 @@
   "ID": "0799594b-b621-413b-a0e3-4e94d37f9d7c",
   "Name": "L'ARCA DI NOE'",
   "Alias": "larca_di_noe",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA VILLORESI E.  32 NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.586988",
-      "Longitude": "9.201056"
+      "Longitude": "9.201056",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

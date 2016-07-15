@@ -3,6 +3,8 @@
   "ID": "3bae0ab7-f2bf-40fa-9b01-5bfa960065dc",
   "Name": "GIUSSANO - PIAZZALE CATTANEO",
   "Alias": "giussano_-_piazzale_cattaneo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZALE CATTANEO GIUSSANO",
-      "Note": "",
       "Latitude": "45.707163",
-      "Longitude": "9.200851"
+      "Longitude": "9.200851",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "05:30",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

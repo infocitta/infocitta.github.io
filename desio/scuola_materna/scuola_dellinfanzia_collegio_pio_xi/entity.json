@@ -3,6 +3,8 @@
   "ID": "e5d5e51f-63cc-4fa1-9908-3bb56d76cf21",
   "Name": "Scuola Dell'infanzia Collegio Pio Xi",
   "Alias": "scuola_dellinfanzia_collegio_pio_xi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DUE PALME 2 DESIO",
-      "Note": "",
       "Latitude": "45.630488",
-      "Longitude": "9.211760"
+      "Longitude": "9.211760",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

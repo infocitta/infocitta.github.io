@@ -3,6 +3,8 @@
   "ID": "f480fef7-6a93-4518-a9dd-0eaa4d40f46e",
   "Name": "Trenord",
   "Alias": "trenord",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -23,5 +25,15 @@
       "Note": "Milano- Chiasso     Saronno- Albairate",
       "Type": 2
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

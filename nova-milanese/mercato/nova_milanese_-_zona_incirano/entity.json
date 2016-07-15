@@ -3,6 +3,8 @@
   "ID": "13e60186-d66c-431e-96cb-3bdab07c80e5",
   "Name": "NOVA MILANESE - ZONA INCIRANO",
   "Alias": "nova_milanese_-_zona_incirano",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "ZONA INCIRANO NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.582597",
-      "Longitude": "9.190877"
+      "Longitude": "9.190877",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "07:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

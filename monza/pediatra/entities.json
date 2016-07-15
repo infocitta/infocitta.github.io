@@ -20,9 +20,9 @@
       {
         "Title": "Ambulatorio (dal 22/06/2015)",
         "Value": "Via Antonio Cederna, 53, 20900 Monza MB",
-        "Note": "",
         "Latitude": "45.580414",
-        "Longitude": "9.297126"
+        "Longitude": "9.297126",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -33,5 +33,1054 @@
         "Type": 0
       }
     ]
+  },
+  {
+    "Version": 1,
+    "ID": "0d9f4113-2381-4031-880b-3a75af63b44f",
+    "Name": "Dott.ssa GALLO FLORIANA",
+    "Alias": "dottssa_gallo_floriana",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via E. Segrè 3 MONZA",
+        "Latitude": "45.577144",
+        "Longitude": "9.252864",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 737622",
+        "Note": "in orari di ambulatorio",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "192a5542-2ef9-4b8d-b670-3e7749b0ca1e",
+    "Name": "Dott.ssa Anna Arosio",
+    "Alias": "dottssa_anna_arosio",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Ferraris, 10  20900 MONZA ",
+        "Latitude": "45.575108",
+        "Longitude": "9.267416",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "334 1130574",
+        "Note": "da lun a ven  dalle ore 8,30 alle ore 10,00 ",
+        "Type": 0
+      },
+      {
+        "Title": "per visita domiciliare : ",
+        "Value": "334 1130574",
+        "Note": "da lun a ven dalle ore 8,30 alle ore 10,00 ( la richiesta di visita domiciliare viene valutata dal Pediatra sulla base delle condizioni cliniche e della trasferibilitò del bambino)",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "15:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "59867e98-4392-45f3-ba0e-c4252569321b",
+    "Name": "Dott. DEL BONO GIAN PIERO",
+    "Alias": "dott_del_bono_gian_piero",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Zucchi 40 MONZA",
+        "Latitude": "45.586363",
+        "Longitude": "9.270777",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domiciio: ",
+        "Value": "333 3113949",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "333 3113949",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "333 3113949 ",
+        "Note": "dal lunedì al venerd' dalle ore 8,00 alle ore 9,30 e dalle 9,30 alle 19,00 solo per urgenze lasciando un messaggio in segreteria",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "86093dc0-250e-4f97-b9e5-749bdd4ae83f",
+    "Name": "Dott.ssa ISOARDI PATRIZIA",
+    "Alias": "dottssa_isoardi_patrizia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Monte Santo, 40 MONZA",
+        "Latitude": "45.562084",
+        "Longitude": "9.269835",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "393 6545123",
+        "Note": "8,30 - 10,00",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "393 6545123",
+        "Note": "8,30 - 10,00",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "895a982a-97dc-41ce-85d7-e570f4910d3e",
+    "Name": "Dott.ssa CASTAGNETO MANUELA",
+    "Alias": "dottssa_castagneto_manuela",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Monte Cervino, 16 MONZA",
+        "Latitude": "45.580540",
+        "Longitude": "9.255752",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domiciio: dal lunedì al venerdì",
+        "Value": "039 737442",
+        "Note": "8.30 - 9.45",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "039 737442",
+        "Note": "8.30 - 9.45",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 737442",
+        "Note": "8,30 - 9,45",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "15:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "10:30",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "8b2c4b44-1759-4796-b2a4-c82b53d4903f",
+    "Name": "Dott.ssa Nespoli Flavia",
+    "Alias": "dottssa_nespoli_flavia",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Leoncavallo 60 - MONZA   ",
+        "Latitude": "45.597292",
+        "Longitude": "9.251290",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per visite a domicilio:",
+        "Value": "340 8620503",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli:",
+        "Value": "340  8620503",
+        "Note": "",
+        "Type": 0
+      },
+      {
+        "Title": "Per appuntamento",
+        "Value": "340  8620503",
+        "Note": "da lunedì a venerdì: 8.30 - 9.30 e dalle 9,30 alle 19,00 solo per le urgenze",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "18:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "ac26e7d8-1def-420b-b15c-30a2b2628268",
+    "Name": "Dott.ssa BOVOLATO PAOLA",
+    "Alias": "dottssa_bovolato_paola",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Marsala, 17 MONZA",
+        "Latitude": "45.576262",
+        "Longitude": "9.265933",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per consigli: dal lunedì al venerdì",
+        "Value": "340 8559644",
+        "Note": "in orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "340 8559644",
+        "Note": "in orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "per visite a domiciio: dal lunedì al venerdì",
+        "Value": "340 8559644",
+        "Note": "in orario di ambulatorio ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "16:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "09:00",
+                "EndTime": "12:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "acdcf9a8-5a2f-49f3-b821-f2e9e77937a0",
+    "Name": "Dott. Giuseppe Lietti",
+    "Alias": "dott_giuseppe_lietti",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via M. d'Azeglio, 11 MONZA",
+        "Latitude": "45.587904",
+        "Longitude": "9.277120",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "Per appuntamento",
+        "Value": "338 5784277",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      },
+      {
+        "Title": "per consigli, informazioni e richieste:",
+        "Value": "338 5784277",
+        "Note": "da lun a ven durante l'orario di ambulatorio ",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "10:15",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "10:15",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "15:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "16:00",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "c494c59b-4c22-4ced-bd2a-35c610496c62",
+    "Name": "Dott.ssa FUGA TIZIANA",
+    "Alias": "dottssa_fuga_tiziana",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Ferraris, 10 Monza",
+        "Latitude": "45.575108",
+        "Longitude": "9.267416",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "346 7549422",
+        "Note": "8,00 - 9,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
+  },
+  {
+    "Version": 1,
+    "ID": "e22cc918-64cb-4015-9f35-49709a3c631c",
+    "Name": "Dott.ssa SALA ELISABETTA",
+    "Alias": "dottssa_sala_elisabetta",
+    "Note": "",
+    "Image": "",
+    "Level1": [
+      {
+        "Value": "Monza",
+        "Alias": "monza"
+      }
+    ],
+    "Level2": [
+      {
+        "Value": "Pediatra",
+        "Alias": "pediatra"
+      }
+    ],
+    "Adresses": [
+      {
+        "Title": "Studio",
+        "Value": "Via Oslavia, 25 MONZA",
+        "Latitude": "45.584551",
+        "Longitude": "9.262435",
+        "Note": ""
+      }
+    ],
+    "Contacts": [
+      {
+        "Title": "per appuntamento: dal lunedì al venerdì",
+        "Value": "039 383907",
+        "Note": "7,30 - 10,30",
+        "Type": 0
+      }
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario ambulatorio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "19:00",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "11:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "09:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

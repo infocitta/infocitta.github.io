@@ -3,6 +3,8 @@
   "ID": "bc2e2269-687e-467c-9e5e-db166ea80ccc",
   "Name": "MUGGIO' - VIA LEONCAVALLO",
   "Alias": "muggio_-_via_leoncavallo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Muggio'",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA LEONCAVALLO MUGGIO'",
-      "Note": "",
       "Latitude": "45.581370",
-      "Longitude": "9.224081"
+      "Longitude": "9.224081",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "14:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

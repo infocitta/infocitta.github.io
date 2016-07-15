@@ -3,6 +3,8 @@
   "ID": "5c54ed7e-d5b9-434f-b233-bbe5b9a356b9",
   "Name": "Scuola Dell'infanzia 'Divina Provvidenza'",
   "Alias": "scuola_dellinfanzia_divina_provvidenza",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA XXIV MAGGIO 10 - Frazione Paina GIUSSANO",
-      "Note": "",
       "Latitude": "45.675894",
-      "Longitude": "9.202035"
+      "Longitude": "9.202035",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "2044391e-c7c8-4d0d-ab55-a89d9278748e",
   "Name": "BOVISIO-MASCIAGO - ANGOLO CORSO MILANO E VIA PAGANINI",
   "Alias": "bovisio-masciago_-_angolo_corso_milano_e_via_paganini",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "ANGOLO CORSO MILANO E VIA PAGANINI BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.600444",
-      "Longitude": "9.145618"
+      "Longitude": "9.145618",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:00",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "bab953b9-9d75-4d67-8e83-783ce4577af5",
   "Name": "LA CAROVANA",
   "Alias": "la_carovana",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SCHIAPPARELLI 24 SEREGNO",
-      "Note": "",
       "Latitude": "45.653597",
-      "Longitude": "9.203030"
+      "Longitude": "9.203030",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

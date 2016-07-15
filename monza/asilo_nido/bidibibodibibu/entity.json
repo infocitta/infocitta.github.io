@@ -3,6 +3,8 @@
   "ID": "b97ad016-be43-4828-9406-effd33771b32",
   "Name": "BIDIBIBODIBIBU'",
   "Alias": "bidibibodibibu",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BIANCAMANO U.  14 MONZA",
-      "Note": "",
       "Latitude": "45.581651",
-      "Longitude": "9.252414"
+      "Longitude": "9.252414",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

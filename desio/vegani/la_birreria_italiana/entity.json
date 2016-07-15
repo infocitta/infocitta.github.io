@@ -3,6 +3,8 @@
   "ID": "61e51330-da01-4899-88fc-b15a2bf4bcd7",
   "Name": "La Birreria Italiana",
   "Alias": "la_birreria_italiana",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Carlo Forlanini, 71/A, 20033 Desio MB",
-      "Note": "",
       "Latitude": "45.613104",
-      "Longitude": "9.220602"
+      "Longitude": "9.220602",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

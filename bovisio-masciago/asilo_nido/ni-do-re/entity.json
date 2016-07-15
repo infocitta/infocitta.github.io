@@ -3,6 +3,8 @@
   "ID": "a1ac968e-799a-485c-babc-46f2b08839df",
   "Name": "NI-DO-RE",
   "Alias": "ni-do-re",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Bovisio Masciago",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GIOVANNI XXIII 12 BOVISIO-MASCIAGO",
-      "Note": "",
       "Latitude": "45.608537",
-      "Longitude": "9.152863"
+      "Longitude": "9.152863",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

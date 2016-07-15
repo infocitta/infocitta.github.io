@@ -3,6 +3,8 @@
   "ID": "ce975fae-cf22-4b62-b0a1-56d08672b6f9",
   "Name": "Scuola Materna Candia",
   "Alias": "scuola_materna_candia",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA TORRICELLI 29 SEREGNO",
-      "Note": "",
       "Latitude": "45.654822",
-      "Longitude": "9.198806"
+      "Longitude": "9.198806",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "ef2be077-b3f8-46d1-859a-6b70b0db47cb",
   "Name": "Infanzia - Santa Maria",
   "Alias": "infanzia_-_santa_maria",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA S. MARIA 187 DESIO",
-      "Note": "",
       "Latitude": "45.616781",
-      "Longitude": "9.208670"
+      "Longitude": "9.208670",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

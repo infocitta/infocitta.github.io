@@ -3,6 +3,8 @@
   "ID": "088702a5-0cdd-4081-a71d-810e109e8d70",
   "Name": "ASILO NIDO BIANCA GALLONE",
   "Alias": "asilo_nido_bianca_gallone",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Limbiate",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GRANDI ACHILLE  3 LIMBIATE",
-      "Note": "",
       "Latitude": "45.590737",
-      "Longitude": "9.143169"
+      "Longitude": "9.143169",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

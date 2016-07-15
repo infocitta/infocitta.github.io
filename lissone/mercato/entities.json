@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "P.ZZA DEGLI UMILIATI LISSONE",
-        "Note": "",
         "Latitude": "45.613037",
-        "Longitude": "9.242569"
+        "Longitude": "9.242569",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA PASCOLI LISSONE",
-        "Note": "",
         "Latitude": "45.602017",
-        "Longitude": "9.236467"
+        "Longitude": "9.236467",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -76,9 +76,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA CADUTI DI VIA FANI LISSONE",
-        "Note": "",
         "Latitude": "45.606157",
-        "Longitude": "9.249701"
+        "Longitude": "9.249701",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -104,9 +104,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA DON DARIO CAMPORELLI (FRAZIONE SANTA MARGHERITA) LISSONE",
-        "Note": "",
         "Latitude": "45.634045",
-        "Longitude": "9.231659"
+        "Longitude": "9.231659",
+        "Note": ""
       }
     ],
     "Contacts": []

@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA WALTER TOBAGI LIMBIATE",
-        "Note": "",
         "Latitude": "45.642111",
-        "Longitude": "9.167184"
+        "Longitude": "9.167184",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA XI SETTEMBRE LIMBIATE",
-        "Note": "",
         "Latitude": "45.599551",
-        "Longitude": "9.124626"
+        "Longitude": "9.124626",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -76,9 +76,9 @@
       {
         "Title": "Indirizzo",
         "Value": "PIAZZA A. MORO LIMBIATE",
-        "Note": "",
         "Latitude": "45.611990",
-        "Longitude": "9.147761"
+        "Longitude": "9.147761",
+        "Note": ""
       }
     ],
     "Contacts": []

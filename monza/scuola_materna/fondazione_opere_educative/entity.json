@@ -3,6 +3,8 @@
   "ID": "f442a570-b7fe-4ad5-94d8-c2d68032de13",
   "Name": "Fondazione Opere Educative",
   "Alias": "fondazione_opere_educative",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE LOMBARDIA 180 MONZA",
-      "Note": "",
       "Latitude": "45.572814",
-      "Longitude": "9.246495"
+      "Longitude": "9.246495",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

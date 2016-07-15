@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "a21c965c-5dbc-4bae-a83e-58a024d713ab",
+  "Name": "Dott. CALIENNO SERGIO",
+  "Alias": "dott_calienno_sergio",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Modorati, 1 MONZA",
+      "Latitude": "45.592270",
+      "Longitude": "9.302055",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "335 6089705",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: mercoledì e venerdì",
+      "Value": "039 2021559",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì ",
+      "Value": "039 384476",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

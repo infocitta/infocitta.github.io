@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA G. PASCOLI 4 CARATE BRIANZA",
-        "Note": "",
         "Latitude": "45.685169",
-        "Longitude": "9.241050"
+        "Longitude": "9.241050",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -61,9 +61,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA G. PARINI 2 CARATE BRIANZA",
-        "Note": "",
         "Latitude": "45.686711",
-        "Longitude": "9.246632"
+        "Longitude": "9.246632",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -102,9 +102,9 @@
       {
         "Title": "Indirizzo",
         "Value": "VIA SANT'AMBROGIO 32 CARATE BRIANZA",
-        "Note": "",
         "Latitude": "45.675427",
-        "Longitude": "9.235422"
+        "Longitude": "9.235422",
+        "Note": ""
       }
     ],
     "Contacts": [

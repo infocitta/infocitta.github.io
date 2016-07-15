@@ -3,6 +3,8 @@
   "ID": "fe6a78ca-c86a-44b3-80c4-08f8f7733061",
   "Name": "Suore Francescane Missionarie Di Gesu' Bambino",
   "Alias": "suore_francescane_missionarie_di_gesu_bambino",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ANTONIO CEDERNA 17 MONZA",
-      "Note": "",
       "Latitude": "45.576595",
-      "Longitude": "9.297153"
+      "Longitude": "9.297153",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "7f71d01e-99f7-4bdf-b797-5572baf13f93",
   "Name": "DESIO - MERCATO \"SUD\" - VIA PRATI",
   "Alias": "desio_-_mercato_sud_-_via_prati",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "MERCATO \"SUD\" - VIA PRATI DESIO",
-      "Note": "",
       "Latitude": "",
-      "Longitude": ""
+      "Longitude": "",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

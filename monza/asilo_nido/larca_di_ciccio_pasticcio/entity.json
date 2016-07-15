@@ -3,6 +3,8 @@
   "ID": "85474f17-e279-4fc3-9f9f-1b44d5171243",
   "Name": "L'ARCA DI CICCIO PASTICCIO",
   "Alias": "larca_di_ciccio_pasticcio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA FERRUCCI FRANCESCO  31 MONZA",
-      "Note": "",
       "Latitude": "45.572399",
-      "Longitude": "9.308712"
+      "Longitude": "9.308712",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

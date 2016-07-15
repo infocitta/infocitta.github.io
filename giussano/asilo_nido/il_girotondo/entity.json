@@ -3,6 +3,8 @@
   "ID": "f8e4373e-e753-4be5-98f4-69586f9c998c",
   "Name": "IL GIROTONDO",
   "Alias": "il_girotondo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA FILIPPO NERI 23 GIUSSANO",
-      "Note": "",
       "Latitude": "45.684223",
-      "Longitude": "9.203344"
+      "Longitude": "9.203344",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

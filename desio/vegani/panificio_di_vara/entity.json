@@ -3,6 +3,8 @@
   "ID": "29cd4196-0e50-45ce-9958-8cd7b0c64eea",
   "Name": "Panificio Di Vara",
   "Alias": "panificio_di_vara",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Giuseppe Garibaldi, 71, Desio MB",
-      "Note": "",
       "Latitude": "45.615446",
-      "Longitude": "9.206464"
+      "Longitude": "9.206464",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

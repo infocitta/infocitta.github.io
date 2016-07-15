@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "3b7e39a3-9220-4c3b-909d-20cde04e9303",
+  "Name": "Dott. RUSSO DAVIDE",
+  "Alias": "dott_russo_davide",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - Via San Rocco 32  ",
+      "Latitude": "45.560274",
+      "Longitude": "9.263360",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "039 2003751",
+      "Note": "- dal lunedì al venerdì negli orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "039 2003751",
+      "Note": "- dal lunedì al venerdì negli orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "039 2003751",
+      "Note": "- dal lunedì al venerdì dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

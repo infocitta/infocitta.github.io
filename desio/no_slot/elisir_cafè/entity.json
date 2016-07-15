@@ -3,6 +3,8 @@
   "ID": "00e7fbb0-4a43-4d7a-abec-a0fdf4f216ce",
   "Name": "Elisir Cafè",
   "Alias": "elisir_cafè",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "Via Giuseppe Garibaldi 157 Desio",
-      "Note": "",
       "Latitude": "45.612994",
-      "Longitude": "9.205452"
+      "Longitude": "9.205452",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "d8cbf3a8-8de7-4226-bb44-a24e0cd3a98e",
+  "Name": "Dott. POGGIOLI GIAMPIERO",
+  "Alias": "dott_poggioli_giampiero",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "MONZA - VIA SAN ROCCO 32",
+      "Latitude": "45.560274",
+      "Longitude": "9.263360",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "333 2096329",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2004446",
+      "Note": "dalle ore 8,00 alle ore 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "",
+      "Note": "NON si riceve SU APPUNTAMENTO",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

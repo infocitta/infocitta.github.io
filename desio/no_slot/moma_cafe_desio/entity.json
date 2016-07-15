@@ -3,6 +3,8 @@
   "ID": "b29fc521-861c-42f0-b233-fed458450991",
   "Name": "MOMA CAFE DESIO",
   "Alias": "moma_cafe_desio",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,10 +21,20 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MATTEOTTI 80  Desio",
-      "Note": "",
       "Latitude": "45.616373",
-      "Longitude": "9.200704"
+      "Longitude": "9.200704",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

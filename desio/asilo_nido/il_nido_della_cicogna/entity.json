@@ -3,6 +3,8 @@
   "ID": "1d9a1913-3421-4e6a-9c0c-37da353fc380",
   "Name": "IL NIDO DELLA CICOGNA",
   "Alias": "il_nido_della_cicogna",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA BRENNERO ANGOLO VIA TARRA DESIO",
-      "Note": "",
       "Latitude": "45.625251",
-      "Longitude": "9.207382"
+      "Longitude": "9.207382",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

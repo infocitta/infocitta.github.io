@@ -3,6 +3,8 @@
   "ID": "127f0e5b-3b37-40bc-9365-71a7fd619fd5",
   "Name": "ASILO DEI PULCINI",
   "Alias": "asilo_dei_pulcini",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MAGELLANO  40 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.540770",
-      "Longitude": "9.309267"
+      "Longitude": "9.309267",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "cb239a08-3fd1-41cb-b283-252ce2781baa",
   "Name": "Scuola Dell'infanzia Maddalena Di Canossa",
   "Alias": "scuola_dellinfanzia_maddalena_di_canossa",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE PETRARCA 4 MONZA",
-      "Note": "",
       "Latitude": "45.588514",
-      "Longitude": "9.275867"
+      "Longitude": "9.275867",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

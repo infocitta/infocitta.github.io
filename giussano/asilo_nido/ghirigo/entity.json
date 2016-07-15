@@ -3,6 +3,8 @@
   "ID": "b52263d1-ea1f-46dd-a742-35c186e07eb8",
   "Name": "GHIRIGO'",
   "Alias": "ghirigo",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA FERMI E.  5 GIUSSANO",
-      "Note": "",
       "Latitude": "45.695870",
-      "Longitude": "9.210060"
+      "Longitude": "9.210060",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

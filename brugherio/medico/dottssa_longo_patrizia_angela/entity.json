@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "fc480ef8-3024-49e7-9f68-3e9df872bbd5",
+  "Name": "Dott.ssa Longo Patrizia Angela",
+  "Alias": "dottssa_longo_patrizia_angela",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Lombardia 96  20861 BRUGHERIO ",
+      "Latitude": "45.547452",
+      "Longitude": "9.293346",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "328 1384294",
+      "Note": "dalle ore 8,00 alle ore 10,00 dal lunedì al venerdi ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "328  1384294",
+      "Note": "dalle ore 8,00 alle ore 10,00 dal lunedì al venerdì",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "328 1384294",
+      "Note": "dalle ore 8,00 alle ore 10,00 dal lunedì al venerdì ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:00",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "19:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -3,6 +3,8 @@
   "ID": "108e7926-3a11-411b-986d-cb3416d474d7",
   "Name": "BEEâ€¦HAPPY!",
   "Alias": "beeâ€¦happy!",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA EDISON T.A.  17 MONZA",
-      "Note": "",
       "Latitude": "45.573423",
-      "Longitude": "9.264518"
+      "Longitude": "9.264518",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

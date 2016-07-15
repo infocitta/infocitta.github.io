@@ -1,0 +1,132 @@
+﻿{
+  "Version": 1,
+  "ID": "86a78c05-49f9-460b-a774-c6789bedc4bf",
+  "Name": "Dott. INTERLANDI SALVATORE",
+  "Alias": "dott_interlandi_salvatore",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Cesano Maderno",
+      "Alias": "cesano-maderno"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "C.so Roma, 2/C 20811 - CESANO MADERNO",
+      "Latitude": "45.627605",
+      "Longitude": "9.144187",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "0362/520916",
+      "Note": "",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "347/9239182",
+      "Note": "da lun a ven dalle 10.00 alle 12.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domiciio:",
+      "Value": "0362/520916",
+      "Note": "da lun a ven dalle 08.00 alle 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "11:00",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "11:00",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "16:30",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "11:00",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "17:00",
+              "EndTime": "19:30",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

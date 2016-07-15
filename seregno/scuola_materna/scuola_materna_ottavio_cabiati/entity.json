@@ -3,6 +3,8 @@
   "ID": "645022a6-df90-4671-bae2-27140916a11f",
   "Name": "Scuola Materna Ottavio Cabiati",
   "Alias": "scuola_materna_ottavio_cabiati",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Seregno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA GRANDI 7 SEREGNO",
-      "Note": "",
       "Latitude": "45.643512",
-      "Longitude": "9.209008"
+      "Longitude": "9.209008",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

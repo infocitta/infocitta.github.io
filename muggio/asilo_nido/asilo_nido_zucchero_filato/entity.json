@@ -3,6 +3,8 @@
   "ID": "f658bc16-1ec6-4f98-8653-b360898aac34",
   "Name": "ASILO NIDO ZUCCHERO FILATO",
   "Alias": "asilo_nido_zucchero_filato",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Muggio'",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA MAGENTA 3 MUGGIÃ’",
-      "Note": "",
       "Latitude": "45.591082",
-      "Longitude": "9.226468"
+      "Longitude": "9.226468",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

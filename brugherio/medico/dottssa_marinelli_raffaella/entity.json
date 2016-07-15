@@ -1,0 +1,117 @@
+﻿{
+  "Version": 1,
+  "ID": "f66b14aa-e44f-423f-a2e7-5b91695fe3fe",
+  "Name": "Dott.ssa Marinelli Raffaella",
+  "Alias": "dottssa_marinelli_raffaella",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via San Bartolomeo 8  20861 BRUGHERIO ",
+      "Latitude": "45.551144",
+      "Longitude": "9.300835",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "3468478515",
+      "Note": "da lunedì a venerdì: 08.00 - 10.00  ",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "3468478515",
+      "Note": "in orario di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "3468478515",
+      "Note": "da lunedì a venerdì: 08.00 - 10.00  ",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": "/ 19:15"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": " / 19:15"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:30",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "16:00",
+              "EndTime": "19:00",
+              "Note": " / 19:15"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

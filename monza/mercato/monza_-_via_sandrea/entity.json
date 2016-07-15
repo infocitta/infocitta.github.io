@@ -3,6 +3,8 @@
   "ID": "67751986-8793-4136-960e-94b266ec1100",
   "Name": "MONZA - VIA S.ANDREA",
   "Alias": "monza_-_via_sandrea",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,10 +21,38 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA S.ANDREA MONZA",
-      "Note": "",
       "Latitude": "45.599544",
-      "Longitude": "9.265443"
+      "Longitude": "9.265443",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [
+    {
+      "Title": "Orario",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "07:30",
+              "EndTime": "13:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

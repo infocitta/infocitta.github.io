@@ -1,0 +1,122 @@
+﻿{
+  "Version": 1,
+  "ID": "d20803fa-b438-4406-a6f4-ffc16813d9eb",
+  "Name": "Dott. COGLIATI BRUNO",
+  "Alias": "dott_cogliati_bruno",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Giussano",
+      "Alias": "giussano"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "PIAZZA ROMA,30 GIUSSANO  -",
+      "Latitude": "45.699813",
+      "Longitude": "9.209324",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "Per appuntamento",
+      "Value": "345/8455690",
+      "Note": "LUN/VEN 8:30 - 11:15",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "333/8452610",
+      "Note": "LUN/VEN 8:00 - 10:00",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli:",
+      "Value": "333/8452610",
+      "Note": "LUN/VEN 8:00 - 14:00 E ORE AMBULATORIO",
+      "Type": 0
+    }
+  ],
+  "Calendar": [
+    {
+      "Title": "Orario ambulatorio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "17:30",
+              "Note": " (su appuntm:) 17:30"
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "17:30",
+              "Note": " (su appuntm:) 17:30"
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "11:00",
+              "Note": " (su appuntm:) 11:00"
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "08:30",
+              "EndTime": "11:00",
+              "Note": " (su appuntm:)"
+            },
+            {
+              "StartTime": "18:00",
+              "EndTime": "19:30",
+              "Note": " (su appuntm:)"
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "15:30",
+              "EndTime": "17:30",
+              "Note": " (su appuntm:) 17:30"
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Via Giuseppe Garibaldi, 71, Desio MB",
-        "Note": "",
         "Latitude": "45.615446",
-        "Longitude": "9.206464"
+        "Longitude": "9.206464",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -48,9 +48,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Via Edoardo Ferravilla, 51, 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.616831",
-        "Longitude": "9.192888"
+        "Longitude": "9.192888",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -76,9 +76,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Via Carlo Forlanini, 71/A, 20033 Desio MB",
-        "Note": "",
         "Latitude": "45.613104",
-        "Longitude": "9.220602"
+        "Longitude": "9.220602",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -112,9 +112,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Piazza Conciliazione - Desio",
-        "Note": "",
         "Latitude": "45.617370",
-        "Longitude": "9.207582"
+        "Longitude": "9.207582",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -148,9 +148,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Corso Italia 49 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.618263",
-        "Longitude": "9.207437"
+        "Longitude": "9.207437",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -180,9 +180,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Via Lombardia, 6, 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.619940",
-        "Longitude": "9.210502"
+        "Longitude": "9.210502",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -208,9 +208,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Corso Lombardia 2, 20832 Desio",
-        "Note": "",
         "Latitude": "45.619933",
-        "Longitude": "9.210222"
+        "Longitude": "9.210222",
+        "Note": ""
       }
     ],
     "Contacts": []
@@ -236,9 +236,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Piazza Don Giussani, 13, 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.620856",
-        "Longitude": "9.210470"
+        "Longitude": "9.210470",
+        "Note": ""
       }
     ],
     "Contacts": []

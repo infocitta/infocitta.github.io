@@ -3,6 +3,8 @@
   "ID": "05bfc517-bbf0-458d-9d4a-f9c021454949",
   "Name": "Infanzia - Volturno",
   "Alias": "infanzia_-_volturno",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA VOLTURNO LISSONE",
-      "Note": "",
       "Latitude": "45.615025",
-      "Longitude": "9.237277"
+      "Longitude": "9.237277",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

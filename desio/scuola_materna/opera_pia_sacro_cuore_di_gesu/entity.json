@@ -3,6 +3,8 @@
   "ID": "69ceb0fa-51ee-4f46-8867-4b172a906239",
   "Name": "Opera Pia Sacro Cuore Di Gesu'",
   "Alias": "opera_pia_sacro_cuore_di_gesu",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DON MINZONI 1 DESIO",
-      "Note": "",
       "Latitude": "45.617205",
-      "Longitude": "9.195874"
+      "Longitude": "9.195874",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

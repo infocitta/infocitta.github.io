@@ -20,9 +20,9 @@
       {
         "Title": "Indirizzo",
         "Value": "Via Carlo Porta, 29, 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.611720",
-        "Longitude": "9.219372"
+        "Longitude": "9.219372",
+        "Note": ""
       }
     ],
     "Contacts": [
@@ -55,9 +55,9 @@
       {
         "Title": "Sportello Desio",
         "Value": "Piazza Don Giussani, 4 20832 Desio MB",
-        "Note": "",
         "Latitude": "45.620560",
-        "Longitude": "9.209659"
+        "Longitude": "9.209659",
+        "Note": ""
       }
     ],
     "Contacts": [

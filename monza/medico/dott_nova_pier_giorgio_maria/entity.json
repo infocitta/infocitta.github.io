@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "19d8d80f-a918-4d80-8111-3468cbf33c44",
+  "Name": "Dott. Nova Pier Giorgio Maria",
+  "Alias": "dott_nova_pier_giorgio_maria",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Spreafico, 7 MONZA   ",
+      "Latitude": "45.585190",
+      "Longitude": "9.268960",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento: ",
+      "Value": "- 338 3016980",
+      "Note": "- 19,30 - 20,00 telefonare il lunedì - martedì - mercoledì",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: telefonare dal lunedì al venerdì ",
+      "Value": "- 039 362028",
+      "Note": "- 6,30 - 8,30",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -1,0 +1,53 @@
+﻿{
+  "Version": 1,
+  "ID": "32a81a73-6065-47de-b6e9-c8e9bc8d57bb",
+  "Name": "Dott.ssa PALEARI MARINA",
+  "Alias": "dottssa_paleari_marina",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Brugherio",
+      "Alias": "brugherio"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Piazza IV Novembre, 12 BRUGHERIO",
+      "Latitude": "45.567610",
+      "Longitude": "9.304748",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2840983",
+      "Note": "7,00 - 10,00 (preferibilmente dalle 7,00 alle 8,00) ",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "039 2026005",
+      "Note": "8,30 - 11,30 e 16,00 - 19,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

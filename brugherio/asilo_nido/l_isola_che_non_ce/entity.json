@@ -3,6 +3,8 @@
   "ID": "97264874-060d-443b-8a99-b105a125c5f1",
   "Name": "L' ISOLA CHE NON C'E'",
   "Alias": "l_isola_che_non_ce",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIALE LOMBARDIA 266 BRUGHERIO",
-      "Note": "",
       "Latitude": "45.556228",
-      "Longitude": "9.299854"
+      "Longitude": "9.299854",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

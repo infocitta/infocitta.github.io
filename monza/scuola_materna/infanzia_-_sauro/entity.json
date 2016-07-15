@@ -3,6 +3,8 @@
   "ID": "d2f61600-5809-49ae-9129-b598578b4e65",
   "Name": "Infanzia - Sauro",
   "Alias": "infanzia_-_sauro",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAURO MONZA",
-      "Note": "",
       "Latitude": "45.559395",
-      "Longitude": "9.262999"
+      "Longitude": "9.262999",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

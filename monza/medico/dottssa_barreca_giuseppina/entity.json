@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "0e8fc3b4-062b-4bed-b0bd-98052ed01c20",
+  "Name": "Dott.ssa BARRECA GIUSEPPINA",
+  "Alias": "dottssa_barreca_giuseppina",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Niccolò Paganini, 33, 20900 Monza MB",
+      "Latitude": "45.598754",
+      "Longitude": "9.259201",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "347 9767546",
+      "Note": "9,30 - 10,30",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 360686",
+      "Note": "10,00 - 12,00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2497621",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "62840878-a80b-435f-8901-9f2b9c694495",
+  "Name": "Dott. ssa NOVELLA MAPELLI",
+  "Alias": "dott_ssa_novella_mapelli",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Limbiate",
+      "Alias": "limbiate"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "Via Monte Bianco, 5420812 - LIMBIATE",
+      "Latitude": "45.610641",
+      "Longitude": "9.121322",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per consigli:",
+      "Value": "331 9125735",
+      "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "Per appuntamento",
+      "Value": "02 9965419",
+      "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    },
+    {
+      "Title": "per visite a domicilio:",
+      "Value": "02 9965419",
+      "Note": "da lunedì a venerdì dalle ore 8.00 alle ore 10.00",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

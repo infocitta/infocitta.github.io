@@ -3,6 +3,8 @@
   "ID": "43fdefe4-bc24-4757-8a82-f79756cd7e86",
   "Name": "IL PICCOLO LORD SNC DI PARLATO DEBORAH POSENATO VALERIA",
   "Alias": "il_piccolo_lord_snc_di_parlato_deborah_posenato_valeria",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DANTE ALIGHIERI 45 LISSONE",
-      "Note": "",
       "Latitude": "45.611919",
-      "Longitude": "9.233996"
+      "Longitude": "9.233996",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

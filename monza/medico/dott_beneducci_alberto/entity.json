@@ -1,0 +1,59 @@
+﻿{
+  "Version": 1,
+  "ID": "fcccc1aa-013a-486a-872e-18c0b8241fb1",
+  "Name": "Dott. BENEDUCCI ALBERTO",
+  "Alias": "dott_beneducci_alberto",
+  "Note": "",
+  "Image": "",
+  "Level1": [
+    {
+      "Value": "Monza",
+      "Alias": "monza"
+    }
+  ],
+  "Level2": [
+    {
+      "Value": "Medico di famiglia",
+      "Alias": "medico"
+    }
+  ],
+  "Adresses": [
+    {
+      "Title": "Studio",
+      "Value": "- Via Quarnaro, 6 MONZA",
+      "Latitude": "45.578824",
+      "Longitude": "9.281988",
+      "Note": ""
+    }
+  ],
+  "Contacts": [
+    {
+      "Title": "per visite a domicilio: dal lunedì al venerdì",
+      "Value": "039 2494402",
+      "Note": "8,00 - 10,00",
+      "Type": 0
+    },
+    {
+      "Title": "per appuntamento: dal lunedì al venerdì",
+      "Value": "039 2060464 / 039 2022333",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    },
+    {
+      "Title": "per consigli: dal lunedì al venerdì",
+      "Value": "039 2060464 / 039 2022333",
+      "Note": "in orari di ambulatorio",
+      "Type": 0
+    }
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
+}

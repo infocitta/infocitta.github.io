@@ -3,6 +3,8 @@
   "ID": "56b19371-dc9c-45fa-ac64-4e97ea901e9b",
   "Name": "ASILO NIDO COMUNALE-HANS CHRISTIAN ANDERSEN",
   "Alias": "asilo_nido_comunale-hans_christian_andersen",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Brugherio",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA F. KENNEDY BRUGHERIO",
-      "Note": "",
       "Latitude": "45.548850",
-      "Longitude": "9.298275"
+      "Longitude": "9.298275",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

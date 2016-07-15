@@ -3,6 +3,8 @@
   "ID": "eb7df4b2-785d-4ef6-954a-8f03c1973f47",
   "Name": "PAPPA COCCOLE E BALOCCHI",
   "Alias": "pappa_coccole_e_balocchi",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Monza",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA ENRICO TOTI 36/A MONZA",
-      "Note": "",
       "Latitude": "45.590009",
-      "Longitude": "9.285392"
+      "Longitude": "9.285392",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

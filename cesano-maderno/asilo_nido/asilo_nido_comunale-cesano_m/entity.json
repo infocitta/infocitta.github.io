@@ -3,6 +3,8 @@
   "ID": "9e55f4e1-2824-4ece-b637-379595549b54",
   "Name": "ASILO NIDO COMUNALE-CESANO M",
   "Alias": "asilo_nido_comunale-cesano_m",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA SAN MARCO 18 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.629473",
-      "Longitude": "9.169839"
+      "Longitude": "9.169839",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

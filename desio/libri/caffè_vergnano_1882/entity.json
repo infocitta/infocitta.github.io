@@ -3,6 +3,8 @@
   "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0",
   "Name": "CAFFÈ VERGNANO 1882",
   "Alias": "caffè_vergnano_1882",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Desio",
@@ -27,10 +29,25 @@
     {
       "Title": "Indirizzo",
       "Value": "Corso Italia 49 20832 Desio MB",
-      "Note": "",
       "Latitude": "45.618263",
-      "Longitude": "9.207437"
+      "Longitude": "9.207437",
+      "Note": ""
     }
   ],
-  "Contacts": []
+  "Contacts": [],
+  "Calendar": [],
+  "Notes": [
+    {
+      "Title": "Note per vegani",
+      "Value": "Disponibile cappuccio vegetale e brioches vegana"
+    }
+  ],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

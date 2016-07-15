@@ -3,6 +3,8 @@
   "ID": "8d40b25e-d840-45eb-ab42-10b33ad4dcdb",
   "Name": "L'ISOLA CHE NON C'E'",
   "Alias": "lisola_che_non_ce",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "PIAZZA SAN CARLO 14 GIUSSANO",
-      "Note": "",
       "Latitude": "45.698206",
-      "Longitude": "9.209531"
+      "Longitude": "9.209531",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

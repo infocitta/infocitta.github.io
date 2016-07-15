@@ -3,6 +3,8 @@
   "ID": "55dc20ce-df22-40df-b7c6-8287292e0616",
   "Name": "ABC NURSERY",
   "Alias": "abc_nursery",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Cesano Maderno",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA REDIPUGLIA 12 CESANO MADERNO",
-      "Note": "",
       "Latitude": "45.622663",
-      "Longitude": "9.147774"
+      "Longitude": "9.147774",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

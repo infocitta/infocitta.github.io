@@ -3,6 +3,8 @@
   "ID": "29423e65-3b67-4769-9384-44f2ff97c2e4",
   "Name": "IL NIDO DI SIMONA",
   "Alias": "il_nido_di_simona",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Giussano",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA PIAVE 16 GIUSSANO",
-      "Note": "",
       "Latitude": "45.702249",
-      "Longitude": "9.205513"
+      "Longitude": "9.205513",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

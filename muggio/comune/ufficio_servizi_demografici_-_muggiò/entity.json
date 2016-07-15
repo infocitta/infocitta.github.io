@@ -3,6 +3,8 @@
   "ID": "b585ca91-8ee1-4a0d-92e9-f4740abb9a67",
   "Name": "Ufficio Servizi Demografici - Muggiò",
   "Alias": "ufficio_servizi_demografici_-_muggiò",
+  "Note": "",
+  "Image": "",
   "Level1": [
     {
       "Value": "Muggio'",
@@ -19,9 +21,9 @@
     {
       "Title": "PALAZZO ISIMBARDI",
       "Value": "Piazza Giacomo Matteotti, 5, 20835 Muggiò MB",
-      "Note": "",
       "Latitude": "45.593350",
-      "Longitude": "9.230000"
+      "Longitude": "9.230000",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -49,5 +51,88 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [
+    {
+      "Title": "Apertura Ufficio",
+      "Note": "",
+      "WeekDays": [
+        {
+          "WeekDay": 1,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 2,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            },
+            {
+              "StartTime": "14:30",
+              "EndTime": "18:00",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 3,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 4,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 5,
+          "Schedules": [
+            {
+              "StartTime": "09:00",
+              "EndTime": "12:30",
+              "Note": ""
+            }
+          ]
+        },
+        {
+          "WeekDay": 6,
+          "Schedules": [
+            {
+              "StartTime": "08:45",
+              "EndTime": "12:00",
+              "Note": ""
+            }
+          ]
+        }
+      ],
+      "Days": []
+    }
+  ],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

@@ -3,6 +3,8 @@
   "ID": "c57e3c00-e4c2-44d6-901c-9e524e8b6889",
   "Name": "Infanzia - G. Rodari",
   "Alias": "infanzia_-_g_rodari",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Nova Milanese",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA VENEZIA NOVA MILANESE",
-      "Note": "",
       "Latitude": "45.597101",
-      "Longitude": "9.197003"
+      "Longitude": "9.197003",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -31,5 +33,15 @@
       "Note": "",
       "Type": 0
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }

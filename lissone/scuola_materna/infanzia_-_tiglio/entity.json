@@ -3,6 +3,8 @@
   "ID": "b016e650-b3fa-4859-bb26-191510a9f24f",
   "Name": "Infanzia - Tiglio",
   "Alias": "infanzia_-_tiglio",
+  "Note": "OPENDATA Regione Lombardia",
+  "Image": "",
   "Level1": [
     {
       "Value": "Lissone",
@@ -19,9 +21,9 @@
     {
       "Title": "Indirizzo",
       "Value": "VIA DEL PIOPPO LISSONE",
-      "Note": "",
       "Latitude": "45.626741",
-      "Longitude": "9.240379"
+      "Longitude": "9.240379",
+      "Note": ""
     }
   ],
   "Contacts": [
@@ -37,5 +39,15 @@
       "Note": "",
       "Type": 1
     }
-  ]
+  ],
+  "Calendar": [],
+  "Notes": [],
+  "Google": {
+    "ID": "",
+    "Link": ""
+  },
+  "Facebook": {
+    "ID": "",
+    "Link": ""
+  }
 }
