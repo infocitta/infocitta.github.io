@@ -4,6 +4,8 @@
     "ID": "1be6174f-eb4f-4cc7-87df-24cb348644d1",
     "Name": "Infanzia - via Montessori",
     "Alias": "infanzia_-_via_montessori",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Bovisio Masciago",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f262c8f0-6889-43e5-a3cb-0eb273139f37",
     "Name": "Asilo Infantile Leopoldo Marangoni",
     "Alias": "asilo_infantile_leopoldo_marangoni",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Bovisio Masciago",
@@ -79,6 +93,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

@@ -4,6 +4,8 @@
     "ID": "03300c05-1f49-4096-ab70-99178cf2c4b5",
     "Name": "Collegio Bianconi",
     "Alias": "collegio_bianconi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "2534e989-85e6-4569-8d0d-6d4f87b418e5",
     "Name": "Infanzia - Cazzaniga",
     "Alias": "infanzia_-_cazzaniga",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "2cd597d9-cf81-4713-9ada-0343e938d634",
     "Name": "Congregazione Delle Missionarie Dell'immacolata",
     "Alias": "congregazione_delle_missionarie_dellimmacolata",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "330c0001-8020-4f7c-a2a4-b818a63b1366",
     "Name": "Istituto Sc. Compr. Paritario 'Preziosissimo Sangue' - Scuola Dell'infanzia G.Bruni",
     "Alias": "istituto_sc_compr_paritario_preziosissimo_sangue_-_scuola_dellinfanzia_gbruni",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "38bf7fdf-d715-42b8-b40e-a16afa7339d5",
     "Name": "Infanzia - Papini",
     "Alias": "infanzia_-_papini",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -196,13 +246,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "4f5d61f6-63bf-4cf5-b7cd-51a46a080e19",
     "Name": "Scuola Dell'infanzia Angelo Custode",
     "Alias": "scuola_dellinfanzia_angelo_custode",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -237,13 +299,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "71d16b07-2029-489a-bac8-cb42c21cd19d",
     "Name": "Scuola Dell'infanzia S. Luca",
     "Alias": "scuola_dellinfanzia_s_luca",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -278,13 +352,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "838b014f-4a00-46a4-bdc4-d30e14b999e4",
     "Name": "Infanzia - J.MirÃƒÂ²",
     "Alias": "infanzia_-_jmirãƒâ²",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -319,13 +405,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "867dff4b-3d2d-4713-afd6-5cb97a2414ee",
     "Name": "Scuola Paritaria Margherita Tonoli",
     "Alias": "scuola_paritaria_margherita_tonoli",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -360,13 +458,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "95da9ba7-3498-445b-b205-890142421d35",
     "Name": "Ente Morale Scuola Dell'infanzia 'Umberto I'",
     "Alias": "ente_morale_scuola_dellinfanzia_umberto_i",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -401,13 +511,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "9a213618-8286-4951-b8eb-cf5b128cea89",
     "Name": "Infanzia - Giotto",
     "Alias": "infanzia_-_giotto",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -442,13 +564,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "b988ff59-9368-47b3-b5be-0c592fc81047",
     "Name": "Scuola Materna Cuore Immacolato Di Maria",
     "Alias": "scuola_materna_cuore_immacolato_di_maria",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -483,13 +617,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "bbf2b764-33d0-4be2-aa3d-f7cdc57978f7",
     "Name": "Infanzia - Il Cartoccino",
     "Alias": "infanzia_-_il_cartoccino",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -518,13 +664,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c272d573-8bdc-4d43-99c6-dbad7ff2f727",
     "Name": "Scuola Materna Sacra Famiglia",
     "Alias": "scuola_materna_sacra_famiglia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -559,13 +717,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c3dadcca-359b-47b2-8372-d779eda7d9d7",
     "Name": "Scuola Dell'infanzia Parrocchia S. Carlo",
     "Alias": "scuola_dellinfanzia_parrocchia_s_carlo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -600,13 +770,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c74dfef4-c8b8-45d3-9b0b-d8adbac4a97f",
     "Name": "Infanzia - via Sauro",
     "Alias": "infanzia_-_via_sauro",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -641,13 +823,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c8135642-833c-4297-9efb-8efe7cb264d5",
     "Name": "Scuola Infanzia Bachelet",
     "Alias": "scuola_infanzia_bachelet",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -682,13 +876,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "cb239a08-3fd1-41cb-b283-252ce2781baa",
     "Name": "Scuola Dell'infanzia Maddalena Di Canossa",
     "Alias": "scuola_dellinfanzia_maddalena_di_canossa",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -723,13 +929,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "d2f61600-5809-49ae-9129-b598578b4e65",
     "Name": "Infanzia - Sauro",
     "Alias": "infanzia_-_sauro",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -764,13 +982,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "d5ee68e6-6262-4544-a919-05ea616537c5",
     "Name": "Parrocchia Regina Pacis Gestione Scuola Infanzia Paritaria",
     "Alias": "parrocchia_regina_pacis_gestione_scuola_infanzia_paritaria",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -805,13 +1035,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "df086ee8-a151-4426-9d70-791190ac8498",
     "Name": "Scuola Dell'infanzia S. Anna",
     "Alias": "scuola_dellinfanzia_s_anna",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -846,13 +1088,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "df720823-b409-4b7d-99e6-01fedd474f4c",
     "Name": "Scuola Dell'infanzia Parrocchiale San Rocco",
     "Alias": "scuola_dellinfanzia_parrocchiale_san_rocco",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -887,13 +1141,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "df836bdd-f428-4991-bab0-33fbe8ad5c3f",
     "Name": "Parrocchia San Biagio",
     "Alias": "parrocchia_san_biagio",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -928,13 +1194,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "e6956fd9-aff6-4cda-88a1-ef38b1426136",
     "Name": "SCUOLA Dell'infanzia San Luigi",
     "Alias": "scuola_dellinfanzia_san_luigi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -969,13 +1247,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ecf827eb-520a-4690-8c49-6e2a24a7ee70",
     "Name": "Scuola Dell'infanzia Paritaria S.Giuseppe",
     "Alias": "scuola_dellinfanzia_paritaria_sgiuseppe",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1010,13 +1300,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f442a570-b7fe-4ad5-94d8-c2d68032de13",
     "Name": "Fondazione Opere Educative",
     "Alias": "fondazione_opere_educative",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1051,13 +1353,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f5f1c7c3-96cb-42b9-972a-785853e8eeba",
     "Name": "Scuola Dell'infanzia Paritaria 'Padre Di Francia'",
     "Alias": "scuola_dellinfanzia_paritaria_padre_di_francia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1092,13 +1406,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "fe6a78ca-c86a-44b3-80c4-08f8f7733061",
     "Name": "Suore Francescane Missionarie Di Gesu' Bambino",
     "Alias": "suore_francescane_missionarie_di_gesu_bambino",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1133,6 +1459,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

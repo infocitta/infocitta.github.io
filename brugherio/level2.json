@@ -8,11 +8,11 @@
     "Alias": "asilo_nido"
   },
   {
-    "Value": "Mercati",
-    "Alias": "mercato"
-  },
-  {
     "Value": "Medico di famiglia",
     "Alias": "medico"
+  },
+  {
+    "Value": "Mercati",
+    "Alias": "mercato"
   }
 ]

@@ -4,6 +4,8 @@
     "ID": "5820ee76-0ef5-4b08-9201-9e50a70d1734",
     "Name": "Postazione con defibrillatore DAE - Lissone",
     "Alias": "postazione_con_defibrillatore_dae_-_lissone",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -53,6 +55,16 @@
         "Note": "Posizione approssimata"
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

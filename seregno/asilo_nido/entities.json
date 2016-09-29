@@ -4,6 +4,8 @@
     "ID": "06229738-7451-4317-9bcd-31da0c0f9938",
     "Name": "I CUCCIOLI DI ROBY",
     "Alias": "i_cuccioli_di_roby",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "1a30306c-d13f-48ec-9508-5dbbca4180ce",
     "Name": "BABYSCHOOL-1 2 3 STELLA",
     "Alias": "babyschool-1_2_3_stella",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "28451f7e-59e2-4f19-97e5-c3e8039c6ce2",
     "Name": "MARIA IMMACOLATA",
     "Alias": "maria_immacolata",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "40ca6e4f-2822-493a-befb-de269281a730",
     "Name": "THE CHILDREN'S ISLAND",
     "Alias": "the_childrens_island",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "50030f6e-c1db-45d8-b1cf-edbc1b2b1d3b",
     "Name": "ASILO NIDO AQUILONE",
     "Alias": "asilo_nido_aquilone",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "5641cf20-c105-475d-b2ef-d7bc6694fe34",
     "Name": "DOLCENIDO",
     "Alias": "dolcenido",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6b8b68e7-84be-4657-bc3c-9e3cbd414b29",
     "Name": "BETTY'S BABY CLUB",
     "Alias": "bettys_baby_club",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "792dd38d-545a-4e73-b004-98d791ffe0a7",
     "Name": "ASILO NIDO COMUNALE-SEREGNO",
     "Alias": "asilo_nido_comunale-seregno",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -325,13 +411,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "7a008bc8-f262-4951-bbd2-f7f8af85e495",
     "Name": "IL NIDO VERDE",
     "Alias": "il_nido_verde",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -366,13 +464,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "bab953b9-9d75-4d67-8e83-783ce4577af5",
     "Name": "LA CAROVANA",
     "Alias": "la_carovana",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -407,13 +517,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "cfd64544-04b1-4725-ab1a-694267b5ea77",
     "Name": "IL PAESE DEI BALOCCHI",
     "Alias": "il_paese_dei_balocchi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -448,13 +570,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "e9e002d9-72fe-4bec-83b8-d4f88ef5b7f7",
     "Name": "FANTASILANDIA",
     "Alias": "fantasilandia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -489,13 +623,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ea2a2e54-9f31-4ff4-97ef-a57d5422d7f1",
     "Name": "BABY COLLEGE",
     "Alias": "baby_college",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -530,6 +676,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

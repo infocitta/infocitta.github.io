@@ -4,6 +4,8 @@
     "ID": "82f8f80f-8b12-43d3-ab63-dd94d09133b7",
     "Name": "CESANO MADERNO - VILLAGGIO SNIA",
     "Alias": "cesano_maderno_-_villaggio_snia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -25,13 +27,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "13:00",
+                "EndTime": "17:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c8aa6279-eaed-436a-af54-8733824e17c3",
     "Name": "CESANO MADERNO - VIA MONCENISIO",
     "Alias": "cesano_maderno_-_via_moncenisio",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -53,13 +85,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "cb93b3fe-ca6c-486e-b270-f5dced8979e2",
     "Name": "CESANO MADERNO - CAPOLUOGO",
     "Alias": "cesano_maderno_-_capoluogo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -81,6 +143,34 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

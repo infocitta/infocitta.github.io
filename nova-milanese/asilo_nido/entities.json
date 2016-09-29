@@ -4,6 +4,8 @@
     "ID": "0799594b-b621-413b-a0e3-4e94d37f9d7c",
     "Name": "L'ARCA DI NOE'",
     "Alias": "larca_di_noe",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Nova Milanese",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "210d7db6-ccde-4b5f-8728-95f4e5c3a47c",
     "Name": "PICCOLI PASSI",
     "Alias": "piccoli_passi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Nova Milanese",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "84e5e175-8f35-444c-9c70-476eb4f09b4d",
     "Name": "ASILO NIDO COMUNALE POLLICINO",
     "Alias": "asilo_nido_comunale_pollicino",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Nova Milanese",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ab4390c6-f15c-4b6d-a02d-31c077e3a136",
     "Name": "HAPPY NIDO",
     "Alias": "happy_nido",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Nova Milanese",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c08c3141-154b-4034-aeba-74f7721dca97",
     "Name": "IL MONDO DEI BIMBI   2",
     "Alias": "il_mondo_dei_bimbi___2",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Nova Milanese",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "eefbffb9-2e95-40cd-9e6c-3aaa57688215",
     "Name": "I PUFFETTI",
     "Alias": "i_puffetti",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Nova Milanese",
@@ -243,6 +305,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

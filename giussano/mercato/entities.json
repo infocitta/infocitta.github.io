@@ -4,6 +4,8 @@
     "ID": "3bae0ab7-f2bf-40fa-9b01-5bfa960065dc",
     "Name": "GIUSSANO - PIAZZALE CATTANEO",
     "Alias": "giussano_-_piazzale_cattaneo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Giussano",
@@ -25,13 +27,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "05:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "bb42366c-ffbc-4e35-9ab4-f7b1dc1bad08",
     "Name": "GIUSSANO - VIA DEI CERTOSINI",
     "Alias": "giussano_-_via_dei_certosini",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Giussano",
@@ -53,13 +85,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "06:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "be959d93-c4fe-409a-932a-f5350e531193",
     "Name": "GIUSSANO - VIA LONGONI",
     "Alias": "giussano_-_via_longoni",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Giussano",
@@ -81,6 +143,34 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "06:30",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

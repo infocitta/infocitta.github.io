@@ -4,6 +4,8 @@
     "ID": "1c33f544-e83a-4dda-9274-00a106185030",
     "Name": "COCCOLANDIA",
     "Alias": "coccolandia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "40d8c04c-addf-4308-bb9b-950a51e65535",
     "Name": "ASSOCIAZIONE PETER PAN",
     "Alias": "associazione_peter_pan",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "43fdefe4-bc24-4757-8a82-f79756cd7e86",
     "Name": "IL PICCOLO LORD SNC DI PARLATO DEBORAH POSENATO VALERIA",
     "Alias": "il_piccolo_lord_snc_di_parlato_deborah_posenato_valeria",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "55102fd6-1932-4389-a16c-b86cc6254eb3",
     "Name": "OFFICINA DELLE FIABE",
     "Alias": "officina_delle_fiabe",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6157974e-5274-41e7-acf6-7e1a07b7d3fa",
     "Name": "CIUF CIUF",
     "Alias": "ciuf_ciuf",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "86b68154-52e3-4f52-b58f-587c31069859",
     "Name": "BIMBI & CO",
     "Alias": "bimbi_&_co",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "9424d6c8-a694-413c-8bc4-aa792d3073b5",
     "Name": "ASILO NIDO PICCOLO PRINCIPE",
     "Alias": "asilo_nido_piccolo_principe",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "9b8b52be-8a2a-4555-86ba-00057407be3f",
     "Name": "ASILO NIDO BILINGUE HAPPY CHILDREN",
     "Alias": "asilo_nido_bilingue_happy_children",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -325,13 +411,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ac9ab337-268f-4f50-9861-099441b615fa",
     "Name": "IL PIANETA DEI BAMBINI DI ADRIANA VIDUS ROSIN",
     "Alias": "il_pianeta_dei_bambini_di_adriana_vidus_rosin",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -366,6 +464,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

@@ -4,6 +4,8 @@
     "ID": "c2574571-ba8f-4a7d-97df-09de7a371c57",
     "Name": "Parrocchia San Giusepe S.M. Palo VI",
     "Alias": "parrocchia_san_giusepe_sm_palo_vi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Muggio'",
@@ -38,6 +40,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

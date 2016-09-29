@@ -4,6 +4,8 @@
     "ID": "0d87982a-8aa5-48f6-b5ea-2ce1a7a5044e",
     "Name": "LO SCARABOCCHIO",
     "Alias": "lo_scarabocchio",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Carate Brianza",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "3761a4c3-8fa9-401d-a774-7603ba518480",
     "Name": "ASILO NIDO COMUNALE  \"IL MIO PICCOLO NIDO \"",
     "Alias": "asilo_nido_comunale__il_mio_piccolo_nido_",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Carate Brianza",
@@ -79,6 +93,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

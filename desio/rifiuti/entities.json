@@ -4,6 +4,8 @@
     "ID": "41d56e21-2060-4018-864b-a78f9e439ed6",
     "Name": "Desio - Calendario ritiro verde",
     "Alias": "desio_-_calendario_ritiro_verde",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -17,13 +19,231 @@
       }
     ],
     "Adresses": [],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Ritiro Zona C",
+        "Note": "",
+        "WeekDays": [],
+        "Days": [
+          {
+            "Date": "2016-05-28T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-07-09T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-11-26T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-06-25T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-10-15T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-10-01T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-06-11T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-12-24T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-12-10T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-11-12T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-08-20T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-17T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-10-29T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-07-23T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-05-14T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-08-06T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-03T00:00:00",
+            "Schedules": []
+          }
+        ]
+      },
+      {
+        "Title": "Ritiro Zona A",
+        "Note": "",
+        "WeekDays": [],
+        "Days": [
+          {
+            "Date": "2016-10-13T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-05-12T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-15T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-06-09T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-07-07T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-11-10T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-01T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-08-18T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-12-22T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-05-26T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-29T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-11-24T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-10-27T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-08-04T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-06-23T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-07-21T00:00:00",
+            "Schedules": []
+          }
+        ]
+      },
+      {
+        "Title": "Ritiro Zona B",
+        "Note": "",
+        "WeekDays": [],
+        "Days": [
+          {
+            "Date": "2016-11-25T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-05-13T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-10-28T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-05-27T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-02T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-16T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-12-23T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-10-14T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-12-09T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-06-24T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-11-11T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-09-30T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-06-10T00:00:00",
+            "Schedules": []
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "51c10197-6999-45c9-b08a-df4eeed6c60f",
     "Name": "Raccolta Rifiuti",
     "Alias": "raccolta_rifiuti",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -50,13 +270,53 @@
         "Note": "Cosa differenziare",
         "Type": 2
       }
-    ]
+    ],
+    "Calendar": [
+      {
+        "Title": "Giorni senza raccolta rifiuti",
+        "Note": "",
+        "WeekDays": [],
+        "Days": [
+          {
+            "Date": "2016-05-01T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-12-25T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-04-25T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-08-15T00:00:00",
+            "Schedules": []
+          },
+          {
+            "Date": "2016-01-01T00:00:00",
+            "Schedules": []
+          }
+        ]
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263",
     "Name": "Piattaforma Ecologica",
     "Alias": "piattaforma_ecologica",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -91,6 +351,99 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [
+      {
+        "Title": "Apertura",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": "UTENZE DOMESTICHE"
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": "UTENZE DOMESTICHE"
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": "UTENZE COMMERCIALI"
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": "UTENZE COMMERCIALI"
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": "UTENZE DOMESTICHE"
+              },
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": "UTENZE DOMESTICHE"
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "17:30",
+                "Note": "UTENZE COMMERCIALI"
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": "UTENZE COMMERCIALI"
+              }
+            ]
+          },
+          {
+            "WeekDay": 6,
+            "Schedules": [
+              {
+                "StartTime": "14:30",
+                "EndTime": "18:30",
+                "Note": "UTENZE DOMESTICHE"
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": "UTENZE DOMESTICHE"
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

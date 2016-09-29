@@ -4,6 +4,8 @@
     "ID": "325b8d23-2cc9-4ec9-bd9f-f70f13104418",
     "Name": "ASILO NIDO COMUNALE",
     "Alias": "asilo_nido_comunale",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Muggio'",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "871f0ced-b7cd-4512-9d9b-bc3655272423",
     "Name": "IL MONDO DEI BIMBI",
     "Alias": "il_mondo_dei_bimbi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Muggio'",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f658bc16-1ec6-4f98-8653-b360898aac34",
     "Name": "ASILO NIDO ZUCCHERO FILATO",
     "Alias": "asilo_nido_zucchero_filato",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Muggio'",
@@ -120,6 +146,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

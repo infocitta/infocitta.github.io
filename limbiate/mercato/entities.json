@@ -4,6 +4,8 @@
     "ID": "0230948c-5793-48c5-9374-0479e3c05dc5",
     "Name": "LIMBIATE - PIAZZA WALTER TOBAGI",
     "Alias": "limbiate_-_piazza_walter_tobagi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -25,13 +27,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "07:30",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "3d49b644-d577-4b94-9098-ab32fee9da64",
     "Name": "LIMBIATE - PIAZZA XI SETTEMBRE",
     "Alias": "limbiate_-_piazza_xi_settembre",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -53,13 +85,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 6,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "5eb12367-89ad-4950-853b-85df68181066",
     "Name": "LIMBIATE - PIAZZA A. MORO",
     "Alias": "limbiate_-_piazza_a_moro",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -81,6 +143,34 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

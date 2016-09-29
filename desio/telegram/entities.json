@@ -4,6 +4,8 @@
     "ID": "3f46d8c0-d89c-4871-a898-1f776e1d4c8e",
     "Name": "Telegram Desio",
     "Alias": "telegram_desio",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -30,6 +32,16 @@
         "Note": "",
         "Type": 2
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

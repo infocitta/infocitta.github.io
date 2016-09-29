@@ -4,6 +4,8 @@
     "ID": "419e4eef-5846-4c80-80e8-a2dd10c907fc",
     "Name": "Infanzia - Donizzetti",
     "Alias": "infanzia_-_donizzetti",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Varedo",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "61c79ff1-ed6d-44d9-ae59-51cff946b7a8",
     "Name": "Infanzia - Andersen",
     "Alias": "infanzia_-_andersen",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Varedo",
@@ -79,6 +93,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

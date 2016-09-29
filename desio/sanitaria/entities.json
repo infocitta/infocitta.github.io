@@ -4,6 +4,8 @@
     "ID": "31a0c21d-019c-4ca8-ba22-b2ab77968d77",
     "Name": "MB - Guardia Medica",
     "Alias": "mb_-_guardia_medica",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -95,13 +97,25 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f6650da8-41ad-4bc7-bd4d-8b55f05d9f71",
     "Name": "Postazione con defibrillatore DAE - Desio",
     "Alias": "postazione_con_defibrillatore_dae_-_desio",
+    "Note": "Opendata Comune di Desio",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -284,6 +298,16 @@
         "Note": "Posizione approssimata"
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

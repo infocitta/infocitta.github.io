@@ -4,6 +4,8 @@
     "ID": "1cac3127-869f-46e3-9256-2b6c0eb1042b",
     "Name": "LISSONE - P.ZZA DEGLI UMILIATI",
     "Alias": "lissone_-_pzza_degli_umiliati",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -25,13 +27,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "5a6667b3-34c7-407e-91cf-c000059df8b7",
     "Name": "LISSONE - VIA PASCOLI",
     "Alias": "lissone_-_via_pascoli",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -53,13 +85,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6a712745-f0d6-44e3-aec3-32158023ca04",
     "Name": "LISSONE - PIAZZA CADUTI DI VIA FANI",
     "Alias": "lissone_-_piazza_caduti_di_via_fani",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -81,13 +143,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 6,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "89b87ba8-73bc-4d4f-8aa9-af4e278cdae8",
     "Name": "LISSONE - PIAZZA DON DARIO CAMPORELLI (FRAZIONE SANTA MARGHERITA)",
     "Alias": "lissone_-_piazza_don_dario_camporelli_(frazione_santa_margherita)",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Lissone",
@@ -109,6 +201,34 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "14:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

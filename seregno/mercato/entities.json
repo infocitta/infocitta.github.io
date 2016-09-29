@@ -4,6 +4,8 @@
     "ID": "31a50d65-2a81-4a0c-a74a-18f055411874",
     "Name": "SEREGNO - PIAZZA LINATE",
     "Alias": "seregno_-_piazza_linate",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -25,13 +27,43 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 6,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "16:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ccc134cf-1bc8-422a-b365-602cf6af51b9",
     "Name": "SEREGNO - VIA SILVA",
     "Alias": "seregno_-_via_silva",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -53,6 +85,34 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "13:00",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

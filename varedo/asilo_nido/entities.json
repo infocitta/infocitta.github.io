@@ -4,6 +4,8 @@
     "ID": "153804cb-b67b-497b-8ed3-e45e7b0a88ea",
     "Name": "IL NIDO DI WENDY",
     "Alias": "il_nido_di_wendy",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Varedo",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "4de8fa24-2993-450e-9111-76dbfe760d3a",
     "Name": "ASILO NIDO COMUNALE ARCOBALENO",
     "Alias": "asilo_nido_comunale_arcobaleno",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Varedo",
@@ -79,6 +93,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

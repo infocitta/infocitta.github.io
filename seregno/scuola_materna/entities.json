@@ -4,6 +4,8 @@
     "ID": "12219845-207f-4187-a03f-adee4b2f6579",
     "Name": "Scuola Materna Ronzoni Silva",
     "Alias": "scuola_materna_ronzoni_silva",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "26844610-6524-4db6-b69b-a1eb1a58daf8",
     "Name": "Scuola Dell'infanzia Maria Immacolata",
     "Alias": "scuola_dellinfanzia_maria_immacolata",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "32e192a0-edfd-47b6-9d97-eda30571967f",
     "Name": "Scuola Dell'infanzia Ottolina Silva",
     "Alias": "scuola_dellinfanzia_ottolina_silva",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "3e18b8bf-83b3-4055-a3e8-b528b648ca87",
     "Name": "Infanzia - Nobili",
     "Alias": "infanzia_-_nobili",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "645022a6-df90-4671-bae2-27140916a11f",
     "Name": "Scuola Materna Ottavio Cabiati",
     "Alias": "scuola_materna_ottavio_cabiati",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "67c2eaae-b072-40fe-ab27-c2943fdbf1fe",
     "Name": "Scuola Meterna Romeo E Gianna Mariani",
     "Alias": "scuola_meterna_romeo_e_gianna_mariani",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "a2dfd8f1-915c-4e29-a0b1-5646932d83f7",
     "Name": "Scuola Dell'infanzia San Carlo",
     "Alias": "scuola_dellinfanzia_san_carlo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ce975fae-cf22-4b62-b0a1-56d08672b6f9",
     "Name": "Scuola Materna Candia",
     "Alias": "scuola_materna_candia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -325,13 +411,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "d2372387-6483-4500-b29c-c7e74b239db4",
     "Name": "Scuola Materna Santino Denova",
     "Alias": "scuola_materna_santino_denova",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -366,13 +464,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "fdab0a06-7209-46b3-be91-7b2a9e7788b2",
     "Name": "Infanzia - Rodari",
     "Alias": "infanzia_-_rodari",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Seregno",
@@ -407,6 +517,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

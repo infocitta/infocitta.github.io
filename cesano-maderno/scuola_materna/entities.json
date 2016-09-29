@@ -4,6 +4,8 @@
     "ID": "022fdac6-811d-4da7-95ed-96e8d329b8b2",
     "Name": "Opera Pia Scuola Dell'infanzia Giuliana Ronzoni",
     "Alias": "opera_pia_scuola_dellinfanzia_giuliana_ronzoni",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "7d2d0c4e-4086-4532-9831-49d3e242d52a",
     "Name": "Infanzia - L. Calastri",
     "Alias": "infanzia_-_l_calastri",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -73,13 +87,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "91781cd4-503d-42d3-ad1e-b78d47aa8aff",
     "Name": "Scuola Dell'infanzia Paritaria Parrocchiale Sant'anna",
     "Alias": "scuola_dellinfanzia_paritaria_parrocchiale_santanna",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -114,13 +140,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "95a7d9b7-1627-4fc5-839a-6021b345a446",
     "Name": "Scuola Dell'infanzia Sant'eurosia",
     "Alias": "scuola_dellinfanzia_santeurosia",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -155,13 +193,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "a97ed849-32f1-4eed-a8de-01b377161d13",
     "Name": "Infanzia - Montessori",
     "Alias": "infanzia_-_montessori",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -190,13 +240,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f27fdb16-366e-4aa4-b37e-cf0b9df684a7",
     "Name": "Scuola Dell'infanzia Paritaria S. Pio X",
     "Alias": "scuola_dellinfanzia_paritaria_s_pio_x",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -231,6 +293,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

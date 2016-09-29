@@ -4,6 +4,8 @@
     "ID": "201eaf76-d6e3-4bbb-a5ec-6d8602484945",
     "Name": "PASSI DI BIMBI",
     "Alias": "passi_di_bimbi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "45ae2262-48a4-4c69-bd25-44bd47816e69",
     "Name": "RONZONIDO",
     "Alias": "ronzonido",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "55dc20ce-df22-40df-b7c6-8287292e0616",
     "Name": "ABC NURSERY",
     "Alias": "abc_nursery",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6d30fd80-de65-4d69-acc1-7078e9f14f29",
     "Name": "IL BOSCO DELLE MERAVIGLIE",
     "Alias": "il_bosco_delle_meraviglie",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "951c0c80-56e8-4b0c-a093-00b624d259d2",
     "Name": "ASILO NIDO 1,2,3 STELLA BABY SCHOOL",
     "Alias": "asilo_nido_1-2-3_stella_baby_school",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "9e55f4e1-2824-4ece-b637-379595549b54",
     "Name": "ASILO NIDO COMUNALE-CESANO M",
     "Alias": "asilo_nido_comunale-cesano_m",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "de704fd2-6cd0-4243-a30f-7f72c4c834d8",
     "Name": "L'ISOLA DEI BIMBI",
     "Alias": "lisola_dei_bimbi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ffe04c4d-f30b-4f7f-869d-208e034eebaf",
     "Name": "VOGLIA DI COCCOLE",
     "Alias": "voglia_di_coccole",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Cesano Maderno",
@@ -325,6 +411,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

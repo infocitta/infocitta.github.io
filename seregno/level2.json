@@ -1,5 +1,9 @@
 ﻿[
   {
+    "Value": "Medico di famiglia",
+    "Alias": "medico"
+  },
+  {
     "Value": "Asilo nido",
     "Alias": "asilo_nido"
   },
@@ -10,9 +14,5 @@
   {
     "Value": "Mercati",
     "Alias": "mercato"
-  },
-  {
-    "Value": "Medico di famiglia",
-    "Alias": "medico"
   }
 ]

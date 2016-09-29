@@ -4,6 +4,8 @@
     "ID": "af35a445-e717-4099-9c7e-b47f245f1ee8",
     "Name": "VAREDO - VIA REBUZZINI",
     "Alias": "varedo_-_via_rebuzzini",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Varedo",
@@ -25,6 +27,34 @@
         "Note": ""
       }
     ],
-    "Contacts": []
+    "Contacts": [],
+    "Calendar": [
+      {
+        "Title": "Orario",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:00",
+                "EndTime": "13:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

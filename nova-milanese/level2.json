@@ -1,5 +1,9 @@
 ﻿[
   {
+    "Value": "Medico di famiglia",
+    "Alias": "medico"
+  },
+  {
     "Value": "Asilo nido",
     "Alias": "asilo_nido"
   },
@@ -10,10 +14,6 @@
   {
     "Value": "Scuola materna",
     "Alias": "scuola_materna"
-  },
-  {
-    "Value": "Medico di famiglia",
-    "Alias": "medico"
   },
   {
     "Value": "Pediatra",

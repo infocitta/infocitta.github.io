@@ -4,6 +4,8 @@
     "ID": "326e4fdf-b274-4c67-9341-3ee5d83cc432",
     "Name": "Infanzia - Bruno Munari",
     "Alias": "infanzia_-_bruno_munari",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -32,13 +34,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "53e33de8-224f-4996-8376-cd9a8adc7e7f",
     "Name": "Infanzia - Marco Polo",
     "Alias": "infanzia_-_marco_polo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -67,13 +81,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "58265cb8-156f-4937-b7cc-07982da4e42b",
     "Name": "Fondazione Scuola Dell'infanzia Regina Margherita",
     "Alias": "fondazione_scuola_dellinfanzia_regina_margherita",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -108,13 +134,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "8f58d32a-074b-4305-bc51-ee1db049657f",
     "Name": "Infanzia - Don Zeno",
     "Alias": "infanzia_-_don_zeno",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -143,13 +181,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "b3036a96-ccc1-4918-82f0-d405f4167191",
     "Name": "Scuola Materna Autorizzata 'Felice Solaro'",
     "Alias": "scuola_materna_autorizzata_felice_solaro",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -184,13 +234,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "d5b1d476-4e1a-48d1-b5bc-c4f7bea677d1",
     "Name": "Infanzia - Collodi",
     "Alias": "infanzia_-_collodi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -219,13 +281,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "e4dba54f-8671-434c-aa9e-fa91ab76928d",
     "Name": "Infanzia - Don Lorenzo Milani",
     "Alias": "infanzia_-_don_lorenzo_milani",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -254,13 +328,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "feb8de48-ff43-4599-9916-2829395e56f0",
     "Name": "Infanzia - Madre Teresa di Calcutta",
     "Alias": "infanzia_-_madre_teresa_di_calcutta",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Limbiate",
@@ -289,6 +375,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

@@ -4,6 +4,8 @@
     "ID": "2f0852b8-ba6e-48d3-9f91-fee7428e41f8",
     "Name": "Scuola Dell'infanzia San Vincenzo",
     "Alias": "scuola_dellinfanzia_san_vincenzo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "3ec53c87-f120-47b5-88ce-97e9bc66aba0",
     "Name": "Scuola Materna Umberto I",
     "Alias": "scuola_materna_umberto_i",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6045afef-b9a3-446f-ab57-f8911c75648d",
     "Name": "Infanzia - Dolomiti",
     "Alias": "infanzia_-_dolomiti",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "69ceb0fa-51ee-4f46-8867-4b172a906239",
     "Name": "Opera Pia Sacro Cuore Di Gesu'",
     "Alias": "opera_pia_sacro_cuore_di_gesu",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "7fb02ce2-7d58-4f37-8fd9-cdb7392a615e",
     "Name": "Scuola Dell'infanzia 'San Giorgio'",
     "Alias": "scuola_dellinfanzia_san_giorgio",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "94f4a78a-5827-4a05-8af4-9ed219c1f3a9",
     "Name": "Scuola Dell'infanzia Paritaria San Giuseppe",
     "Alias": "scuola_dellinfanzia_paritaria_san_giuseppe",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "cb10965a-0627-4954-bf68-d19fc542edf0",
     "Name": "Scuola Materna San Teresa",
     "Alias": "scuola_materna_san_teresa",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "e5d5e51f-63cc-4fa1-9908-3bb56d76cf21",
     "Name": "Scuola Dell'infanzia Collegio Pio Xi",
     "Alias": "scuola_dellinfanzia_collegio_pio_xi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -325,13 +411,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ef2be077-b3f8-46d1-859a-6b70b0db47cb",
     "Name": "Infanzia - Santa Maria",
     "Alias": "infanzia_-_santa_maria",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -366,6 +464,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

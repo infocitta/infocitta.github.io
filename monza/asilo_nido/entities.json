@@ -4,6 +4,8 @@
     "ID": "108e7926-3a11-411b-986d-cb3416d474d7",
     "Name": "BEEâ€¦HAPPY!",
     "Alias": "beeâ€¦happy!",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "156bfdc5-fd28-415a-a4d6-f40c50c0d56a",
     "Name": "IL PIANETA DEI BAMBINI",
     "Alias": "il_pianeta_dei_bambini",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "16232bab-a2b1-43e6-b28d-e98603e34cbb",
     "Name": "L'ARCOBALENO",
     "Alias": "larcobaleno",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "1785d2d1-7187-4113-b479-5a19b3eda890",
     "Name": "NIDO SAN BIAGIO",
     "Alias": "nido_san_biagio",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "185913d7-1b90-4845-b9ee-780dec583d0d",
     "Name": "ASILO NIDO CAZZANIGA",
     "Alias": "asilo_nido_cazzaniga",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "22b1c765-297d-437c-a946-3ccb4ddfbe1f",
     "Name": "LE MARGHERITINE",
     "Alias": "le_margheritine",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "35df0392-dd75-4493-bb77-c4bb46eeb097",
     "Name": "MARY POPPINS-VIA EDISON",
     "Alias": "mary_poppins-via_edison",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "36cef1cb-c40f-4c0b-b7d8-f9e053667b4b",
     "Name": "ASILO NIDO SAN DONATO",
     "Alias": "asilo_nido_san_donato",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -325,13 +411,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "37a50972-adc8-4522-9812-50f4e38ec707",
     "Name": "BIMBURRA'",
     "Alias": "bimburra",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -366,13 +464,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "384fd4f0-03e2-417a-b2f6-c236d4ea923c",
     "Name": "IL BOSCO DELLE MERAVIGLIE MONZA",
     "Alias": "il_bosco_delle_meraviglie_monza",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -401,13 +511,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "3c6bf16d-6d6a-476a-9837-b6621fe2c8d3",
     "Name": "CLUB DEGLI ALVEARI",
     "Alias": "club_degli_alveari",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -442,13 +564,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "448ce5b3-2fdf-45ca-b9e2-96ba188c9250",
     "Name": "PICCOLE STELLE",
     "Alias": "piccole_stelle",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -483,13 +617,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "4a92c25e-69da-4fd8-8b9d-39d25b715f41",
     "Name": "COLLEGIO VILLORESI SAN GIUSEPPE",
     "Alias": "collegio_villoresi_san_giuseppe",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -524,13 +670,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "579f7f47-4800-4859-b1d9-a1b62252d9a4",
     "Name": "EFFEPI DI EFFEPI SRL",
     "Alias": "effepi_di_effepi_srl",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -565,13 +723,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "66ec960e-6e85-48c3-870b-848fbd91876f",
     "Name": "COLLEGIO DELLA GUASTALLA",
     "Alias": "collegio_della_guastalla",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -606,13 +776,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6724b648-dbe5-4042-9e0a-04e989cda674",
     "Name": "I CUCCIOLI",
     "Alias": "i_cuccioli",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -647,13 +829,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "68924258-bf0c-4ddc-b691-549fcefff46e",
     "Name": "ASILO NIDO LIBERTA'",
     "Alias": "asilo_nido_liberta",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -688,13 +882,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "6d215b91-1aeb-461f-a0b9-15648351a143",
     "Name": "ASILO NIDO SAN FRUTTUOSO",
     "Alias": "asilo_nido_san_fruttuoso",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -729,13 +935,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "7f311c02-a9db-4709-a6d0-6d69c95b7b5a",
     "Name": "LE CILIEGINE",
     "Alias": "le_ciliegine",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -770,13 +988,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "85474f17-e279-4fc3-9f9f-1b44d5171243",
     "Name": "L'ARCA DI CICCIO PASTICCIO",
     "Alias": "larca_di_ciccio_pasticcio",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -811,13 +1041,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "8622477e-4c28-4beb-8fc2-b9368973773b",
     "Name": "BUM BUM",
     "Alias": "bum_bum",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -852,13 +1094,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "86eb8c83-1cea-49b3-97f5-946097ea0008",
     "Name": "COLORE PASTELLO",
     "Alias": "colore_pastello",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -893,13 +1147,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "97cf488b-c367-4327-9f27-3ea85930edd9",
     "Name": "IL GIARDINO SEGRETO",
     "Alias": "il_giardino_segreto",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -934,13 +1200,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "9ceb0649-2c35-4045-8184-afd5f447c1ca",
     "Name": "ASILO NIDO MARAMEO",
     "Alias": "asilo_nido_marameo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -975,13 +1253,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "aab3b0f1-4c91-4724-a9d1-f01f12c04cf4",
     "Name": "L'ALBERO DELLE NOCCIOLE",
     "Alias": "lalbero_delle_nocciole",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1016,13 +1306,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "b2a4d6cc-7bd4-49f6-988d-5a8ca5539f5d",
     "Name": "LILO NIDO",
     "Alias": "lilo_nido",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1057,13 +1359,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "b97ad016-be43-4828-9406-effd33771b32",
     "Name": "BIDIBIBODIBIBU'",
     "Alias": "bidibibodibibu",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1098,13 +1412,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ba761eee-76d9-4a02-b890-50176307fba7",
     "Name": "DRILLY E COCCO AMICI DI SAN ROCCO",
     "Alias": "drilly_e_cocco_amici_di_san_rocco",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1139,13 +1465,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c9584272-dc9c-4f25-8daa-02a98558d9f5",
     "Name": "BIMBIINSIEME",
     "Alias": "bimbiinsieme",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1180,13 +1518,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "ce1f180b-33a8-440d-b3d0-a8ffdf98970e",
     "Name": "ASILO NIDO CEDERNA",
     "Alias": "asilo_nido_cederna",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1221,13 +1571,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "dada585c-5f7a-42df-946f-155749282eb8",
     "Name": "ASILO NIDO SAN ROCCO",
     "Alias": "asilo_nido_san_rocco",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1262,13 +1624,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "dd5082f9-1d68-45fa-b898-9e845c3321dd",
     "Name": "SPAZIO BIMBO",
     "Alias": "spazio_bimbo",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1303,13 +1677,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "e7cea3be-472b-40e2-ba56-b4aa5b3248cc",
     "Name": "IL MESTIERE DI CRESCERE",
     "Alias": "il_mestiere_di_crescere",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1344,13 +1730,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "eb7df4b2-785d-4ef6-954a-8f03c1973f47",
     "Name": "PAPPA COCCOLE E BALOCCHI",
     "Alias": "pappa_coccole_e_balocchi",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1385,13 +1783,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f0a8da83-d24f-41ce-84f3-76d1d5239e98",
     "Name": "ASILO NIDO CENTRO",
     "Alias": "asilo_nido_centro",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1426,13 +1836,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f61757ca-179c-4e00-86e1-2fbf47b3ee62",
     "Name": "ASILO NIDO TRIANTE",
     "Alias": "asilo_nido_triante",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Monza",
@@ -1467,6 +1889,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

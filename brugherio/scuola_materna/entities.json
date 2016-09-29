@@ -4,6 +4,8 @@
     "ID": "0f6c5bf3-1214-4189-b037-f24d915f4a37",
     "Name": "Infanzia - Grimm",
     "Alias": "infanzia_-_grimm",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Brugherio",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "2e160a2c-aab8-47f6-9d16-5520ba9e207a",
     "Name": "IC Don Camagni",
     "Alias": "ic_don_camagni",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Brugherio",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "4f0f5bb7-e274-4ea4-a2cd-8bd8d519388f",
     "Name": "Asilo Inf. Umberto I E Margherita",
     "Alias": "asilo_inf_umberto_i_e_margherita",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Brugherio",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "c29f2fb5-880a-4a4f-93cc-247a9bb86bc8",
     "Name": "Infanzia - Pavan",
     "Alias": "infanzia_-_pavan",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Brugherio",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "dedd4bc0-70e6-4e28-8338-395e1e98f77a",
     "Name": "Scuola Materna Maria Ausiliatrice",
     "Alias": "scuola_materna_maria_ausiliatrice",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Brugherio",
@@ -202,6 +252,16 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

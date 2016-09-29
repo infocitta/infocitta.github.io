@@ -8,8 +8,16 @@
     "Alias": "libri"
   },
   {
+    "Value": "Pediatra",
+    "Alias": "pediatra"
+  },
+  {
     "Value": "Asilo nido",
     "Alias": "asilo_nido"
+  },
+  {
+    "Value": "Medico di famiglia",
+    "Alias": "medico"
   },
   {
     "Value": "Prodotti per vegani",
@@ -50,13 +58,5 @@
   {
     "Value": "~ Comune",
     "Alias": "comune"
-  },
-  {
-    "Value": "Pediatra",
-    "Alias": "pediatra"
-  },
-  {
-    "Value": "Medico di famiglia",
-    "Alias": "medico"
   }
 ]

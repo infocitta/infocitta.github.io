@@ -4,6 +4,8 @@
     "ID": "1d9a1913-3421-4e6a-9c0c-37da353fc380",
     "Name": "IL NIDO DELLA CICOGNA",
     "Alias": "il_nido_della_cicogna",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -38,13 +40,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "31cf85d2-bfe2-4248-b20e-cdbffd687730",
     "Name": "SCUOLA MATERNA PARITARIA S. TERESA",
     "Alias": "scuola_materna_paritaria_s_teresa",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -79,13 +93,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
     "Name": "IL PAESE DELLE MERAVIGLIE",
     "Alias": "il_paese_delle_meraviglie",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -120,13 +146,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a",
     "Name": "ASILO NIDO COMUNALE VIA ADAMELLO",
     "Alias": "asilo_nido_comunale_via_adamello",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -161,13 +199,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "97f44b30-c706-4534-9329-24248bfcd692",
     "Name": "PICCOLE CANAGLIE",
     "Alias": "piccole_canaglie",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -202,13 +252,25 @@
         "Note": "",
         "Type": 1
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32",
     "Name": "LA VISPA TERESA",
     "Alias": "la_vispa_teresa",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -243,13 +305,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "bd611481-6689-4707-a471-40092a2a9afc",
     "Name": "ASILO NIDO COMUNALE VIA DIAZ",
     "Alias": "asilo_nido_comunale_via_diaz",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -284,13 +358,25 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "f09554bd-723f-429d-93ab-49baae348c92",
     "Name": "PICCOLI SEGRETI",
     "Alias": "piccoli_segreti",
+    "Note": "OPENDATA Regione Lombardia",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -325,6 +411,16 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]

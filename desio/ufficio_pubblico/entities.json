@@ -4,6 +4,8 @@
     "ID": "516a0914-4e8c-4338-b7cd-0de5309b052c",
     "Name": "Agenzia delle Entrate Desio",
     "Alias": "agenzia_delle_entrate_desio",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -32,13 +34,93 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [
+      {
+        "Title": "Orario di apertura al pubblico",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              },
+              {
+                "StartTime": "13:45",
+                "EndTime": "15:45",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "13:45",
+                "EndTime": "15:45",
+                "Note": ""
+              },
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 5,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   },
   {
     "Version": 1,
     "ID": "5749b4d6-3e1c-4e67-a965-0ac88cd7346c",
     "Name": "BrianzAcque",
     "Alias": "brianzacque",
+    "Note": "",
+    "Image": "",
     "Level1": [
       {
         "Value": "Desio",
@@ -73,6 +155,64 @@
         "Note": "",
         "Type": 0
       }
-    ]
+    ],
+    "Calendar": [
+      {
+        "Title": "Apertura Sportello Desio",
+        "Note": "",
+        "WeekDays": [
+          {
+            "WeekDay": 1,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 2,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 3,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          },
+          {
+            "WeekDay": 4,
+            "Schedules": [
+              {
+                "StartTime": "08:30",
+                "EndTime": "12:30",
+                "Note": ""
+              }
+            ]
+          }
+        ],
+        "Days": []
+      }
+    ],
+    "Notes": [],
+    "Google": {
+      "ID": "",
+      "Link": ""
+    },
+    "Facebook": {
+      "ID": "",
+      "Link": ""
+    }
   }
 ]
