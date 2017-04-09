@@ -1,45 +1,41 @@
 <!DOCTYPE html>
 <html ng-app="myApp">
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:url" content="https://www.infocitta.info" />
-<meta property="og:type" content="website" /><meta property="og:title" content="InfoCittà" />
+<!-- meta og -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:url" content="https://infocitta.github.io/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="InfoCittà" />
 <meta property="og:description" content="Tutte le informazioni della tua città sempre a portata di mano" />
-<meta property="og:image" content="https://www.infocitta.info/logo.png" />
+<meta property="og:image" content="https://raw.githubusercontent.com/infocitta/infocitta.github.io/master/logo.png" />
 <meta name="keywords" content="infocitta,informazioni" />
-<meta name="description" content="Le informazioni della tua città  in un unico posto" />
-<link rel="shortcut icon" href="logo_notext.png" type="image/png" />
-<link rel="icon" href="logo_notext.png" type="image/png" />
+<meta name="description" content="Le informazioni della tua città  in un unico posto" />
+<meta property="fb:app_id" content="591996370950973" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
+<link rel="shortcut icon" href="logo_notext.png" type="image/png" />
+<link rel="icon" href="logo_notext.png" type="image/png" />
+<!-- riferimenti remoti -->
+<!-- jquery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
+<!-- bootstrap -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-
-<script type="text/javascript" src="//cdn.jsdelivr.net/cookie-bar/1/cookiebar-latest.min.js"></script>		
+<!-- cookie -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/cookie-bar/1/cookiebar-latest.min.js"></script>
+<!-- angular -->
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
-
+<!-- riferimenti locali -->
 <link rel="stylesheet" href="style.css" />
 <script src="script.js"></script>
 <script src="dirPagination.js"></script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-75341091-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
+<!-- titolo -->
 <title>InfoCittà</title>  
 </head>
 
 <body>
+<!-- facebook -->
 <div id="fb-root"></div>
 <script>(function (d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
@@ -48,50 +44,64 @@
     js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.5&appId=591996370950973";
     fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
- 
+<!-- fine fb -->
 <div class="container">
-	
+<!-- menu -->
 <nav class="navbar navbar-inverse">
 	<div class="container-fluid">
-	<div class="navbar-header">
-	<a class="navbar-brand" href="#">InfoCittà</a>
-	</div>
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#">InfoCittà</a>
+		</div>
 	<ul class="nav navbar-nav">
-	<li class="active"><a href="#">Home</a></li>
-	<li><a href="https://telegram.me/InfoCittaBot">BOT Telegram (beta)</a></li>
-	<li><a href="https://github.com/infocitta/infocitta.github.io/wiki" target="_blank">Leggimi</a></li>
+		<li class="active"><a href="#">Home</a></li>
+		<li><a href="https://telegram.me/InfoCittaBot">BOT Telegram (beta)</a></li>
+		<li><a href="https://github.com/infocitta/infocitta.github.io/wiki" target="_blank">Leggimi</a></li>
 	</ul>
 	<ul class="nav navbar-nav navbar-right">
-	<form style="padding-top: 13px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-	<input type="hidden" name="cmd" value="_s-xclick">
-	<input type="hidden" name="hosted_button_id" value="C3JEBSSYR4GBQ">
-	<input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal è il metodo rapido e sicuro per pagare e farsi pagare online.">
-	<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
-	</form>                       
+		<form style="padding-top: 13px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+			<input type="hidden" name="cmd" value="_s-xclick">
+			<input type="hidden" name="hosted_button_id" value="C3JEBSSYR4GBQ">
+			<input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal è il metodo rapido e sicuro per pagare e farsi pagare online.">
+			<img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+			</form>                       
 	</ul>
 	</div>
 </nav>
-
-<div class="page-header" style="margin-top: 5px;margin-bottom: 5px;">
-	<img class="img-responsive" src="logo_small.png" style="float: left;height:80px;width:80px;vertical-align: text-top;"/>
-	<h1>InfoCittà</h1>
-	<p>Le informazioni della tua città  in un unico posto</p>
-	<div class="fb-like" data-href="https://www.infocitta.info" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
-	</div>
-</div>
+<!-- fine menu -->
+            <div class="page-header" style="margin-top: 5px;margin-bottom: 5px;">
+                <img class="img-responsive" src="logo_small.png" style="float: left;height:80px;width:80px;vertical-align: text-top;"/>
+           <h1>InfoCittà</h1>
+                <p>Le informazioni della tua città  in un unico posto</p>
+                  <div class="fb-like" data-href="https://infocitta.info" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            </div>
+        </div>
 
 
 <div class="container">
 
 
         <div ng-controller="MyController" class="my-controller">
-          <div class="row">
-            <div class="col-xs-8">
+         
+            <div>
               <label for="search">Ricerca:</label>
               <input ng-model="q" id="search" class="form-control" placeholder="Testo ricerca">
             </div>
+          <div>
+              <label for="search">Ricerca con Goole:</label>
+			<script>
+			  (function() {
+			    var cx = '003995625191502533657:pfc7merqg3k';
+			    var gcse = document.createElement('script');
+			    gcse.type = 'text/javascript';
+			    gcse.async = true;
+			    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			    var s = document.getElementsByTagName('script')[0];
+			    s.parentNode.insertBefore(gcse, s);
+			  })();
+			</script>
+<gcse:search></gcse:search>              
+            </div>
 
-          </div>
           <br>
 
 <div class="list-group">
@@ -115,29 +125,7 @@
 </div>  
  <div ng-include="'clausola.html'"></div>
  <div ng-include="'firma.html'"></div>
-<script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "Person",
-  "name" : "Paolo Fisco",
-  "url" : "https://www.infocitta.info/",
-  "sameAs" : [
-    "https://www.facebook.com/ipersoft",
-    "https://twitter.com/ipersoft",
-    "https://www.linkedin.com/in/paolofisco"
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context" : "http://schema.org",
-  "@type" : "WebSite",
-  "name" : "InfoCittà",
-  "alternateName" : "Paolo Fisco",
-  "url" : "https://www.infocitta.info/"
-}
-</script>  
+  
 </body>
 
 </html>
