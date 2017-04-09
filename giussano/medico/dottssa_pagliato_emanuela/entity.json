@@ -55,8 +55,8 @@
           "WeekDay": 1,
           "Schedules": [
             {
-              "StartTime": "10:30",
-              "EndTime": "12:30",
+              "StartTime": "10:00",
+              "EndTime": "13:00",
               "Note": ""
             }
           ]
@@ -66,7 +66,7 @@
           "Schedules": [
             {
               "StartTime": "15:00",
-              "EndTime": "17:00",
+              "EndTime": "18:00",
               "Note": ""
             }
           ]
@@ -75,8 +75,8 @@
           "WeekDay": 3,
           "Schedules": [
             {
-              "StartTime": "10:30",
-              "EndTime": "12:30",
+              "StartTime": "10:00",
+              "EndTime": "13:00",
               "Note": ""
             }
           ]
@@ -85,8 +85,8 @@
           "WeekDay": 4,
           "Schedules": [
             {
-              "StartTime": "10:30",
-              "EndTime": "12:30",
+              "StartTime": "10:00",
+              "EndTime": "13:00",
               "Note": ""
             }
           ]
@@ -95,8 +95,8 @@
           "WeekDay": 5,
           "Schedules": [
             {
-              "StartTime": "15:00",
-              "EndTime": "17:00",
+              "StartTime": "16:00",
+              "EndTime": "19:00",
               "Note": ""
             }
           ]
