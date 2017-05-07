@@ -5,7 +5,7 @@ var myApp = angular.module('myApp', ['angularUtils.directives.dirPagination']);
 function MyController($scope, $http) {
 
   $scope.currentPage = 1;
-  $scope.pageSize = 20;
+  $scope.pageSize = 25;
   $scope.items = [];
  $http.get("level2.json")
     .then(function(response) {
